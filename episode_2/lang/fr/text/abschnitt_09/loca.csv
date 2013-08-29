@@ -1,0 +1,213 @@
+characters_ermittler;Ermittler
+characters_junge_frau;Junge Frau
+characters_kapitaen;Kapitaen
+characters_ohi;Ohi
+characters_schriftstellerin;Schriftstellerin
+characters_wachmann;Wachmann
+texts_ermittler_top_a09_ermittler_der_brief_tseq_title;The letter
+spokentexts_ermittler_top_a09_ermittler_der_brief_tseq_st_1;What about the handwriting, the wording... does the farewell letter match the Raven's other letters?
+spokentexts_ermittler_top_a09_ermittler_der_brief_tseq_st_2;Yes. It's his handwriting, his words.
+spokentexts_ermittler_top_a09_ermittler_der_brief_tseq_st_4;I've read all the Raven's letters. All of them. Over and over again.
+spokentexts_ermittler_top_a09_ermittler_der_brief_tseq_st_3;I never thought it was possible. A resurrected Raven...
+sequences_ermittler_top_a09_ermittler_der_brief_tseq#3;[The investigator looks at Ohi.]
+spokentexts_ermittler_top_a09_ermittler_der_brief_tseq_st_6;The Raven was never dead. I shot the wrong man.
+spokentexts_ermittler_top_a09_ermittler_der_brief_tseq_st_5;But that man had the stolen goods, didn't he? So he must have been in league with the Raven. One could hardly call him ''innocent''.
+sequences_ermittler_top_a09_ermittler_der_brief_tseq#6;[The investigator looks back to the sea.]
+texts_ermittler_top_a09_ermittler_doktor_gebhardt_tseq_title;Dr. Gebhardt
+spokentexts_ermittler_top_a09_ermittler_doktor_gebhardt_tseq_st_1;You think that Dr. Gebhardt was really the Raven?
+spokentexts_ermittler_top_a09_ermittler_doktor_gebhardt_tseq_st_2;The things Gebhardt describes in his letter aren't part of any police report. Only someone who was there would know them.
+spokentexts_ermittler_top_a09_ermittler_doktor_gebhardt_tseq_st_3;Couldn't there have been others involved? One of the police, for instance? What if one of them changed sides?
+spokentexts_ermittler_top_a09_ermittler_doktor_gebhardt_tseq_st_4;"Why is it so hard for you to accept the simple truth? There was never a ""new"" Raven. There was only ever the old one. And that was Dr. Gebhardt."
+spokentexts_ermittler_top_a09_ermittler_doktor_gebhardt_tseq_st_5;The modus operandi doesn't match. The Raven was not a killer.
+sequences_ermittler_top_a09_ermittler_doktor_gebhardt_tseq#5;[The investigator looks at Ohi.]
+spokentexts_ermittler_top_a09_ermittler_doktor_gebhardt_tseq_st_6;Legends are rarely what they seem to be, Constable Zellner.
+sequences_ermittler_top_a09_ermittler_doktor_gebhardt_tseq#8;[The investigator looks back to the sea.]
+texts_ermittler_top_a09_ermittler_schuss_antwort1_tseq_title;The shot was a distraction
+spokentexts_ermittler_top_a09_ermittler_schuss_antwort1_tseq_st_1;The gunshot was just a distraction.
+spokentexts_ermittler_top_a09_ermittler_schuss_antwort1_tseq_st_2;It wasn't the shot that killed the baroness.
+spokentexts_ermittler_top_a09_ermittler_schuss_antwort1_tseq_st_3;But how...
+texts_ermittler_top_a09_ermittler_schuss_antwort2_tseq_title;The shot came from the tape
+spokentexts_ermittler_top_a09_ermittler_schuss_antwort2_tseq_st_1;The shot that we heard was a recording.
+spokentexts_ermittler_top_a09_ermittler_schuss_antwort2_tseq_st_2;The baroness had a tape recorder and good speakers in her cabin. Good enough to make a noise audible on the upper deck.
+spokentexts_ermittler_top_a09_ermittler_schuss_antwort2_tseq_st_3;Is that just your suspicion, or do you have proof?
+texts_ermittler_top_a09_ermittler_schuss_antwort3_tseq_title;But it was still him
+spokentexts_ermittler_top_a09_ermittler_schuss_antwort3_tseq_st_1_direction;pleasurable
+spokentexts_ermittler_top_a09_ermittler_schuss_antwort3_tseq_st_1;And yet, he really was the killer.
+spokentexts_ermittler_top_a09_ermittler_schuss_antwort3_tseq_st_2_direction;threatening
+spokentexts_ermittler_top_a09_ermittler_schuss_antwort3_tseq_st_2;You're enjoying this a bit too much for my taste.
+spokentexts_ermittler_top_a09_ermittler_schuss_antwort3_tseq_st_3_direction;slightly threatening
+spokentexts_ermittler_top_a09_ermittler_schuss_antwort3_tseq_st_3;Spit it out. My patience is running thin.
+texts_ermittler_top_a09_ermittler_schuss_beweise_antwort1_tseq_title;No. But it was possible!
+spokentexts_ermittler_top_a09_ermittler_schuss_beweise_antwort1_tseq_st_1;I don't have proof. But that's how he could have done it!
+spokentexts_ermittler_top_a09_ermittler_schuss_beweise_antwort1_tseq_st_2;Could! Anything COULD have happened!
+spokentexts_ermittler_top_a09_ermittler_schuss_beweise_antwort1_tseq_st_3;Don't be like that, Inspector!
+spokentexts_ermittler_top_a09_ermittler_schuss_beweise_antwort1_tseq_st_4_direction;must pull hiself up
+spokentexts_ermittler_top_a09_ermittler_schuss_beweise_antwort1_tseq_st_4;Hrrmm.
+texts_ermittler_top_a09_ermittler_schuss_beweise_antwort2_tseq_title;Audiotape in the medical facility
+spokentexts_ermittler_top_a09_ermittler_schuss_beweise_antwort2_tseq_st_1;There's an audiotape in the medical centre. The reel belongs to the tape player in the baroness' cabin. And there's a Seibling reel in her cabin that belongs to the recorder in the medical centre.
+spokentexts_ermittler_top_a09_ermittler_schuss_beweise_antwort2_tseq_st_2;Hmm.
+spokentexts_ermittler_top_a09_ermittler_schuss_beweise_antwort2_tseq_st_3;If you check the tape in the medical centre, you'll find a recording of a gunshot on it.
+spokentexts_ermittler_top_a09_ermittler_schuss_beweise_antwort2_tseq_st_4;For the sake of argument, let's assume that's true. Where did Gebhardt get a recording of a gunshot?
+spokentexts_ermittler_top_a09_ermittler_schuss_beweise_antwort2_tseq_st_5;After a few minutes there's a loud bang on the audiotape. That's our gunshot.
+spokentexts_ermittler_top_a09_ermittler_schuss_beweise_antwort2_tseq_st_6;Where did Gebhardt get it from?
+spokentexts_ermittler_top_a09_ermittler_schuss_beweise_antwort2_tseq_st_7;He recorded it in the cargo hold. His tape recorder has a microphone and I removed a bullet from one of the boxes down there.
+spokentexts_ermittler_top_a09_ermittler_schuss_beweise_antwort2_tseq_st_8;And it came from the murder weapon?
+spokentexts_ermittler_top_a09_ermittler_schuss_beweise_antwort2_tseq_st_9;Yes, I compared it to the other bullet in the inspector's cabin.
+spokentexts_ermittler_top_a09_ermittler_schuss_beweise_antwort2_tseq_st_10_direction;Angry
+spokentexts_ermittler_top_a09_ermittler_schuss_beweise_antwort2_tseq_st_10;Of course you did.
+spokentexts_ermittler_top_a09_ermittler_schuss_beweise_antwort2_tseq_st_11;At least, that's my assumption.
+spokentexts_ermittler_top_a09_ermittler_schuss_beweise_antwort2_tseq_st_12_direction;cheeky
+spokentexts_ermittler_top_a09_ermittler_schuss_beweise_antwort2_tseq_st_12;"""There can't be many Luger 08 pistols on board,"" right, Inspector Legrand?"
+texts_ermittler_top_a09_ermittler_toter_tseq_title;The dead man
+spokentexts_ermittler_top_a09_ermittler_toter_tseq_st_1;Then who was the man who was killed back then?
+spokentexts_ermittler_top_a09_ermittler_toter_tseq_st_2;William Jackson. A petty thief. Committed some burglaries together with his brother. Talented, but not world-class.
+spokentexts_ermittler_top_a09_ermittler_toter_tseq_st_3;And they thought he was the Raven?
+spokentexts_ermittler_top_a09_ermittler_toter_tseq_st_4;Some people thought it was part of his disguise. If you're a debonair master thief, what better disguise than pretending to be a common crook?
+spokentexts_ermittler_top_a09_ermittler_toter_tseq_st_5;From time to time you let them catch you pulling small jobs and no one ever imagines you're capable of a major heist.
+spokentexts_ermittler_top_a09_ermittler_toter_tseq_st_6;But you didn't believe it?
+spokentexts_ermittler_top_a09_ermittler_toter_tseq_st_7;I had my doubts. But everyone congratulated me and those doubts were pushed aside. It was like being caught in a storm.
+spokentexts_ermittler_top_a09_ermittler_toter_tseq_st_8;But eventually the storm passed and my doubts were still there.
+spokentexts_ermittler_top_a09_ermittler_toter_tseq_st_9;But not this time? No doubts telling you that Gebhardt isn't our man?
+spokentexts_ermittler_top_a09_ermittler_toter_tseq_st_10_direction;unyielding
+spokentexts_ermittler_top_a09_ermittler_toter_tseq_st_10;It must be him.
+texts_ermittler_top_a09_ermittler_verabschieden_tseq_title;Say goodbye
+spokentexts_ermittler_top_a09_ermittler_verabschieden_tseq_st_1;Where do we go from here?
+sequences_ermittler_top_a09_ermittler_verabschieden_tseq#1;[The investigator looks at Ohi.]
+spokentexts_ermittler_top_a09_ermittler_verabschieden_tseq_st_2;We deliver the Eye and then I'll contact Paris. A taskforce will compare all of Gebhardt's known residences with the Raven's activity.
+spokentexts_ermittler_top_a09_ermittler_verabschieden_tseq_st_3;And if there are any inconsistencies?
+spokentexts_ermittler_top_a09_ermittler_verabschieden_tseq_st_4;You're welcome to keep an eye on the safe if you can't let it go.
+spokentexts_ermittler_top_a09_ermittler_verabschieden_tseq_st_5;The ship will remain in Cairo for one day. That's all the time you'll have to catch your own Raven. I already have mine.
+sequences_ermittler_top_a09_ermittler_verabschieden_tseq#6;[Ohi nods and goes. The camera goes to Legrand's face, who looks at Ohi serious and thoughtful after. Somehow he makes himself suspicious with that look.]
+sequences_ermittler_top_a09_ermittler_verabschieden_tseq#7;[END OF SECTION.]
+texts_kapitaen_top_a09_ermittler_motiv_antwort1_tseq_title;It was about the Eye of the Sphinx
+spokentexts_kapitaen_top_a09_ermittler_motiv_antwort1_tseq_st_1;It had to do with the Eye of the Sphinx. The baroness was supposed to bring one of the keys to Cairo.
+spokentexts_kapitaen_top_a09_ermittler_motiv_antwort1_tseq_st_2;So Dr. Gebhardt was the Raven?
+spokentexts_kapitaen_top_a09_ermittler_motiv_antwort1_tseq_st_3;I don't think so - but perhaps he was working with him.
+texts_kapitaen_top_a09_ermittler_motiv_antwort2_tseq_title;She blackmailed the doctor
+spokentexts_kapitaen_top_a09_ermittler_motiv_antwort2_tseq_st_1;The baroness was blackmailing Dr. Gebhardt.
+spokentexts_kapitaen_top_a09_ermittler_motiv_antwort2_tseq_st_2;What's your reasoning?
+spokentexts_kapitaen_top_a09_ermittler_motiv_antwort2_tseq_st_3;Isn't blackmail always a good motive?
+spokentexts_kapitaen_top_a09_ermittler_motiv_antwort2_tseq_st_4;It's worthless without proof.
+texts_kapitaen_top_a09_ermittler_motiv_antwort3_tseq_title;I can only speculate...
+spokentexts_kapitaen_top_a09_ermittler_motiv_antwort3_tseq_st_1;I can only speculate.
+spokentexts_kapitaen_top_a09_ermittler_motiv_antwort3_tseq_st_2;The baroness spent the day rummaging through her old family photos.
+spokentexts_kapitaen_top_a09_ermittler_motiv_antwort3_tseq_st_3;And in her diary she wrote about deceased family members.
+spokentexts_kapitaen_top_a09_ermittler_motiv_antwort3_tseq_st_4;I suspect it had something to do with their fates during the war.
+spokentexts_kapitaen_top_a09_ermittler_motiv_antwort3_tseq_st_5;The baroness wrote a warning on her notepad - there is a murderer on board.
+spokentexts_kapitaen_top_a09_ermittler_motiv_antwort3_tseq_st_6;I don't have proof.
+spokentexts_kapitaen_top_a09_ermittler_motiv_antwort3_tseq_st_7;But I believe that the baroness held Dr. Gebhardt responsible for the deaths of her relatives and wanted to confront him in front of all of us.
+spokentexts_kapitaen_top_a09_ermittler_motiv_antwort3_tseq_st_8;The doctor couldn't allow that to happen, and so he silenced her.
+texts_schriftstellerin_top_a09_ermittler_erschossen_antwort1_tseq_title;She wasn't shot, she was poisoned
+spokentexts_schriftstellerin_top_a09_ermittler_erschossen_antwort1_tseq_st_1;She wasn't shot - she was poisoned!
+spokentexts_schriftstellerin_top_a09_ermittler_erschossen_antwort1_tseq_st_2;...and yet I saw the hole in her chest with my own eyes.
+spokentexts_schriftstellerin_top_a09_ermittler_erschossen_antwort1_tseq_st_3_direction;laughs
+spokentexts_schriftstellerin_top_a09_ermittler_erschossen_antwort1_tseq_st_3;Ha ha!
+spokentexts_schriftstellerin_top_a09_ermittler_erschossen_antwort1_tseq_st_4;She must have been shot.
+spokentexts_schriftstellerin_top_a09_ermittler_erschossen_antwort1_tseq_st_5;Well then, genius - where was she shot?
+texts_schriftstellerin_top_a09_ermittler_erschossen_antwort2_tseq_title;The doctor in the medical facility
+spokentexts_schriftstellerin_top_a09_ermittler_erschossen_antwort2_tseq_st_1_direction;embarrassed
+spokentexts_schriftstellerin_top_a09_ermittler_erschossen_antwort2_tseq_st_1;Then... It was the doctor, of course.
+spokentexts_schriftstellerin_top_a09_ermittler_erschossen_antwort2_tseq_st_2;As I already said, it was Doctor Gebhardt.
+spokentexts_schriftstellerin_top_a09_ermittler_erschossen_antwort2_tseq_st_3;He had the sleeping baroness brought to the medical center where he had all the time in the world to shoot her.
+spokentexts_schriftstellerin_top_a09_ermittler_erschossen_antwort2_tseq_st_4;A fine theory, but, unfortunately, incorrect. I examined the baroness before she was taken away. She had a bullet wound in her chest.
+spokentexts_schriftstellerin_top_a09_ermittler_erschossen_antwort2_tseq_st_5;Besides which, she was already cold when we brought her to the medical centre.
+spokentexts_schriftstellerin_top_a09_ermittler_erschossen_antwort2_tseq_st_6;All the same, it's worth considering the possibility...
+texts_schriftstellerin_top_a09_ermittler_erschossen_antwort3_tseq_title;The doctor in the cabin
+spokentexts_schriftstellerin_top_a09_ermittler_erschossen_antwort3_tseq_st_3;He shot the sleeping baroness in her cabin. Barely ten meters away from us.
+spokentexts_schriftstellerin_top_a09_ermittler_erschossen_antwort3_tseq_st_4_direction;stunned
+spokentexts_schriftstellerin_top_a09_ermittler_erschossen_antwort3_tseq_st_4;What are you saying?
+sequences_a09_hinterdeck_seq_a09_hinterdeck_gespraech_anfang#0;[The investigator stands at the railing, looking over the sea. Ohi comes quickly out of the salon, then slowed his pace. He is unsure how to proceed.]
+spokentexts_a09_hinterdeck_seq_a09_hinterdeck_gespraech_anfang_st_1;Inspector?
+spokentexts_a09_hinterdeck_seq_a09_hinterdeck_gespraech_anfang_st_2;I was right.
+spokentexts_a09_hinterdeck_seq_a09_hinterdeck_gespraech_anfang_st_3;I told them all. Over and over again. But no one would listen.
+sequences_a09_hinterdeck_seq_a09_hinterdeck_gespraech_anfang#4;[Ohi stands next to the investigator at the railing, looking at him. The investigator looks  to the sea.]
+sequences_a09_salon_seq_a09_salon_anfang#0;[Fade in. We see the salon in nice sunlight. Ohi lies on a couch, has a towel over his head. Around him is the investigator and the captain.]
+sequences_a09_salon_seq_a09_salon_anfang#1;[In the background, the writer is sitting in her wheelchair. The young woman is also present and seems concerned.]
+sequences_a09_salon_seq_a09_salon_anfang#2;"[Ohi lies there like dead with a towel over his head (idle). The player should just think ""is he dead?"". Ohi takes the towel and holds it up for the captain.]"
+spokentexts_a09_salon_seq_a09_salon_anfang_st_1;Thanks.
+spokentexts_a09_salon_seq_a09_salon_anfang_st_2;A wet towel works miracles! I told you so!
+sequences_a09_salon_seq_a09_salon_anfang#5;[The captain takes the towel, putts it away. Ohi brings himself into a talk-position (idle).]
+spokentexts_a09_salon_seq_a09_salon_anfang_st_3;Out with it, then - what were you doing down there?
+spokentexts_a09_salon_seq_a09_salon_anfang_st_4;Inspector! At least let the constable recover his breath!
+sequences_a09_salon_seq_a09_salon_anfang#8;[The investigator whirls aggressive.]
+spokentexts_a09_salon_seq_a09_salon_anfang_st_5_direction;harsh
+spokentexts_a09_salon_seq_a09_salon_anfang_st_5;He almost killed himself!
+spokentexts_a09_salon_seq_a09_salon_anfang_st_6_direction;loud, energetic
+spokentexts_a09_salon_seq_a09_salon_anfang_st_6;Me?! No.
+sequences_a09_salon_seq_a09_salon_anfang#11;[The investigator turns back.]
+spokentexts_a09_salon_seq_a09_salon_anfang_st_7;Dr. Gebhardt would have taken care of that for me. Where is he?
+spokentexts_a09_salon_seq_a09_salon_anfang_st_8;Gebhardt?
+spokentexts_a09_salon_seq_a09_salon_anfang_st_9;He's vanished without a trace. We're searching the ship from top to bottom.
+spokentexts_a09_salon_seq_a09_salon_anfang_st_10_direction;impatient, pulls himself up
+spokentexts_a09_salon_seq_a09_salon_anfang_st_10;One at a time. Tell me, Zellner. What did you find out?
+spokentexts_a09_salon_seq_a09_salon_anfang_st_11;Dr. Gebhardt killed Baroness von Trebitz.
+spokentexts_a09_salon_seq_a09_salon_anfang_st_12_direction;indignantly
+spokentexts_a09_salon_seq_a09_salon_anfang_st_12;Impossible!
+spokentexts_a09_salon_seq_a09_salon_anfang_st_13;Do you have proof?
+spokentexts_a09_salon_seq_a09_salon_anfang_st_14_direction;aggressive
+spokentexts_a09_salon_seq_a09_salon_anfang_st_14;Besides the fact that he wanted to kill me?
+spokentexts_a09_salon_seq_a09_salon_anfang_st_15;But wasn't the doctor with you when the shot was fired?
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil1_ende_st_1_direction;pulls himself up
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil1_ende_st_1;All right.
+sequences_a09_salon_seq_a09_salon_verhoer_teil1_ende#1;[The door of the salon opens fast, the guard enters. He has an envelope in his hand.]
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil1_ende_st_2_direction;except breathing, excited
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil1_ende_st_2;Inspector Legrand!
+sequences_a09_salon_seq_a09_salon_verhoer_teil1_ende#3;[The investigator brings him with a gesture to silence. The guard wants to say something familiar, but did not. He stands with the letter in his hand, waiting for his chance.]
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil1_ende_st_3_direction;pulls himself up
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil1_ende_st_3;Let's pretend you're on to something. The shot we heard was just a recording. What happened next?
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil1_ende_st_4;We all ran to the baroness' cabin.
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil1_ende_st_5;She lay comatose in a pool of blood. Doctor Gebhardt pushed past you so that you couldn't get too close to the baroness.
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil1_ende_st_6;He examined her and pronounced her dead. There was no reason for us to doubt him! The shot, the blood, the baroness lying there lifelessly...
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil1_ende_st_7;But she was only unconscious... Knocked out by the chloral hydrate that the doctor had poured into her glass shortly before.
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil1_ende_st_8;The doctor had a glass in his hand when you came in!
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil1_ende_st_9;He wanted to remove the evidence. But you gave me the glass instead, Captain di Conti, and unintentionally knocked me out as well.
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil1_ende_st_10;Nonsense! There was blood everywhere! And the baroness is certainly dead enough, isn't she?
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil1_ende_st_11;Then WHO did shoot her and WHEN?
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil2_ende_st_1_direction;thoughtfully
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil2_ende_st_1;The doctor was alone in the cabin for a while. When the alarm went off, it was deafening - I couldn't even hear myself...
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil2_ende_st_2;And I found a pillow with burn marks. Could have been used to muffle a gunshot.
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil2_ende_st_3;And the blood?
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil2_ende_st_4;The blood wasn't real. Dr. Gebhardt mixed up a liquid that looked like fresh blood to the casual observer.
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil2_ende_st_5;But the liquid remained red instead of becoming darker and browner from exposure to the air. That meant he had to clean the body and get rid of the bedding.
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil2_ende_st_6;But the blood was already there when we first entered the cabin!
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil2_ende_st_7;Dr. Gebhardt was in the baroness' cabin before the murder. He hid a surgical glove full of the red liquid under her sheet.
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil2_ende_st_8;"The baroness, dead-tired, fell onto her bed, the glove burst and the ""blood"" spread across the bed. I found the burst glove in the medical center."
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil2_ende_st_9;But... Why did he do it? What was his motive?
+sequences_a09_salon_seq_a09_salon_verhoer_teil2_ende#9;[The guard tries to intervene and re-emphasizes the letter.]
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil2_ende_st_10_direction;jostling
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil2_ende_st_10;Inspector!
+sequences_a09_salon_seq_a09_salon_verhoer_teil2_ende#11;[The inspector takes the letter, but did not look into it. He focuses on Ohi. The guard tries to draw the attention of the investigator at the letter, but gives up then.]
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_1_direction;it bursts out of him
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_1;No, no, no!
+sequences_a09_salon_seq_a09_salon_verhoer_teil3_ende#1;[All presents people stare at the guard.]
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_2;Do you have anything to contribute, Constable?
+sequences_a09_salon_seq_a09_salon_verhoer_teil3_ende#3;[The guard points to the letter.]
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_3;Uh, c-confession, sir.
+sequences_a09_salon_seq_a09_salon_verhoer_teil3_ende#5;[The investigator stares at the letter in his hand as he would notice it just now. He folded it up and reads it.]
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_4;Doctor Gebhardt WAS the Raven!
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_5;It's all here. He admits to everything.
+spokentexts__seq_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_6;What does it say?
+spokentexts__seq_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_7;It says:
+spokentexts__seq_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_8_direction;reads
+spokentexts__seq_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_8;"""Do you still remember, my dear Nico? The streets were wet with rain and the scent of roasted barley and fermenting yeast wafted over to us from the brewery."""
+spokentexts__seq_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_9_direction;reads
+spokentexts__seq_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_9;"""A dog barked until your shot struck down the innocent one. After that - silence. Not a single sound, except for my soft steps fading on the wet cobblestone street."""
+sequences_a09_salon_seq_a09_salon_verhoer_teil3_ende#12;[The author and Ohio are looking concerned to each other.]
+spokentexts__seq_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_10_direction;reads
+spokentexts__seq_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_10;"""They made a hero of you and I, at last, found peace... At least, until the urge returned. Some of us are not made for retirement, my friend."""
+spokentexts__seq_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_11_direction;reads
+spokentexts__seq_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_11;"""I thought they would assign this case to you, and that thought pleased me. We'd finally find out who was truly the better man."""
+spokentexts__seq_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_12_direction;reads
+spokentexts__seq_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_12;"""And it pains me now to have to admit that you and your little gumshoe got the better of me. You drove me into a corner. Forced me to make mistakes."""
+spokentexts__seq_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_13_direction;reads
+spokentexts__seq_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_13;"""I congratulate you on your triumph. But no one will confine the Raven to a cage."""
+spokentexts__seq_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_14_direction;reads
+spokentexts__seq_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_14;"""There is but one way out, and that is by my own hand."""
+spokentexts__seq_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_15_direction;reads
+spokentexts__seq_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_15;"""Farewell, Raven Hunter."""
+spokentexts__seq_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_16_direction;reads
+spokentexts__seq_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_16;"""R."""
+sequences_a09_salon_seq_a09_salon_verhoer_teil3_ende#20;[The investigator lets the letter down, he's like petrified. Then he pushes the guard the letter on his chest and goes fast toward the rear deck from the Saloon.]
+sequences_a09_salon_seq_a09_salon_verhoer_teil3_ende#21;[The guard is irritated, wants to call back Legrand, but stops then.]
+spokentexts__seq_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_17;Inspector Legrand!
+sequences_a09_salon_seq_a09_salon_verhoer_teil3_ende#23;[Ohi looks at the security guard, then to the writer, who throws him a serious look. Ohi goes behind Legrand.]
