@@ -9,27 +9,27 @@ characters_pflegerin;Pflegerin
 characters_schriftstellerin;Schriftstellerin
 characters_wache;Wache
 characters_wachmann;Wachmann
-texts_a10_eingangsbereich_ausgang_mo_ex_1__2;Examine the gate
-texts_a10_eingangsbereich_ausgang_mo_leave_1-3;Go outside
-spokentexts_a10_eingangsbereich_ausgang_ex_1_st_1;This security gate is also closed...
-spokentexts_a10_eingangsbereich_ausgang_ex_1_st_2;Once the alarm went off, no one could have left through the official exits.
-spokentexts_a10_eingangsbereich_ausgang_ex_2_st_1;I'll leave the gate closed until Legrand has surrounded the museum with his army of policemen.
+texts_a10_eingangsbereich_ausgang_mo_ex_1__2;Examiner la porte
+texts_a10_eingangsbereich_ausgang_mo_leave_1-3;Sortir
+spokentexts_a10_eingangsbereich_ausgang_ex_1_st_1;Cette porte de sécurité est également fermée...
+spokentexts_a10_eingangsbereich_ausgang_ex_1_st_2;Une fois l'alarme sonnée, personne n'a pu s'échapper par les sorties officielles.
+spokentexts_a10_eingangsbereich_ausgang_ex_2_st_1;Je vais laisser la porte fermée tant que Legrand n'aura pas cerné le musée avec une armée de policiers.
 spokentexts_a10_eingangsbereich_ausgang_leave_1_st_1_direction;Slightly frustrated/disappointed
-spokentexts_a10_eingangsbereich_ausgang_leave_1_st_1;It seems like Anton Jakob Zellner will never manage to get on the front page.
+spokentexts_a10_eingangsbereich_ausgang_leave_1_st_1;Apparemment Anton Jakob Zellner n'arrivera jamais à faire la une des journaux.
 spokentexts_a10_eingangsbereich_ausgang_leave_1_st_2_direction;frustriert
-spokentexts_a10_eingangsbereich_ausgang_leave_1_st_2;The museum director and the rest of the world think that Legrand is the one who put a stop to Dr. Gebhardt.
-spokentexts_a10_eingangsbereich_ausgang_leave_2_st_1;I'll stay here until Legrand and the others arrive.
-spokentexts_a10_eingangsbereich_ausgang_leave_2_st_2;I can use the time to take a look around.
-spokentexts_a10_eingangsbereich_ausgang_leave_3_st_1;I can't possibly leave without having seen the Eye of the Sphinx!
-texts_a10_eingangsbereich_banner_mo_ex_1__2;Examine the banner
+spokentexts_a10_eingangsbereich_ausgang_leave_1_st_2;Le directeur du musée et le reste du monde pensent que c'est Legrand qui a arrêté le Dr Gebhardt.
+spokentexts_a10_eingangsbereich_ausgang_leave_2_st_1;Je vais rester ici tant que Legrand et les autres ne seront pas arrivés.
+spokentexts_a10_eingangsbereich_ausgang_leave_2_st_2;Je vais en profiter pour fouiller un peu.
+spokentexts_a10_eingangsbereich_ausgang_leave_3_st_1;Je ne peux tout de même pas partir sans avoir vu l'Oeil du Sphinx !
+texts_a10_eingangsbereich_banner_mo_ex_1__2;Examiner la bannière
 spokentexts_a10_eingangsbereich_banner_ex_1_st_1_direction;frustrated
-spokentexts_a10_eingangsbereich_banner_ex_1_st_1;"""Exclusive and unique: The Eyes of the Sphinx. Exhibited together for the first time ever."""
-spokentexts_a10_eingangsbereich_banner_ex_1_st_2;Hopefully the visitors will be satisfied with a single Eye. Otherwise all this effort will be for nothing.
-spokentexts_a10_eingangsbereich_banner_ex_2_st_1;"Unfortunately, now it's just ""The EYE of the Sphinx""."
-spokentexts_a10_eingangsbereich_banner_ex_2_st_2;But it's a bit too late to change the banner.
-texts_a10_eingangsbereich_flagge_mo_ex_1;Examine the flagpole
-texts_a10_eingangsbereich_flagge_mo_use_1;Use the pole with...
-spokentexts_a10_eingangsbereich_flagge_ex_1_st_1;That might help!
+spokentexts_a10_eingangsbereich_banner_ex_1_st_1;"""Exclusifs et uniques : Les Yeux du Sphinx. Exposés ensemble pour la première fois."""
+spokentexts_a10_eingangsbereich_banner_ex_1_st_2;Espérons que les visiteurs sauraont se satisfaire d'un seul Oeil. Dans le cas contraire tous ces efforts n'auront servi à rien.
+spokentexts_a10_eingangsbereich_banner_ex_2_st_1;"Malheureusement, maintenant c'est simplement ""l'OEIL du Sphinx""."
+spokentexts_a10_eingangsbereich_banner_ex_2_st_2;Mais c'est un peu tard pour changer la bannière.
+texts_a10_eingangsbereich_flagge_mo_ex_1;Examiner le mât du drapeau
+texts_a10_eingangsbereich_flagge_mo_use_1;Utiliser le mât avec...
+spokentexts_a10_eingangsbereich_flagge_ex_1_st_1;Ca pourrait m'être utile !
 sequences_a10_eingangsbereich_flagge_ex_1#2;[Ohi grabs the handle of the flag and begins to pull it out of the base.]
 sequences_a10_eingangsbereich_flagge_ex_1#3;[Cut to the gate of the treasure chamber.]
 sequences_a10_eingangsbereich_flagge_ex_1#4;[Ohi appears with the flagpole in his hands.]
@@ -37,303 +37,303 @@ sequences_a10_eingangsbereich_flagge_ex_1#5;[You can only use the flagpole with 
 sequences_a10_eingangsbereich_flagge_take_1#1;[Ohi puts down the flagpole.]
 sequences_a10_eingangsbereich_flagge_use_1#1;[Ohi takes the pole and waits for further commands.]
 sequences_a10_eingangsbereich_flagge_use_1#2;[You can only use the flagpole with the gate (Use the pole with the...).If you click somewhere else, Ohi lays the flag down on the floor.]
-texts_a10_eingangsbereich_haupthalle_mo_leave_1;Go into the main hall
+texts_a10_eingangsbereich_haupthalle_mo_leave_1;Aller dans le hall principal
 sequences_a10_eingangsbereich_haupthalle_leave_1#1;[Ohi begins to go down the wide stairs.]
-texts_a10_eingangsbereich_lanze_mo_ex_1;Examine the lance
-spokentexts_a10_eingangsbereich_lanze_ex_1_st_1;Hmm. The lances look sturdy but they also seem to be firmly connected to the figures. Maybe I can break them off?
-spokentexts_a10_eingangsbereich_lanze_ex_1_st_3;On the other hand, there's been enough destruction today.
-texts_a10_eingangsbereich_schatzkammer_mo_ex_1__2;Examine the treasure chamber
-texts_a10_eingangsbereich_schatzkammer_mo_leave_1__2;Enter the treasure chamber
-spokentexts_a10_eingangsbereich_schatzkammer_ex_1_st_1;That must be the treasure chamber where the Eye of the Sphinx is due to be exhibited. The display case is already prepared.
-spokentexts_a10_eingangsbereich_schatzkammer_ex_2_st_1;No one may enter the treasure chamber before the Eye arrives.
-spokentexts_a10_eingangsbereich_schatzkammer_ex_2_st_2;At least security seems to be tight.
+texts_a10_eingangsbereich_lanze_mo_ex_1;Examiner la lance
+spokentexts_a10_eingangsbereich_lanze_ex_1_st_1;Hmm. Les lances ont l'air solides mais aussi fermement liées à leur porteur. Peut être que je peux les casser ?
+spokentexts_a10_eingangsbereich_lanze_ex_1_st_3;D'un autre côté, il y a déjà eu suffisamment de destruction pour aujourd'hui.
+texts_a10_eingangsbereich_schatzkammer_mo_ex_1__2;Examiner la salle au trésor
+texts_a10_eingangsbereich_schatzkammer_mo_leave_1__2;Entrer dans la salle au trésor
+spokentexts_a10_eingangsbereich_schatzkammer_ex_1_st_1;Ce doit être la salle au trésor où l'Oeil du Sphinx sera exposé. La vitrine est déjà installée.
+spokentexts_a10_eingangsbereich_schatzkammer_ex_2_st_1;Personne n'a le droit de pénétrer dans la salle au trésor avant l'arrivée de l'Oeil.
+spokentexts_a10_eingangsbereich_schatzkammer_ex_2_st_2;Au moins la sécurité a l'air sérieuse.
 sequences_a10_eingangsbereich_schatzkammer_leave_1#1;[Ohi heads to the treasure chamber. The guard raises his hand, bars the way (Idle).]
-spokentexts_a10_eingangsbereich_schatzkammer_leave_1_st_1;No, sir.
-spokentexts_a10_eingangsbereich_schatzkammer_leave_1_st_2;I'm from the Swiss police. I want to check the security arrangements!
+spokentexts_a10_eingangsbereich_schatzkammer_leave_1_st_1;Non, monsieur.
+spokentexts_a10_eingangsbereich_schatzkammer_leave_1_st_2;Je suis avec la police suisse. Je veux vérifier les mesures de sécurité !
 sequences_a10_eingangsbereich_schatzkammer_leave_1#4;[The guard shakes his head and pulls back his hand.]
-spokentexts_a10_eingangsbereich_schatzkammer_leave_1_st_3;No one may enter the treasure chamber before the delivery has arrived.
+spokentexts_a10_eingangsbereich_schatzkammer_leave_1_st_3;Personne n'a le droit d'entrer dans la salle au trésor avec la livraison.
 spokentexts_a10_eingangsbereich_schatzkammer_leave_1_st_4_direction;unzufrieden
 spokentexts_a10_eingangsbereich_schatzkammer_leave_1_st_4;Hmpf.
 sequences_a10_eingangsbereich_schatzkammer_leave_2#1;[Ohi goes into treasure chamber.]
-texts_a10_eingangsbereich_tor_schatzkammer_mo_ex_1-4;Examine the metal gate
-texts_a10_eingangsbereich_tor_schatzkammer_mo_used_mit_fahnenstange_1-3;Force the gate open
-texts_a10_eingangsbereich_tor_schatzkammer_mo_used_mit_holzstange_1-3;Force the gate open
-spokentexts_a10_eingangsbereich_tor_schatzkammer_ex_1_st_1;That bloody bomber!
-spokentexts_a10_eingangsbereich_tor_schatzkammer_ex_1_st_2;I mean... the chamber was filled with irreplaceable treasures!
+texts_a10_eingangsbereich_tor_schatzkammer_mo_ex_1-4;Examiner la porte en métal
+texts_a10_eingangsbereich_tor_schatzkammer_mo_used_mit_fahnenstange_1-3;Forcer l'ouverture de la porte
+texts_a10_eingangsbereich_tor_schatzkammer_mo_used_mit_holzstange_1-3;Forcer l'ouverture de la porte
+spokentexts_a10_eingangsbereich_tor_schatzkammer_ex_1_st_1;Ce satané poseur de bombe !
+spokentexts_a10_eingangsbereich_tor_schatzkammer_ex_1_st_2;Je veux dire... la salle était remplie de trésors irremplaçables !
 sequences_a10_eingangsbereich_tor_schatzkammer_ex_2#1;[Ohi puts his hand under the gate, scans it, maybe he briefly presses himself to it. He wants to check whether it's possible to move the gate.]
-spokentexts_a10_eingangsbereich_tor_schatzkammer_ex_2_st_1;The gate is massive. I can't open it myself!
-spokentexts_a10_eingangsbereich_tor_schatzkammer_ex_3_st_1;I can't open the gate myself. Even if there were a handle, it must weight hundreds of kilos!
+spokentexts_a10_eingangsbereich_tor_schatzkammer_ex_2_st_1;La porte est massive. Impossible de l'ouvrir tout seul !
+spokentexts_a10_eingangsbereich_tor_schatzkammer_ex_3_st_1;Je ne peux pas ouvrir la porte tout seul. Même s'il y avait une poignée, elle doit peser plusieurs centaines de kilos !
 sequences_a10_eingangsbereich_tor_schatzkammer_ex_4#1;[Ohi reaches the gate with both hands, tries to open it]
 spokentexts_a10_eingangsbereich_tor_schatzkammer_ex_4_st_1_direction;Anstrengung
 spokentexts_a10_eingangsbereich_tor_schatzkammer_ex_4_st_1;Hmmrr.
 sequences_a10_eingangsbereich_tor_schatzkammer_ex_4#3;[Ohi releases the gate, turns to the guardsman.]
 spokentexts_a10_eingangsbereich_tor_schatzkammer_ex_4_st_2_direction;leicht genervt
-spokentexts_a10_eingangsbereich_tor_schatzkammer_ex_4_st_2;If you would be so kind?
+spokentexts_a10_eingangsbereich_tor_schatzkammer_ex_4_st_2;Si vous voulez bien ?
 sequences_a10_eingangsbereich_tor_schatzkammer_ex_4#5;[The guardsman looks to the director who doesn't move.]
 spokentexts_a10_eingangsbereich_tor_schatzkammer_ex_4_st_3_direction;genervt
 spokentexts_a10_eingangsbereich_tor_schatzkammer_ex_4_st_3;Hrmm.
 sequences_a10_eingangsbereich_tor_schatzkammer_ex_4#7;[The guardsman goes to the gate, positions himself next to Ohi. They try to open the gate together.]
 spokentexts_a10_eingangsbereich_tor_schatzkammer_ex_4_st_4_direction;Anstrengung
-spokentexts_a10_eingangsbereich_tor_schatzkammer_ex_4_st_4;Eh... No. That won't work.
+spokentexts_a10_eingangsbereich_tor_schatzkammer_ex_4_st_4;Euh... Non. Ca ne marchera pas.
 sequences_a10_eingangsbereich_tor_schatzkammer_ex_4#9;[The guardsman releases it, goes back to his position.]
-spokentexts_a10_eingangsbereich_tor_schatzkammer_ex_4_st_5;I could have told you that.
-spokentexts_a10_eingangsbereich_tor_schatzkammer_ex_5_st_1;The explosion wasn't strong enough to seriously damage the gate.
-spokentexts_a10_eingangsbereich_tor_schatzkammer_ex_5_st_2;But maybe it's a bit warped... At any rate, it won't open.
+spokentexts_a10_eingangsbereich_tor_schatzkammer_ex_4_st_5;J'aurais pu vous dire la même chose.
+spokentexts_a10_eingangsbereich_tor_schatzkammer_ex_5_st_1;L'explosion n'était pas suffisamment puissante pour endommager sérieusement la porte.
+spokentexts_a10_eingangsbereich_tor_schatzkammer_ex_5_st_2;Mais elle est peut êre un peu amochée... En tout cas, impossible de l'ouvrir.
 sequences_a10_eingangsbereich_tor_schatzkammer_used_mit_fahnenstange_1#1;[Ohi sticks the pole under the gate.]
-spokentexts_a10_eingangsbereich_tor_schatzkammer_used_mit_holzstange_1_st_1;Constable?
+spokentexts_a10_eingangsbereich_tor_schatzkammer_used_mit_holzstange_1_st_1;Officier ?
 sequences_a10_eingangsbereich_tor_schatzkammer_used_mit_fahnenstange_1#3;[The guardsman approaches Ohi, annoyed, reaches under the gate. Ohi and the guardsman try to open the gate. Indeed it moves upwards a fraction.]
 spokentexts_a10_eingangsbereich_tor_schatzkammer_used_mit_holzstange_1_st_2_direction;unter großer Anstrengung
-spokentexts_a10_eingangsbereich_tor_schatzkammer_used_mit_holzstange_1_st_2;It... It's moving!
+spokentexts_a10_eingangsbereich_tor_schatzkammer_used_mit_holzstange_1_st_2;Elle... Elle bouge !
 spokentexts_a10_eingangsbereich_tor_schatzkammer_used_mit_holzstange_1_st_3_direction;Anstrengung
-spokentexts_a10_eingangsbereich_tor_schatzkammer_used_mit_holzstange_1_st_3;Hmmghh!
+spokentexts_a10_eingangsbereich_tor_schatzkammer_used_mit_holzstange_1_st_3;Hmmghh !
 sequences_a10_eingangsbereich_tor_schatzkammer_used_mit_fahnenstange_1#6;[Ohi stops trying to open it, the door closes again. The guardsman stops as well, looks at Ohi.]
 spokentexts_a10_eingangsbereich_tor_schatzkammer_used_mit_holzstange_1_st_4_direction;Spannung lässt ab
-spokentexts_a10_eingangsbereich_tor_schatzkammer_used_mit_holzstange_1_st_4;Pfff. No. Not quite there yet.
+spokentexts_a10_eingangsbereich_tor_schatzkammer_used_mit_holzstange_1_st_4;Pfff. Non. Pas suffisant.
 sequences_a10_eingangsbereich_tor_schatzkammer_used_mit_fahnenstange_1#8;[Ohi puts down the flagpole, the guardsman goes back to his position.]
-spokentexts_a10_eingangsbereich_tor_schatzkammer_used_mit_fahnenstange_2_st_1;We were almost able to open the gate with a lever.
-spokentexts_a10_eingangsbereich_tor_schatzkammer_used_mit_fahnenstange_2_st_2;But not all the way.
+spokentexts_a10_eingangsbereich_tor_schatzkammer_used_mit_fahnenstange_2_st_1;Nous avons presque réussi à ouvrir la porte en faisant levier.
+spokentexts_a10_eingangsbereich_tor_schatzkammer_used_mit_fahnenstange_2_st_2;Mais pas complètement.
 sequences_a10_eingangsbereich_tor_schatzkammer_used_mit_fahnenstange_3#1;"[Sequence ""gate_is_forced_open"" is played.]"
 sequences_a10_eingangsbereich_tor_schatzkammer_used_mit_holzstange_1#1;[Ohi sticks the pole under the gate.]
 sequences_a10_eingangsbereich_tor_schatzkammer_used_mit_holzstange_1#3;[The guardsman approaches Ohi, annoyed, reaches under the gate. Ohi and the guardsman try to open the gate. Indeed it moves upwards a fraction.]
 sequences_a10_eingangsbereich_tor_schatzkammer_used_mit_holzstange_1#6;[Ohi stops trying to open it, the door closes again. The guardsman stops as well, looks at Ohi.]
 sequences_a10_eingangsbereich_tor_schatzkammer_used_mit_holzstange_1#8;[Ohi puts down the wooden pole, the guardsman goes back to his position.]
 sequences_a10_eingangsbereich_tor_schatzkammer_used_mit_holzstange_3#1;"[Sequence ""gate_is_forced_open"" is played.]"
-texts_a10_eingangsbereich_tuer_wachstube_mo_ex_1;Examine the guardroom
-texts_a10_eingangsbereich_tuer_wachstube_mo_leave_1__2;Enter the guardroom
-spokentexts_a10_eingangsbereich_tuer_wachstube_ex_1_st_1;The door is closed if the guardroom isn't occupied. That makes sense.
-spokentexts_a10_eingangsbereich_tuer_wachstube_ex_1_st_2;Though I would have expected the guardroom to be occupied all the time, especially on a day like today!
+texts_a10_eingangsbereich_tuer_wachstube_mo_ex_1;Examiner salle de sécurité
+texts_a10_eingangsbereich_tuer_wachstube_mo_leave_1__2;Entrer dans la salle de sécurité
+spokentexts_a10_eingangsbereich_tuer_wachstube_ex_1_st_1;La porte est verrouillée si personne n'est dans la pièce. Normal.
+spokentexts_a10_eingangsbereich_tuer_wachstube_ex_1_st_2;Mais j'aurais imaginé la salle occupée à plein temps, surtout un jour comme aujourd'hui !
 sequences_a10_eingangsbereich_tuer_wachstube_leave_1#1;[So Ohi tried to open the door. It's locked.]
-spokentexts_a10_eingangsbereich_tuer_wachstube_leave_1_st_1;Locked.
+spokentexts_a10_eingangsbereich_tuer_wachstube_leave_1_st_1;Verrouillé.
 sequences_a10_eingangsbereich_tuer_wachstube_leave_2#1;[Ohi goes into the guard's room.]
-texts_a10_eingangsbereich_vitrine_mo_ex_1;Examine the display case
-spokentexts_a10_eingangsbereich_vitrine_ex_1_st_1;Ancient Egyptian jewelry. I like that golden signet ring with the scarab made of jasper.
-spokentexts_a10_eingangsbereich_vitrine_ex_1_st_2;In ancient Egypt, these beetles were regarded as symbols of fertility - nowadays we just call them dung beetles.
-spokentexts_a10_eingangsbereich_vitrine_ex_1_st_3;I suppose the beetles don't really care.
+texts_a10_eingangsbereich_vitrine_mo_ex_1;Examiner la vitrine
+spokentexts_a10_eingangsbereich_vitrine_ex_1_st_1;Des bijoux d'Egypte antique. J'aime beaucoup la chevalière en or avec le scarabée en jaspe.
+spokentexts_a10_eingangsbereich_vitrine_ex_1_st_2;En Egypte entique ces scarabées étaient des symboles de fertilité, aujourd'hui on les appelle simplement bousiers.
+spokentexts_a10_eingangsbereich_vitrine_ex_1_st_3;J'imagine que les scarabées s'en fichent.
 texts_a10_eingangsbereich_zeitung_mo_ex_1__2;Look at the newspaper
 sequences_a10_eingangsbereich_zeitung_ex_1#1;[Ohi takes newspaper, looks at the cover.]
-spokentexts_a10_eingangsbereich_zeitung_ex_1_st_1;I can't read what it says, but the cover features a dashing picture of Legrand.
-spokentexts_a10_eingangsbereich_zeitung_ex_1_st_2;It shows an energetic young man photographed from beneath, against the sky.
-spokentexts_a10_eingangsbereich_zeitung_ex_1_st_3;That's the look of a man who can catch a thief and murderer in a single day.
+spokentexts_a10_eingangsbereich_zeitung_ex_1_st_1;Je ne comprends pas ce qui est écrit, mais la couverture est une photo particulièrement réussie de Legrand.
+spokentexts_a10_eingangsbereich_zeitung_ex_1_st_2;On y un homme jeune et plein d'énergie photographié par en dessous avec le ciel en toile de fond.
+spokentexts_a10_eingangsbereich_zeitung_ex_1_st_3;Voilà l'allure d'un homme pouvant attraper un voleur et un meurtrier dans la même journée.
 spokentexts_a10_eingangsbereich_zeitung_ex_1_st_4_direction;frustriert, beleidigt
 spokentexts_a10_eingangsbereich_zeitung_ex_1_st_4;Pff.
 sequences_a10_eingangsbereich_zeitung_ex_1#6;[Ohi disdainfully throws the newspaper back onto the chair.]
-spokentexts_a10_eingangsbereich_zeitung_ex_2_st_1;I don't believe that Legrand spoke to the press himself.
-spokentexts_a10_eingangsbereich_zeitung_ex_2_st_2;He doesn't seem to like the attention and he wouldn't falsely take credit for something he hadn't done.
+spokentexts_a10_eingangsbereich_zeitung_ex_2_st_1;Je ne pense que Legrand ait parlé à la presse lui même.
+spokentexts_a10_eingangsbereich_zeitung_ex_2_st_2;Il me semble pas aimer l'attention et ne s'approprierait pas les louanges de ce dont il n'est pas responsable.
 sequences_a10_eingangsbereich_seq_a10_ankunft_tresor_a#0;[The Boy hesitates for a second, then he heads decidedly to his mother and talks to her.]
-spokentexts_a10_eingangsbereich_seq_a10_ankunft_tresor_a_st_1;I only see you on vacation, Mom. And now you want the professor to come too, so I'll see you even less?
+spokentexts_a10_eingangsbereich_seq_a10_ankunft_tresor_a_st_1;Je ne te vois que pendant les vacances Maman. Et maintenant tu veux que le professeur se joigne à nous comme ça je passerai encore moins de temps avec toi ?
 sequences_a10_eingangsbereich_seq_a10_ankunft_tresor_a#2;[The carer looks at her son with an expression of shock on her face.]
-spokentexts_a10_eingangsbereich_seq_a10_ankunft_tresor_a_st_2;You're right!
+spokentexts_a10_eingangsbereich_seq_a10_ankunft_tresor_a_st_2;Tu as raison !
 sequences_a10_eingangsbereich_seq_a10_ankunft_tresor_a#4;[The carer turns to the professor.]
-spokentexts_a10_eingangsbereich_seq_a10_ankunft_tresor_a_st_3;I'm sorry, Professor Lucien. I think it's best if you don't join us.
+spokentexts_a10_eingangsbereich_seq_a10_ankunft_tresor_a_st_3;Je suis désolé, Professeur Lucien. Mieux vaut que vous ne vous joigniez pas à nous.
 sequences_a10_eingangsbereich_seq_a10_ankunft_tresor_a#6;[The professor is irritated, step towards to the carer. But then somebody calls him from the back, he glances round and pauses.]
 spokentexts_a10_eingangsbereich_seq_a10_ankunft_tresor_a_st_4_direction;verwundert, enttäuscht
-spokentexts_a10_eingangsbereich_seq_a10_ankunft_tresor_a_st_4;But Mary!
-spokentexts_a10_eingangsbereich_seq_a10_ankunft_tresor_a_st_5;Professor? Are you coming?
+spokentexts_a10_eingangsbereich_seq_a10_ankunft_tresor_a_st_4;Mais Mary!
+spokentexts_a10_eingangsbereich_seq_a10_ankunft_tresor_a_st_5;Professeur ? Vous venez ?
 spokentexts_a10_eingangsbereich_seq_a10_ankunft_tresor_a_st_6_direction;enttäuscht
-spokentexts_a10_eingangsbereich_seq_a10_ankunft_tresor_a_st_6;Maybe... we can talk about this again tonight
+spokentexts_a10_eingangsbereich_seq_a10_ankunft_tresor_a_st_6;Peut être que... nous pourrons en reparler ce soir.
 sequences_a10_eingangsbereich_seq_a10_ankunft_tresor_a#10;[The professor disappears, the unhappy carer is left behind.]
 spokentexts_a10_eingangsbereich_seq_a10_ankunft_tresor_a_st_7_direction;traurig
-spokentexts_a10_eingangsbereich_seq_a10_ankunft_tresor_a_st_7;Should we go back to the hotel?
-spokentexts_a10_eingangsbereich_seq_a10_ankunft_tresor_a_st_8;I want ice cream!
+spokentexts_a10_eingangsbereich_seq_a10_ankunft_tresor_a_st_7;Et si on rentrait à l'hôtel ?
+spokentexts_a10_eingangsbereich_seq_a10_ankunft_tresor_a_st_8;Je veux une glace !
 sequences_a10_eingangsbereich_seq_a10_ankunft_tresor_a#13;[The boy heads to the entrance. The writer looks thoughtfully at the carer who starts to lead her back to the entrance.]
-spokentexts_a10_eingangsbereich_seq_a10_ankunft_tresor_a_st_9;Actually, Mr Zellner still owes me some!
+spokentexts_a10_eingangsbereich_seq_a10_ankunft_tresor_a_st_9;D'ailleurs, Mr Zellner m'en doit toujours une !
 sequences_a10_eingangsbereich_seq_a10_ankunft_tresor_b#0;[Ohi looks at the boy who is brooding over something. Then he plucks up his courage and goes to his mother.]
 sequences_a10_eingangsbereich_seq_a10_ankunft_tresor_b#1;[Cut back.]
-spokentexts_a10_eingangsbereich_seq_a10_ankunft_tresor_b_st_1;Oh, come on, Mom! Who could teach us more about Egypt than the Professor?
+spokentexts_a10_eingangsbereich_seq_a10_ankunft_tresor_b_st_1;Oh, allez Maman ! Qui mieux que le Professeur pourrait nous faire découvrir l'Egypte ?
 sequences_a10_eingangsbereich_seq_a10_ankunft_tresor_b#3;[The carer is surprised and happy, she beams at her son first, then at the professor.]
-spokentexts_a10_eingangsbereich_seq_a10_ankunft_tresor_b_st_2;Then it's settled!
+spokentexts_a10_eingangsbereich_seq_a10_ankunft_tresor_b_st_2;Donc c'est décidé !
 sequences_a10_eingangsbereich_seq_a10_ankunft_tresor_b#5;[The carer smiles, nods happily. The professor notices that he is needed at the safe and leaves briskly.]
 sequences_a10_eingangsbereich_seq_a10_ankunft_tresor_b#6;[Cut to Ohi. The writer appears next to Ohi, smiles contentedly. Cut back.]
 sequences_a10_eingangsbereich_seq_a10_ankunft_tresor_b#7;[The carer kneels down to her son.]
-spokentexts_a10_eingangsbereich_seq_a10_ankunft_tresor_b_st_3;I didn't expect you to say that.
-spokentexts_a10_eingangsbereich_seq_a10_ankunft_tresor_b_st_4;Well, Mom - sometimes you have to take a chance!
+spokentexts_a10_eingangsbereich_seq_a10_ankunft_tresor_b_st_3;Je ne pensais pas que tu serais de cet avis.
+spokentexts_a10_eingangsbereich_seq_a10_ankunft_tresor_b_st_4;Eh bien, Maman, parfois il faut savoir se jeter à l'eau !
 sequences_a10_eingangsbereich_seq_a10_ankunft_tresor_b#10;[The carer hugs her boy.]
 sequences_a10_eingangsbereich_seq_a10_ankunft_tresor_b#11;[Cut to Ohi and the writer.]
 sequences_a10_eingangsbereich_seq_a10_ankunft_tresor_b#12;[The writer is content. In the end she claps her hands once.]
-spokentexts_a10_eingangsbereich_seq_a10_ankunft_tresor_b_st_5;Well? Who wants ice cream?
+spokentexts_a10_eingangsbereich_seq_a10_ankunft_tresor_b_st_5;Eh bien ? Qui veut une glace ?
 sequences_a10_eingangsbereich_seq_a10_ankunft_tresor_b#14;[Cut back.]
 sequences_a10_eingangsbereich_seq_a10_ankunft_tresor_b#15;[The boy releases his mother and raises his hand.]
-spokentexts_a10_eingangsbereich_seq_a10_ankunft_tresor_b_st_6;Me!
+spokentexts_a10_eingangsbereich_seq_a10_ankunft_tresor_b_st_6;Moi !
 sequences_a10_eingangsbereich_seq_a10_ankunft_tresor_b#17;[The boy heads to the exit, the writer follows him. The carer still kneels on the floor.]
 sequences_a10_eingangsbereich_seq_a10_ankunft_tresor_b#18;[Ohi helps her up. You can see she is trying to hide her tears, but shows a happy face.]
 spokentexts_a10_eingangsbereich_seq_a10_ankunft_tresor_b_st_7_direction;flüsternd
-spokentexts_a10_eingangsbereich_seq_a10_ankunft_tresor_b_st_7;Thank you.
+spokentexts_a10_eingangsbereich_seq_a10_ankunft_tresor_b_st_7;Merci.
 sequences_a10_eingangsbereich_seq_a10_ankunft_tresor_b#20;[The boy, the carer and the writer leave the museum and leave a happy Ohi behind.]
 spokentexts_a10_eingangsbereich_seq_a10_ankunft_tresor_b_st_8_direction;im Weggehen
-spokentexts_a10_eingangsbereich_seq_a10_ankunft_tresor_b_st_8;Actually, Mr Zellner still owes me some.
+spokentexts_a10_eingangsbereich_seq_a10_ankunft_tresor_b_st_8;D'ailleurs, Mr Zellner m'en doit toujours une.
 sequences_a10_eingangsbereich_seq_a10_eingangsbereich_ankunft_tresor#0;[The safe is pushed into the treasure chamber by two guardsmen.]
 sequences_a10_eingangsbereich_seq_a10_eingangsbereich_ankunft_tresor#1;[Legrand and the director are standing nearby and watching everything.]
 sequences_a10_eingangsbereich_seq_a10_eingangsbereich_ankunft_tresor#2;[The archaeologist enters the room, takes a look inside the safe. Then he sees the carer and hurries to her. He takes her by the hand (Idle).]
-spokentexts_a10_eingangsbereich_seq_a10_eingangsbereich_ankunft_tresor_st_1;This will all be over soon. Then I'll finally have time for you.
+spokentexts_a10_eingangsbereich_seq_a10_eingangsbereich_ankunft_tresor_st_1;Tout sera bientôt terminé. J'aurai alors enfin du temps à vous consacrer.
 spokentexts_a10_eingangsbereich_seq_a10_eingangsbereich_ankunft_tresor_st_2_direction;verlegen
-spokentexts_a10_eingangsbereich_seq_a10_eingangsbereich_ankunft_tresor_st_2;I, er... We wanted to head back to the hotel.
+spokentexts_a10_eingangsbereich_seq_a10_eingangsbereich_ankunft_tresor_st_2;I, euh... Nous voulions rentrer à l'hôtel.
 spokentexts_a10_eingangsbereich_seq_a10_eingangsbereich_ankunft_tresor_st_3_direction;fröhlich
-spokentexts_a10_eingangsbereich_seq_a10_eingangsbereich_ankunft_tresor_st_3;Certainly! And tonight at the gala I'll show you around the museum, OK?
-spokentexts_a10_eingangsbereich_seq_a10_eingangsbereich_ankunft_tresor_st_4;And... Have you made up your mind about the cruise?
+spokentexts_a10_eingangsbereich_seq_a10_eingangsbereich_ankunft_tresor_st_3;Très bien ! Et ce soir, pendant le gala, je vous ferai un visite du musée, d'accord ?
+spokentexts_a10_eingangsbereich_seq_a10_eingangsbereich_ankunft_tresor_st_4;Et... Avez vous pris une décision pour la croisière ?
 spokentexts_a10_eingangsbereich_seq_a10_eingangsbereich_ankunft_tresor_st_5_direction;verlegen
-spokentexts_a10_eingangsbereich_seq_a10_eingangsbereich_ankunft_tresor_st_5;Well...
+spokentexts_a10_eingangsbereich_seq_a10_eingangsbereich_ankunft_tresor_st_5;Eh bien...
 sequences_a10_eingangsbereich_seq_a10_eingangsbereich_ankunft_tresor#8;[Cut to the stairs.]
 sequences_a10_eingangsbereich_seq_a10_eingangsbereich_ankunft_tresor#9;[Ohi and the boy are coming upstairs.]
 sequences_a10_eingangsbereich_seq_a10_eingangsbereich_ankunft_tresor#10;[Cut back. The carer looks at the boy.]
-spokentexts_a10_eingangsbereich_seq_a10_eingangsbereich_ankunft_tresor_st_6;Well... I don't really know.
+spokentexts_a10_eingangsbereich_seq_a10_eingangsbereich_ankunft_tresor_st_6;Eh bien... Je ne sais pas trop.
 sequences_a10_eingangsbereich_seq_a10_eingangsbereich_ankunft_tresor#12;[Cut to Ohi and the boy.]
-spokentexts_pflegerin_seq_a10_eingangsbereich_tor_wird_aufgehebelt_st_1;All right-it has to work!
-spokentexts_pflegerin_seq_a10_eingangsbereich_tor_wird_aufgehebelt_st_2;Constable Oliver? Could you lend me a hand?
+spokentexts_pflegerin_seq_a10_eingangsbereich_tor_wird_aufgehebelt_st_1;Très bien. Cela devrait marcher!
+spokentexts_pflegerin_seq_a10_eingangsbereich_tor_wird_aufgehebelt_st_2;Officier Oliver ? Pourriez vous m'aider ?
 sequences_pflegerin_seq_a10_eingangsbereich_tor_wird_aufgehebelt#2;[Ohi points at the wooden pole. The guardsman stands up, takes it. Both stick their poles under the door, brace themselves.]
-spokentexts_pflegerin_seq_a10_eingangsbereich_tor_wird_aufgehebelt_st_3;On three.
-spokentexts_pflegerin_seq_a10_eingangsbereich_tor_wird_aufgehebelt_st_4;One.
-spokentexts_pflegerin_seq_a10_eingangsbereich_tor_wird_aufgehebelt_st_5;Two.
-spokentexts_pflegerin_seq_a10_eingangsbereich_tor_wird_aufgehebelt_st_6;Three!
+spokentexts_pflegerin_seq_a10_eingangsbereich_tor_wird_aufgehebelt_st_3;A trois.
+spokentexts_pflegerin_seq_a10_eingangsbereich_tor_wird_aufgehebelt_st_4;Un.
+spokentexts_pflegerin_seq_a10_eingangsbereich_tor_wird_aufgehebelt_st_5;Deux.
+spokentexts_pflegerin_seq_a10_eingangsbereich_tor_wird_aufgehebelt_st_6;Trois !
 sequences_pflegerin_seq_a10_eingangsbereich_tor_wird_aufgehebelt#7;[Ohi and the guardsman lift up the poles with all their might and actually manage to open the gate about 80cm.]
 sequences_pflegerin_seq_a10_eingangsbereich_tor_wird_aufgehebelt#8;[The weight of the gate obviously puts a lot of pressure onto the poles, both of them have to struggle to keep the gate open (Idle).]
 spokentexts_pflegerin_seq_a10_eingangsbereich_tor_wird_aufgehebelt_st_7_direction;unter großer Anstrengung
-spokentexts_pflegerin_seq_a10_eingangsbereich_tor_wird_aufgehebelt_st_7;Director Mokhtar...
+spokentexts_pflegerin_seq_a10_eingangsbereich_tor_wird_aufgehebelt_st_7;Directeur Mokhtar...
 spokentexts_pflegerin_seq_a10_eingangsbereich_tor_wird_aufgehebelt_st_8_direction;unter großer Anstrengung
-spokentexts_pflegerin_seq_a10_eingangsbereich_tor_wird_aufgehebelt_st_8;Hurry! Put something under the gate!
+spokentexts_pflegerin_seq_a10_eingangsbereich_tor_wird_aufgehebelt_st_8;Dépêchez vous ! Placez quelque chose sous la porte !
 sequences_pflegerin_seq_a10_eingangsbereich_tor_wird_aufgehebelt#12;[The director glances at Ohi, then he takes a look around.]
 spokentexts_pflegerin_seq_a10_eingangsbereich_tor_wird_aufgehebelt_st_10_direction;schwach, irritiert
-spokentexts_pflegerin_seq_a10_eingangsbereich_tor_wird_aufgehebelt_st_10;Hmm?
+spokentexts_pflegerin_seq_a10_eingangsbereich_tor_wird_aufgehebelt_st_10;Hmm ?
 spokentexts_pflegerin_seq_a10_eingangsbereich_tor_wird_aufgehebelt_st_13_direction;unter großer Anstrengung, erbost
-spokentexts_pflegerin_seq_a10_eingangsbereich_tor_wird_aufgehebelt_st_13;DIRECTOR!
+spokentexts_pflegerin_seq_a10_eingangsbereich_tor_wird_aufgehebelt_st_13;DIRECTEUR !
 sequences_pflegerin_seq_a10_eingangsbereich_tor_wird_aufgehebelt#18;[The director takes a look around, finds a round, metallic ashtray/bin. He takes it and tries to place it under the gate. It's a bit too large.]
-spokentexts_pflegerin_seq_a10_eingangsbereich_tor_wird_aufgehebelt_st_14;No luck!
+spokentexts_pflegerin_seq_a10_eingangsbereich_tor_wird_aufgehebelt_st_14;Ca ne rentre pas !
 sequences_pflegerin_seq_a10_eingangsbereich_tor_wird_aufgehebelt#20;[Ohi and the guardsman try to lift the gate a little more. But they don't manage it.]
 spokentexts_pflegerin_seq_a10_eingangsbereich_tor_wird_aufgehebelt_st_15_direction;unter großer Anstrengung
-spokentexts_pflegerin_seq_a10_eingangsbereich_tor_wird_aufgehebelt_st_15;It won't open any further!
+spokentexts_pflegerin_seq_a10_eingangsbereich_tor_wird_aufgehebelt_st_15;Impossible de l'ouvrir davantage !
 spokentexts_pflegerin_seq_a10_eingangsbereich_tor_wird_aufgehebelt_st_16_direction;unter großer Anstrengung
-spokentexts_pflegerin_seq_a10_eingangsbereich_tor_wird_aufgehebelt_st_16;Put it down! Quick!
+spokentexts_pflegerin_seq_a10_eingangsbereich_tor_wird_aufgehebelt_st_16;Glissez la en dessous ! Vite !
 sequences_pflegerin_seq_a10_eingangsbereich_tor_wird_aufgehebelt#23;[The director lays the ashbin on its side, pushes it under the gate. Ohi and the guardsman slowly lower the gate and place it on the bin.]
 spokentexts_pflegerin_seq_a10_eingangsbereich_tor_wird_aufgehebelt_st_17_direction;schwer atmend
-spokentexts_pflegerin_seq_a10_eingangsbereich_tor_wird_aufgehebelt_st_17;That... will hold...
+spokentexts_pflegerin_seq_a10_eingangsbereich_tor_wird_aufgehebelt_st_17;Ca... devrait tenir...
 spokentexts_pflegerin_seq_a10_eingangsbereich_tor_wird_aufgehebelt_st_18_direction;schwer atmend
-spokentexts_pflegerin_seq_a10_eingangsbereich_tor_wird_aufgehebelt_st_18;I wouldn't bet on it. We should hurry.
+spokentexts_pflegerin_seq_a10_eingangsbereich_tor_wird_aufgehebelt_st_18;Je n'y crois pas trop. Mieux vaut ne pas tarder.
 spokentexts_pflegerin_seq_a10_eingangsbereich_tor_wird_aufgehebelt_st_19_direction;schwach, halb zu sich
-spokentexts_pflegerin_seq_a10_eingangsbereich_tor_wird_aufgehebelt_st_19;And inform Inspector Legrand.
-spokentexts_pflegerin_seq_a10_eingangsbereich_tor_wird_aufgehebelt_st_20;First I'll get an overview of the situation.
-spokentexts_pflegerin_seq_a10_eingangsbereich_tor_wird_aufgehebelt_st_21;You don't think I'm going to leave you all alone with the jewel, do you?
-spokentexts_pflegerin_seq_a10_eingangsbereich_tor_wird_aufgehebelt_st_22;I doubt that the jewel is still in the treasure chamber.
+spokentexts_pflegerin_seq_a10_eingangsbereich_tor_wird_aufgehebelt_st_19;Et informer l'Inspecteur Legrand.
+spokentexts_pflegerin_seq_a10_eingangsbereich_tor_wird_aufgehebelt_st_20;Je veux d'abord avoir une vue d'ensemble de la situation.
+spokentexts_pflegerin_seq_a10_eingangsbereich_tor_wird_aufgehebelt_st_21;Vous ne pensez tout de même pas que je vais vous laisser seul avec le joyau ?
+spokentexts_pflegerin_seq_a10_eingangsbereich_tor_wird_aufgehebelt_st_22;Je doute que le joyau ne soit encore dans la salle au trésor.
 spokentexts_pflegerin_seq_a10_eingangsbereich_tor_wird_aufgehebelt_st_23_direction;verständnislos
-spokentexts_pflegerin_seq_a10_eingangsbereich_tor_wird_aufgehebelt_st_23;But how...
-spokentexts_pflegerin_seq_a10_eingangsbereich_tor_wird_aufgehebelt_st_24;I'll be watching you!
-spokentexts_pflegerin_seq_a10_eingangsbereich_tor_wird_aufgehebelt_st_25;Then you'll have to come with me.
+spokentexts_pflegerin_seq_a10_eingangsbereich_tor_wird_aufgehebelt_st_23;Mais comment...
+spokentexts_pflegerin_seq_a10_eingangsbereich_tor_wird_aufgehebelt_st_24;Je vous ai à l'oeil !
+spokentexts_pflegerin_seq_a10_eingangsbereich_tor_wird_aufgehebelt_st_25;Alors vous allez devoir me suivre.
 sequences_pflegerin_seq_a10_eingangsbereich_tor_wird_aufgehebelt#33;[Ohi lets himself fall down to the floor, crawls under the gate. At first the guardsman pauses irresolutely, then heads to the director.]
-spokentexts_pflegerin_seq_a10_eingangsbereich_tor_wird_aufgehebelt_st_26;If you haven't heard anything from me in five minutes - ME, not Constable Zellner - then open the entrance and call for help, understood?
+spokentexts_pflegerin_seq_a10_eingangsbereich_tor_wird_aufgehebelt_st_26;Si vous n'avez pas de MES nouvelles d'ici cinq minutes, peu importe l'Officer Zellner, allez ouvrir l'entrée principale et appelez à l'aide, c'est compris ?
 spokentexts_pflegerin_seq_a10_eingangsbereich_tor_wird_aufgehebelt_st_27_direction;schwach
-spokentexts_pflegerin_seq_a10_eingangsbereich_tor_wird_aufgehebelt_st_27;OK.
+spokentexts_pflegerin_seq_a10_eingangsbereich_tor_wird_aufgehebelt_st_27;Très bien.
 sequences_pflegerin_seq_a10_eingangsbereich_tor_wird_aufgehebelt#36;[The guard nods, then follows Ohi through the gate into the treasure chamber.]
 sequences_pflegerin_seq_a10_eingangsbereich_tor_wird_aufgehebelt#37;[*** End of the chapter. ***]
 sequences_pflegerin_seq_a10_eingangsbereich_ueberfall#0;[Ohi comes out of the treasure chamber, takes position under the gate and looks up.]
-spokentexts_pflegerin_seq_a10_eingangsbereich_ueberfall_st_1;This here. The gate. How does it work?
-spokentexts_pflegerin_seq_a10_eingangsbereich_ueberfall_st_2;All right, let's begin ...
-spokentexts_pflegerin_seq_a10_eingangsbereich_ueberfall_st_3;How does this gate work?
-spokentexts_pflegerin_seq_a10_eingangsbereich_ueberfall_st_5;If the alarm is set off, the metal gate descends. The same thing happens at the windows and the main entrance.
-spokentexts_pflegerin_seq_a10_eingangsbereich_ueberfall_st_6;The thief is trapped like a rat!
-spokentexts_pflegerin_seq_a10_eingangsbereich_ueberfall_st_7;As are we.
+spokentexts_pflegerin_seq_a10_eingangsbereich_ueberfall_st_1;Ici. Cette porte. Comment fonctionne-t-elle ?
+spokentexts_pflegerin_seq_a10_eingangsbereich_ueberfall_st_2;Très bien, commençons par ...
+spokentexts_pflegerin_seq_a10_eingangsbereich_ueberfall_st_3;Comment cette porte fonctionne-t-elle ?
+spokentexts_pflegerin_seq_a10_eingangsbereich_ueberfall_st_5;Si l'alarme est déclenchée la porte en métal sera abaissée. Même chose pour les fenêtres et l'entrée principale.
+spokentexts_pflegerin_seq_a10_eingangsbereich_ueberfall_st_6;Le voleur est fait comme un rat !
+spokentexts_pflegerin_seq_a10_eingangsbereich_ueberfall_st_7;Tout comme nous.
 spokentexts_pflegerin_seq_a10_eingangsbereich_ueberfall_st_8_direction;höfliches Lachen
 spokentexts_pflegerin_seq_a10_eingangsbereich_ueberfall_st_8;Mmm-hmm.
-spokentexts_pflegerin_seq_a10_eingangsbereich_ueberfall_st_9;Next I'll to show you our guardroom, the heart of the whole security system.
+spokentexts_pflegerin_seq_a10_eingangsbereich_ueberfall_st_9;Ensuite je vais vous montrer la salle de sécurité, le coeur de notre système de surveillance.
 sequences_pflegerin_seq_a10_eingangsbereich_ueberfall#12;[The director takes Ohi by the arm, pushes him towards the guard's room.]
-spokentexts_pflegerin_seq_a10_eingangsbereich_ueberfall_st_10;And after that I'll have to excuse myself. I have many things to attend to today, as you can surely imagine.
+spokentexts_pflegerin_seq_a10_eingangsbereich_ueberfall_st_10;Ensuite vous devrez m'excuser. J'ai beaucoup à faire aujourd'hui, comme vous pouvez l'imaginer.
 sequences_pflegerin_seq_a10_eingangsbereich_ueberfall#14;[The camera is moving backwards, while it stays focused on the director and Ohi. Suddenly something black and blurred appears in the foreground. It lies on the banister.]
 sequences_pflegerin_seq_a10_eingangsbereich_ueberfall#15;[Ohi stops and freezes. He looks shocked. The director stops as well, but doesn't know what's going on.]
 sequences_pflegerin_seq_a10_eingangsbereich_ueberfall#16;[He hasn't seen it, yet. He looks at Ohi, then he follows his gaze and freezes as well.]
 sequences_pflegerin_seq_a10_eingangsbereich_ueberfall#17;[In the foreground a raven's feather moves into focus. Then cut to Ohi.]
-spokentexts_pflegerin_seq_a10_eingangsbereich_ueberfall_st_11;Alert the guards. Then call the French embassy. Legrand needs to come...
+spokentexts_pflegerin_seq_a10_eingangsbereich_ueberfall_st_11;Alertez les gardes. Puis appelez l'ambassade de France. Legrand doit venir...
 sequences_pflegerin_seq_a10_eingangsbereich_ueberfall#19;[The alarm is set off.]
 sequences_pflegerin_seq_a10_eingangsbereich_ueberfall#20;[Both whirl around to the treasure chamber. The gates start to close.]
-spokentexts_pflegerin_seq_a10_eingangsbereich_ueberfall_st_12;We're being locked out!
+spokentexts_pflegerin_seq_a10_eingangsbereich_ueberfall_st_12;On nous enferme dehors !
 sequences_pflegerin_seq_a10_eingangsbereich_ueberfall#22;[Ohi heads to the treasure chamber. The gate already stands only 20cm ajar, Ohi is too late. Suddenly there is an explosion.]
 sequences_pflegerin_seq_a10_eingangsbereich_ueberfall#23;[Ohi falls to the ground with the shock. The gap of the treasure chamber's entrance gives off clouds of smoke, surrounding Ohi's legs. The gate closes with a loud noise.]
 sequences_pflegerin_seq_a10_eingangsbereich_ueberfall#24;[The director stumbles to it, touches his breast. This is too much for him. Ohi notices it, supports him and lowers him down onto a bench. He settles him. He loosens his tie.]
-spokentexts_pflegerin_seq_a10_eingangsbereich_ueberfall_st_13;Here, have a seat and try to calm down!
+spokentexts_pflegerin_seq_a10_eingangsbereich_ueberfall_st_13;Tenez, asseyez vous et essayez de vous calmer !
 sequences_pflegerin_seq_a10_eingangsbereich_wachstube_nach_explosion_leave#0;[Ohi and the guardsman arrive at the treasure chamber. The guardsman takes position.]
-spokentexts_pflegerin_seq_a10_eingangsbereich_wachstube_nach_explosion_leave_st_2;I'll give you five minutes! Then we'll follow my plan: open the main entrance and call for backup!
-spokentexts_pflegerin_seq_a10_eingangsbereich_wachstube_nach_explosion_leave_st_3;Let's hope for both our sakes that I find a way into the treasure chamber before then. I don't want to be responsible for the escape of the Raven.
+spokentexts_pflegerin_seq_a10_eingangsbereich_wachstube_nach_explosion_leave_st_2;Je vous laisse cinq minutes ! Ensuite nous suivrons mon plan : ouvrir l'netrée principale et appeler du renfort !
+spokentexts_pflegerin_seq_a10_eingangsbereich_wachstube_nach_explosion_leave_st_3;Espérons que je parvienne à atteindre la salle au trésor avant cel. Je ne veux pas être tenu pour responsable de l'échappée du Corbeau.
 sequences_pflegerin_seq_a10_eingangsbereich_wachstube_nach_explosion_leave#5;[Ohi makes a small bow. The guardsman shakes his head, annoyed, and signals him to go away.]
 sequences_pflegerin_seq_a10_eingangsbereich_wachstube_nach_explosion_leave#6;[From now on the guardsman stands close to the director and watches Ohi.]
-texts_a10_haupthalle_ausgang_mo_leave_1;Go up
+texts_a10_haupthalle_ausgang_mo_leave_1;Monter
 sequences_a10_haupthalle_ausgang_leave_1#1;[Ohi goes outside.]
-texts_a10_haupthalle_dolche_mo_ex_1__2;Examine the daggers
-spokentexts_a10_haupthalle_dolche_ex_1_st_1;Several daggers in a row. Their shapes and patterns look timeless, elegant.
-spokentexts_a10_haupthalle_dolche_ex_2_st_1;What does it say here?
+texts_a10_haupthalle_dolche_mo_ex_1__2;Examiner les dagues
+spokentexts_a10_haupthalle_dolche_ex_1_st_1;Plusieurs dagues alignées. Leurs formes et leurs motifs sont élégants et intemporels.
+spokentexts_a10_haupthalle_dolche_ex_2_st_1;Qu'est-ce qui est écrit là ?
 spokentexts_a10_haupthalle_dolche_ex_2_st_2_direction;liest sich einen Text schnell durch
-spokentexts_a10_haupthalle_dolche_ex_2_st_2;Hmm-hm... hm-hm... Hmm!
-spokentexts_a10_haupthalle_dolche_ex_2_st_3;The dagger on the left is a replica of the dagger from the tomb of Tutankhamen! It must have been incredibly precious during his lifetime because it's made of iron.
-spokentexts_a10_haupthalle_dolche_ex_2_st_4;Thousands of years before the ice age, meteorites were the only source of pure iron.
-spokentexts_a10_haupthalle_dolche_ex_2_st_5;So a star that fell from the sky, bringing a substance that's harder than anything they'd known before, would have been a dramatic event.
-spokentexts_a10_haupthalle_dolche_ex_2_st_6;No wonder they used it to forge a weapon for the godlike pharaoh!
-texts_a10_haupthalle_imhotep_mo_ex_1__2;Examine the figure
+spokentexts_a10_haupthalle_dolche_ex_2_st_2;Hmm-hm... hm-hm... Hmm !
+spokentexts_a10_haupthalle_dolche_ex_2_st_3;La dague de gauche est une réplique de celle de la tombe de Toutânkhamon ! Elle devait déjà être incroyablement précieuse à l'époque car elle est en fer.
+spokentexts_a10_haupthalle_dolche_ex_2_st_4;Des milliers d'années avant l'âge glaciaire, les météorites étaient la seule source de fer pur.
+spokentexts_a10_haupthalle_dolche_ex_2_st_5;Une étoile tombant du ciel et apportant un matériau plus solide que tout ce qui existait à l'époque a dû être un évènement dramatique.
+spokentexts_a10_haupthalle_dolche_ex_2_st_6;Ce n'est pas surprenant qu'il l'est utilisé pour créer une arme pour un pharaon divin !
+texts_a10_haupthalle_imhotep_mo_ex_1__2;Examiner la statue
 spokentexts_a10_haupthalle_imhotep_ex_1_st_1_direction;liest vor
-spokentexts_a10_haupthalle_imhotep_ex_1_st_1;"A figure of Imhotep, ""who comes in peace"", from around 2700 BC."
+spokentexts_a10_haupthalle_imhotep_ex_1_st_1;"A statue d'Imhotep, ""celui qui vient en paix"", datant d'environ 2700 av. JC."
 spokentexts_a10_haupthalle_imhotep_ex_1_st_2_direction;liest vor
-spokentexts_a10_haupthalle_imhotep_ex_1_st_2;The first polymath known by name, Godfather of medicine, architect of the first pyramids and, according to legend, the inventor of Egyptian writing.
+spokentexts_a10_haupthalle_imhotep_ex_1_st_2;Le premier érudit universellement reconnu, fondateur de la médecine, architecte des premières pyramides et, si l'on en croit la légende, l'inventeur de l'écriture égyptienne.
 spokentexts_a10_haupthalle_imhotep_ex_1_st_4_direction;pfeift
-spokentexts_a10_haupthalle_imhotep_ex_1_st_4;*whistle*
-spokentexts_a10_haupthalle_imhotep_ex_1_st_5;He certainly achieved more than me in his life.
+spokentexts_a10_haupthalle_imhotep_ex_1_st_4;*siffle*
+spokentexts_a10_haupthalle_imhotep_ex_1_st_5;Il a certainement accompli plus que moi durant sa vie.
 sequences_a10_haupthalle_imhotep_ex_2#1;[Ohi reads the description, then summarises it for the player.]
 spokentexts_a10_haupthalle_imhotep_ex_2_st_1_direction;fasst zusammen
-spokentexts_a10_haupthalle_imhotep_ex_2_st_1;He was a legend. The Greeks called him a god. The Romans still honored him 3000 years after his death.
+spokentexts_a10_haupthalle_imhotep_ex_2_st_1;C'était une légende. Les grecques le considéraient comme un dieu. Les romains continuaient à l'honorer 3000 ans après sa mort.
 spokentexts_a10_haupthalle_imhotep_ex_2_st_2_direction;fasst zusammen
-spokentexts_a10_haupthalle_imhotep_ex_2_st_2;Even today, scholars offer a drop of ink to Imhotep when they begin a new project.
-spokentexts_a10_haupthalle_imhotep_ex_2_st_3;Really impressive!
-texts_a10_haupthalle_schaukasten_mo_ex_1-3;Examine the showcase
-texts_a10_haupthalle_schaukasten_mo_use_1;Open the showcase
-texts_a10_haupthalle_schaukasten_mo_use_2;Take the wooden pole
-texts_a10_haupthalle_schaukasten_mo_use_3;Use the wooden pole with...
-texts_a10_haupthalle_schaukasten_mo_used_mit_bueroklammer;Pick the lock on the showcase
-texts_a10_haupthalle_schaukasten_mo_used_mit_schluessel;Unlock the showcase
-spokentexts_a10_haupthalle_schaukasten_ex_1_st_1;Hmm. Aha!
-spokentexts_a10_haupthalle_schaukasten_ex_1_st_2;This shows how the ancient Egyptians were able to move the heavy blocks of stone to build their pyramids and temples.
-spokentexts_a10_haupthalle_schaukasten_ex_1_st_3;They used ropes, wooden sleds and poles as levers.
-spokentexts_a10_haupthalle_schaukasten_ex_2_st_1;These exhibits aren't originals, of course. They're reconstructed based on old pictures.
-spokentexts_a10_haupthalle_schaukasten_ex_2_st_2;Nonetheless, it's impressive how they managed to build monuments like the pyramids with such simple tools.
+spokentexts_a10_haupthalle_imhotep_ex_2_st_2;Aujourd'hui encore, les savants offrent une goutte d'encre en son honneur avant de débuter un nouveau projet.
+spokentexts_a10_haupthalle_imhotep_ex_2_st_3;Vraiment impressionnant !
+texts_a10_haupthalle_schaukasten_mo_ex_1-3;Examiner la vitrine
+texts_a10_haupthalle_schaukasten_mo_use_1;Ouvrir la vitrine
+texts_a10_haupthalle_schaukasten_mo_use_2;Prendre la perche en bois
+texts_a10_haupthalle_schaukasten_mo_use_3;Utiliser la perche en bois avec...
+texts_a10_haupthalle_schaukasten_mo_used_mit_bueroklammer;Crocheter la serrure de la vitrine
+texts_a10_haupthalle_schaukasten_mo_used_mit_schluessel;Ouvrir la vitrine
+spokentexts_a10_haupthalle_schaukasten_ex_1_st_1;Hmm. Aha !
+spokentexts_a10_haupthalle_schaukasten_ex_1_st_2;Cela illustre comment les égyptiens transportaient les énormes blocs de pierre nécessaires à la construction de leurs pyramides et de leurs temples.
+spokentexts_a10_haupthalle_schaukasten_ex_1_st_3;Ils utilisaient des cordes, des traineaux en bois et des perches pour faire levier.
+spokentexts_a10_haupthalle_schaukasten_ex_2_st_1;Ces pièces ne sont pas des originales évidemment. Elles ont été reconstruites à l'aide de vieilles images.
+spokentexts_a10_haupthalle_schaukasten_ex_2_st_2;Leur capacité à édifier des monuments comme les pyramides avec des outils si basiques reste malgré tout impressionnante.
 sequences_a10_haupthalle_schaukasten_take_1#1;[Ohi reaches the wooden pole.]
 sequences_a10_haupthalle_schaukasten_take_1#2;[Cut to the gate of the treasure chamber.]
 sequences_a10_haupthalle_schaukasten_take_1#3;[Ohi appears with a wooden pole in his hands.]
 sequences_a10_haupthalle_schaukasten_take_1#4;[You can only use the wooden pole with the gate (Use the wooden pole with...). If you click somewhere else, Ohi lays the pole down on the floor..]
 sequences_a10_haupthalle_schaukasten_use_1#1;[Ohi tries to slide the window open, but it doesn't move.]
-spokentexts_a10_haupthalle_schaukasten_use_1_st_1;Locked.
+spokentexts_a10_haupthalle_schaukasten_use_1_st_1;Verrouillé.
 sequences_a10_haupthalle_schaukasten_use_2#1;[Ohi takes the pole from the floor, waits for further commands.]
 sequences_a10_haupthalle_schaukasten_use_2#2;[You can only use the wooden pole with the gate (Use the wooden pole with...). If you click somewhere else, Ohi lays the pole on the floor..]
 sequences_a10_haupthalle_schaukasten_used_mit_bueroklammer#1;[Ohi takes out the paper clip, wants to put it into the lock, but loses it.]
-spokentexts_a10_haupthalle_schaukasten_used_mit_bueroklammer_st_1;Damn!
+spokentexts_a10_haupthalle_schaukasten_used_mit_bueroklammer_st_1;Punaise !
 sequences_a10_haupthalle_schaukasten_used_mit_bueroklammer#3;[Ohi takes a look around, can't find the paper clip on the floor.]
-spokentexts_a10_haupthalle_schaukasten_used_mit_bueroklammer_st_2;Gone.
+spokentexts_a10_haupthalle_schaukasten_used_mit_bueroklammer_st_2;Disparu.
 sequences_a10_haupthalle_schaukasten_used_mit_schluessel#1;[Ohi takes the key ring out of his trouser pocket, takes a quick look at it, chooses a key and opens the lock.]
-spokentexts_a10_haupthalle_schaukasten_used_mit_schluessel_st_1;It fits!
+spokentexts_a10_haupthalle_schaukasten_used_mit_schluessel_st_1;Ca rentre !
 sequences_a10_haupthalle_schaukasten_used_mit_schluessel#3;[Ohi slides cabinet window open.]
-texts_a10_haupthalle_steinstatue_mo_ex_1-3;Examine the statue
-texts_a10_haupthalle_steinstatue_mo_ex_5;Examine the statue
+texts_a10_haupthalle_steinstatue_mo_ex_1-3;Examiner la statue
+texts_a10_haupthalle_steinstatue_mo_ex_5;Examiner la statue
 spokentexts_a10_haupthalle_steinstatue_ex_1_st_1;Hmm.
 sequences_a10_haupthalle_steinstatue_ex_1#2;[Ohi looks behind the statue, then turns around.]
-spokentexts_a10_haupthalle_steinstatue_ex_1_st_2;Matt said that he heard the statue curse.
-spokentexts_a10_haupthalle_steinstatue_ex_1_st_3;Perhaps an acoustic effect? There are halls where whispers are audible far from their sources.
-spokentexts_a10_haupthalle_steinstatue_ex_2_st_1;No idea who this is. Doesn't look particularly chatty.
-spokentexts_a10_haupthalle_steinstatue_ex_3_st_1;Hmm. A talking statue... If there were a hallway or a secret room behind it, it'd explain what Matt heard.
-spokentexts_a10_haupthalle_steinstatue_ex_3_st_2;And it would be a welcome escape route for the Raven!
+spokentexts_a10_haupthalle_steinstatue_ex_1_st_2;Matt a dit qu'il avait entendu la statue jurer.
+spokentexts_a10_haupthalle_steinstatue_ex_1_st_3;Peut être un effet acoustique ? Il y a des pièces où les sons se propagent très loin de leur source.
+spokentexts_a10_haupthalle_steinstatue_ex_2_st_1;Aucune idée de son identité. Il n'a pas l'air très causant.
+spokentexts_a10_haupthalle_steinstatue_ex_3_st_1;Hmm. Une statue qui parle... S'il y avait un couloir ou une pièce secrète derrière, cela expliquerait ce qu'a entendu Matt.
+spokentexts_a10_haupthalle_steinstatue_ex_3_st_2;Et ça ferait une porte de sortie bienvenue pour le Corbeau !
 sequences_a10_haupthalle_steinstatue_ex_3#3;[Ohi examines the statue.]
-spokentexts_a10_haupthalle_steinstatue_ex_3_st_3;The only question is-how do I get into the hallway? Doesn't look like there's an entrance here.
-spokentexts_a10_haupthalle_steinstatue_ex_4_st_1;Matt has a fertile imagination, but maybe he really did hear something...
-spokentexts_a10_haupthalle_steinstatue_ex_4_st_2;Hmm. It's true that some domed buildings can transport whispered words across many meters. But this hall is rectangular...
-spokentexts_a10_haupthalle_steinstatue_ex_4_st_3;Could there be a hideout or a secret door somewhere?
-spokentexts_a10_haupthalle_steinstatue_ex_5_st_1;The statue is too heavy to move... and I don't see any gaps or cracks in the wall.
-spokentexts_a10_haupthalle_steinstatue_ex_5_st_2;I don't think I'll find anything here.
-spokentexts_a10_haupthalle_steinstatue_ex_6_st_1;This is Akhenaten. The only pharaoh whose portrait I always recognize. He has a very unusual head.
-spokentexts_a10_haupthalle_steinstatue_ex_7_st_1;Akhenaten was the husband of Nefertiti and the father of Tutankhamen. A famous family.
-spokentexts_a10_haupthalle_steinstatue_ex_7_st_2;But he went down in history as the pharaoh who wanted to eliminate the old gods and replace them with a single god.
-spokentexts_a10_haupthalle_steinstatue_ex_7_st_3;The priests took offence and he died of unknown causes.
-texts_a10_haupthalle_wuestenglas_mo_ex_1;Examine the showcase
-spokentexts_a10_haupthalle_wuestenglas_ex_1_st_1;Ah! I've heard of this. Desert glass!
-spokentexts_a10_haupthalle_wuestenglas_ex_1_st_2;In the Great Sand Sea of the Libyan desert, there's a region where natural glass is found.
-spokentexts_a10_haupthalle_wuestenglas_ex_1_st_3;Nobody knows how it formed. The valuable material was often used for jewelry in ancient Egypt.
-texts_a10_holzstange_mo_take_1;Take the wooden pole
-texts_a10_holzstange_mo_use_2;Use the wooden pole combined with...
+spokentexts_a10_haupthalle_steinstatue_ex_3_st_3;La question est : comment vais-je accéder au couloir ? Il ne semble pas y avoir une entrée ici.
+spokentexts_a10_haupthalle_steinstatue_ex_4_st_1;Matt a une imagination débordante, mais peut être qu'il a vraiment entendu quelque chose...
+spokentexts_a10_haupthalle_steinstatue_ex_4_st_2;Hmm. C'est vrai que des batiments en dome peuvent propager des murmures sur de longues distances. Mais ce hall est rectangulaire...
+spokentexts_a10_haupthalle_steinstatue_ex_4_st_3;Pourrait-il y avoir une cachette ou une porte secrète quelque part ?
+spokentexts_a10_haupthalle_steinstatue_ex_5_st_1;La statue est trop lourde pour être déplacée... et je ne vois ni trou ni fissure dans le mur.
+spokentexts_a10_haupthalle_steinstatue_ex_5_st_2;Je ne trouverai rien ici.
+spokentexts_a10_haupthalle_steinstatue_ex_6_st_1;C'est Akhénaton. Le seul pharaon dont je reconnais le portrait. Sa tête est assez étrange.
+spokentexts_a10_haupthalle_steinstatue_ex_7_st_1;Akhénaton était le mari de Nefertiti et le père de Toutânkhamon. Une famille célèbre.
+spokentexts_a10_haupthalle_steinstatue_ex_7_st_2;Il est resté dans l'histoire comme le pharaon qui a voulu remplacer les anciens dieux par un dieu unique.
+spokentexts_a10_haupthalle_steinstatue_ex_7_st_3;Les prêtres n'ont pas apprécié et il est mort dans des circonstances inconnues.
+texts_a10_haupthalle_wuestenglas_mo_ex_1;Examiner la vitrine
+spokentexts_a10_haupthalle_wuestenglas_ex_1_st_1;Ah ! J'ai déjà entendu parler de ça. Du verre lybique !
+spokentexts_a10_haupthalle_wuestenglas_ex_1_st_2;Dans la Grande Mer de sable du désert lybique, il y a une région où l'on trouve du verre naturel.
+spokentexts_a10_haupthalle_wuestenglas_ex_1_st_3;Personne ne connaît son origine. En Egypte antique, ce précieux matériau était souvent utiliser dans la confection des bijoux.
+texts_a10_holzstange_mo_take_1;Prendre la perche en bois
+texts_a10_holzstange_mo_use_2;Utiliser la perche en bois avec...
 sequences_a10_holzstange_take_1#1;[Ohi grabs the wooden pole.]
 sequences_a10_holzstange_take_1#2;[Cut to the gate of the treasure chamber.]
 sequences_a10_holzstange_take_1#3;[Ohi appears with a wooden pole in his hands. He lays it on the floor in front of the gate.]
 sequences_a10_holzstange_use_2#1;[Ohi takes the pole from the floor, waits for further commands. waits for further commands.]
 sequences_a10_holzstange_use_2#2;[You can only use the wooden pole with the gate (Use the pole with the...). If you click somewhere else, Ohi lays the pole on the floor.]
-texts_a10_museum_aussen_portemonaie_mo_ex_1;Wallet
+texts_a10_museum_aussen_portemonaie_mo_ex_1;Portefeuille
 spokentexts_a10_museum_aussen_portemonaie_ex_1_st_1;I didn't have to pay for the cruise and the French embassy is taking care of the hotel.
 spokentexts_a10_museum_aussen_portemonaie_ex_1_st_2;Which is lucky! I certainly would have had a tough time getting the expenses back from my captain.
 sequences_a10_aussen_seq_a10_aussen_ankunft#0;[Fade in. The Egyptian Museum is seen from outside.]
