@@ -1,113 +1,113 @@
 characters_araber;Araber
 characters_arzt;Arzt
 characters_ohi;Ohi
-texts_a07_krankenstation_alptraum_armgurte_mo_use_1;Unfasten the straps
-texts_a07_krankenstation_alptraum_armgurte_mo_used_mit_schere_1__2;Cut the straps
+texts_a07_krankenstation_alptraum_armgurte_mo_use_1;Détacher les sangles
+texts_a07_krankenstation_alptraum_armgurte_mo_used_mit_schere_1__2;Couper les sangles
 spokentexts_a07_krankenstation_alptraum_armgurte_ex_1_st_1_direction;thinks, struck, powerless
-spokentexts_a07_krankenstation_alptraum_armgurte_ex_1_st_1;Can't... move.
+spokentexts_a07_krankenstation_alptraum_armgurte_ex_1_st_1;Je peux... pas bouger.
 sequences_a07_krankenstation_alptraum_armgurte_use_1#1;[Ohi pulls and tugs at his bonds, with no success.]
 sequences_a07_krankenstation_alptraum_armgurte_used_mit_schere_1#1;[Ohi begins to cut with the scissor the straps]
-spokentexts_a07_krankenstation_alptraum_armgurte_used_mit_schere_1_st_1;What are you doing?
+spokentexts_a07_krankenstation_alptraum_armgurte_used_mit_schere_1_st_1;Qu'est-ce que vous faites ?
 sequences_a07_krankenstation_alptraum_armgurte_used_mit_schere_1#3;[The doctor turns to the syringe into his hand, hesitates.]
-spokentexts_a07_krankenstation_alptraum_armgurte_used_mit_schere_1_st_3;Just relax.
+spokentexts_a07_krankenstation_alptraum_armgurte_used_mit_schere_1_st_3;Détendez-vous.
 sequences_a07_krankenstation_alptraum_armgurte_used_mit_schere_1#6;[The doctor comes up to Ohi, pushes him the syringe into his neck.]
 sequences_a07_krankenstation_alptraum_armgurte_used_mit_schere_1#4;[You can hear a fast Heartbeat who stops slowly. Everything is black.]
 sequences_a07_krankenstation_alptraum_armgurte_used_mit_schere_2#1;[Ohi begins to cut with the scissor the straps. Sometime the first one is cut, the second strap he solves with his free hand.]
 sequences_a07_krankenstation_alptraum_armgurte_used_mit_schere_2#2;[He sits back, he keeps the scissor in his hand.]
-texts_a07_krankenstation_alptraum_chloroform_mo_ex_1;Examine the brown bottle
-texts_a07_krankenstation_alptraum_chloroform_mo_take_1a__1b__2;Take the chloroform
+texts_a07_krankenstation_alptraum_chloroform_mo_ex_1;Examiner la bouteille brune
+texts_a07_krankenstation_alptraum_chloroform_mo_take_1a__1b__2;Prendre le chloroforme
 spokentexts_a07_krankenstation_alptraum_chloroform_ex_1_st_1_direction;thinks struck, powerless
-spokentexts_a07_krankenstation_alptraum_chloroform_ex_1_st_1;Chloroform.
+spokentexts_a07_krankenstation_alptraum_chloroform_ex_1_st_1;Chloroforme.
 spokentexts_a07_krankenstation_alptraum_chloroform_ex_1_st_2_direction;thinks struck, powerless
-spokentexts_a07_krankenstation_alptraum_chloroform_ex_1_st_2;Still partly numb.
+spokentexts_a07_krankenstation_alptraum_chloroform_ex_1_st_2;Toujours partiellement engourdi.
 spokentexts_a07_krankenstation_alptraum_chloroform_take_1a_st_1_direction;thinks struck, powerless
-spokentexts_a07_krankenstation_alptraum_chloroform_take_1a_st_1;Can't reach it.
+spokentexts_a07_krankenstation_alptraum_chloroform_take_1a_st_1;Je ne peux pas l'atteindre.
 spokentexts_a07_krankenstation_alptraum_chloroform_take_1b_st_1_direction;thinks struck, powerless
-spokentexts_a07_krankenstation_alptraum_chloroform_take_1b_st_1;Arms... are bound.
+spokentexts_a07_krankenstation_alptraum_chloroform_take_1b_st_1;Mes bras ... sont attachés.
 sequences_a07_krankenstation_alptraum_chloroform_take_2#1;"[In the same sequence as the doctor ""use 1"" (Ohi crashes).]"
-texts_a07_krankenstation_alptraum_fussstuetzen_mo_use_1;Put the footrest up
+texts_a07_krankenstation_alptraum_fussstuetzen_mo_use_1;Rabattre les repose-pieds
 spokentexts_a07_krankenstation_alptraum_fussstuetzen_ex_1_st_1_direction;thinks struck, powerless
-spokentexts_a07_krankenstation_alptraum_fussstuetzen_ex_1_st_1;Footrest... collapsible.
+spokentexts_a07_krankenstation_alptraum_fussstuetzen_ex_1_st_1;Repose-pieds... repliable.
 sequences_a07_krankenstation_alptraum_fussstuetzen_use_1#1;[Ohi manages to fold up the footrests with his feets. He does not have full control over his feets, he succeeds only with the greatest effort and luck.]
-texts_a07_krankenstation_alptraum_schale_mo_ex_1__2;Search the bowl
-texts_a07_krankenstation_alptraum_schale_mo_take_1__2;Take the scissors
+texts_a07_krankenstation_alptraum_schale_mo_ex_1__2;Regarder dans la cuvette
+texts_a07_krankenstation_alptraum_schale_mo_take_1__2;Prendre les ciseaux
 sequences_a07_krankenstation_alptraum_schale_ex_1#1;[Ohi is trying to move from that place, moves with the upper body fourth and back. But therefore also the chair moves  back and forth and ultimately remains standing in the same place.]
 sequences_a07_krankenstation_alptraum_schale_ex_2#1;"[Ohi ""pulls himself with his feets forward"" and reaches the rolling table. He looks into the bowl.]"
 spokentexts_a07_krankenstation_alptraum_schale_ex_2_st_1_direction;thinks struck, powerless
-spokentexts_a07_krankenstation_alptraum_schale_ex_2_st_1;A pair of scissors!
+spokentexts_a07_krankenstation_alptraum_schale_ex_2_st_1;Une paire de ciseaux !
 sequences_a07_krankenstation_alptraum_schale_take_1#1;[Ohi scans despite his bound arm for the scissors and manages to touch them with his fingertips. He pulls it to him, and finally has it in his hand.]
-spokentexts_a07_krankenstation_alptraum_schale_take_1_st_1;All ready.
+spokentexts_a07_krankenstation_alptraum_schale_take_1_st_1;C'est prêt.
 sequences_a07_krankenstation_alptraum_schale_take_1#3;[The doctor turns to the syringe into his hand, hesitates.]
-spokentexts_a07_krankenstation_alptraum_schale_take_1_st_2;Enough of that, Mr. Zellner.
-spokentexts_a07_krankenstation_alptraum_schale_take_1_st_3;Soon it will all be behind you.
+spokentexts_a07_krankenstation_alptraum_schale_take_1_st_2;C'en est assez, M. Zellner.
+spokentexts_a07_krankenstation_alptraum_schale_take_1_st_3;Bientôt tout cela sera du passé.
 sequences_a07_krankenstation_alptraum_schale_take_1#6;[The doctor comes up to Ohi, he takes the scissor out of his hand, puts it away, and then he pushes the needle into his neck.]
 sequences_a07_krankenstation_alptraum_schale_take_1#7;[You can hear an excited heartbeat that in the end stops. Everything is black. *** Ohio is dead sequence begins again ***]
 sequences_a07_krankenstation_alptraum_schale_take_2#1;[Ohi scans despite his bound arm for the scissors and manages to touch them with his fingertips. He pulls it to him, and finally has it in his hand.]
 sequences_a07_krankenstation_alptraum_schale_take_2#2;[Ohi pushed himself with his feets back to the starting position. He keeps the scissor in his hand (idle).]
 sequences_a07_krankenstation_alptraum_schale_take_2#3;[The scissor willö be added the same time as item to the inventory.]
-texts_a07_krankenstation_alptraum_schere_mo_inventar_1;Scissors
+texts_a07_krankenstation_alptraum_schere_mo_inventar_1;Ciseaux
 spokentexts_a07_krankenstation_alptraum_schere_ex_1_st_1_direction;thinks struck, powerless
-spokentexts_a07_krankenstation_alptraum_schere_ex_1_st_1;A pair of scissors! Hope.
-texts_a07_krankenstation_alptraum_spritze_leer_mo_use_1;Use the syringe
+spokentexts_a07_krankenstation_alptraum_schere_ex_1_st_1;Une paire de ciseaux ! Peut-être une chance.
+texts_a07_krankenstation_alptraum_spritze_leer_mo_use_1;Utiliser la seringue
 sequences_a07_krankenstation_alptraum_spritze_leer_use_1#1;[The doctor raises his syringe, gets closer. Ohis hand seahrches for the empty syringe on the floor.]
 spokentexts_a07_krankenstation_alptraum_spritze_leer_use_1_st_1_direction;struck, powerless
-spokentexts_a07_krankenstation_alptraum_spritze_leer_use_1_st_1;No! Please!
+spokentexts_a07_krankenstation_alptraum_spritze_leer_use_1_st_1;Non ! Je vous en prie !
 spokentexts_a07_krankenstation_alptraum_spritze_leer_use_1_st_2_direction;reassuring
-spokentexts_a07_krankenstation_alptraum_spritze_leer_use_1_st_2;Shhhh. It's almost over.
+spokentexts_a07_krankenstation_alptraum_spritze_leer_use_1_st_2;Shhhh. C'est bientôt terminé.
 sequences_a07_krankenstation_alptraum_spritze_leer_use_1#4;[Ohis hand found the syringe.. He picks the scissor and sticks it in the cheek of the doctor.]
 spokentexts_a07_krankenstation_alptraum_spritze_leer_use_1_st_3_direction;pain
-spokentexts_a07_krankenstation_alptraum_spritze_leer_use_1_st_3;ARRGH!
+spokentexts_a07_krankenstation_alptraum_spritze_leer_use_1_st_3;ARRGH !
 sequences_a07_krankenstation_alptraum_spritze_leer_use_1#6;[The Doctor staggers back, loses his syringe, holding his cheek.]
 spokentexts_a07_krankenstation_alptraum_spritze_leer_use_1_st_4_direction;furious
-spokentexts_a07_krankenstation_alptraum_spritze_leer_use_1_st_4;I'll... !
+spokentexts_a07_krankenstation_alptraum_spritze_leer_use_1_st_4;Je vais... !
 sequences_a07_krankenstation_alptraum_spritze_leer_use_1#8;[Ohis sight is getting smaller, he is about to faint. His heart beats loudly.]
 sequences_a07_krankenstation_alptraum_spritze_leer_use_1#9;[You can see how the doctor is suddenly being hit from behind and collapses. A shadow is approaching Ohi, he can not see anymore. Fade out.]
 spokentexts_a07_krankenstation_alptraum_spritze_leer_use_1_st_5_direction;extremely distorted and slowed voice
-spokentexts_a07_krankenstation_alptraum_spritze_leer_use_1_st_5;Are you okay?!
+spokentexts_a07_krankenstation_alptraum_spritze_leer_use_1_st_5;Vous allez bien ?!
 sequences_a07_krankenstation_alptraum_spritze_leer_use_1#11;[The section is finished, fade out. Ohis heart beats on, calm down slowly. Next in the Salon section 9]
 sequences_a07_krankenstation_alptraum_spritze_leer_use_1#14;[*** END OF SECTION*** PLEASE START SECTION 9*** END OF SECTION ***]
-spokentexts__seq_bg_arzt_spricht_01_st_1;I had it in my bag. Just in case.
-spokentexts__seq_bg_arzt_spricht_01_st_2;You were supposed to be asleep. I am not a monster, you know?
-spokentexts__seq_bg_arzt_spricht_01_st_3;I... I have nothing against you. Nothing at all!
-spokentexts__seq_bg_arzt_spricht_01_st_4;But... What can I do? YOU forced my hand.
+spokentexts__seq_bg_arzt_spricht_01_st_1;J'en ai toujours dans mon sac. Juste au cas où.
+spokentexts__seq_bg_arzt_spricht_01_st_2;Vous étiez censé être endormi. Je ne suis pas un monstre, vous savez ?
+spokentexts__seq_bg_arzt_spricht_01_st_3;Je... Je n'ai rien contre vous. Absolument rien !
+spokentexts__seq_bg_arzt_spricht_01_st_4;Mais... Que puis-je faire d'autre ? VOUS me forcez la main.
 spokentexts__seq_bg_arzt_spricht_01_st_5_direction;half to himself, tired
-spokentexts__seq_bg_arzt_spricht_01_st_5;It's your fault! Yours alone.
+spokentexts__seq_bg_arzt_spricht_01_st_5;C'est de votre faute ! Uniquement la vôtre.
 sequences__seq_bg_arzt_spricht_01#5;[The doctor starts working again.]
-spokentexts__seq_bg_arzt_spricht_02_st_1;Why! Why!
-spokentexts__seq_bg_arzt_spricht_02_st_2;Why did the baroness have to snoop around?
-spokentexts__seq_bg_arzt_spricht_02_st_3;Why did YOU have to snoop around?
-spokentexts__seq_bg_arzt_spricht_02_st_4;And that glove there? You want to plant evidence on me, ja?
-spokentexts__seq_bg_arzt_spricht_02_st_5;I left no evidence. There is no trail. And yet you can't just leave me in peace, can you?
+spokentexts__seq_bg_arzt_spricht_02_st_1;Pourquoi ! Pourquoi !
+spokentexts__seq_bg_arzt_spricht_02_st_2;Pourquoi la baronne avait-elle besoin de fouiner partout ?
+spokentexts__seq_bg_arzt_spricht_02_st_3;Pourquoi VOUS avez fouiné partout ?
+spokentexts__seq_bg_arzt_spricht_02_st_4;Et ce gant là-bas ? Vous vouliez l'utiliser comme preuve contre moi, ja ?
+spokentexts__seq_bg_arzt_spricht_02_st_5;J'ai laissé aucune preuve. Aucune piste. Et pourtant, vous ne pouvez pas me laisser tranquille.
 sequences__seq_bg_arzt_spricht_02#5;[The doctor starts working again.]
 sequences__seq_bg_arzt_spricht_03#0;[The Doctor stops working, and leans with his arms on the cabinet (idle).]
 sequences__seq_bg_arzt_spricht_03#1;[The player takes control, can move Ohi.]
-spokentexts__seq_bg_arzt_spricht_03_st_1;Heart failure. Happens a lot at your age. Especially given your background.
-spokentexts__seq_bg_arzt_spricht_03_st_3;I am still considering whether I should throw you overboard. Don't leave evidence! No evidence...
-spokentexts__seq_bg_arzt_spricht_03_st_4;But what if I am seen?
-spokentexts__seq_bg_arzt_spricht_03_st_5;My plan was perfect! And then YOU ruined everything!
+spokentexts__seq_bg_arzt_spricht_03_st_1;Une insuffisance cardiaque arrive souvent à votre âge. Surtout compte tenu de vos antécédents.
+spokentexts__seq_bg_arzt_spricht_03_st_3;Je m'interroge encore si je dois vous jeter par-dessus bord. Pour ne pas laisser aucune trace ! Aucune preuve...
+spokentexts__seq_bg_arzt_spricht_03_st_4;Et si on me voit ?
+spokentexts__seq_bg_arzt_spricht_03_st_5;Mon plan était parfait ! Et VOUS avez tout gâché !
 sequences__seq_bg_arzt_spricht_03#7;[The doctor starts working again.]
 sequences_a08_krankenstation_alptraum_seq_a07_krankenstation_alptraum_oehi_erwacht#0;[Ohi sits tied and helpless in a wheelchair (idle). The doctor is at one of the cabinets and is doing there something with a syringe (idle).]
 sequences_a08_krankenstation_alptraum_seq_a07_krankenstation_alptraum_oehi_erwacht#1;[Ohi comes slowly to himself. He notes that he is tied up and tries to free himself. He does not succeed.]
 sequences_a08_krankenstation_alptraum_seq_a07_krankenstation_alptraum_oehi_erwacht#2;[The doctor noticed that Ohi's awake. He talks overthe shoulder with him, stop working (idle).]
 spokentexts_a08_krankenstation_alptraum_seq_a07_krankenstation_alptraum_oehi_erwacht_st_1_direction;emotionless, absent
-spokentexts_a08_krankenstation_alptraum_seq_a07_krankenstation_alptraum_oehi_erwacht_st_1;Why couldn't you just leave it be?
+spokentexts_a08_krankenstation_alptraum_seq_a07_krankenstation_alptraum_oehi_erwacht_st_1;Pourquoi ne pouviez-vous pas simplement laisser tomber ?
 spokentexts_a08_krankenstation_alptraum_seq_a07_krankenstation_alptraum_oehi_erwacht_st_2_direction;struck, powerless
-spokentexts_a08_krankenstation_alptraum_seq_a07_krankenstation_alptraum_oehi_erwacht_st_2;Let... Let me go!
+spokentexts_a08_krankenstation_alptraum_seq_a07_krankenstation_alptraum_oehi_erwacht_st_2;Laiss... Laissez-moi partir !
 sequences_a08_krankenstation_alptraum_seq_a07_krankenstation_alptraum_oehi_erwacht#5;[The doctor looks forward again, lowering his head.]
 spokentexts_a08_krankenstation_alptraum_seq_a07_krankenstation_alptraum_oehi_erwacht_st_3_direction;quiet, bitter
-spokentexts_a08_krankenstation_alptraum_seq_a07_krankenstation_alptraum_oehi_erwacht_st_3;Why are you doing this to me?
+spokentexts_a08_krankenstation_alptraum_seq_a07_krankenstation_alptraum_oehi_erwacht_st_3;Pourquoi faites-vous ça ?
 spokentexts_a08_krankenstation_alptraum_seq_a07_krankenstation_alptraum_oehi_erwacht_st_4_direction;angry
-spokentexts_a08_krankenstation_alptraum_seq_a07_krankenstation_alptraum_oehi_erwacht_st_4;You and the baroness!
+spokentexts_a08_krankenstation_alptraum_seq_a07_krankenstation_alptraum_oehi_erwacht_st_4;Vous et la Baronne !
 spokentexts_a08_krankenstation_alptraum_seq_a07_krankenstation_alptraum_oehi_erwacht_st_5_direction;struck, powerless
-spokentexts_a08_krankenstation_alptraum_seq_a07_krankenstation_alptraum_oehi_erwacht_st_5;Dr. Gebhardt... I don't know...
+spokentexts_a08_krankenstation_alptraum_seq_a07_krankenstation_alptraum_oehi_erwacht_st_5;Dr. Gebhardt... J'ignore...
 sequences_a08_krankenstation_alptraum_seq_a07_krankenstation_alptraum_oehi_erwacht#9;[The doctor spins around, is lightning fast on the wheelchair, leaning on the armrests and is with his face close to Ohi (idle).]
 spokentexts_a08_krankenstation_alptraum_seq_a07_krankenstation_alptraum_oehi_erwacht_st_7_direction;angry, loud
-spokentexts_a08_krankenstation_alptraum_seq_a07_krankenstation_alptraum_oehi_erwacht_st_7;Don't you understand what you're forcing me to do?!
+spokentexts_a08_krankenstation_alptraum_seq_a07_krankenstation_alptraum_oehi_erwacht_st_7;Vous ignorez qu'est-ce que vous me forcez à faire ?!
 spokentexts_a08_krankenstation_alptraum_seq_a07_krankenstation_alptraum_oehi_erwacht_st_8_direction;struck, powerless
-spokentexts_a08_krankenstation_alptraum_seq_a07_krankenstation_alptraum_oehi_erwacht_st_8;You... You don't have to...
+spokentexts_a08_krankenstation_alptraum_seq_a07_krankenstation_alptraum_oehi_erwacht_st_8;Vous... Vous n'avez pas...
 sequences_a08_krankenstation_alptraum_seq_a07_krankenstation_alptraum_oehi_erwacht#13;[The doctor is aware of how he behaves. He gets up, picks perhaps Ohis clothes, getting up himself.]
-spokentexts_a08_krankenstation_alptraum_seq_a07_krankenstation_alptraum_oehi_erwacht_st_9;It is almost over. You won't feel a thing.
-spokentexts_a08_krankenstation_alptraum_seq_a07_krankenstation_alptraum_oehi_erwacht_st_10;I'm sorry you have to see all this. I should have used more chloroform.
+spokentexts_a08_krankenstation_alptraum_seq_a07_krankenstation_alptraum_oehi_erwacht_st_9;Tou sera bientôt terminé. Vous ne vous sentirez rien.
+spokentexts_a08_krankenstation_alptraum_seq_a07_krankenstation_alptraum_oehi_erwacht_st_10;Je suis navré que vous deviez assister à tout cela. J'aurais dû utiliser plus de chloroforme.
 sequences_a08_krankenstation_alptraum_seq_a07_krankenstation_alptraum_oehi_erwacht#16;[The doctor goes back to the closet, makes something (idle).]
 sequences_a08_krankenstation_alptraum_seq_a07_krankenstation_alptraum_tod_auf_boden#0;[The doctor raises his syringe, gets closer.]
 sequences_a08_krankenstation_alptraum_seq_a07_krankenstation_alptraum_tod_auf_boden#3;[Ohi tries to fight but he is weak, the doctor presses his arms to the side and pushes him the syringe into the neck.]
@@ -117,47 +117,47 @@ sequences_a08_krankenstation_alptraum_seq_a07_krankenstation_alptraum_wiedereins
 sequences_a08_krankenstation_alptraum_seq_a07_krankenstation_alptraum_wiedereinstieg_nach_tod_boden#0;[Ohi is back in the wheelchair, scissor in his hand, foot rests above.]
 sequences_a08_krankenstation_alptraum_seq_a07_krankenstation_alptraum_wiedereinstieg_nach_tod_boden#1;[Ohi gets up unsteadily from the wheelchair, takes a step to the doctor and takes the scissor. He crashed forward. He is too weak and he is too dizzy to walk.]
 sequences_a08_krankenstation_alptraum_seq_a07_krankenstation_alptraum_wiedereinstieg_nach_tod_boden#2;[As his falls Ohi loses the scissors and tears a bowl of swabs, etc. but also with an empty syringe from the cabinet. The content is falling to the floor. The doctor spins around, looks at Ohi(idle).]
-spokentexts_a08_krankenstation_alptraum_seq_a07_krankenstation_alptraum_wiedereinstieg_nach_tod_boden_st_1;Take it easy, Mr. Zellner!
-spokentexts_a08_krankenstation_alptraum_seq_a07_krankenstation_alptraum_wiedereinstieg_nach_tod_boden_st_2;You'll only hurt yourself!
+spokentexts_a08_krankenstation_alptraum_seq_a07_krankenstation_alptraum_wiedereinstieg_nach_tod_boden_st_1;Doucement, Mr. Zellner !
+spokentexts_a08_krankenstation_alptraum_seq_a07_krankenstation_alptraum_wiedereinstieg_nach_tod_boden_st_2;N'allez pas vous blesser !
 sequences_a08_krankenstation_alptraum_seq_a07_krankenstation_alptraum_wiedereinstieg_nach_tod_boden#5;[The doctor turns around, takes the syringe and then turns to Ohi.]
-spokentexts_a08_krankenstation_alptraum_seq_a07_krankenstation_alptraum_wiedereinstieg_nach_tod_boden_st_3;Shall we begin?
+spokentexts_a08_krankenstation_alptraum_seq_a07_krankenstation_alptraum_wiedereinstieg_nach_tod_boden_st_3;Pouvons-nous commencer ?
 sequences_a08_krankenstation_alptraum_seq_a07_krankenstation_alptraum_wiedereinstieg_nach_tod_boden#7;[Ohi is trying to get away from the doctor. He can not. He manages only to press up his back against the wall.]
 sequences_a08_krankenstation_alptraum_seq_a07_krankenstation_alptraum_wiedereinstieg_nach_tod_boden#8;[Cut. The camera is close on Ohi at the cabinet wall.]
 sequences_a08_krankenstation_alptraum_seq_a07_krankenstation_alptraum_wiedereinstieg_nach_tod_boden#9;[You can see how the doctor comes to Ohi and kneel in front of him.]
-texts_arzt_mo_rede_mit_1-4;Talk to Dr. Gebhardt
-texts_arzt_mo_use_1;Overwhelm Dr. Gebhardt
-texts_arzt_mo_used_mit_schere;Attack Dr. Gebhardt
-texts_arzt_top_a08_arzt_betaeubung_tseq_title;Anesthesia
+texts_arzt_mo_rede_mit_1-4;Parler au Dr. Gebhardt
+texts_arzt_mo_use_1;Se jeter sur le Dr. Gebhardt
+texts_arzt_mo_used_mit_schere;Attaquer le Dr. Gebhardt
+texts_arzt_top_a08_arzt_betaeubung_tseq_title;Anesthésie
 spokentexts_arzt_top_a08_arzt_betaeubung_tseq_st_1_direction;struck, powerless
-spokentexts_arzt_top_a08_arzt_betaeubung_tseq_st_1;Chloroform?
+spokentexts_arzt_top_a08_arzt_betaeubung_tseq_st_1;Chloroforme ?
 sequences_arzt_top_a08_arzt_betaeubung_tseq#1;[The Doctor stops working, and leans with his arms on the cabinet (idle).]
 sequences_arzt_top_a08_arzt_betaeubung_tseq#2;[The player takes control, can move Ohi.]
-texts_arzt_top_a08_arzt_mord_an_baronin_tseq_title;Murder of the baroness
+texts_arzt_top_a08_arzt_mord_an_baronin_tseq_title;Meurtre de la Baronne
 spokentexts_arzt_top_a08_arzt_mord_an_baronin_tseq_st_1_direction;struck, powerless
-spokentexts_arzt_top_a08_arzt_mord_an_baronin_tseq_st_1;Why?
+spokentexts_arzt_top_a08_arzt_mord_an_baronin_tseq_st_1;Pourquoi ?
 sequences_arzt_top_a08_arzt_mord_an_baronin_tseq#1;[The Doctor stops working, and leans with his arms on the cabinet (idle).]
 sequences_arzt_top_a08_arzt_mord_an_baronin_tseq#9;[Dialogue is finished.]
-texts_arzt_top_a08_arzt_plan_tseq_title;His plan
+texts_arzt_top_a08_arzt_plan_tseq_title;Son plan
 spokentexts_arzt_top_a08_arzt_plan_tseq_st_1_direction;struck, powerless
-spokentexts_arzt_top_a08_arzt_plan_tseq_st_1;And what next?
+spokentexts_arzt_top_a08_arzt_plan_tseq_st_1;Et ensuite ?
 sequences_arzt_top_a08_arzt_plan_tseq#1;[The Doctor stops working, and leans with his arms on the cabinet (idle).]
 sequences_arzt_top_a08_arzt_plan_tseq#2;[The player takes control, can move Ohi.]
 sequences_arzt_top_a08_arzt_plan_tseq#8;[The doctor starts working again.]
 sequences_arzt_top_a08_arzt_plan_tseq#9;[Dialogue is finished.]
 spokentexts_arzt_ex_1_st_1_direction;thinks struck, powerless
-spokentexts_arzt_ex_1_st_1;Dr. Gebhardt... won't need much longer...
+spokentexts_arzt_ex_1_st_1;Dr. Gebhardt... n'en aura plus pour longtemps...
 spokentexts_arzt_talk_mit_1_st_1_direction;thinks struck, powerless
-spokentexts_arzt_talk_mit_1_st_1;Have to... distract him.
+spokentexts_arzt_talk_mit_1_st_1;Besoin... le distraire.
 spokentexts_arzt_talk_mit_2_st_1_direction;thinks struck, powerless
-spokentexts_arzt_talk_mit_2_st_1;Keep... talking...
+spokentexts_arzt_talk_mit_2_st_1;Continuer... lui parler...
 spokentexts_arzt_talk_mit_3_st_1_direction;thinks struck, powerless
-spokentexts_arzt_talk_mit_3_st_1;On...and on!
+spokentexts_arzt_talk_mit_3_st_1;Encore... et encore !
 sequences_arzt_talk_mit_3#2;[Dialogue between Ohi and the doctor begins.]
 spokentexts_arzt_talk_mit_4_st_1_direction;struck, powerless
-spokentexts_arzt_talk_mit_4_st_1;What... have you...
+spokentexts_arzt_talk_mit_4_st_1;Qu'... avez-vous...
 sequences_arzt_talk_mit_4#2;[The doctor turned around in surprise.]
-spokentexts_arzt_talk_mit_4_st_2;Mr. Zellner? What are you doing back there?
-spokentexts_arzt_talk_mit_4_st_3;Well, no matter. I'm ready now.
+spokentexts_arzt_talk_mit_4_st_2;Mr. Zellner ? Que faites-vous là ?
+spokentexts_arzt_talk_mit_4_st_3;Bon, peu importe. Je suis prêt.
 sequences_arzt_talk_mit_4#5;[The doctor turned back briefly, takes the syringe.]
 sequences_arzt_talk_mit_4#6;[The doctor gets close to Ohi at the rolling table, presses him the syringe into his neck.]
 sequences_arzt_talk_mit_4#7;"[Everything is black. Fade-out. Continue with the sequence ""Wiedereinstieg_nach_Tod"".]"
