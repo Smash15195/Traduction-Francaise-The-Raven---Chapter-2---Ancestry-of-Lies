@@ -22,7 +22,7 @@ spokentexts_ermittler_top_a09_ermittler_doktor_gebhardt_tseq_st_5;Le modus opera
 sequences_ermittler_top_a09_ermittler_doktor_gebhardt_tseq#5;[The investigator looks at Ohi.]
 spokentexts_ermittler_top_a09_ermittler_doktor_gebhardt_tseq_st_6;Les légendes sont rarement ce qu'elles semblent être, Officier Zellner.
 sequences_ermittler_top_a09_ermittler_doktor_gebhardt_tseq#8;[The investigator looks back to the sea.]
-texts_ermittler_top_a09_ermittler_schuss_antwort1_tseq_title;Le tir était une diversion
+texts_ermittler_top_a09_ermittler_schuss_antwort1_tseq_title;Le tir était une diversion.
 spokentexts_ermittler_top_a09_ermittler_schuss_antwort1_tseq_st_1;Le coup de feu était juste une diversion.
 spokentexts_ermittler_top_a09_ermittler_schuss_antwort1_tseq_st_2;Ce n'est pas le coup de feu qui a tué la Baronne.
 spokentexts_ermittler_top_a09_ermittler_schuss_antwort1_tseq_st_3;Mais comment...
@@ -104,110 +104,110 @@ spokentexts_schriftstellerin_top_a09_ermittler_erschossen_antwort1_tseq_st_3_dir
 spokentexts_schriftstellerin_top_a09_ermittler_erschossen_antwort1_tseq_st_3;Ha ha !
 spokentexts_schriftstellerin_top_a09_ermittler_erschossen_antwort1_tseq_st_4;Elle a dû être abattue.
 spokentexts_schriftstellerin_top_a09_ermittler_erschossen_antwort1_tseq_st_5;Très bien, le génie - où a-t-elle été tuée?
-texts_schriftstellerin_top_a09_ermittler_erschossen_antwort2_tseq_title;The doctor in the medical facility
+texts_schriftstellerin_top_a09_ermittler_erschossen_antwort2_tseq_title;Dans le centre médicale
 spokentexts_schriftstellerin_top_a09_ermittler_erschossen_antwort2_tseq_st_1_direction;embarrassed
-spokentexts_schriftstellerin_top_a09_ermittler_erschossen_antwort2_tseq_st_1;Then... It was the doctor, of course.
-spokentexts_schriftstellerin_top_a09_ermittler_erschossen_antwort2_tseq_st_2;As I already said, it was Doctor Gebhardt.
-spokentexts_schriftstellerin_top_a09_ermittler_erschossen_antwort2_tseq_st_3;He had the sleeping baroness brought to the medical center where he had all the time in the world to shoot her.
-spokentexts_schriftstellerin_top_a09_ermittler_erschossen_antwort2_tseq_st_4;A fine theory, but, unfortunately, incorrect. I examined the baroness before she was taken away. She had a bullet wound in her chest.
-spokentexts_schriftstellerin_top_a09_ermittler_erschossen_antwort2_tseq_st_5;Besides which, she was already cold when we brought her to the medical centre.
-spokentexts_schriftstellerin_top_a09_ermittler_erschossen_antwort2_tseq_st_6;All the same, it's worth considering the possibility...
-texts_schriftstellerin_top_a09_ermittler_erschossen_antwort3_tseq_title;The doctor in the cabin
-spokentexts_schriftstellerin_top_a09_ermittler_erschossen_antwort3_tseq_st_3;He shot the sleeping baroness in her cabin. Barely ten meters away from us.
+spokentexts_schriftstellerin_top_a09_ermittler_erschossen_antwort2_tseq_st_1;Alors ... C'était le médecin, bien sûr.
+spokentexts_schriftstellerin_top_a09_ermittler_erschossen_antwort2_tseq_st_2;Comme je l'ai déjà dit, c'était le docteur Gebhardt.
+spokentexts_schriftstellerin_top_a09_ermittler_erschossen_antwort2_tseq_st_3;Il a emmené la Baronne endormie au centre médical où il a eu tout le temps de la tuer.
+spokentexts_schriftstellerin_top_a09_ermittler_erschossen_antwort2_tseq_st_4;Une belle théorie, mais, malheureusement, fausse. J'ai examiné la Baronne avant qu'elle ne soit emportée. Elle avait une blessure par balle à la poitrine.
+spokentexts_schriftstellerin_top_a09_ermittler_erschossen_antwort2_tseq_st_5;D'ailleurs, elle était déjà froide quand on l'a emmené au centre médical.
+spokentexts_schriftstellerin_top_a09_ermittler_erschossen_antwort2_tseq_st_6;Tout de même, il serait intéressant d'envisager la possibilité...
+texts_schriftstellerin_top_a09_ermittler_erschossen_antwort3_tseq_title;Le docteur dans la cabine
+spokentexts_schriftstellerin_top_a09_ermittler_erschossen_antwort3_tseq_st_3;Il a tiré sur la Baronne endormie dans sa cabine. A peine à dix mètres de nous.
 spokentexts_schriftstellerin_top_a09_ermittler_erschossen_antwort3_tseq_st_4_direction;stunned
-spokentexts_schriftstellerin_top_a09_ermittler_erschossen_antwort3_tseq_st_4;What are you saying?
+spokentexts_schriftstellerin_top_a09_ermittler_erschossen_antwort3_tseq_st_4;Qu'est-ce que vous dites ?
 sequences_a09_hinterdeck_seq_a09_hinterdeck_gespraech_anfang#0;[The investigator stands at the railing, looking over the sea. Ohi comes quickly out of the salon, then slowed his pace. He is unsure how to proceed.]
-spokentexts_a09_hinterdeck_seq_a09_hinterdeck_gespraech_anfang_st_1;Inspector?
-spokentexts_a09_hinterdeck_seq_a09_hinterdeck_gespraech_anfang_st_2;I was right.
-spokentexts_a09_hinterdeck_seq_a09_hinterdeck_gespraech_anfang_st_3;I told them all. Over and over again. But no one would listen.
+spokentexts_a09_hinterdeck_seq_a09_hinterdeck_gespraech_anfang_st_1;Inspecteur ?
+spokentexts_a09_hinterdeck_seq_a09_hinterdeck_gespraech_anfang_st_2;J'avais raison.
+spokentexts_a09_hinterdeck_seq_a09_hinterdeck_gespraech_anfang_st_3;Je leur ai tout dit. À maintes reprises. Mais personne ne voulait l'entendre.
 sequences_a09_hinterdeck_seq_a09_hinterdeck_gespraech_anfang#4;[Ohi stands next to the investigator at the railing, looking at him. The investigator looks  to the sea.]
 sequences_a09_salon_seq_a09_salon_anfang#0;[Fade in. We see the salon in nice sunlight. Ohi lies on a couch, has a towel over his head. Around him is the investigator and the captain.]
 sequences_a09_salon_seq_a09_salon_anfang#1;[In the background, the writer is sitting in her wheelchair. The young woman is also present and seems concerned.]
 sequences_a09_salon_seq_a09_salon_anfang#2;"[Ohi lies there like dead with a towel over his head (idle). The player should just think ""is he dead?"". Ohi takes the towel and holds it up for the captain.]"
-spokentexts_a09_salon_seq_a09_salon_anfang_st_1;Thanks.
-spokentexts_a09_salon_seq_a09_salon_anfang_st_2;A wet towel works miracles! I told you so!
+spokentexts_a09_salon_seq_a09_salon_anfang_st_1;Merci.
+spokentexts_a09_salon_seq_a09_salon_anfang_st_2;Une serviette humide fait des miracles ! Je vous l'avais bien dit !
 sequences_a09_salon_seq_a09_salon_anfang#5;[The captain takes the towel, putts it away. Ohi brings himself into a talk-position (idle).]
-spokentexts_a09_salon_seq_a09_salon_anfang_st_3;Out with it, then - what were you doing down there?
-spokentexts_a09_salon_seq_a09_salon_anfang_st_4;Inspector! At least let the constable recover his breath!
+spokentexts_a09_salon_seq_a09_salon_anfang_st_3;Hormis tout ça - Que faisiez-vous là-bas ?
+spokentexts_a09_salon_seq_a09_salon_anfang_st_4;Inspecteur ! Laissez au moins l'Officier reprendre son souffle !
 sequences_a09_salon_seq_a09_salon_anfang#8;[The investigator whirls aggressive.]
 spokentexts_a09_salon_seq_a09_salon_anfang_st_5_direction;harsh
-spokentexts_a09_salon_seq_a09_salon_anfang_st_5;He almost killed himself!
+spokentexts_a09_salon_seq_a09_salon_anfang_st_5;Il a faillit se tuer !
 spokentexts_a09_salon_seq_a09_salon_anfang_st_6_direction;loud, energetic
-spokentexts_a09_salon_seq_a09_salon_anfang_st_6;Me?! No.
+spokentexts_a09_salon_seq_a09_salon_anfang_st_6;Moi ?! Non.
 sequences_a09_salon_seq_a09_salon_anfang#11;[The investigator turns back.]
-spokentexts_a09_salon_seq_a09_salon_anfang_st_7;Dr. Gebhardt would have taken care of that for me. Where is he?
-spokentexts_a09_salon_seq_a09_salon_anfang_st_8;Gebhardt?
-spokentexts_a09_salon_seq_a09_salon_anfang_st_9;He's vanished without a trace. We're searching the ship from top to bottom.
+spokentexts_a09_salon_seq_a09_salon_anfang_st_7;Le docteur Gebhardt aurait pu s'occuper de cela pour moi. Où est-il ?
+spokentexts_a09_salon_seq_a09_salon_anfang_st_8;Gebhardt ?
+spokentexts_a09_salon_seq_a09_salon_anfang_st_9;Il a disparu sans laisser de trace. Nous fouillons le navire de fond en comble.
 spokentexts_a09_salon_seq_a09_salon_anfang_st_10_direction;impatient, pulls himself up
-spokentexts_a09_salon_seq_a09_salon_anfang_st_10;One at a time. Tell me, Zellner. What did you find out?
-spokentexts_a09_salon_seq_a09_salon_anfang_st_11;Dr. Gebhardt killed Baroness von Trebitz.
+spokentexts_a09_salon_seq_a09_salon_anfang_st_10;Un à la fois. Dites-moi, Zellner. Qu'avez-vous découvert ?
+spokentexts_a09_salon_seq_a09_salon_anfang_st_11;Le docteur Gebhardt a tué la Baronne von Trebitz.
 spokentexts_a09_salon_seq_a09_salon_anfang_st_12_direction;indignantly
-spokentexts_a09_salon_seq_a09_salon_anfang_st_12;Impossible!
-spokentexts_a09_salon_seq_a09_salon_anfang_st_13;Do you have proof?
+spokentexts_a09_salon_seq_a09_salon_anfang_st_12;Impossible !
+spokentexts_a09_salon_seq_a09_salon_anfang_st_13;Vous avez des preuves ?
 spokentexts_a09_salon_seq_a09_salon_anfang_st_14_direction;aggressive
-spokentexts_a09_salon_seq_a09_salon_anfang_st_14;Besides the fact that he wanted to kill me?
-spokentexts_a09_salon_seq_a09_salon_anfang_st_15;But wasn't the doctor with you when the shot was fired?
+spokentexts_a09_salon_seq_a09_salon_anfang_st_14;Outre le fait qu'il voulait me tuer ?
+spokentexts_a09_salon_seq_a09_salon_anfang_st_15;Mais n'était-il pas avec vous lorsque le coup a été tiré ?
 spokentexts_a09_salon_seq_a09_salon_verhoer_teil1_ende_st_1_direction;pulls himself up
-spokentexts_a09_salon_seq_a09_salon_verhoer_teil1_ende_st_1;All right.
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil1_ende_st_1;Très bien.
 sequences_a09_salon_seq_a09_salon_verhoer_teil1_ende#1;[The door of the salon opens fast, the guard enters. He has an envelope in his hand.]
 spokentexts_a09_salon_seq_a09_salon_verhoer_teil1_ende_st_2_direction;except breathing, excited
-spokentexts_a09_salon_seq_a09_salon_verhoer_teil1_ende_st_2;Inspector Legrand!
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil1_ende_st_2;Inspecteur Legrand !
 sequences_a09_salon_seq_a09_salon_verhoer_teil1_ende#3;[The investigator brings him with a gesture to silence. The guard wants to say something familiar, but did not. He stands with the letter in his hand, waiting for his chance.]
 spokentexts_a09_salon_seq_a09_salon_verhoer_teil1_ende_st_3_direction;pulls himself up
-spokentexts_a09_salon_seq_a09_salon_verhoer_teil1_ende_st_3;Let's pretend you're on to something. The shot we heard was just a recording. What happened next?
-spokentexts_a09_salon_seq_a09_salon_verhoer_teil1_ende_st_4;We all ran to the baroness' cabin.
-spokentexts_a09_salon_seq_a09_salon_verhoer_teil1_ende_st_5;She lay comatose in a pool of blood. Doctor Gebhardt pushed past you so that you couldn't get too close to the baroness.
-spokentexts_a09_salon_seq_a09_salon_verhoer_teil1_ende_st_6;He examined her and pronounced her dead. There was no reason for us to doubt him! The shot, the blood, the baroness lying there lifelessly...
-spokentexts_a09_salon_seq_a09_salon_verhoer_teil1_ende_st_7;But she was only unconscious... Knocked out by the chloral hydrate that the doctor had poured into her glass shortly before.
-spokentexts_a09_salon_seq_a09_salon_verhoer_teil1_ende_st_8;The doctor had a glass in his hand when you came in!
-spokentexts_a09_salon_seq_a09_salon_verhoer_teil1_ende_st_9;He wanted to remove the evidence. But you gave me the glass instead, Captain di Conti, and unintentionally knocked me out as well.
-spokentexts_a09_salon_seq_a09_salon_verhoer_teil1_ende_st_10;Nonsense! There was blood everywhere! And the baroness is certainly dead enough, isn't she?
-spokentexts_a09_salon_seq_a09_salon_verhoer_teil1_ende_st_11;Then WHO did shoot her and WHEN?
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil1_ende_st_3;Faisons comme si c'était bien le cas. Le coup que nous avons entendu était juste un enregistrement. Que s'est-il passé ensuite ?
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil1_ende_st_4;Nous avons tous couru vers la cabine de la Baronne.
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil1_ende_st_5;Elle gisait dans une mare de sang. Le docteur Gebhardt nous a poussé, afin que nous ne puissions pas approcher de trop près la Baronne.
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil1_ende_st_6;Il l'a examiné et a prononcé sa mort. Il n'y avait aucune raison de douter de lui ! Le coup de feu, le sang, la Baronne couché sans vie...
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil1_ende_st_7;Mais elle était seulement inconscient... Assommée par l'hydrate de chloral que le médecin avait versé dans son verre un peu avant.
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil1_ende_st_8;Le médecin avait un verre à la main quand vous êtes arrivé !
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil1_ende_st_9;Il voulait faire disparaitre la preuve. Mais vous m'avez donné le verre à la place, Capitaine di Conti, et involontairement drogué aussi.
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil1_ende_st_10;Balivernes ! Il y avait du sang partout ! Et la Baronne était certainement morte, non ?
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil1_ende_st_11;Alors, QUI l'a tué et quand ?
 spokentexts_a09_salon_seq_a09_salon_verhoer_teil2_ende_st_1_direction;thoughtfully
-spokentexts_a09_salon_seq_a09_salon_verhoer_teil2_ende_st_1;The doctor was alone in the cabin for a while. When the alarm went off, it was deafening - I couldn't even hear myself...
-spokentexts_a09_salon_seq_a09_salon_verhoer_teil2_ende_st_2;And I found a pillow with burn marks. Could have been used to muffle a gunshot.
-spokentexts_a09_salon_seq_a09_salon_verhoer_teil2_ende_st_3;And the blood?
-spokentexts_a09_salon_seq_a09_salon_verhoer_teil2_ende_st_4;The blood wasn't real. Dr. Gebhardt mixed up a liquid that looked like fresh blood to the casual observer.
-spokentexts_a09_salon_seq_a09_salon_verhoer_teil2_ende_st_5;But the liquid remained red instead of becoming darker and browner from exposure to the air. That meant he had to clean the body and get rid of the bedding.
-spokentexts_a09_salon_seq_a09_salon_verhoer_teil2_ende_st_6;But the blood was already there when we first entered the cabin!
-spokentexts_a09_salon_seq_a09_salon_verhoer_teil2_ende_st_7;Dr. Gebhardt was in the baroness' cabin before the murder. He hid a surgical glove full of the red liquid under her sheet.
-spokentexts_a09_salon_seq_a09_salon_verhoer_teil2_ende_st_8;"The baroness, dead-tired, fell onto her bed, the glove burst and the ""blood"" spread across the bed. I found the burst glove in the medical center."
-spokentexts_a09_salon_seq_a09_salon_verhoer_teil2_ende_st_9;But... Why did he do it? What was his motive?
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil2_ende_st_1;Le médecin a été seul dans la cabine pendant un petit moment. Lorsque l'alarme s'est déclenchée, elle était assourdissant - Je n'arrivais même pas m'entendre...
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil2_ende_st_2;Et j'ai trouvé un oreiller avec des traces de brûlures. Il aurait pu être utilisé pour étouffer un coup de feu.
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil2_ende_st_3;Et le sang ?
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil2_ende_st_4;Le sang n'était pas vrai. Le docteur Gebhardt a fabriqué un liquide qui ressemblait à du sang frais pour un observateur néophyte.
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil2_ende_st_5;Mais le liquide est resté rouge au lieu de devenir plus sombre et plus brun à l'exposition à l'air. Cela signifiait qu'il devait nettoyer le corps et se débarrasser de la literie.
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil2_ende_st_6;Mais le sang était déjà là quand nous sommes entrés dans la cabine !
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil2_ende_st_7;Le docteur Gebhardt était dans la cabine de la Baronne avant de l'assassiner. Il a caché un gant chirurgical rempli de ce liquide rouge sous son drap.
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil2_ende_st_8;"La baronne, fourbue, est tombée sur son lit, éclatant le gant et le ""sang"" s'est répandu sur le lit. J'ai trouvé un gant déchiré dans le centre médical."
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil2_ende_st_9;Mais... Pourquoi a t-il fait ça ? Quelle était son mobile ?
 sequences_a09_salon_seq_a09_salon_verhoer_teil2_ende#9;[The guard tries to intervene and re-emphasizes the letter.]
 spokentexts_a09_salon_seq_a09_salon_verhoer_teil2_ende_st_10_direction;jostling
-spokentexts_a09_salon_seq_a09_salon_verhoer_teil2_ende_st_10;Inspector!
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil2_ende_st_10;Inspecteur !
 sequences_a09_salon_seq_a09_salon_verhoer_teil2_ende#11;[The inspector takes the letter, but did not look into it. He focuses on Ohi. The guard tries to draw the attention of the investigator at the letter, but gives up then.]
 spokentexts_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_1_direction;it bursts out of him
-spokentexts_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_1;No, no, no!
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_1;Non, non, non !
 sequences_a09_salon_seq_a09_salon_verhoer_teil3_ende#1;[All presents people stare at the guard.]
-spokentexts_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_2;Do you have anything to contribute, Constable?
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_2;Vous avez quelque chose à nous dire, Officier ?
 sequences_a09_salon_seq_a09_salon_verhoer_teil3_ende#3;[The guard points to the letter.]
-spokentexts_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_3;Uh, c-confession, sir.
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_3;Euh, ses a-aveux, monsieur.
 sequences_a09_salon_seq_a09_salon_verhoer_teil3_ende#5;[The investigator stares at the letter in his hand as he would notice it just now. He folded it up and reads it.]
-spokentexts_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_4;Doctor Gebhardt WAS the Raven!
-spokentexts_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_5;It's all here. He admits to everything.
-spokentexts__seq_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_6;What does it say?
-spokentexts__seq_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_7;It says:
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_4;Le docteur Gebhardt était le Corbeau !
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_5;Tout est là. Il avoue tout.
+spokentexts__seq_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_6;Qu'est-ce qui est écrit ?
+spokentexts__seq_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_7;C'est écrit :
 spokentexts__seq_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_8_direction;reads
-spokentexts__seq_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_8;"""Do you still remember, my dear Nico? The streets were wet with rain and the scent of roasted barley and fermenting yeast wafted over to us from the brewery."""
+spokentexts__seq_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_8;"""Vous vous souvenez, mon cher Nico ? Les rues étaient mouillés par la pluie, l'odeur d'orge torréfié et de levure de la brasserie flottait jusqu'à nous."""
 spokentexts__seq_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_9_direction;reads
-spokentexts__seq_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_9;"""A dog barked until your shot struck down the innocent one. After that - silence. Not a single sound, except for my soft steps fading on the wet cobblestone street."""
+spokentexts__seq_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_9;"""Un chien aboya jusqu'à ce que votre tir frappa un innocent. Vînt alors - le silence. Pas un son, à l'exception de mes foulées feutrées résonant sur les pavés humide de la rue."""
 sequences_a09_salon_seq_a09_salon_verhoer_teil3_ende#12;[The author and Ohio are looking concerned to each other.]
 spokentexts__seq_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_10_direction;reads
-spokentexts__seq_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_10;"""They made a hero of you and I, at last, found peace... At least, until the urge returned. Some of us are not made for retirement, my friend."""
+spokentexts__seq_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_10;"""Ils ont fait de vous un héros et moi, j'y ai enfin trouvé la paix... Du moins, jusqu'à ce que le désir revienne. Certains d'entre nous ne sont pas faits pour la retraite, mon ami."""
 spokentexts__seq_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_11_direction;reads
-spokentexts__seq_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_11;"""I thought they would assign this case to you, and that thought pleased me. We'd finally find out who was truly the better man."""
+spokentexts__seq_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_11;"""Je pensais qu'ils allaient vous attribuer cette affaire, et cette pensée m'a plu. Nous saurions enfin qui était vraiment le meilleur."""
 spokentexts__seq_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_12_direction;reads
-spokentexts__seq_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_12;"""And it pains me now to have to admit that you and your little gumshoe got the better of me. You drove me into a corner. Forced me to make mistakes."""
+spokentexts__seq_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_12;"""Et ça me fait mal maintenant d'avoir à admettre que vous et votre petit détective êtes meilleur que moi. Vous m'avez repoussé dans mes retranchements. Me poussant à la faute."""
 spokentexts__seq_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_13_direction;reads
-spokentexts__seq_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_13;"""I congratulate you on your triumph. But no one will confine the Raven to a cage."""
+spokentexts__seq_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_13;"""Je vous félicite pour votre victoire. Mais personne n'enfermera le Corbeau dans une cage."""
 spokentexts__seq_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_14_direction;reads
-spokentexts__seq_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_14;"""There is but one way out, and that is by my own hand."""
+spokentexts__seq_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_14;"""Il n'y a qu'une seule porte de sortie, et ce sera par mes propres mains."""
 spokentexts__seq_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_15_direction;reads
-spokentexts__seq_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_15;"""Farewell, Raven Hunter."""
+spokentexts__seq_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_15;"""Adieu, Traqueur de Corbeau."""
 spokentexts__seq_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_16_direction;reads
 spokentexts__seq_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_16;"""R."""
 sequences_a09_salon_seq_a09_salon_verhoer_teil3_ende#20;[The investigator lets the letter down, he's like petrified. Then he pushes the guard the letter on his chest and goes fast toward the rear deck from the Saloon.]
 sequences_a09_salon_seq_a09_salon_verhoer_teil3_ende#21;[The guard is irritated, wants to call back Legrand, but stops then.]
-spokentexts__seq_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_17;Inspector Legrand!
+spokentexts__seq_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_17;Inspecteur Legrand !
 sequences_a09_salon_seq_a09_salon_verhoer_teil3_ende#23;[Ohi looks at the security guard, then to the writer, who throws him a serious look. Ohi goes behind Legrand.]
