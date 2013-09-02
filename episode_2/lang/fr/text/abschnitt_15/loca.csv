@@ -9,10 +9,10 @@ texts_a15_frachtraum_gurt_mo_inventar_2;Courroie avec couteau
 texts_a15_frachtraum_gurt_mo_inventar_mit_gurt;Courroie avec tuyau
 texts_a15_frachtraum_gurt_mo_take_1;Prenez la sangle
 texts_a15_frachtraum_gurt_mo_used_mit_messer_2;Collez le couteau à travers la sangle
-texts_a15_frachtraum_gurt_mo_used_mit_rohr_1;Liez la conduite et la sangle ensemble
+texts_a15_frachtraum_gurt_mo_used_mit_rohr_1;Liez le tuyau et la sangle ensemble
 texts_a15_frachtraum_gurt_mo_used_mit_messer_1;Coupez la sangle 
 sequences_a15_frachtraum_gurt_ex_1#1;[The Arab stretched one arm out as far as he can out of the chest and gropes around on the shelf and on the belt. Idle with his hand on the belt.]
-spokentexts_a15_frachtraum_gurt_ex_1_st_1;Semble être une sangle pour tenir quelque chose sur l'étagère au-dessus du tronc(coffre).
+spokentexts_a15_frachtraum_gurt_ex_1_st_1;Semble être une sangle pour tenir quelque chose sur l'étagère au-dessus du coffre.
 spokentexts_a15_frachtraum_gurt_ex_1_st_2;Malheureusement, je ne peux pas atteindre le fermoir!
 sequences_a15_frachtraum_gurt_ex_1#4;[The Arab withdrew his hand.]
 spokentexts_a15_frachtraum_gurt_ex_2_st_1;Une sangle robuste avec un fermoir en metal.
@@ -51,7 +51,7 @@ spokentexts_a15_frachtraum_regal_used_mit_gurt_2_st_1_direction;angry, disappoin
 spokentexts_a15_frachtraum_regal_used_mit_gurt_2_st_1;Hmpf.
 spokentexts_a15_frachtraum_regal_used_mit_gurt_3_st_1;Cela ne sert à rien.
 texts_a15_frachtraum_rohr_mo_ex_1;Examine le tuyau
-texts_a15_frachtraum_rohr_mo_inventar_1__2;Conduite
+texts_a15_frachtraum_rohr_mo_inventar_1__2;Tuyau
 texts_a15_frachtraum_rohr_mo_take_1a__1b__2;Prend le tuyau
 texts_a15_frachtraum_rohr_mo_used_mit_gurt_1-3;Sortez le tuyau
 spokentexts_a15_frachtraum_rohr_ex_1_st_1;Le tuyau est enroulé contre l'étagère ... Mais il reste hors de portée.
