@@ -4,106 +4,106 @@ characters_kapitaen;Kapitaen
 characters_ohi;Ohi
 characters_schriftstellerin;Schriftstellerin
 characters_wachmann;Wachmann
-texts_ermittler_top_a09_ermittler_der_brief_tseq_title;The letter
-spokentexts_ermittler_top_a09_ermittler_der_brief_tseq_st_1;What about the handwriting, the wording... does the farewell letter match the Raven's other letters?
-spokentexts_ermittler_top_a09_ermittler_der_brief_tseq_st_2;Yes. It's his handwriting, his words.
-spokentexts_ermittler_top_a09_ermittler_der_brief_tseq_st_4;I've read all the Raven's letters. All of them. Over and over again.
-spokentexts_ermittler_top_a09_ermittler_der_brief_tseq_st_3;I never thought it was possible. A resurrected Raven...
+texts_ermittler_top_a09_ermittler_der_brief_tseq_title;La lettre
+spokentexts_ermittler_top_a09_ermittler_der_brief_tseq_st_1;L'écriture, le style... la lettre d'adieu correspond t-elle à d'autres lettres du Corbeau ?
+spokentexts_ermittler_top_a09_ermittler_der_brief_tseq_st_2;Oui. C'est son écriture, ses mots.
+spokentexts_ermittler_top_a09_ermittler_der_brief_tseq_st_4;J'ai lu toutes les lettres du Corbeau. Toutes. Encore et encore.
+spokentexts_ermittler_top_a09_ermittler_der_brief_tseq_st_3;Je n'aurai jamais pensé cela possible. Une résurrection du Corbeau...
 sequences_ermittler_top_a09_ermittler_der_brief_tseq#3;[The investigator looks at Ohi.]
-spokentexts_ermittler_top_a09_ermittler_der_brief_tseq_st_6;The Raven was never dead. I shot the wrong man.
-spokentexts_ermittler_top_a09_ermittler_der_brief_tseq_st_5;But that man had the stolen goods, didn't he? So he must have been in league with the Raven. One could hardly call him ''innocent''.
+spokentexts_ermittler_top_a09_ermittler_der_brief_tseq_st_6;The Raven n'a jamais été mort. J'ai tiré le mauvais homme.
+spokentexts_ermittler_top_a09_ermittler_der_brief_tseq_st_5;Mais cet homme avait les marchandises volées, n'est-ce pas ? Donc, il devait être de connivence avec le Corbeau. On peut difficilement le qualifier ''d'innocent''.
 sequences_ermittler_top_a09_ermittler_der_brief_tseq#6;[The investigator looks back to the sea.]
 texts_ermittler_top_a09_ermittler_doktor_gebhardt_tseq_title;Dr. Gebhardt
-spokentexts_ermittler_top_a09_ermittler_doktor_gebhardt_tseq_st_1;You think that Dr. Gebhardt was really the Raven?
-spokentexts_ermittler_top_a09_ermittler_doktor_gebhardt_tseq_st_2;The things Gebhardt describes in his letter aren't part of any police report. Only someone who was there would know them.
-spokentexts_ermittler_top_a09_ermittler_doktor_gebhardt_tseq_st_3;Couldn't there have been others involved? One of the police, for instance? What if one of them changed sides?
-spokentexts_ermittler_top_a09_ermittler_doktor_gebhardt_tseq_st_4;"Why is it so hard for you to accept the simple truth? There was never a ""new"" Raven. There was only ever the old one. And that was Dr. Gebhardt."
-spokentexts_ermittler_top_a09_ermittler_doktor_gebhardt_tseq_st_5;The modus operandi doesn't match. The Raven was not a killer.
+spokentexts_ermittler_top_a09_ermittler_doktor_gebhardt_tseq_st_1;Vous pensez vraiment que le Dr Gebhardt était le Corbeau ?
+spokentexts_ermittler_top_a09_ermittler_doktor_gebhardt_tseq_st_2;Les choses que Gebhardt décrit dans sa lettre ne sont pas dans les rapports de police. Seul quelqu'un qui était là pouvait les connaître.
+spokentexts_ermittler_top_a09_ermittler_doktor_gebhardt_tseq_st_3;Ne pouvait-il pas y avoir d'autres personnes impliquées ? Quelqu'un de la police qui aurait changé de camp par exemple ?
+spokentexts_ermittler_top_a09_ermittler_doktor_gebhardt_tseq_st_4;"Pourquoi est-il si difficile pour vous d'accepter la simple vérité ? Il n'y a jamais eu de ""nouveau"" Corbeau. Cela a toujours été l'ancien. Et c'était le Dr Gebhardt."
+spokentexts_ermittler_top_a09_ermittler_doktor_gebhardt_tseq_st_5;Le modus operandi ne correspond pas. Le Corbeau n'était pas un tueur.
 sequences_ermittler_top_a09_ermittler_doktor_gebhardt_tseq#5;[The investigator looks at Ohi.]
-spokentexts_ermittler_top_a09_ermittler_doktor_gebhardt_tseq_st_6;Legends are rarely what they seem to be, Constable Zellner.
+spokentexts_ermittler_top_a09_ermittler_doktor_gebhardt_tseq_st_6;Les légendes sont rarement ce qu'elles semblent être, Officier Zellner.
 sequences_ermittler_top_a09_ermittler_doktor_gebhardt_tseq#8;[The investigator looks back to the sea.]
-texts_ermittler_top_a09_ermittler_schuss_antwort1_tseq_title;The shot was a distraction
-spokentexts_ermittler_top_a09_ermittler_schuss_antwort1_tseq_st_1;The gunshot was just a distraction.
-spokentexts_ermittler_top_a09_ermittler_schuss_antwort1_tseq_st_2;It wasn't the shot that killed the baroness.
-spokentexts_ermittler_top_a09_ermittler_schuss_antwort1_tseq_st_3;But how...
-texts_ermittler_top_a09_ermittler_schuss_antwort2_tseq_title;The shot came from the tape
-spokentexts_ermittler_top_a09_ermittler_schuss_antwort2_tseq_st_1;The shot that we heard was a recording.
-spokentexts_ermittler_top_a09_ermittler_schuss_antwort2_tseq_st_2;The baroness had a tape recorder and good speakers in her cabin. Good enough to make a noise audible on the upper deck.
-spokentexts_ermittler_top_a09_ermittler_schuss_antwort2_tseq_st_3;Is that just your suspicion, or do you have proof?
-texts_ermittler_top_a09_ermittler_schuss_antwort3_tseq_title;But it was still him
+texts_ermittler_top_a09_ermittler_schuss_antwort1_tseq_title;Le tir était une diversion
+spokentexts_ermittler_top_a09_ermittler_schuss_antwort1_tseq_st_1;Le coup de feu était juste une diversion.
+spokentexts_ermittler_top_a09_ermittler_schuss_antwort1_tseq_st_2;Ce n'est pas le coup de feu qui a tué la Baronne.
+spokentexts_ermittler_top_a09_ermittler_schuss_antwort1_tseq_st_3;Mais comment...
+texts_ermittler_top_a09_ermittler_schuss_antwort2_tseq_title;Le tir venait d'une bande magnétique
+spokentexts_ermittler_top_a09_ermittler_schuss_antwort2_tseq_st_1;Le coup que nous avons entendu était un enregistrement.
+spokentexts_ermittler_top_a09_ermittler_schuss_antwort2_tseq_st_2;La Baronne avait un magnétophone et de bons haut-parleurs dans sa cabine. Assez bon pour faire entendre jusque sur le pont supérieur.
+spokentexts_ermittler_top_a09_ermittler_schuss_antwort2_tseq_st_3;Est-ce juste des suppositions ou avez-vous des preuves ?
+texts_ermittler_top_a09_ermittler_schuss_antwort3_tseq_title;Mais c'était encore lui
 spokentexts_ermittler_top_a09_ermittler_schuss_antwort3_tseq_st_1_direction;pleasurable
-spokentexts_ermittler_top_a09_ermittler_schuss_antwort3_tseq_st_1;And yet, he really was the killer.
+spokentexts_ermittler_top_a09_ermittler_schuss_antwort3_tseq_st_1;Et cependant, c'était vraiment lui le tueur.
 spokentexts_ermittler_top_a09_ermittler_schuss_antwort3_tseq_st_2_direction;threatening
-spokentexts_ermittler_top_a09_ermittler_schuss_antwort3_tseq_st_2;You're enjoying this a bit too much for my taste.
+spokentexts_ermittler_top_a09_ermittler_schuss_antwort3_tseq_st_2;Vous appréciez tout ça un peu trop à mon goût.
 spokentexts_ermittler_top_a09_ermittler_schuss_antwort3_tseq_st_3_direction;slightly threatening
-spokentexts_ermittler_top_a09_ermittler_schuss_antwort3_tseq_st_3;Spit it out. My patience is running thin.
-texts_ermittler_top_a09_ermittler_schuss_beweise_antwort1_tseq_title;No. But it was possible!
-spokentexts_ermittler_top_a09_ermittler_schuss_beweise_antwort1_tseq_st_1;I don't have proof. But that's how he could have done it!
-spokentexts_ermittler_top_a09_ermittler_schuss_beweise_antwort1_tseq_st_2;Could! Anything COULD have happened!
-spokentexts_ermittler_top_a09_ermittler_schuss_beweise_antwort1_tseq_st_3;Don't be like that, Inspector!
+spokentexts_ermittler_top_a09_ermittler_schuss_antwort3_tseq_st_3;Crachez le morceau. Mon patience a des limites.
+texts_ermittler_top_a09_ermittler_schuss_beweise_antwort1_tseq_title;Non, mais c'était possible !
+spokentexts_ermittler_top_a09_ermittler_schuss_beweise_antwort1_tseq_st_1;Je n'ai pas de preuve. Mais il pourrait l'avoir fait de cette manière !
+spokentexts_ermittler_top_a09_ermittler_schuss_beweise_antwort1_tseq_st_2;Pourrait ! Tout POURRAIT être possible !
+spokentexts_ermittler_top_a09_ermittler_schuss_beweise_antwort1_tseq_st_3;Ne soyez comme ça, Inspecteur !
 spokentexts_ermittler_top_a09_ermittler_schuss_beweise_antwort1_tseq_st_4_direction;must pull hiself up
 spokentexts_ermittler_top_a09_ermittler_schuss_beweise_antwort1_tseq_st_4;Hrrmm.
-texts_ermittler_top_a09_ermittler_schuss_beweise_antwort2_tseq_title;Audiotape in the medical facility
-spokentexts_ermittler_top_a09_ermittler_schuss_beweise_antwort2_tseq_st_1;There's an audiotape in the medical centre. The reel belongs to the tape player in the baroness' cabin. And there's a Seibling reel in her cabin that belongs to the recorder in the medical centre.
+texts_ermittler_top_a09_ermittler_schuss_beweise_antwort2_tseq_title;Bande magnétique dans l'infirmerie
+spokentexts_ermittler_top_a09_ermittler_schuss_beweise_antwort2_tseq_st_1;Il y a une bande magnétique dans l'infirmerie. La bobine provient du magnétophone de la cabine de la Baronne. Et il y a une bobine Seibling dans sa cabine qui appartient au magnétophone de l'infirmerie.
 spokentexts_ermittler_top_a09_ermittler_schuss_beweise_antwort2_tseq_st_2;Hmm.
-spokentexts_ermittler_top_a09_ermittler_schuss_beweise_antwort2_tseq_st_3;If you check the tape in the medical centre, you'll find a recording of a gunshot on it.
-spokentexts_ermittler_top_a09_ermittler_schuss_beweise_antwort2_tseq_st_4;For the sake of argument, let's assume that's true. Where did Gebhardt get a recording of a gunshot?
-spokentexts_ermittler_top_a09_ermittler_schuss_beweise_antwort2_tseq_st_5;After a few minutes there's a loud bang on the audiotape. That's our gunshot.
-spokentexts_ermittler_top_a09_ermittler_schuss_beweise_antwort2_tseq_st_6;Where did Gebhardt get it from?
-spokentexts_ermittler_top_a09_ermittler_schuss_beweise_antwort2_tseq_st_7;He recorded it in the cargo hold. His tape recorder has a microphone and I removed a bullet from one of the boxes down there.
-spokentexts_ermittler_top_a09_ermittler_schuss_beweise_antwort2_tseq_st_8;And it came from the murder weapon?
-spokentexts_ermittler_top_a09_ermittler_schuss_beweise_antwort2_tseq_st_9;Yes, I compared it to the other bullet in the inspector's cabin.
+spokentexts_ermittler_top_a09_ermittler_schuss_beweise_antwort2_tseq_st_3;Si vous vérifiez la bande dans l'infirmerie, vous trouverez un enregistrement d'une arme à feu dessus.
+spokentexts_ermittler_top_a09_ermittler_schuss_beweise_antwort2_tseq_st_4;Pour les besoins du raisonnement, supposons que c'est vrai. Alors où Gebhardt aurait obtenu un enregistrement d'arme à feu ?
+spokentexts_ermittler_top_a09_ermittler_schuss_beweise_antwort2_tseq_st_5;Après quelques minutes, il y a une forte détonation sur la bande. C'est notre coup de feu.
+spokentexts_ermittler_top_a09_ermittler_schuss_beweise_antwort2_tseq_st_6;Comment Gebhardt l'a-t-il obtenu ?
+spokentexts_ermittler_top_a09_ermittler_schuss_beweise_antwort2_tseq_st_7;Il l'a enregistré dans la soute. Son magnétophone dispose d'un microphone et j'ai retiré une balle d'une des caisses en bas.
+spokentexts_ermittler_top_a09_ermittler_schuss_beweise_antwort2_tseq_st_8;Et elle provient de l'arme du crime ?
+spokentexts_ermittler_top_a09_ermittler_schuss_beweise_antwort2_tseq_st_9;Oui, je l'ai comparé à l'autre balle dans la cabine de l'inspecteur.
 spokentexts_ermittler_top_a09_ermittler_schuss_beweise_antwort2_tseq_st_10_direction;Angry
-spokentexts_ermittler_top_a09_ermittler_schuss_beweise_antwort2_tseq_st_10;Of course you did.
-spokentexts_ermittler_top_a09_ermittler_schuss_beweise_antwort2_tseq_st_11;At least, that's my assumption.
+spokentexts_ermittler_top_a09_ermittler_schuss_beweise_antwort2_tseq_st_10;Naturellement.
+spokentexts_ermittler_top_a09_ermittler_schuss_beweise_antwort2_tseq_st_11;Du moins, c'est mon hypothèse.
 spokentexts_ermittler_top_a09_ermittler_schuss_beweise_antwort2_tseq_st_12_direction;cheeky
-spokentexts_ermittler_top_a09_ermittler_schuss_beweise_antwort2_tseq_st_12;"""There can't be many Luger 08 pistols on board,"" right, Inspector Legrand?"
-texts_ermittler_top_a09_ermittler_toter_tseq_title;The dead man
-spokentexts_ermittler_top_a09_ermittler_toter_tseq_st_1;Then who was the man who was killed back then?
-spokentexts_ermittler_top_a09_ermittler_toter_tseq_st_2;William Jackson. A petty thief. Committed some burglaries together with his brother. Talented, but not world-class.
-spokentexts_ermittler_top_a09_ermittler_toter_tseq_st_3;And they thought he was the Raven?
-spokentexts_ermittler_top_a09_ermittler_toter_tseq_st_4;Some people thought it was part of his disguise. If you're a debonair master thief, what better disguise than pretending to be a common crook?
-spokentexts_ermittler_top_a09_ermittler_toter_tseq_st_5;From time to time you let them catch you pulling small jobs and no one ever imagines you're capable of a major heist.
-spokentexts_ermittler_top_a09_ermittler_toter_tseq_st_6;But you didn't believe it?
-spokentexts_ermittler_top_a09_ermittler_toter_tseq_st_7;I had my doubts. But everyone congratulated me and those doubts were pushed aside. It was like being caught in a storm.
-spokentexts_ermittler_top_a09_ermittler_toter_tseq_st_8;But eventually the storm passed and my doubts were still there.
-spokentexts_ermittler_top_a09_ermittler_toter_tseq_st_9;But not this time? No doubts telling you that Gebhardt isn't our man?
+spokentexts_ermittler_top_a09_ermittler_schuss_beweise_antwort2_tseq_st_12;"""Il n'y a pas beaucoup de Luger 08 à bord,"" n'est-ce pas, Inspecteur Legrand ?"
+texts_ermittler_top_a09_ermittler_toter_tseq_title;Le mort
+spokentexts_ermittler_top_a09_ermittler_toter_tseq_st_1;Alors, qui était l'homme qui a été tué ? 
+spokentexts_ermittler_top_a09_ermittler_toter_tseq_st_2;William Jackson. Un petit voleur. Qui a commis des cambriolages avec son frère. Talentueux, mais pas de classe mondiale.
+spokentexts_ermittler_top_a09_ermittler_toter_tseq_st_3;Et ils ont pensé qu'il était le Corbeau ?
+spokentexts_ermittler_top_a09_ermittler_toter_tseq_st_4;Certaines personnes pensaient que cela faisait partie de son déguisement. Si vous êtes un voleur débonnaire hors pair, quoi de mieux pour se dissimuler que de faire semblant d'être un escroc ordinaire ?
+spokentexts_ermittler_top_a09_ermittler_toter_tseq_st_5;De temps en temps vous vous laissez attraper sur de petits larcins et personne n'ira jamais imaginer que vous êtes capable de cambriolage de haut vol.
+spokentexts_ermittler_top_a09_ermittler_toter_tseq_st_6;Mais vous n'y croyez pas ?
+spokentexts_ermittler_top_a09_ermittler_toter_tseq_st_7;J'avais des doutes. Mais tout le monde m'a félicité et ces doutes ont été mis de côté. C'était comme être pris dans un tourbillon.
+spokentexts_ermittler_top_a09_ermittler_toter_tseq_st_8;Mais au final, la tempête est passée et mes doutes étaient toujours là.
+spokentexts_ermittler_top_a09_ermittler_toter_tseq_st_9;Mais pas cette fois ? Vos doutes ne vous disent pas que Gebhardt n'est pas notre homme ?
 spokentexts_ermittler_top_a09_ermittler_toter_tseq_st_10_direction;unyielding
-spokentexts_ermittler_top_a09_ermittler_toter_tseq_st_10;It must be him.
-texts_ermittler_top_a09_ermittler_verabschieden_tseq_title;Say goodbye
-spokentexts_ermittler_top_a09_ermittler_verabschieden_tseq_st_1;Where do we go from here?
+spokentexts_ermittler_top_a09_ermittler_toter_tseq_st_10;Ça doit être lui.
+texts_ermittler_top_a09_ermittler_verabschieden_tseq_title;Dire au revoir
+spokentexts_ermittler_top_a09_ermittler_verabschieden_tseq_st_1;Que faisons-nous maintenant ?
 sequences_ermittler_top_a09_ermittler_verabschieden_tseq#1;[The investigator looks at Ohi.]
-spokentexts_ermittler_top_a09_ermittler_verabschieden_tseq_st_2;We deliver the Eye and then I'll contact Paris. A taskforce will compare all of Gebhardt's known residences with the Raven's activity.
-spokentexts_ermittler_top_a09_ermittler_verabschieden_tseq_st_3;And if there are any inconsistencies?
-spokentexts_ermittler_top_a09_ermittler_verabschieden_tseq_st_4;You're welcome to keep an eye on the safe if you can't let it go.
-spokentexts_ermittler_top_a09_ermittler_verabschieden_tseq_st_5;The ship will remain in Cairo for one day. That's all the time you'll have to catch your own Raven. I already have mine.
+spokentexts_ermittler_top_a09_ermittler_verabschieden_tseq_st_2;Nous livrons les Yeux, puis je contacterai Paris. Une équipe va comparer toutes les résidences connues de Gebhardt avec l'activité du Corbeau.
+spokentexts_ermittler_top_a09_ermittler_verabschieden_tseq_st_3;Et s'il y a des contradictions ?
+spokentexts_ermittler_top_a09_ermittler_verabschieden_tseq_st_4;Je vous invite a garder un oeil sur le coffre si vous ne pouvez pas vous y faire.
+spokentexts_ermittler_top_a09_ermittler_verabschieden_tseq_st_5;Le navire restera au Caire pour une journée. C'est tout le temps que vous aurez pour prendre votre Corbeau. J'ai déjà la mien.
 sequences_ermittler_top_a09_ermittler_verabschieden_tseq#6;[Ohi nods and goes. The camera goes to Legrand's face, who looks at Ohi serious and thoughtful after. Somehow he makes himself suspicious with that look.]
 sequences_ermittler_top_a09_ermittler_verabschieden_tseq#7;[END OF SECTION.]
-texts_kapitaen_top_a09_ermittler_motiv_antwort1_tseq_title;It was about the Eye of the Sphinx
-spokentexts_kapitaen_top_a09_ermittler_motiv_antwort1_tseq_st_1;It had to do with the Eye of the Sphinx. The baroness was supposed to bring one of the keys to Cairo.
-spokentexts_kapitaen_top_a09_ermittler_motiv_antwort1_tseq_st_2;So Dr. Gebhardt was the Raven?
-spokentexts_kapitaen_top_a09_ermittler_motiv_antwort1_tseq_st_3;I don't think so - but perhaps he was working with him.
-texts_kapitaen_top_a09_ermittler_motiv_antwort2_tseq_title;She blackmailed the doctor
-spokentexts_kapitaen_top_a09_ermittler_motiv_antwort2_tseq_st_1;The baroness was blackmailing Dr. Gebhardt.
-spokentexts_kapitaen_top_a09_ermittler_motiv_antwort2_tseq_st_2;What's your reasoning?
-spokentexts_kapitaen_top_a09_ermittler_motiv_antwort2_tseq_st_3;Isn't blackmail always a good motive?
-spokentexts_kapitaen_top_a09_ermittler_motiv_antwort2_tseq_st_4;It's worthless without proof.
-texts_kapitaen_top_a09_ermittler_motiv_antwort3_tseq_title;I can only speculate...
-spokentexts_kapitaen_top_a09_ermittler_motiv_antwort3_tseq_st_1;I can only speculate.
-spokentexts_kapitaen_top_a09_ermittler_motiv_antwort3_tseq_st_2;The baroness spent the day rummaging through her old family photos.
-spokentexts_kapitaen_top_a09_ermittler_motiv_antwort3_tseq_st_3;And in her diary she wrote about deceased family members.
-spokentexts_kapitaen_top_a09_ermittler_motiv_antwort3_tseq_st_4;I suspect it had something to do with their fates during the war.
-spokentexts_kapitaen_top_a09_ermittler_motiv_antwort3_tseq_st_5;The baroness wrote a warning on her notepad - there is a murderer on board.
-spokentexts_kapitaen_top_a09_ermittler_motiv_antwort3_tseq_st_6;I don't have proof.
-spokentexts_kapitaen_top_a09_ermittler_motiv_antwort3_tseq_st_7;But I believe that the baroness held Dr. Gebhardt responsible for the deaths of her relatives and wanted to confront him in front of all of us.
-spokentexts_kapitaen_top_a09_ermittler_motiv_antwort3_tseq_st_8;The doctor couldn't allow that to happen, and so he silenced her.
-texts_schriftstellerin_top_a09_ermittler_erschossen_antwort1_tseq_title;She wasn't shot, she was poisoned
-spokentexts_schriftstellerin_top_a09_ermittler_erschossen_antwort1_tseq_st_1;She wasn't shot - she was poisoned!
-spokentexts_schriftstellerin_top_a09_ermittler_erschossen_antwort1_tseq_st_2;...and yet I saw the hole in her chest with my own eyes.
+texts_kapitaen_top_a09_ermittler_motiv_antwort1_tseq_title;A propos de l'Oeil du Sphinx
+spokentexts_kapitaen_top_a09_ermittler_motiv_antwort1_tseq_st_1;Ça a voir avec l'oeil du Sphinx. La Baronne était censé apporter l'une des clés du Caire.
+spokentexts_kapitaen_top_a09_ermittler_motiv_antwort1_tseq_st_2;Alors le Dr Gebhardt était le Corbeau ?
+spokentexts_kapitaen_top_a09_ermittler_motiv_antwort1_tseq_st_3;Je ne pense pas - mais peut-être qu'il travaillait avec lui.
+texts_kapitaen_top_a09_ermittler_motiv_antwort2_tseq_title;Elle faisait chanter le docteur
+spokentexts_kapitaen_top_a09_ermittler_motiv_antwort2_tseq_st_1;La Baronne faisait chanter le Dr Gebhardt.
+spokentexts_kapitaen_top_a09_ermittler_motiv_antwort2_tseq_st_2;Quelle est votre théorie ?
+spokentexts_kapitaen_top_a09_ermittler_motiv_antwort2_tseq_st_3;Le chantage n'est-il pas toujours un bon motif ?
+spokentexts_kapitaen_top_a09_ermittler_motiv_antwort2_tseq_st_4;Ça ne vaut rien sans preuve.
+texts_kapitaen_top_a09_ermittler_motiv_antwort3_tseq_title;Je ne peux que spéculer...
+spokentexts_kapitaen_top_a09_ermittler_motiv_antwort3_tseq_st_1;Je ne peux que spéculer.
+spokentexts_kapitaen_top_a09_ermittler_motiv_antwort3_tseq_st_2;La Baronne a passé la journée à fouiller dans ses vieilles photos de famille.
+spokentexts_kapitaen_top_a09_ermittler_motiv_antwort3_tseq_st_3;Et dans son journal, elle a écrit des choses au sujet des membres de la famille décédés.
+spokentexts_kapitaen_top_a09_ermittler_motiv_antwort3_tseq_st_4;Je soupçonne que cela avait quelque chose à voir avec leurs sorts pendant la guerre.
+spokentexts_kapitaen_top_a09_ermittler_motiv_antwort3_tseq_st_5;La Baronne a écrit une mise en garde sur son bloc-notes - il y a un meurtrier à bord.
+spokentexts_kapitaen_top_a09_ermittler_motiv_antwort3_tseq_st_6;Je n'ai pas de preuve.
+spokentexts_kapitaen_top_a09_ermittler_motiv_antwort3_tseq_st_7;Mais je crois que la Baronne tenait le Dr Gebhardt responsable de la mort de ses parents et qu'elle voulait le confondre devant nous tous.
+spokentexts_kapitaen_top_a09_ermittler_motiv_antwort3_tseq_st_8;Le docteur ne pouvait pas permettre que cela se produise et c'est pourquoi il la fit taire.
+texts_schriftstellerin_top_a09_ermittler_erschossen_antwort1_tseq_title;Elle n'a pas été abattue, elle a été empoisonnée
+spokentexts_schriftstellerin_top_a09_ermittler_erschossen_antwort1_tseq_st_1;Elle n'a pas été abattue, elle a été empoisonnée !
+spokentexts_schriftstellerin_top_a09_ermittler_erschossen_antwort1_tseq_st_2;...mais j'ai vu le trou dans sa poitrine de mes propres yeux.
 spokentexts_schriftstellerin_top_a09_ermittler_erschossen_antwort1_tseq_st_3_direction;laughs
-spokentexts_schriftstellerin_top_a09_ermittler_erschossen_antwort1_tseq_st_3;Ha ha!
-spokentexts_schriftstellerin_top_a09_ermittler_erschossen_antwort1_tseq_st_4;She must have been shot.
-spokentexts_schriftstellerin_top_a09_ermittler_erschossen_antwort1_tseq_st_5;Well then, genius - where was she shot?
+spokentexts_schriftstellerin_top_a09_ermittler_erschossen_antwort1_tseq_st_3;Ha ha !
+spokentexts_schriftstellerin_top_a09_ermittler_erschossen_antwort1_tseq_st_4;Elle a dû être abattue.
+spokentexts_schriftstellerin_top_a09_ermittler_erschossen_antwort1_tseq_st_5;Très bien, le génie - où a-t-elle été tuée?
 texts_schriftstellerin_top_a09_ermittler_erschossen_antwort2_tseq_title;The doctor in the medical facility
 spokentexts_schriftstellerin_top_a09_ermittler_erschossen_antwort2_tseq_st_1_direction;embarrassed
 spokentexts_schriftstellerin_top_a09_ermittler_erschossen_antwort2_tseq_st_1;Then... It was the doctor, of course.
