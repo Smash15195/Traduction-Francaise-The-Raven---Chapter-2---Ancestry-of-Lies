@@ -10,7 +10,7 @@ spokentexts_ermittler_top_a09_ermittler_der_brief_tseq_st_2;Oui. C'est son écri
 spokentexts_ermittler_top_a09_ermittler_der_brief_tseq_st_4;J'ai lu toutes les lettres du Corbeau. Toutes. Encore et encore.
 spokentexts_ermittler_top_a09_ermittler_der_brief_tseq_st_3;Je n'aurai jamais pensé cela possible. Une résurrection du Corbeau...
 sequences_ermittler_top_a09_ermittler_der_brief_tseq#3;[The investigator looks at Ohi.]
-spokentexts_ermittler_top_a09_ermittler_der_brief_tseq_st_6;The Raven n'a jamais été mort. J'ai tiré le mauvais homme.
+spokentexts_ermittler_top_a09_ermittler_der_brief_tseq_st_6;Le Corbeau n'a jamais été mort. J'ai tiré le mauvais homme.
 spokentexts_ermittler_top_a09_ermittler_der_brief_tseq_st_5;Mais cet homme avait les marchandises volées, n'est-ce pas ? Donc, il devait être de connivence avec le Corbeau. On peut difficilement le qualifier ''d'innocent''.
 sequences_ermittler_top_a09_ermittler_der_brief_tseq#6;[The investigator looks back to the sea.]
 texts_ermittler_top_a09_ermittler_doktor_gebhardt_tseq_title;Dr. Gebhardt
@@ -32,7 +32,7 @@ spokentexts_ermittler_top_a09_ermittler_schuss_antwort2_tseq_st_2;La Baronne ava
 spokentexts_ermittler_top_a09_ermittler_schuss_antwort2_tseq_st_3;Est-ce juste des suppositions ou avez-vous des preuves ?
 texts_ermittler_top_a09_ermittler_schuss_antwort3_tseq_title;Mais c'était encore lui
 spokentexts_ermittler_top_a09_ermittler_schuss_antwort3_tseq_st_1_direction;pleasurable
-spokentexts_ermittler_top_a09_ermittler_schuss_antwort3_tseq_st_1;Et cependant, c'était vraiment lui le tueur.
+spokentexts_ermittler_top_a09_ermittler_schuss_antwort3_tseq_st_1;Et pourtant, c'était vraiment lui le tueur.
 spokentexts_ermittler_top_a09_ermittler_schuss_antwort3_tseq_st_2_direction;threatening
 spokentexts_ermittler_top_a09_ermittler_schuss_antwort3_tseq_st_2;Vous appréciez tout ça un peu trop à mon goût.
 spokentexts_ermittler_top_a09_ermittler_schuss_antwort3_tseq_st_3_direction;slightly threatening
@@ -46,8 +46,8 @@ spokentexts_ermittler_top_a09_ermittler_schuss_beweise_antwort1_tseq_st_4;Hrrmm.
 texts_ermittler_top_a09_ermittler_schuss_beweise_antwort2_tseq_title;Bande magnétique dans l'infirmerie
 spokentexts_ermittler_top_a09_ermittler_schuss_beweise_antwort2_tseq_st_1;Il y a une bande magnétique dans l'infirmerie. La bobine provient du magnétophone de la cabine de la Baronne. Et il y a une bobine Seibling dans sa cabine qui appartient au magnétophone de l'infirmerie.
 spokentexts_ermittler_top_a09_ermittler_schuss_beweise_antwort2_tseq_st_2;Hmm.
-spokentexts_ermittler_top_a09_ermittler_schuss_beweise_antwort2_tseq_st_3;Si vous vérifiez la bande dans l'infirmerie, vous trouverez un enregistrement d'une arme à feu dessus.
-spokentexts_ermittler_top_a09_ermittler_schuss_beweise_antwort2_tseq_st_4;Pour les besoins du raisonnement, supposons que c'est vrai. Alors où Gebhardt aurait obtenu un enregistrement d'arme à feu ?
+spokentexts_ermittler_top_a09_ermittler_schuss_beweise_antwort2_tseq_st_3;Si vous vérifiez la bande dans l'infirmerie, vous trouverez un enregistrement de coup de feu dessus.
+spokentexts_ermittler_top_a09_ermittler_schuss_beweise_antwort2_tseq_st_4;Pour les besoins du raisonnement, supposons que c'est vrai. Où Gebhardt aurait obtenu un enregistrement d'arme à feu ?
 spokentexts_ermittler_top_a09_ermittler_schuss_beweise_antwort2_tseq_st_5;Après quelques minutes, il y a une forte détonation sur la bande. C'est notre coup de feu.
 spokentexts_ermittler_top_a09_ermittler_schuss_beweise_antwort2_tseq_st_6;Comment Gebhardt l'a-t-il obtenu ?
 spokentexts_ermittler_top_a09_ermittler_schuss_beweise_antwort2_tseq_st_7;Il l'a enregistré dans la soute. Son magnétophone dispose d'un microphone et j'ai retiré une balle d'une des caisses en bas.
@@ -76,7 +76,7 @@ sequences_ermittler_top_a09_ermittler_verabschieden_tseq#1;[The investigator loo
 spokentexts_ermittler_top_a09_ermittler_verabschieden_tseq_st_2;Nous livrons les Yeux, puis je contacterai Paris. Une équipe va comparer toutes les résidences connues de Gebhardt avec l'activité du Corbeau.
 spokentexts_ermittler_top_a09_ermittler_verabschieden_tseq_st_3;Et s'il y a des contradictions ?
 spokentexts_ermittler_top_a09_ermittler_verabschieden_tseq_st_4;Je vous invite a garder un oeil sur le coffre si vous ne pouvez pas vous y faire.
-spokentexts_ermittler_top_a09_ermittler_verabschieden_tseq_st_5;Le navire restera au Caire pour une journée. C'est tout le temps que vous aurez pour prendre votre Corbeau. J'ai déjà la mien.
+spokentexts_ermittler_top_a09_ermittler_verabschieden_tseq_st_5;Le navire restera au Caire pour une journée. C'est tout le temps que vous aurez pour prendre votre Corbeau. J'ai déjà le mien.
 sequences_ermittler_top_a09_ermittler_verabschieden_tseq#6;[Ohi nods and goes. The camera goes to Legrand's face, who looks at Ohi serious and thoughtful after. Somehow he makes himself suspicious with that look.]
 sequences_ermittler_top_a09_ermittler_verabschieden_tseq#7;[END OF SECTION.]
 texts_kapitaen_top_a09_ermittler_motiv_antwort1_tseq_title;A propos de l'Oeil du Sphinx
