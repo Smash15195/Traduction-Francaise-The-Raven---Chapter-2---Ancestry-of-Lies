@@ -217,7 +217,7 @@ spokentexts_pflegerin_seq_a10_eingangsbereich_tor_wird_aufgehebelt_st_23;Mais co
 spokentexts_pflegerin_seq_a10_eingangsbereich_tor_wird_aufgehebelt_st_24;Je vous ai à l'oeil !
 spokentexts_pflegerin_seq_a10_eingangsbereich_tor_wird_aufgehebelt_st_25;Alors vous allez devoir me suivre.
 sequences_pflegerin_seq_a10_eingangsbereich_tor_wird_aufgehebelt#33;[Ohi lets himself fall down to the floor, crawls under the gate. At first the guardsman pauses irresolutely, then heads to the director.]
-spokentexts_pflegerin_seq_a10_eingangsbereich_tor_wird_aufgehebelt_st_26;Si vous n'avez pas de MES nouvelles d'ici cinq minutes, peu importe l'Officer Zellner, allez ouvrir l'entrée principale et appelez à l'aide, c'est compris ?
+spokentexts_pflegerin_seq_a10_eingangsbereich_tor_wird_aufgehebelt_st_26;Si vous n'avez pas de MES nouvelles d'ici cinq minutes, qu'importe l'Officer Zellner, allez ouvrir l'entrée principale et appelez à l'aide, c'est compris ?
 spokentexts_pflegerin_seq_a10_eingangsbereich_tor_wird_aufgehebelt_st_27_direction;schwach
 spokentexts_pflegerin_seq_a10_eingangsbereich_tor_wird_aufgehebelt_st_27;Très bien.
 sequences_pflegerin_seq_a10_eingangsbereich_tor_wird_aufgehebelt#36;[The guard nods, then follows Ohi through the gate into the treasure chamber.]
@@ -231,7 +231,7 @@ spokentexts_pflegerin_seq_a10_eingangsbereich_ueberfall_st_6;Le voleur est fait 
 spokentexts_pflegerin_seq_a10_eingangsbereich_ueberfall_st_7;Tout comme nous.
 spokentexts_pflegerin_seq_a10_eingangsbereich_ueberfall_st_8_direction;höfliches Lachen
 spokentexts_pflegerin_seq_a10_eingangsbereich_ueberfall_st_8;Mmm-hmm.
-spokentexts_pflegerin_seq_a10_eingangsbereich_ueberfall_st_9;Ensuite je vais vous montrer la salle de sécurité, le coeur de notre système de surveillance.
+spokentexts_pflegerin_seq_a10_eingangsbereich_ueberfall_st_9;Maintenant je vais vous montrer la salle de sécurité, le coeur de notre système de surveillance.
 sequences_pflegerin_seq_a10_eingangsbereich_ueberfall#12;[The director takes Ohi by the arm, pushes him towards the guard's room.]
 spokentexts_pflegerin_seq_a10_eingangsbereich_ueberfall_st_10;Ensuite vous devrez m'excuser. J'ai beaucoup à faire aujourd'hui, comme vous pouvez l'imaginer.
 sequences_pflegerin_seq_a10_eingangsbereich_ueberfall#14;[The camera is moving backwards, while it stays focused on the director and Ohi. Suddenly something black and blurred appears in the foreground. It lies on the banister.]
@@ -245,10 +245,10 @@ spokentexts_pflegerin_seq_a10_eingangsbereich_ueberfall_st_12;On nous enferme de
 sequences_pflegerin_seq_a10_eingangsbereich_ueberfall#22;[Ohi heads to the treasure chamber. The gate already stands only 20cm ajar, Ohi is too late. Suddenly there is an explosion.]
 sequences_pflegerin_seq_a10_eingangsbereich_ueberfall#23;[Ohi falls to the ground with the shock. The gap of the treasure chamber's entrance gives off clouds of smoke, surrounding Ohi's legs. The gate closes with a loud noise.]
 sequences_pflegerin_seq_a10_eingangsbereich_ueberfall#24;[The director stumbles to it, touches his breast. This is too much for him. Ohi notices it, supports him and lowers him down onto a bench. He settles him. He loosens his tie.]
-spokentexts_pflegerin_seq_a10_eingangsbereich_ueberfall_st_13;Tenez, asseyez vous et essayez de vous calmer !
+spokentexts_pflegerin_seq_a10_eingangsbereich_ueberfall_st_13;Tenez, asseyez-vous et essayez de vous calmer !
 sequences_pflegerin_seq_a10_eingangsbereich_wachstube_nach_explosion_leave#0;[Ohi and the guardsman arrive at the treasure chamber. The guardsman takes position.]
-spokentexts_pflegerin_seq_a10_eingangsbereich_wachstube_nach_explosion_leave_st_2;Je vous laisse cinq minutes ! Ensuite nous suivrons mon plan : ouvrir l'netrée principale et appeler du renfort !
-spokentexts_pflegerin_seq_a10_eingangsbereich_wachstube_nach_explosion_leave_st_3;Espérons que je parvienne à atteindre la salle au trésor avant cel. Je ne veux pas être tenu pour responsable de l'échappée du Corbeau.
+spokentexts_pflegerin_seq_a10_eingangsbereich_wachstube_nach_explosion_leave_st_2;Je vous laisse cinq minutes ! Ensuite nous suivrons mon plan : ouvrir l'entrée principale et appeler du renfort !
+spokentexts_pflegerin_seq_a10_eingangsbereich_wachstube_nach_explosion_leave_st_3;Espérons que je parvienne à atteindre la salle au trésor avant. Je ne veux pas être tenu pour responsable de l'échappée du Corbeau.
 sequences_pflegerin_seq_a10_eingangsbereich_wachstube_nach_explosion_leave#5;[Ohi makes a small bow. The guardsman shakes his head, annoyed, and signals him to go away.]
 sequences_pflegerin_seq_a10_eingangsbereich_wachstube_nach_explosion_leave#6;[From now on the guardsman stands close to the director and watches Ohi.]
 texts_a10_haupthalle_ausgang_mo_leave_1;Monter
@@ -314,7 +314,7 @@ spokentexts_a10_haupthalle_steinstatue_ex_3_st_2;Et ça ferait une porte de sort
 sequences_a10_haupthalle_steinstatue_ex_3#3;[Ohi examines the statue.]
 spokentexts_a10_haupthalle_steinstatue_ex_3_st_3;La question est : comment vais-je accéder au couloir ? Il ne semble pas y avoir une entrée ici.
 spokentexts_a10_haupthalle_steinstatue_ex_4_st_1;Matt a une imagination débordante, mais peut être qu'il a vraiment entendu quelque chose...
-spokentexts_a10_haupthalle_steinstatue_ex_4_st_2;Hmm. C'est vrai que les bâtiments en dome peuvent propager des murmures sur de longues distances. Mais ce hall est rectangulaire...
+spokentexts_a10_haupthalle_steinstatue_ex_4_st_2;Hmm. C'est vrai que les bâtiments en dôme peuvent propager des murmures sur de longues distances. Mais ce hall est rectangulaire...
 spokentexts_a10_haupthalle_steinstatue_ex_4_st_3;Pourrait-il y avoir une cachette ou une porte secrète quelque part ?
 spokentexts_a10_haupthalle_steinstatue_ex_5_st_1;La statue est trop lourde pour être déplacée... et je ne vois ni trou ni fissure dans le mur.
 spokentexts_a10_haupthalle_steinstatue_ex_5_st_2;Je ne trouverai rien ici.
@@ -386,7 +386,7 @@ spokentexts_a10_schatzkammer_kamera_ex_1_st_2;Le dernier cri ! On appelle ça la
 spokentexts_a10_schatzkammer_kamera_ex_1_st_3;J'en ai entendu parler ! Les images sont enregistrées et peuvent être revues plus tard.
 spokentexts_a10_schatzkammer_kamera_ex_1_st_4;Tout à fait. Les images des trois caméras sont enregistrées dans la salle de sécurité.
 spokentexts_a10_schatzkammer_kamera_ex_1_st_5_direction;pfeift anerkennend, 'nicht schlecht'
-spokentexts_a10_schatzkammer_kamera_ex_1_st_5;Wow !
+spokentexts_a10_schatzkammer_kamera_ex_1_st_5;Ouah !
 spokentexts_a10_schatzkammer_kamera_ex_1_st_6;Comme je l'ai dit, nous n'avons pas lésiné sur les moyens.
 texts_a10_schatzkammer_sarkophag_mo_ex_1;Examiner le sarcophage
 spokentexts_a10_schatzkammer_sarkophag_ex_1_st_1;La plupart des gens imaginent un cercueil en pierre quand on leur parle de sarcophage, mais celui-ci est en bois.
@@ -587,7 +587,7 @@ spokentexts_direktor_top_a10_direktor_inspektor_tseq_st_6;Legrand n'est pas auss
 spokentexts_direktor_top_a10_direktor_inspektor_tseq_st_7_direction;wichtigtuerisch
 spokentexts_direktor_top_a10_direktor_inspektor_tseq_st_7;Oui. Seuls des invités soigneusement sélectionnés peuvent pénétrer dans le musée pendant la préparation du gala.
 spokentexts_direktor_top_a10_direktor_inspektor_tseq_st_8_direction;weiß nicht, wie er heißt
-spokentexts_direktor_top_a10_direktor_inspektor_tseq_st_8;Evidemment, vous en faîtes partie, Mr... l'officer.
+spokentexts_direktor_top_a10_direktor_inspektor_tseq_st_8;Évidemment, vous en faîtes partie, Mr... l'officer.
 texts_direktor_top_a10_direktor_museum_tseq_title;Musée
 spokentexts_direktor_top_a10_direktor_museum_tseq_st_1;Qu'en est-il du bâtiment ? Y a-t-il des passages secrets ? Des salles cachées ou quelque chose comme ça ?
 spokentexts_direktor_top_a10_direktor_museum_tseq_st_2;Officier, je pense que vous lisez trop de romans policiers.
@@ -597,7 +597,7 @@ spokentexts_direktor_top_a10_direktor_museum_tseq_st_5;Derrière les murs ?
 spokentexts_direktor_top_a10_direktor_museum_tseq_st_6_direction;ertappt, hastig
 spokentexts_direktor_top_a10_direktor_museum_tseq_st_6;Ou autre part.
 spokentexts_direktor_top_a10_direktor_museum_tseq_st_7;Pas même derrière la statue d'Akhénaton dans le hall principal ?
-spokentexts_direktor_top_a10_direktor_museum_tseq_st_8;Nul part. Je me ferai une joie de vous montrer les plans du bâtiment.
+spokentexts_direktor_top_a10_direktor_museum_tseq_st_8;Nulle part. Je me ferai une joie de vous montrer les plans du bâtiment.
 spokentexts_direktor_top_a10_direktor_museum_tseq_st_9;Si les passages secrets figuraient sur les plans, ils ne seraient plus très secrets, vous ne croyez pas ?
 texts_direktor_top_a10_direktor_sicherheitssystem_tseq_title;Système de sécurité
 spokentexts_direktor_top_a10_direktor_sicherheitssystem_tseq_st_1;Que pouvez-vous me dire concernant le système de sécurité du musée ?
@@ -609,12 +609,12 @@ spokentexts_direktor_top_a10_direktor_sicherheitssystem_tseq_st_6;L'Oeil sera au
 spokentexts_direktor_top_a10_direktor_sicherheitssystem_tseq_st_7;Quelque chose me vient à l'esprit... Le système de sécurité du musée... Qu'avez-vous mis en place ?
 texts_direktor_top_a10_direktor_verabschieden_erstmalig_tseq_title;Dire au revoir
 spokentexts_direktor_top_a10_direktor_verabschieden_erstmalig_tseq_st_1;Je pense que je vais aller faire un tour dans le musée.
-spokentexts_direktor_top_a10_direktor_verabschieden_erstmalig_tseq_st_2;Je vous en prie ! Il y a beaucoup à voir !
+spokentexts_direktor_top_a10_direktor_verabschieden_erstmalig_tseq_st_2;Je vous en prie ! Il y a plein de choses à voir !
 spokentexts_direktor_top_a10_direktor_verabschieden_erstmalig_tseq_st_3;Et prévenez moi si vous voyez Grace, d'accord ? J'espère que nous allons la retrouver avant que le célèbre inspecteur n'arrive.
 spokentexts_direktor_top_a10_direktor_verabschieden_erstmalig_tseq_st_5;La façon dont il a résolu le meurtre sur le navire n'est-elle pas fantastique ?
 spokentexts_direktor_top_a10_direktor_verabschieden_erstmalig_tseq_st_6_direction;irritiert
 spokentexts_direktor_top_a10_direktor_verabschieden_erstmalig_tseq_st_6;Legrand ?
-spokentexts_direktor_top_a10_direktor_verabschieden_erstmalig_tseq_st_7;Evidemment ! C'est dans tous les journaux !
+spokentexts_direktor_top_a10_direktor_verabschieden_erstmalig_tseq_st_7;Évidemment ! C'est dans tous les journaux !
 spokentexts_direktor_top_a10_direktor_verabschieden_erstmalig_tseq_st_8;Le meurtre de la riche Baronne von Trebitz et comment le célèbre Inspecteur Legrand a identifié le meurtrier en une seule journée.
 spokentexts_direktor_top_a10_direktor_verabschieden_erstmalig_tseq_st_10;Le genre de choses qu'on ne voit que dans les légendes. Vous devez vous sentir privilégié de pouvoir profiter de son expérience.
 texts_direktor_top_a10_direktor_verabschieden_schatzkammer_erstmalig_tseq_title;Dire au revoir
@@ -633,11 +633,11 @@ spokentexts_direktor_top_a10_direktor_verabschieden_tseq_st_2;À bientôt, Offic
 texts_direktor_top_a10_direktor_zeitungen_tseq_title;Journaux
 spokentexts_direktor_top_a10_direktor_zeitungen_tseq_st_1;Qu'est-ce... Que racontent les journaux exactement ?
 spokentexts_direktor_top_a10_direktor_zeitungen_tseq_st_2;Tout ! C'est fantastique ! Quelqu'un à bord a dû immédiatement informer la presse.
-spokentexts_direktor_top_a10_direktor_zeitungen_tseq_st_3;Evidemment, cela nous fait une très bonne publicité ! Les reporters seront présents en nombre ce soir !
+spokentexts_direktor_top_a10_direktor_zeitungen_tseq_st_3;Évidemment, cela nous fait une très bonne publicité ! Les reporters seront présents en nombre ce soir !
 spokentexts_direktor_top_a10_direktor_zeitungen_tseq_st_4;Et il est noté que Legrand a découvert le meurtrier ?
 spokentexts_direktor_top_a10_direktor_zeitungen_tseq_st_5;Bien sûr ! Qui d'autre ?
 spokentexts_direktor_top_a10_direktor_zeitungen_tseq_st_6;Eh bien. J'étais aussi de le partie.
-spokentexts_direktor_top_a10_direktor_zeitungen_tseq_st_7;Evidemment. Legrand a probablement des assistants. Mais... Il faut rendre à César ce qui est à César, n'est-ce pas ?
+spokentexts_direktor_top_a10_direktor_zeitungen_tseq_st_7;Évidemment. Legrand a probablement des assistants. Mais... Il faut rendre à César ce qui est à César, n'est-ce pas ?
 spokentexts_direktor_ex_1_st_1;Il est pâle et tremblant. Surement en état de choc.
 spokentexts_direktor_ex_2_st_2;Je pourrai peut être en tirer quelque chose dans quelques minutes.
 spokentexts_direktor_ex_3_st_1;Le directeur ne me sera d'aucune aide. Que je le veuille ou non, je dois me contenter de l'officier.
@@ -760,7 +760,7 @@ spokentexts_junge_top_a10_junge_nil_b_an_sie_gedacht_tseq_st_8;Ah ! Nous ne devo
 sequences_junge_top_a10_junge_nil_b_an_sie_gedacht_tseq#9;[Ohi and the boy head to the stairs.]
 sequences_junge_top_a10_junge_nil_b_an_sie_gedacht_tseq#10;"[Continues at the entrance with the sequence ""arrival_safe"".]"
 texts_junge_top_a10_junge_nilkreuzfahrt_tseq_title;Croisière sur le Nil
-spokentexts_junge_top_a10_junge_nilkreuzfahrt_tseq_st_1;Je suis presque jaloux de toi. Partir en croisière sur le Nil... ce doit être super !
+spokentexts_junge_top_a10_junge_nilkreuzfahrt_tseq_st_1;Je suis presque jaloux de toi. Partir en croisière sur le Nil... Ce doit être super !
 spokentexts_junge_top_a10_junge_nilkreuzfahrt_tseq_st_2;Ouais, je suppose.
 spokentexts_junge_top_a10_junge_nilkreuzfahrt_tseq_st_3;Tu n'as pas l'air emballé.
 spokentexts_junge_top_a10_junge_nilkreuzfahrt_tseq_st_4;Je crois que Maman veut que le professeur nous accompagne.
@@ -881,7 +881,7 @@ spokentexts_schriftstellerin_top_a10_schriftstellerin_der_rabe_tseq_st_10;En sup
 spokentexts_schriftstellerin_top_a10_schriftstellerin_der_rabe_tseq_st_11_direction;depressed
 spokentexts_schriftstellerin_top_a10_schriftstellerin_der_rabe_tseq_st_11;C'est peut être la fin pour moi, Lady Westmacott.
 spokentexts_schriftstellerin_top_a10_schriftstellerin_der_rabe_tseq_st_12;L'Inspecteur Legrand va arriver sous peu et me renvoyer à mon hôtel. Je reviendrai ce soir pour le gala, en espérant que le Corbeau ait l'audace de tenter un cambriolage.
-spokentexts_schriftstellerin_top_a10_schriftstellerin_der_rabe_tseq_st_13;Demain soir je devrai rentrer en Suisse. Quelle fin décevante après toutes ces aventures.
+spokentexts_schriftstellerin_top_a10_schriftstellerin_der_rabe_tseq_st_13;Demain soir je devrais rentrer en Suisse. Quelle fin décevante après toutes ces aventures.
 spokentexts_schriftstellerin_top_a10_schriftstellerin_der_rabe_tseq_st_14;Ce ne serait pas une fin triomphante. Mais cela pourrait être pire. Au moins vous êtes toujours en vie, Officier !
 texts_schriftstellerin_top_a10_schriftstellerin_doktor_gebhardt_tseq_title;Docteur Gebhardt
 spokentexts_schriftstellerin_top_a10_schriftstellerin_doktor_gebhardt_tseq_st_1;Pensez-vous que le Dr Gebhardt était le Corbeau ?
@@ -1031,7 +1031,7 @@ spokentexts_wachmann_top_a10_wachmann_ermittler_tseq_st_4;Il a dit à l'ambassad
 texts_wachmann_top_a10_wachmann_schatzkammer_tseq_title;Salle au trésor
 spokentexts_wachmann_top_a10_wachmann_schatzkammer_tseq_st_1;Nous devons ouvrir la porte de la salle au trésor. Je pense qu'il y a une entrée secrète.
 spokentexts_wachmann_top_a10_wachmann_schatzkammer_tseq_st_2;Non. Nous devrions plutôt ouvrir l'entrée principale et appeler à l'aide !
-spokentexts_wachmann_top_a10_wachmann_schatzkammer_tseq_st_3;Robert, réfléchissez ! Le Corbeau est à l'intérieur du musée, tout comme nous. Nous pourrions l'attraper. Mais nous devons nous lancer immédiatement !
+spokentexts_wachmann_top_a10_wachmann_schatzkammer_tseq_st_3;Robert, réfléchissez ! Le Corbeau est à l'intérieur du musée, tout comme nous. Nous pourrions l'attraper. Mais nous devons nous le faire immédiatement !
 spokentexts_wachmann_top_a10_wachmann_schatzkammer_tseq_st_4;Nous pouvons mettre un terme à tout cette affaire ici et maintenant, vous et moi.
 spokentexts_wachmann_top_a10_wachmann_schatzkammer_tseq_st_5;Vous... Vous voulez juste me dérouter.
 spokentexts_wachmann_top_a10_wachmann_schatzkammer_tseq_st_6;Robert, je ne pense pas une seule seconde que vous ayez assommé cet homme.

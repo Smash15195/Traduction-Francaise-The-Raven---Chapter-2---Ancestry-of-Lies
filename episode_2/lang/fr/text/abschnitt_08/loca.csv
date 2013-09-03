@@ -82,7 +82,7 @@ sequences__seq_bg_arzt_spricht_02#5;[The doctor starts working again.]
 sequences__seq_bg_arzt_spricht_03#0;[The Doctor stops working, and leans with his arms on the cabinet (idle).]
 sequences__seq_bg_arzt_spricht_03#1;[The player takes control, can move Ohi.]
 spokentexts__seq_bg_arzt_spricht_03_st_1;Une insuffisance cardiaque arrive souvent à votre âge. Surtout compte tenu de vos antécédents.
-spokentexts__seq_bg_arzt_spricht_03_st_3;Je m'interroge encore si je dois vous jeter par-dessus bord. Pour ne pas laisser aucune trace ! Aucune preuve...
+spokentexts__seq_bg_arzt_spricht_03_st_3;Je m'interroge encore si je dois vous jeter par-dessus bord. Pour ne laisser aucune trace ! Aucune preuve...
 spokentexts__seq_bg_arzt_spricht_03_st_4;Et si on me voit ?
 spokentexts__seq_bg_arzt_spricht_03_st_5;Mon plan était parfait ! Et VOUS avez tout gâché !
 sequences__seq_bg_arzt_spricht_03#7;[The doctor starts working again.]
@@ -106,7 +106,7 @@ spokentexts_a08_krankenstation_alptraum_seq_a07_krankenstation_alptraum_oehi_erw
 spokentexts_a08_krankenstation_alptraum_seq_a07_krankenstation_alptraum_oehi_erwacht_st_8_direction;struck, powerless
 spokentexts_a08_krankenstation_alptraum_seq_a07_krankenstation_alptraum_oehi_erwacht_st_8;Vous... Vous n'avez pas...
 sequences_a08_krankenstation_alptraum_seq_a07_krankenstation_alptraum_oehi_erwacht#13;[The doctor is aware of how he behaves. He gets up, picks perhaps Ohis clothes, getting up himself.]
-spokentexts_a08_krankenstation_alptraum_seq_a07_krankenstation_alptraum_oehi_erwacht_st_9;Tou sera bientôt terminé. Vous ne vous sentirez rien.
+spokentexts_a08_krankenstation_alptraum_seq_a07_krankenstation_alptraum_oehi_erwacht_st_9;Tout sera bientôt terminé. Vous ne vous sentirez rien.
 spokentexts_a08_krankenstation_alptraum_seq_a07_krankenstation_alptraum_oehi_erwacht_st_10;Je suis navré que vous deviez assister à tout cela. J'aurais dû utiliser plus de chloroforme.
 sequences_a08_krankenstation_alptraum_seq_a07_krankenstation_alptraum_oehi_erwacht#16;[The doctor goes back to the closet, makes something (idle).]
 sequences_a08_krankenstation_alptraum_seq_a07_krankenstation_alptraum_tod_auf_boden#0;[The doctor raises his syringe, gets closer.]
