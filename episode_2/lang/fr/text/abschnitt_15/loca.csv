@@ -3,22 +3,22 @@ characters_ermittler;Ermittler
 characters_frau;Frau
 characters_ohi;Ohi
 characters_wachmann;Wachmann
-texts_a15_frachtraum_gurt_mo_ex_1;Vérifiez l'étagère
-texts_a15_frachtraum_gurt_mo_inventar_1;Courroie
-texts_a15_frachtraum_gurt_mo_inventar_2;Courroie avec couteau
-texts_a15_frachtraum_gurt_mo_inventar_mit_gurt;Courroie avec tuyau
+texts_a15_frachtraum_gurt_mo_ex_1;Vérifier l'étagère
+texts_a15_frachtraum_gurt_mo_inventar_1;Sangle
+texts_a15_frachtraum_gurt_mo_inventar_2;Sangle avec couteau
+texts_a15_frachtraum_gurt_mo_inventar_mit_gurt;Sangle avec tuyau
 texts_a15_frachtraum_gurt_mo_take_1;Prenez la sangle
-texts_a15_frachtraum_gurt_mo_used_mit_messer_2;Collez le couteau à travers la sangle
-texts_a15_frachtraum_gurt_mo_used_mit_rohr_1;Liez le tuyau et la sangle ensemble
-texts_a15_frachtraum_gurt_mo_used_mit_messer_1;Coupez la sangle 
+texts_a15_frachtraum_gurt_mo_used_mit_messer_2;Enfoncer le couteau à travers la sangle
+texts_a15_frachtraum_gurt_mo_used_mit_rohr_1;Lier le tuyau et la sangle ensemble
+texts_a15_frachtraum_gurt_mo_used_mit_messer_1;Couper la sangle 
 sequences_a15_frachtraum_gurt_ex_1#1;[The Arab stretched one arm out as far as he can out of the chest and gropes around on the shelf and on the belt. Idle with his hand on the belt.]
-spokentexts_a15_frachtraum_gurt_ex_1_st_1;Semble être une sangle pour tenir quelque chose sur l'étagère au-dessus du coffre.
+spokentexts_a15_frachtraum_gurt_ex_1_st_1;Cela semble être une sangle maintenant quelque chose sur l'étagère située au-dessus du coffre.
 spokentexts_a15_frachtraum_gurt_ex_1_st_2;Malheureusement, je ne peux pas atteindre le fermoir!
 sequences_a15_frachtraum_gurt_ex_1#4;[The Arab withdrew his hand.]
-spokentexts_a15_frachtraum_gurt_ex_2_st_1;Une sangle robuste avec un fermoir en metal.
-spokentexts_a15_frachtraum_gurt_ex_3_st_1;J'ai poussé la plus longue lame du couteau à travers l'extremité de la sangle. Le couteau est collé.
+spokentexts_a15_frachtraum_gurt_ex_2_st_1;Une sangle robuste avec un fermoir en métal.
+spokentexts_a15_frachtraum_gurt_ex_3_st_1;J'ai poussé la plus longue lame du couteau à travers l'extremité de la sangle. Le couteau est coincé.
 sequences_a15_frachtraum_gurt_take_1#1;[The Arab put his arm out of the chest, as far he can. Grabs the belt. He pulls twice, pulls his hand back then.]
-spokentexts_a15_frachtraum_gurt_take_1_st_1;Il est bien fixé et je ne peux pas atteindre le fermoir.
+spokentexts_a15_frachtraum_gurt_take_1_st_1;C'est attaché fermement et je ne peux pas atteindre le fermoir.
 sequences_a15_frachtraum_gurt_used_mit_messer_1#1;[The Arab put his arm out of the chest, as far he can. In his hand he has the knife. He senses where he must cut and cut the belt then with the knife.]
 sequences_a15_frachtraum_gurt_used_mit_messer_1#2;[He pulls his arm back, then grabs (now without the knife in his hand) to the belt and pulls it to him in the chest.]
 sequences_a15_frachtraum_gurt_used_mit_messer_2#5;[The tube is bound off, and will appear in your inventory.]
@@ -28,10 +28,10 @@ sequences_a15_frachtraum_gurt_used_mit_rohr_1#3;[The knife is pulled out and app
 spokentexts_a15_frachtraum_gurt_used_mit_rohr_1_st_1_direction;Effort
 spokentexts_a15_frachtraum_gurt_used_mit_rohr_1_st_1;Hmgh! Cela devrait tenir!
 sequences_a15_frachtraum_gurt_used_mit_rohr_1#6;[In the inventory appears the belt with the firmly knotted tube.]
-texts_a15_frachtraum_regal_mo_ex_1__2a__2b__3;Examinez la boîte
-texts_a15_frachtraum_regal_mo_used_mit_gurt_1;Jetez une extremité de la sangle à la boîte
-texts_a15_frachtraum_regal_mo_used_mit_gurt_2__3;Essaye de pêcher quelquechose
-spokentexts_a15_frachtraum_regal_ex_1_st_1;Le truc là n'a pas l'air d'avoir été récemment chargé. Probablement une partie de l'inventaire du navire.
+texts_a15_frachtraum_regal_mo_ex_1__2a__2b__3;Examiner la boîte
+texts_a15_frachtraum_regal_mo_used_mit_gurt_1;Jetez une extremité de la sangle jusqu'à la boîte
+texts_a15_frachtraum_regal_mo_used_mit_gurt_2__3;Essayer de pêcher quelquechose
+spokentexts_a15_frachtraum_regal_ex_1_st_1;Cette chose là n'a pas l'air d'avoir été récemment chargé. Probablement une partie de l'inventaire du navire.
 spokentexts_a15_frachtraum_regal_ex_2a_st_1;Des outils et des pièces de rechange, je dirais.
 spokentexts_a15_frachtraum_regal_ex_2b_st_1;Il pourrait y avoir quelque chose dans cette boîte qui pourrait m'aider à m'évader du coffre.
 spokentexts_a15_frachtraum_regal_ex_2b_st_2;Bien sûr, il serait plus utile si ce n'était pas hors de ma portée!
@@ -73,7 +73,7 @@ texts_a15_frachtraum_traeger_mo_used_mit_gurt_1;Jeter la sangle avec les tuyaux
 texts_a15_frachtraum_traeger_mo_used_mit_gurt_2;Jeter la sangle avec le tuyau dans les tuyaux
 spokentexts_a15_frachtraum_traeger_ex_1_st_1;Deux tuyaux métalliques. Stable, sur environ dix mètres.
 spokentexts_a15_frachtraum_traeger_ex_2_st_1;Le bateau fait son âge, mais ces tuyaux sont encore suffisament solides !
-spokentexts_a15_frachtraum_traeger_used_mit_gurt_1_st_1;And then it will just tie itself around the pipes? Not going to happen.
+spokentexts_a15_frachtraum_traeger_used_mit_gurt_1_st_1;Et puis il va simplement s'attacher autour des tuyaux? Cela n'arrivera pas.
 spokentexts_a15_frachtraum_traeger_used_mit_gurt_1_st_2;Même si le couteau était resté, en tirant dessus il n'aurait pas résisté  .
 spokentexts_a15_frachtraum_traeger_used_mit_gurt_2_st_1_direction;concentrates, makes himself courage
 spokentexts_a15_frachtraum_traeger_used_mit_gurt_2_st_1;Ma  meilleure chance...
@@ -101,7 +101,7 @@ sequences_a15_frachtraum_seq_a15_frachtraum_oehis_auftritt#9;[The Arab is behind
 sequences_a15_frachtraum_seq_a15_frachtraum_start#0;[It can be seen the chest, as she stands in a high-bay warehouse. The camera zooms slowly so that it becomes clear that it will now continue in the chest]
 texts_a15_truhe_armeemesser_mo_ex_1-3;Couteau suisse de l'armée 
 spokentexts_a15_truhe_armeemesser_ex_1_st_1;Mon fidèle couteau suisse de l'armée a de nombreuses lames et outils… Mais le seul dont j'ai vraiment besoin, comme une lampe poche n'est pas parmis eux.
-spokentexts_a15_truhe_armeemesser_ex_2_st_1;e couteau a été à portée de main. Et avec son aide, je pourrais avoir une chance de sortir de ce cercueil.
+spokentexts_a15_truhe_armeemesser_ex_2_st_1;Le couteau a été à portée de main. Et avec son aide, je pourrais avoir une chance de sortir de ce cercueil.
 spokentexts_a15_truhe_armeemesser_ex_3_st_1;Je dois dire, que ce couteau est un des meilleurs cadeaux que j'ai jamais eus!
 texts_a15_truhe_deckel_mo_use_1-3;Ouvrez la couverture
 spokentexts_a15_truhe_deckel_use_1_st_1;J'espère que les dockers ont quitté la soute. Je ferais mieux de jetter une coup d'oeil.
