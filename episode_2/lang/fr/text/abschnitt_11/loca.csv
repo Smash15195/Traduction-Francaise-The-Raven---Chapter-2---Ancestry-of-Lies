@@ -3,95 +3,95 @@ characters_butler;Butler
 characters_direktor;Direktor
 characters_ohi;Ohi
 characters_wachmann;Wachmann
-texts_a10_eingangsbereich_haupthalle_mo_leave_1;Go into the main hall
+texts_a10_eingangsbereich_haupthalle_mo_leave_1;Aller dans le hall principal
 sequences_a10_eingangsbereich_haupthalle_leave_1#1;[Ohi begins to walk down the big stairs.]
-texts_a10_eingangsbereich_tuer_wachstube_mo_ex_1;Look in the guardroom
+texts_a10_eingangsbereich_tuer_wachstube_mo_ex_1;Regarder dans la salle de sécurité
 sequences_a10_eingangsbereich_tuer_wachstube_ex_1#1;[Ohio stands in the door, looking at the security station.]
-spokentexts_a10_eingangsbereich_tuer_wachstube_ex_1_st_1;The guard is still unconscious. Not terribly polite to just leave him there, but I think he'll be fine.
-spokentexts_a10_eingangsbereich_tuer_wachstube_ex_2_st_1;I wonder where the other guards are. Hmm. Probably also lying unconscious elsewhere in the museum.
-spokentexts_a10_eingangsbereich_tuer_wachstube_ex_2_st_2;The police will take care of the guards... and hopefully check whether they really are who they claim to be.
-texts_a11_eingangsbereich_ausgang_mo_ex_1;Examine the metal bulkhead
-spokentexts_a11_eingangsbereich_ausgang_ex_1_st_1;The explosion occurred a few minutes ago. I should hear sirens any moment.
+spokentexts_a10_eingangsbereich_tuer_wachstube_ex_1_st_1;Le garde est toujours inconscient. Ce n'est pas très poli de le laisser ainsi mais je pense qu'il s'en remettra.
+spokentexts_a10_eingangsbereich_tuer_wachstube_ex_2_st_1;Je me demande où sont les autres gardes. Hmm. Probablement inconscients eux aussi ailleurs dans le musée.
+spokentexts_a10_eingangsbereich_tuer_wachstube_ex_2_st_2;La police s'occupera des gardes... et j'espère qu'elle vérifiera leur identité.
+texts_a11_eingangsbereich_ausgang_mo_ex_1;Examiner la cloison en métal
+spokentexts_a11_eingangsbereich_ausgang_ex_1_st_1;L'explosion s'est produite il y a quelques minutes. Je devrais entendre des sirènes d'un moment à l'autre.
 spokentexts_a11_eingangsbereich_ausgang_ex_1_st_2;Once that happens, I won't be able to stop the constable and the director from opening the doors.
-texts_a11_eingangsbereich_tor_schatzkammer_mo_ex_1;Examine the metal tube
-texts_a11_eingangsbereich_tor_schatzkammer_mo_ex_2;Call Constable Oliver
-spokentexts_a11_eingangsbereich_tor_schatzkammer_ex_2_st_1;The constable thinks I'm below him in the basement. If I call him from here, he might fall into the hole out of shock.
-spokentexts_a11_eingangsbereich_tor_schatzkammer_ex_2_st_2;Besides, it's an advantage if he thinks that there's only one exit and that it's locked. I'll have more time for my investigation.
-spokentexts_a11_eingangsbereich_tor_schatzkammer_ex_1_st_1;I can't open the gate alone... and I don't want to anyway. I have my own entrance in the basement.
+texts_a11_eingangsbereich_tor_schatzkammer_mo_ex_1;Examiner le tube en métal
+texts_a11_eingangsbereich_tor_schatzkammer_mo_ex_2;Appeler l'Officier Oliver
+spokentexts_a11_eingangsbereich_tor_schatzkammer_ex_2_st_1;L'officier pense que je suis en dessous de lui, dans la cave. Si je l'appelle d'ici, la surprise risque de le faire tomber dans le trou.
+spokentexts_a11_eingangsbereich_tor_schatzkammer_ex_2_st_2;De plus, mieux vaut qu'il pense qu'il n'y a qu'une seule sortie et qu'elle est verrouillée. Cela me laisse plus de temps pour enquêter.
+spokentexts_a11_eingangsbereich_tor_schatzkammer_ex_1_st_1;Je ne peux pas ouvrir la porte tout seul... et je ne veux pas de toute façon. J'ai mon propre accès à la cave.
 sequences_a11_eingangsbereich_seq_a11_eingangsbereich_oehi_direktor_erstmalig#0;[Cut to the director, he's tired and desperate sitting there with his head hanging.]
 sequences_a11_eingangsbereich_seq_a11_eingangsbereich_oehi_direktor_erstmalig#1;[Ohis feet comes into the picture. The director looks up and gasps.]
 spokentexts_a11_eingangsbereich_seq_a11_eingangsbereich_oehi_direktor_erstmalig_st_1_direction;scared
-spokentexts_a11_eingangsbereich_seq_a11_eingangsbereich_oehi_direktor_erstmalig_st_1;Ahh!
+spokentexts_a11_eingangsbereich_seq_a11_eingangsbereich_oehi_direktor_erstmalig_st_1;Ahh !
 spokentexts_a11_eingangsbereich_seq_a11_eingangsbereich_oehi_direktor_erstmalig_st_2_direction;perplexed
-spokentexts_a11_eingangsbereich_seq_a11_eingangsbereich_oehi_direktor_erstmalig_st_2;What are YOU doing here? You were just...
+spokentexts_a11_eingangsbereich_seq_a11_eingangsbereich_oehi_direktor_erstmalig_st_2;Que faites VOUS ici ? Vous étiez juste...
 sequences_a11_eingangsbereich_seq_a11_eingangsbereich_oehi_direktor_erstmalig#4;[Cut back to the shot.]
-spokentexts_a11_eingangsbereich_seq_a11_eingangsbereich_oehi_direktor_erstmalig_st_3;I found another exit.
-spokentexts_a11_eingangsbereich_seq_a11_eingangsbereich_oehi_direktor_erstmalig_st_4;The Eye?
-spokentexts_a11_eingangsbereich_seq_a11_eingangsbereich_oehi_direktor_erstmalig_st_5;Gone.
-spokentexts_a11_eingangsbereich_seq_a11_eingangsbereich_oehi_direktor_erstmalig_st_6;The Raven blasted a hole in the floor of the treasure chamber. There's a hidden basement beneath it.
+spokentexts_a11_eingangsbereich_seq_a11_eingangsbereich_oehi_direktor_erstmalig_st_3;J'ai trouvé une autre sortie.
+spokentexts_a11_eingangsbereich_seq_a11_eingangsbereich_oehi_direktor_erstmalig_st_4;L'Oeil ?
+spokentexts_a11_eingangsbereich_seq_a11_eingangsbereich_oehi_direktor_erstmalig_st_5;Disparu.
+spokentexts_a11_eingangsbereich_seq_a11_eingangsbereich_oehi_direktor_erstmalig_st_6;Le Corbeau a dynamité le sol de la salle au trésor. Il y a une cave cachée en dessous.
 spokentexts_a11_eingangsbereich_seq_a11_eingangsbereich_oehi_direktor_erstmalig_st_7_direction;anxious
-spokentexts_a11_eingangsbereich_seq_a11_eingangsbereich_oehi_direktor_erstmalig_st_7;And... And the other treasures?
-spokentexts_a11_eingangsbereich_seq_a11_eingangsbereich_oehi_direktor_erstmalig_st_8;It doesn't look good.
+spokentexts_a11_eingangsbereich_seq_a11_eingangsbereich_oehi_direktor_erstmalig_st_7;Et... Et les autres trésors ?
+spokentexts_a11_eingangsbereich_seq_a11_eingangsbereich_oehi_direktor_erstmalig_st_8;Ce n'est pas beau à voir.
 spokentexts_a11_eingangsbereich_seq_a11_eingangsbereich_oehi_direktor_erstmalig_st_9_direction;weak, desperate
-spokentexts_a11_eingangsbereich_seq_a11_eingangsbereich_oehi_direktor_erstmalig_st_9;Oh, oh no.
+spokentexts_a11_eingangsbereich_seq_a11_eingangsbereich_oehi_direktor_erstmalig_st_9;Oh, oh non.
 sequences_a11_eingangsbereich_seq_a11_eingangsbereich_oehi_direktor_erstmalig#12;[The director's lays his hands on his face.]
-texts_a11_haupthalle_geheimtuer_mo_leave_1;Go into the secret basement.
+texts_a11_haupthalle_geheimtuer_mo_leave_1;Entrer dans la cave secrète.
 sequences_a11_haupthalle_geheimtuer_leave_1#1;[Ohio goes back through the secret door in the basement.]
-texts_a11_haupthalle_kanope_affe_mo_ex_1;Examine the baboon-shaped canopic jar
+texts_a11_haupthalle_kanope_affe_mo_ex_1;Examiner le vase canope à tête de babouin
 spokentexts_a11_haupthalle_kanope_affe_ex_1_st_1_direction;reads
-spokentexts_a11_haupthalle_kanope_affe_ex_1_st_1;"""Hapi, lungs."""
-texts_a11_haupthalle_kanope_erklaerungstafel_mo_ex_1__2;Examine the board
+spokentexts_a11_haupthalle_kanope_affe_ex_1_st_1;"""Hâpi, poumons."""
+texts_a11_haupthalle_kanope_erklaerungstafel_mo_ex_1__2;Examiner le tableau
 spokentexts_a11_haupthalle_kanope_erklaerungstafel_ex_1_st_1_direction;reads
-spokentexts_a11_haupthalle_kanope_erklaerungstafel_ex_1_st_1;"""The four Sons of Horus, Amset, Hapi, Duamutef and Kebechsenuef, are children of the god Horus the Elder and the goddess Isis."""
+spokentexts_a11_haupthalle_kanope_erklaerungstafel_ex_1_st_1;"""Les quatre Fils d'Horus, Amset, Hapi, Douamoutef and Qebehsenouf, sont les enfants du dieu Horus l'Ancien Elder et de la déesse Isis."""
 spokentexts_a11_haupthalle_kanope_erklaerungstafel_ex_1_st_2_direction;reads
-spokentexts_a11_haupthalle_kanope_erklaerungstafel_ex_1_st_2;"""They are believed to protect canopic jars, which contain the internal organs of people who were mummified in ancient Egypt."
+spokentexts_a11_haupthalle_kanope_erklaerungstafel_ex_1_st_2;"""Ils sont censé protéger les vase canopes qui contenaient les organes internes des personnes momifiées en Egypte antique."
 spokentexts_a11_haupthalle_kanope_erklaerungstafel_ex_1_st_3_direction;reads
-spokentexts_a11_haupthalle_kanope_erklaerungstafel_ex_1_st_3;"""As stellar gods they are associated with the four cardinal directions. For that reason, their names were written on the four corners of the coffins during the Middle Kingdom period."""
-spokentexts_a11_haupthalle_kanope_erklaerungstafel_ex_1_st_4;Aha! Four sons, four cardinal directions!
-spokentexts_a11_haupthalle_kanope_erklaerungstafel_ex_2_st_1;Each Son of Horus is associated with a cardinal direction.
-spokentexts_a11_haupthalle_kanope_erklaerungstafel_ex_2_st_2;The only question is which cardinal direction belongs to which son.
-spokentexts_a11_haupthalle_kanope_erklaerungstafel_ex_2_st_3;From the sign beside the sarcophagus I know that Hapi is the North, Amset is the South, Kebechsenuef is the West and Duamutef is the East.
-texts_a11_haupthalle_kanope_mensch_mo_ex_1;Examine the human-shaped canopic jar 
+spokentexts_a11_haupthalle_kanope_erklaerungstafel_ex_1_st_3;"""En tant que génies divins, ils sont associés aux quatre points cardinaux. C'est la raison pour laquelle leurs noms étaient inscrits aux quatre coins des cercueils à la période du Moyen Empire."""
+spokentexts_a11_haupthalle_kanope_erklaerungstafel_ex_1_st_4;Aha ! Quatre fils, quatre points cardinaux !
+spokentexts_a11_haupthalle_kanope_erklaerungstafel_ex_2_st_1;Chacun des Fils d'Horus est associé à un point cardinal.
+spokentexts_a11_haupthalle_kanope_erklaerungstafel_ex_2_st_2;La question étant de savoir à quel point cardinal correspond chacun des fils.
+spokentexts_a11_haupthalle_kanope_erklaerungstafel_ex_2_st_3;D'après le signe près du sarcophage, je sais que Hâpi correspond au Nord, Amset au Sud, Qebehsenouf à l'Ouest et Douamoutef à l'Est.
+texts_a11_haupthalle_kanope_mensch_mo_ex_1;Examiner le vase canope à tête humaine 
 spokentexts_a11_haupthalle_kanope_mensch_ex_1_st_1_direction;reads
-spokentexts_a11_haupthalle_kanope_mensch_ex_1_st_1;"The sign says: ""Amset, liver."""
-texts_a11_haupthalle_kanope_schakal_mo_ex_1;Examine the jackal-shaped canopic jar
+spokentexts_a11_haupthalle_kanope_mensch_ex_1_st_1;"La pancarte lit : ""Amset, foie."""
+texts_a11_haupthalle_kanope_schakal_mo_ex_1;Examiner le vase canope à tête de chacal
 spokentexts_a11_haupthalle_kanope_schakal_ex_1_st_1_direction;reads
-spokentexts_a11_haupthalle_kanope_schakal_ex_1_st_1;"Here we have: ""Duamutef, stomach."""
-texts_a11_haupthalle_kanope_vogel_mo_ex_1;Examine the falcon-shaped canopic jar
+spokentexts_a11_haupthalle_kanope_schakal_ex_1_st_1;"Ici nous avons : ""Douamoutef, estomac."""
+texts_a11_haupthalle_kanope_vogel_mo_ex_1;Examiner le vase canope à tête de faucon
 spokentexts_a11_haupthalle_kanope_vogel_ex_1_st_1_direction;reads
-spokentexts_a11_haupthalle_kanope_vogel_ex_1_st_1;"""Kebechsenuef, intestines."""
-texts_a11_haupthalle_kanopen_mo_ex_1a__1b__2;Examine the canopic jars
-spokentexts_a11_haupthalle_kanopen_ex_1a_st_1;Various containers. Maybe they contained funerary objects.
-spokentexts_a11_haupthalle_kanopen_ex_1b_st_1;The lids depict animals and a person. That alone doesn't really help me.
-spokentexts_a11_haupthalle_kanopen_ex_2_st_1;Must be the canopic jars the director was talking about. One jar for each of the four Sons of Horus.
-texts_a11_haupthalle_sarkophag_erklaerungstafel_mo_ex_1__2;Examine the board
+spokentexts_a11_haupthalle_kanope_vogel_ex_1_st_1;"""Qebehsenouf, intestins."""
+texts_a11_haupthalle_kanopen_mo_ex_1a__1b__2;Examiner les vases canopes
+spokentexts_a11_haupthalle_kanopen_ex_1a_st_1;Divers récipients. Peut être contiennent-ils des objets funéraires.
+spokentexts_a11_haupthalle_kanopen_ex_1b_st_1;Les couvercles ont la forme d'animaux et d'une personne. Ca ne m'avance pas beaucoup.
+spokentexts_a11_haupthalle_kanopen_ex_2_st_1;Ce doivent être les vases canopes dont m'a parlé le directeur. Un vase pour chacun des quatre Fils d'Horus.
+texts_a11_haupthalle_sarkophag_erklaerungstafel_mo_ex_1__2;Examiner la pancarte
 spokentexts_a11_haupthalle_sarkophag_erklaerungstafel_ex_1_st_1_direction;reads
-spokentexts_a11_haupthalle_sarkophag_erklaerungstafel_ex_1_st_1;"""Sarcophagus from the Old Kingdom... Hmm... Unknown ruler..."" Here we go!"
+spokentexts_a11_haupthalle_sarkophag_erklaerungstafel_ex_1_st_1;"""Sarcophage de l'Ancien Empire... Hmm... Souverain inconnu..."" C'est parti !"
 spokentexts_a11_haupthalle_sarkophag_erklaerungstafel_ex_1_st_2_direction;reads
-spokentexts_a11_haupthalle_sarkophag_erklaerungstafel_ex_1_st_2;"""On the front you can see the tutelary deities Amset and Hapi."""
+spokentexts_a11_haupthalle_sarkophag_erklaerungstafel_ex_1_st_2;"""Sur le devant se trouvent les dieux tutélaires Amset et Hâpi."""
 spokentexts_a11_haupthalle_sarkophag_erklaerungstafel_ex_1_st_3_direction;reads
-spokentexts_a11_haupthalle_sarkophag_erklaerungstafel_ex_1_st_3;"""At a later date it became traditional to show all four Sons of Horus on all four sides of the sarcophagus."" Each son signified a cardinal direction."""
+spokentexts_a11_haupthalle_sarkophag_erklaerungstafel_ex_1_st_3;"""Plus tard la tradition voulait que les quatre Fils d'Horus soient représentés sur chacun des quatre côtés du sarcophage."" Chaque fils correspondait à un point cardinal."""
 spokentexts_a11_haupthalle_sarkophag_erklaerungstafel_ex_1_st_4_direction;reads
-spokentexts_a11_haupthalle_sarkophag_erklaerungstafel_ex_1_st_4;"""Hapi the North, Amset the South, Kebechsenuef the West and Duamutef the East."""
-spokentexts_a11_haupthalle_sarkophag_erklaerungstafel_ex_2_st_1;Each Son of Horus is associated with a cardinal direction and a symbol.
-spokentexts_a11_haupthalle_sarkophag_erklaerungstafel_ex_2_st_2;Hapi is the North, Amset is the South, Kebechsenuef is the West and Duamutef is the East.
-texts_a11_haupthalle_sarkophag_mo_ex_1;Examine the sarcophagus
-spokentexts_a11_haupthalle_sarkophag_ex_1_st_1;The museum still has plenty to offer, despite the senseless destruction in the treasure chamber.
+spokentexts_a11_haupthalle_sarkophag_erklaerungstafel_ex_1_st_4;"""Hâpi le Nord, Amset le Sud, Qebehsenouf l'Ouest et Douamoutef l'Est."""
+spokentexts_a11_haupthalle_sarkophag_erklaerungstafel_ex_2_st_1;Chacun des Fils d'Horus est associé à un point cardinal et à un symbole.
+spokentexts_a11_haupthalle_sarkophag_erklaerungstafel_ex_2_st_2;Hâpi est le Nord, Amset est le Sud, Qebehsenouf est l'Ouest et Douamoutef est l'Est.
+texts_a11_haupthalle_sarkophag_mo_ex_1;Examiner le sarcophage
+spokentexts_a11_haupthalle_sarkophag_ex_1_st_1;Le musée a encore beaucoup à offrir, et ce malgré la destruction insensée dans la salle au trésor.
 sequences_a11_haupthalle_sarkophag_ex_2#1;[Ohi goes to the sarcophagus, looks at him.]
-spokentexts_a11_haupthalle_sarkophag_ex_2_st_1;There are actually two of the four Sons of Horus on the front side of the sarcophagus. A man and a monkey.
-texts_a11_haupthalle_treppe_mo_leave_1;Go to the entrance
+spokentexts_a11_haupthalle_sarkophag_ex_2_st_1;Deux des quatre Fils d'Horus sont visibles sur le devant du sarcophage. Un homme et un singe.
+texts_a11_haupthalle_treppe_mo_leave_1;Aller vers l'entrée
 sequences_a11_haupthalle_treppe_leave_1#1;[Ohio begins to go up the stairs towards the entrance.]
-texts_a11_items_funkanlage_mo_ex_1;Examine the radio set
-spokentexts_a11_items_funkanlage_ex_1_st_1;Leftover from the war, if I had to guess.
-spokentexts_a11_items_funkanlage_ex_1_st_2;And why not? So high above the city... It's the perfect place for a secret radio installation.
-texts_a11_rabennest_stuhl_mo_ex_1;Examine the chair
+texts_a11_items_funkanlage_mo_ex_1;Examiner le poste de radio
+spokentexts_a11_items_funkanlage_ex_1_st_1;Un vestige de la guerre, je pense.
+spokentexts_a11_items_funkanlage_ex_1_st_2;Et pourquoi pas ? Si haut au dessus de la ville... C'est un endroit parfait pour installer une radio en secret.
+texts_a11_rabennest_stuhl_mo_ex_1;Examiner la chaise
 spokentexts_a11_rabennest_stuhl_ex_1_st_1_direction;Heavy Breathing
-spokentexts_a11_rabennest_stuhl_ex_1_st_1;The chair is the only object that's not covered with dust. It seems like someone sat on it recently.
+spokentexts_a11_rabennest_stuhl_ex_1_st_1;La chaise est le seule objet qui n'est pas couvert de poussière. On dirait que quelqu'un l'a utilisée récemment.
 sequences_a11_rabennest_stuhl_ex_1#2;[Ohi goes around the chair, looking at him more closely.]
 spokentexts_a11_rabennest_stuhl_ex_1_st_2_direction;Heavy Breathing
-spokentexts_a11_rabennest_stuhl_ex_1_st_2;Handcuffs.
+spokentexts_a11_rabennest_stuhl_ex_1_st_2;Des menottes.
 spokentexts_a11_rabennest_stuhl_ex_1_st_3_direction;Breathing slightly better
-spokentexts_a11_rabennest_stuhl_ex_1_st_3;Not what I expected. Was someone interrogated here?
+spokentexts_a11_rabennest_stuhl_ex_1_st_3;Pas ce à quoi je m'attendais. Quelqu'un a-t-il été interrogé ici ?
 sequences_a11_rabennest_stuhl_ex_1#13;[Behind Ohi the floor creaks. Ohi gets startled, but don't turns.]
 spokentexts_a11_rabennest_stuhl_ex_1_st_4_direction;Startled, swallow
 spokentexts_a11_rabennest_stuhl_ex_1_st_4;Hhh. Hgm.
@@ -100,220 +100,220 @@ sequences_a11_rabennest_stuhl_ex_1#7;[A shadow moves. The tips of the shoes of t
 sequences_a11_rabennest_stuhl_ex_1#8;[Cut back.]
 sequences_a11_rabennest_stuhl_ex_1#9;[Ohi turns anxious, takes a step back. Then he pulled himself together and takes attitude.]
 spokentexts_a11_rabennest_stuhl_ex_1_st_5_direction;trying to sound brave
-spokentexts_a11_rabennest_stuhl_ex_1_st_5;The Raven, if I'm not mistaken?
+spokentexts_a11_rabennest_stuhl_ex_1_st_5;Le Corbeau, si je ne m'abuse ?
 sequences_a11_rabennest_stuhl_ex_1#11;[The man nods.]
-spokentexts_a11_rabennest_stuhl_ex_1_st_6;Why don't you step into the light...
-texts_a11_rabennest_taubennester_mo_ex_1;Look at the pigeon nests
-spokentexts_a11_rabennest_taubennester_ex_1_st_1;An old roof like this must be paradise for pigeons. Seems like there are dozens of them up there.
-spokentexts_a11_rabennest_taubennester_ex_1_st_2;I can't see them, but I can certainly hear them...
-spokentexts_a11_rabennest_taubennester_ex_1_st_3;...and smell them.
-texts_a11_rabennest_treppe_mo_leave_1;Go back downstairs
+spokentexts_a11_rabennest_stuhl_ex_1_st_6;Pourquoi ne pas venir dans la lumière...
+texts_a11_rabennest_taubennester_mo_ex_1;Regarder les nids de pigeon
+spokentexts_a11_rabennest_taubennester_ex_1_st_1;Un vieux toit comme celui-ci doit être un vrai paradis pour les pigeons. On dirait qu'il y en a des dizaines ici.
+spokentexts_a11_rabennest_taubennester_ex_1_st_2;Je ne les vois pas, mais je les entends...
+spokentexts_a11_rabennest_taubennester_ex_1_st_3;...et je les sens.
+texts_a11_rabennest_treppe_mo_leave_1;Retourner en bas
 spokentexts_a11_rabennest_treppe_leave_1_st_1_direction;Heavy Breathing
-spokentexts_a11_rabennest_treppe_leave_1_st_1;I just went upstairs!
+spokentexts_a11_rabennest_treppe_leave_1_st_1;Je viens juste d'arriver !
 spokentexts_a11_rabennest_treppe_leave_1_st_2_direction;Heavy Breathing
-spokentexts_a11_rabennest_treppe_leave_1_st_2;Under no circumstances will I go back downstairs without having found anything up here.
-texts_a11_rabennest_ventilator_mo_ex_1;Examine the fan
-texts_a11_rabennest_ventilator_mo_use_1;Turn on the fan
-spokentexts_a11_rabennest_ventilator_ex_1_st_1;Must be unbearably hot up here in the summer.
-spokentexts_a11_rabennest_ventilator_ex_1_st_2;But it's bearable at the moment.
-spokentexts_a11_rabennest_ventilator_use_1_st_1;I'd better leave it off.
-spokentexts_a11_rabennest_ventilator_use_1_st_2;It'd probably just stir up dust.
+spokentexts_a11_rabennest_treppe_leave_1_st_2;Je ne vais certainement redescendre avant d'avoir trouvé quelque chose ici.
+texts_a11_rabennest_ventilator_mo_ex_1;Examiner le ventilateur
+texts_a11_rabennest_ventilator_mo_use_1;Allumer le ventilateur
+spokentexts_a11_rabennest_ventilator_ex_1_st_1;Ce doit être invivable ici en plein été.
+spokentexts_a11_rabennest_ventilator_ex_1_st_2;Mais aujourd'hui c'est supportable.
+spokentexts_a11_rabennest_ventilator_use_1_st_1;Je ferais mieux de l'éteindre.
+spokentexts_a11_rabennest_ventilator_use_1_st_2;Il ne serait bon qu'à déplacer la poussière.
 sequences_a11_rabennest_seq_a11_rabennest_ankunft#0;[Fade in. We see the exit toward the stairs.]
 sequences_a11_rabennest_seq_a11_rabennest_ankunft#1;[Ohi is going up the last stairs, keeps itself with last power on to a wall (idle).]
 spokentexts_a11_rabennest_seq_a11_rabennest_ankunft_st_2_direction;severely out of breath
-spokentexts_a11_rabennest_seq_a11_rabennest_ankunft_st_2;Two hundred steps at least! And a ladder! I'm too old for this.
+spokentexts_a11_rabennest_seq_a11_rabennest_ankunft_st_2;Au moins deux cents marches ! Et une échelle ! Ce n'est plus de mon âge.
 sequences_a11_rabennest_seq_a11_rabennest_ankunft#5;[Ohi is letting the wall, stands up to normal.]
-spokentexts_a11_rabennest_seq_a11_rabennest_falsch_geraten_st_1;Wrong, Constable Zellner.
+spokentexts_a11_rabennest_seq_a11_rabennest_falsch_geraten_st_1;Faux, Officier Zellner.
 sequences_a11_rabennest_seq_a11_rabennest_falsch_geraten#1;[Short pause. Then the butler peels out of the darkness turns into light.]
 spokentexts_a11_rabennest_seq_a11_rabennest_falsch_geraten_st_2_direction;unbelieving
-spokentexts_a11_rabennest_seq_a11_rabennest_falsch_geraten_st_2;Mr. Inch...
+spokentexts_a11_rabennest_seq_a11_rabennest_falsch_geraten_st_2;Mr Inch...
 sequences_a11_rabennest_seq_a11_rabennest_falsch_geraten#3;[The Butler indictaes a bow.]
-spokentexts_a11_rabennest_seq_a11_rabennest_falsch_geraten_st_3;It is astonishing how far you've come.
-spokentexts_butler_top_a11_butler_raten_butler_tseq_st_3;I thought young Legrand would be my most dangerous opponent...
-spokentexts_butler_top_a11_butler_raten_butler_tseq_st_4;But it seems I should have had more respect for age.
-texts_a11_keller_dokumente_mo_ex_1__2;Examine the desk
+spokentexts_a11_rabennest_seq_a11_rabennest_falsch_geraten_st_3;Impressionnant que vous soyez arrivé jusqu'ici.
+spokentexts_butler_top_a11_butler_raten_butler_tseq_st_3;Moi qui pensait que Legrand serait mon adversaire le plus coriace...
+spokentexts_butler_top_a11_butler_raten_butler_tseq_st_4;Mais apparemment j'aurais dû avoir plus de respect pour l'âge.
+texts_a11_keller_dokumente_mo_ex_1__2;Examiner le bureau
 spokentexts_a11_keller_dokumente_ex_1_st_1_direction;loud
-spokentexts_a11_keller_dokumente_ex_1_st_1;Shine the light over there, please!
+spokentexts_a11_keller_dokumente_ex_1_st_1;Eclairez par ici, s'il vous plait !
 sequences_a11_keller_dokumente_ex_1#4;[The guard lights on the desk.]
-spokentexts_a11_keller_dokumente_ex_1_st_2;Interesting. Documents, maps, letters...
-spokentexts_a11_keller_dokumente_ex_1_st_3;All of them at least 20, 30 years old.
+spokentexts_a11_keller_dokumente_ex_1_st_2;Intéressant. Des documents, des cartes, des lettres...
+spokentexts_a11_keller_dokumente_ex_1_st_3;Ils ont tous au moins 20 ou 30 ans.
 spokentexts_a11_keller_dokumente_ex_2_st_1_direction;loud
-spokentexts_a11_keller_dokumente_ex_2_st_1;Shine the light on the desk again!
+spokentexts_a11_keller_dokumente_ex_2_st_1;Eclairez le bureau à nouveau !
 sequences_a11_keller_dokumente_ex_2#4;[The guard lights on the desk.]
-spokentexts_a11_keller_dokumente_ex_2_st_2;I wonder how the Raven knew about the secret basement.
+spokentexts_a11_keller_dokumente_ex_2_st_2;Je me demande comment le Corbeau a appris l'existence de cette cave secrète.
 spokentexts_a11_keller_dokumente_ex_2_st_3_direction;thoughtfully
-spokentexts_a11_keller_dokumente_ex_2_st_3;He must have done some research and then paid someone for the missing information.
-texts_a11_keller_klappe_mo_ex_1;Examine the hatch
-texts_a11_keller_klappe_mo_leave_1;Go into the great hall
-texts_a11_keller_klappe_mo_use_1;Open the hatch
-spokentexts_a11_keller_klappe_ex_1_st_1;What's that?
+spokentexts_a11_keller_dokumente_ex_2_st_3;Il a dû faire des recherches et soudoyer quelqu'un pour les informations manquantes.
+texts_a11_keller_klappe_mo_ex_1;Examiner la porte
+texts_a11_keller_klappe_mo_leave_1;Aller dans le hall principal
+texts_a11_keller_klappe_mo_use_1;Ouvrir la porte
+spokentexts_a11_keller_klappe_ex_1_st_1;Qu'est-ce que c'est que ça ?
 spokentexts_a11_keller_klappe_ex_1_st_2_direction;loud
-spokentexts_a11_keller_klappe_ex_1_st_2;Hey! Don't go too far away!
+spokentexts_a11_keller_klappe_ex_1_st_2;Hey ! Ne vous éloignez pas trop !
 spokentexts_a11_keller_klappe_ex_1_st_3_direction;loud
-spokentexts_a11_keller_klappe_ex_1_st_3;Come down and stop me!
+spokentexts_a11_keller_klappe_ex_1_st_3;Descendez et arrêtez moi !
 spokentexts_a11_keller_klappe_ex_1_st_4_direction;loud
-spokentexts_a11_keller_klappe_ex_1_st_4;Or stay there and give me some light!
+spokentexts_a11_keller_klappe_ex_1_st_4;Ou restez là haut et éclairez moi !
 sequences_a11_keller_klappe_ex_1#5;[The guard lights in Ohis direction.]
-spokentexts_a11_keller_klappe_ex_1_st_5;Interesting... Some kind of wooden hatch.
-spokentexts_a11_keller_klappe_ex_1_st_6;There are two hinges on this side. There's a kind of metal hook holding the hatch closed.
-spokentexts_a11_keller_klappe_ex_2_st_1;I have to hurry. The gates will open sooner or later and then the museum will be crawling with people.
+spokentexts_a11_keller_klappe_ex_1_st_5;Intéressant... Une sorte de porte en bois.
+spokentexts_a11_keller_klappe_ex_1_st_6;Il y a deux charnières de ce côté, et une sorte de crochet en métal qui maintient la porte fermée.
+spokentexts_a11_keller_klappe_ex_2_st_1;Je dois me dépêcher. Les portes vont bien finir par s'ouvrir et ensuite le musée sera envahi.
 sequences_a11_keller_klappe_leave_1#1;[Ohi goes from the basement to the big hall.]
-spokentexts_a11_keller_klappe_leave_2_st_1;No. The Raven escaped via the stairs. Every minute counts!
-spokentexts_a11_keller_klappe_leave_2_st_2;Constable Oliver and the director can open the gates and meet Legrand and the others. I need to go up!
+spokentexts_a11_keller_klappe_leave_2_st_1;Non. Le Corbeau s'est échappé par les escaliers. Chaque minute compte !
+spokentexts_a11_keller_klappe_leave_2_st_2;L'Officier Oliver et le directeur peuvent ouvrir les portes et retrouver Legrand et les autres. Je dois aller en haut !
 spokentexts_a11_keller_klappe_use_1_st_1_direction;slightly annoyed, loud
-spokentexts_a11_keller_klappe_use_1_st_1;Constable! Light!
+spokentexts_a11_keller_klappe_use_1_st_1;Officier ! De la lumière !
 sequences_a11_keller_klappe_use_1#4;[The guard lights toward the door.]
 sequences_a11_keller_klappe_use_1#5;[Ohi opens the lock, opens the flap. Light shines through two small round peepholes.]
 sequences_a11_keller_klappe_use_1#6;[Cut to the big hall with the speaking statue.]
 sequences_a11_keller_klappe_use_1#7;[In the near of the statue you can see the two small holes in the wall decoration.]
 spokentexts_a11_keller_klappe_use_1_st_2_direction;muffled from behind the wall, ghostly voice
-spokentexts_a11_keller_klappe_use_1_st_2;I'm the talking statue! I really like to teach bad words to the little boys!
+spokentexts_a11_keller_klappe_use_1_st_2;Je suis la statue qui parle ! Jaime beaucoup apprendre des gros mots aux jeunes garçons !
 spokentexts_a11_keller_klappe_use_1_st_3_direction;muffled from behind the wall
-spokentexts_a11_keller_klappe_use_1_st_3;At least that riddle is solved now.
+spokentexts_a11_keller_klappe_use_1_st_3;Au moins cette énigme est résolue.
 sequences_a11_keller_klappe_use_1#10;[Cut back to the basement.]
 sequences_a11_keller_klappe_use_1#11;[Ohi takes a step back, looks at the wall.]
-spokentexts_a11_keller_klappe_use_1_st_4;Peepholes... And I suspect... Yes!
+spokentexts_a11_keller_klappe_use_1_st_4;Des trous... Et j'imagine que... Oui !
 sequences_a11_keller_klappe_use_1#13;[Ohi pulls a bolt, which he has discovered, and presses the secret door to the big hall.]
 sequences_a11_keller_klappe_use_1#14;[Cut to the big hall.]
 sequences_a11_keller_klappe_use_1#15;[Ohi comes out of the secret door, he's looking around.]
-spokentexts_a11_keller_klappe_use_1_st_5;Hmm. The Raven couldn't have gone this way. We'd have seen him and he couldn't have closed the bolt from outside.
-spokentexts_a11_keller_klappe_use_1_st_6;There must be another entrance.
-spokentexts_a11_keller_klappe_use_st_9;I'm positive he escaped through the other secret door.
+spokentexts_a11_keller_klappe_use_1_st_5;Hmm. Le Corbeau n'a pas pu partir par là. Nous l'aurions remarqué et il n'aurait pas pu fermer le verrou de l'extérieur.
+spokentexts_a11_keller_klappe_use_1_st_6;Il doit y avoir une autre entrée.
+spokentexts_a11_keller_klappe_use_st_9;Je suis certain qu'il s'est échappé par l'autre porte secrète.
 sequences_a11_keller_klappe_use_1#18;[Ohi goes back to the cellar.]
 sequences_a11_keller_klappe_use_1#19;[Cut back to the basement.]
 spokentexts_a11_keller_klappe_use_1_st_7_direction;loud
-spokentexts_a11_keller_klappe_use_1_st_7;Why is it suddenly so bright down there?
+spokentexts_a11_keller_klappe_use_1_st_7;Pourquoi est-ce si lumineux ici tout à coup ?
 spokentexts_a11_keller_klappe_use_1_st_8_direction;loud
-spokentexts_a11_keller_klappe_use_1_st_8;I found the light switch.
-texts_a11_keller_lichtschalter_mo_ex_1;Examine the light switch
-spokentexts_a11_keller_lichtschalter_ex_1_st_1;There used to be a lamp hanging here. Now there's just the socket. The bulb was destroyed in the explosion.
-texts_a11_keller_loch_mo_talk_mit_1-3;Talk to Constable Oliver
-spokentexts_a11_keller_loch_ex_1_st_1;Robert Oliver. The human searchlight!
-spokentexts_a11_keller_loch_talk_mit_1_st_1;Are you all right?
-spokentexts_a11_keller_loch_talk_mit_1_st_2;Yes, yes. Have you found an escape route?
-spokentexts_a11_keller_loch_talk_mit_1_st_3;I'm working on it.
+spokentexts_a11_keller_klappe_use_1_st_8;J'ai trouvé l'interrupteur.
+texts_a11_keller_lichtschalter_mo_ex_1;Examiner l'interrupteur
+spokentexts_a11_keller_lichtschalter_ex_1_st_1;Il y avait une lampe qui pendait là. Maintenant il ne reste plus que la douille. L'ampoule a été détruite par l'explosion.
+texts_a11_keller_loch_mo_talk_mit_1-3;Parler à l'Officier Oliver
+spokentexts_a11_keller_loch_ex_1_st_1;Robert Oliver. Le projecteur humain !
+spokentexts_a11_keller_loch_talk_mit_1_st_1;Vous allez bien ?
+spokentexts_a11_keller_loch_talk_mit_1_st_2;Oui, Oui. Avez-vous trouvé un chemin pour s'échapper ?
+spokentexts_a11_keller_loch_talk_mit_1_st_3;J'y travaille.
 sequences_a11_keller_loch_talk_mit_2#1;[Ohi goes to the hole, looks up.]
-spokentexts_a11_keller_loch_talk_mit_2_st_1;For the last time. I need the lamp, Robert. I need it NOW.
-spokentexts_a11_keller_loch_talk_mit_2_st_2;Let's wait for Legrand. The Raven is trapped and the inspector should be here any moment!
-spokentexts_a11_keller_loch_talk_mit_3_st_1;Constable Oliver has his heart in the right place, but that doesn't make him the right man for the job.
+spokentexts_a11_keller_loch_talk_mit_2_st_1;Pour la dernière fois, j'ai besoin de la lampe torche, Robert. J'en ai besoin MAINTENANT.
+spokentexts_a11_keller_loch_talk_mit_2_st_2;Attendons Legrand. Le Corbeau est pris au piège et l'inspecteur ne devrait pas tarder !
+spokentexts_a11_keller_loch_talk_mit_3_st_1;L'Officier Oliver a de bonnes intentions, mais ça ne fait pas de lui l'homme le plus adapté à la situation.
 spokentexts_a11_keller_loch_talk_mit_3_st_2_direction;loud
-spokentexts_a11_keller_loch_talk_mit_3_st_2;Everything OK, Robert? Or did the mummies get you already.
+spokentexts_a11_keller_loch_talk_mit_3_st_2;Tout va bien, Robert ? Ou les momies vous ont-elles déjà attrapé ?
 spokentexts_a11_keller_loch_talk_mit_3_st_3_direction;offended
 spokentexts_a11_keller_loch_talk_mit_3_st_3;Ha ha.
-texts_a11_keller_seil_mo_use_1__2;Climb back up
-spokentexts_a11_schatzkammer_seil_ex_1_st_1;Not the best rope in the world, but it will have to do.
-spokentexts_a11_keller_seil_use_1_st_1;No. I am where I want to be.
-spokentexts_a11_keller_seil_use_1_st_2;The Raven was here just a few minutes ago. I have to find an escape route.
+texts_a11_keller_seil_mo_use_1__2;Remonter
+spokentexts_a11_schatzkammer_seil_ex_1_st_1;Ce n'est pas une corde de premier ordre, mais ça fera l'affaire.
+spokentexts_a11_keller_seil_use_1_st_1;Non. Je suis là où je dois être.
+spokentexts_a11_keller_seil_use_1_st_2;Le Corbeau était là il y a encore quelques minutes. Je dois trouver un moyen de m'échapper d'ici.
 sequences_a11_keller_seil_use_1#3;[Goes off until the door to the secret door toward the roof was open.]
-texts_a11_keller_stadtplan_mo_ex_1;Examine the map
+texts_a11_keller_stadtplan_mo_ex_1;Examiner la carte
 spokentexts__seq_a11_keller_stadtplan_ex_1_st_1_direction;loud
-spokentexts__seq_a11_keller_stadtplan_ex_1_st_1;Shine the light on the wall, Robert.
-spokentexts_a11_keller_stadtplan_ex_1_st_1;Hmm. A map of Cairo. It's covered with hundreds of small holes and there are some pins on the floor.
-spokentexts_a11_keller_stadtplan_ex_1_st_2;There's a date in the corner: 1940.
-texts_a11_keller_vitrine_mo_ex_1;Examine the display case
+spokentexts__seq_a11_keller_stadtplan_ex_1_st_1;Eclaire le mur, Robert.
+spokentexts_a11_keller_stadtplan_ex_1_st_1;Hmm. Une carte du Caire. Elle est couverte de centaines de petits trous et il y a des punaises par terre.
+spokentexts_a11_keller_stadtplan_ex_1_st_2;Il y a une date notée dans le coin : 1940.
+texts_a11_keller_vitrine_mo_ex_1;Examiner la vitrine
 spokentexts_a11_keller_vitrine_ex_1_st_1_direction;loud
-spokentexts_a11_keller_vitrine_ex_1_st_1;I'm going to examine the display case now.
+spokentexts_a11_keller_vitrine_ex_1_st_1;Je vais examiner la vitrine.
 sequences_a11_keller_vitrine_ex_1#4;[The guard lights on  the glass case.]
 sequences_a11_keller_vitrine_ex_1#5;[Ohi kneels down beside the crashed glass case, examins it.]
 spokentexts_a11_keller_vitrine_ex_1_st_2_direction;loud
-spokentexts_a11_keller_vitrine_ex_1_st_2;As I expected.
+spokentexts_a11_keller_vitrine_ex_1_st_2;Comme prévu.
 spokentexts_a11_keller_vitrine_ex_1_st_3_direction;loud
-spokentexts_a11_keller_vitrine_ex_1_st_3;Empty?
+spokentexts_a11_keller_vitrine_ex_1_st_3;Vide ?
 spokentexts_a11_keller_vitrine_ex_1_st_4_direction;loud
-spokentexts_a11_keller_vitrine_ex_1_st_4;Yes. The display case didn't survive the fall. The thief just had to pluck the jewel out.
+spokentexts_a11_keller_vitrine_ex_1_st_4;Oui. La vitrine n'a pas survécu à la chute. Le voleur n'a eu qu'à se servir.
 sequences_a11_keller_vitrine_ex_1#9;[Ohi gets up itself again.]
-spokentexts_a11_keller_vitrine_ex_2_st_1;Actually, I thought the display case would survive the fall more or less unscathed.
-spokentexts_a11_keller_vitrine_ex_2_st_2;And three of the four windows did survive. Hmm...
-texts_a11_keller_wand_mo_ex_1;Examine the letters
-texts_a11_keller_wand_mo_ex_2;Examine the wall
-texts_a11_keller_wand_mo_leave_1;Go upstairs
-texts_a11_keller_wand_mo_use_1;Use the mechanism
+spokentexts_a11_keller_vitrine_ex_2_st_1;Je pensais que la vitrine serait sortie de la chute plus ou moins intacte.
+spokentexts_a11_keller_vitrine_ex_2_st_2;Trois des quatre fenêtres ont d'ailleurs survécu. Hmm...
+texts_a11_keller_wand_mo_ex_1;Examiner les lettres
+texts_a11_keller_wand_mo_ex_2;Examiner le mur
+texts_a11_keller_wand_mo_leave_1;Aller en haut
+texts_a11_keller_wand_mo_use_1;Activer le mécanisme
 sequences_a11_keller_wand_ex_1#1;[Ohi goes  to the wall, looking at it. Then he begins to sense the gaps in the secret door, and finally scan the ground.]
 spokentexts_a11_keller_wand_ex_1_st_1_direction;loud
-spokentexts_a11_keller_wand_ex_1_st_1;There are cracks in the wall and scuff marks on the floor!
+spokentexts_a11_keller_wand_ex_1_st_1;Il y a des fissures dans le mur et des éraflures sur le sol !
 spokentexts_a11_keller_wand_ex_1_st_2_direction;loud
-spokentexts_a11_keller_wand_ex_1_st_2;A secret door!?
-spokentexts_a11_keller_wand_ex_1_st_3;And probably the Raven's escape route.
+spokentexts_a11_keller_wand_ex_1_st_2;Une porte secrète ?
+spokentexts_a11_keller_wand_ex_1_st_3;Et surement la porte de sortie du Corbeau.
 spokentexts_a11_keller_wand_ex_1_st_4_direction;loud
-spokentexts_a11_keller_wand_ex_1_st_4;Can you open it?
+spokentexts_a11_keller_wand_ex_1_st_4;Pouvez-vous l'ouvrir ?
 sequences_a11_keller_wand_ex_1#6;[Ohi scans the surface, but can not feel a grip. He tries to come in with his fingers, but the door does not move.]
 spokentexts_a11_keller_wand_ex_1_st_5_direction;loud
-spokentexts_a11_keller_wand_ex_1_st_5;There are several... panels. And kind of a handle. But I can't turn or pull or push it.
+spokentexts_a11_keller_wand_ex_1_st_5;Il y a plusieurs... panneaux. Et une sorte de poignée. Mais je ne peux ni la tourner, ni la tirer ou la pousser.
 spokentexts_a11_keller_wand_ex_1_st_6_direction;loud
-spokentexts_a11_keller_wand_ex_1_st_6;Something's written here... but it's too dark.
+spokentexts_a11_keller_wand_ex_1_st_6;Quelque chose est écrit ici... mais il fait trop sombre.
 spokentexts_a11_keller_wand_ex_1_st_7_direction;loud
-spokentexts_a11_keller_wand_ex_1_st_7;Hurry down with the light!
+spokentexts_a11_keller_wand_ex_1_st_7;Venez vite avec la lampe !
 spokentexts_a11_keller_wand_ex_1_st_8_direction;loud
-spokentexts_a11_keller_wand_ex_1_st_8;No. The Raven is trapped. We should call Legrand.
+spokentexts_a11_keller_wand_ex_1_st_8;Non. Le Corbeau est pris au piège. Nous devrions appeler Legrand.
 sequences_a11_keller_wand_ex_1#11;[Ohi goes to the hole, looks up.]
 sequences_a11_keller_wand_ex_2#1;[Ohi goes to the hole, looks up.]
-spokentexts_a11_keller_wand_ex_2_st_1;Damn it, Robert. I can't see what's written on the wall. I NEED the flashlight. NOW.
+spokentexts_a11_keller_wand_ex_2_st_1;Punaise, Robert. Je ne peux pas voir ce qui est écrit sur le mur. J'ai BESOIN de la lampe torche. MAINTENANT.
 spokentexts_a11_keller_wand_leave_1_st_1_direction;loud
-spokentexts_a11_keller_wand_leave_1_st_1;He's up there, Robert. I know that.
+spokentexts_a11_keller_wand_leave_1_st_1;Il est là haut, Robert. J'en suis sûr.
 spokentexts_a11_keller_wand_leave_1_st_2_direction;loud
-spokentexts_a11_keller_wand_leave_1_st_2;That may be. Go into the guardroom and open the gates!
+spokentexts_a11_keller_wand_leave_1_st_2;Peut être. Allez dans la salle de sécurité et ouvrez les portes !
 sequences_a11_keller_wand_leave_1#3;[Ohio looks from the secret door to the door to the big hall and thinks. Which door should he take? Then he makes a decision and goes through the door to the Rough.]
 spokentexts_a11_keller_wand_leave_1_st_3_direction;loud
-spokentexts_a11_keller_wand_leave_1_st_3;Tell the director.
+spokentexts_a11_keller_wand_leave_1_st_3;Dites ça au directeur.
 spokentexts_a11_keller_wand_leave_1_st_4_direction;loud
-spokentexts_a11_keller_wand_leave_1_st_4;Zellner! Don't do it! It's too dangerous!
+spokentexts_a11_keller_wand_leave_1_st_4;Zellner ! Ne faites pas ça ! C'est trop risqué !
 spokentexts_a11_keller_wand_leave_1_st_5_direction;loud
-spokentexts_a11_keller_wand_leave_1_st_5;You can't stop me! Not anymore!
+spokentexts_a11_keller_wand_leave_1_st_5;Vous ne pouvez pas m'empêcher ! Plus maintenant !
 sequences_a11_keller_wand_leave_1#7;[Ohi begins to climb up the stairs.]
-texts_a11_minigame_geheimtuer_schriftzeichen_mo_ex_1__2__3;Examine the letters
-spokentexts_a11_minigame_geheimtuer_schriftzeichen_ex_1_st_1;If it was just another language with a Latin alphabet, I might be able to guess the meaning.
-spokentexts_a11_minigame_geheimtuer_schriftzeichen_ex_1_st_2;But I'm lost when it comes to Arabic.
-spokentexts_a11_minigame_geheimtuer_schriftzeichen_ex_1_st_3;I'll write them down. It could be a hint about how to open the door.
+texts_a11_minigame_geheimtuer_schriftzeichen_mo_ex_1__2__3;Examiner les lettres
+spokentexts_a11_minigame_geheimtuer_schriftzeichen_ex_1_st_1;Si c'était simplement une autre langue avec un alphabet latin, j'aurais peut être pu deviner le sens.
+spokentexts_a11_minigame_geheimtuer_schriftzeichen_ex_1_st_2;Mais je suis complètement perdu avec la langue arabe.
+spokentexts_a11_minigame_geheimtuer_schriftzeichen_ex_1_st_3;Je vais les noter. C'est peut être un indice pour ouvrir la porte.
 sequences_a11_minigame_geheimtuer_schriftzeichen_ex_1#4;[Ohio takes out his notebook and paints the signs carefully. Then he puts it back on.]
 sequences_a11_minigame_geheimtuer_schriftzeichen_ex_1#5;[From now on, a notice is in the notebook.]
 spokentexts__seq_a11_minigame_geheimtuer_erstmalig_st_1_direction;studied the characters 
-spokentexts__seq_a11_minigame_geheimtuer_erstmalig_st_1;That... is interesting.
-spokentexts__seq_a11_minigame_geheimtuer_erstmalig_st_2;Four discs... hmm. An extravagant combination lock. 
+spokentexts__seq_a11_minigame_geheimtuer_erstmalig_st_1;C'est... intéressant.
+spokentexts__seq_a11_minigame_geheimtuer_erstmalig_st_2;Quatre disques... hmm. Une étonnante serrure à combinaison. 
 sequences__seq_a11_minigame_geheimtuer_geloest#0;[Ohi takes the hand of the mechanism and is loooking satisfied at his work.]
 sequences__seq_a11_minigame_geheimtuer_geloest#1;[We hear how the door is being unlocked, maybe it opens a piece. Ohi stands up against it, the door opens fully. Behind that stairs are visible.]
 spokentexts__seq_a11_minigame_geheimtuer_geloest_st_1_direction;grim satisfaction
-spokentexts__seq_a11_minigame_geheimtuer_geloest_st_1;There we go.
+spokentexts__seq_a11_minigame_geheimtuer_geloest_st_1;C'est parti.
 sequences_a11_keller_seq_a11_keller_ankunft#0;[Cut to the basement.]
 sequences_a11_keller_seq_a11_keller_ankunft#1;[Ohi falls the last two feet down, let go of the rope.]
-spokentexts_a11_keller_seq_a11_keller_ankunft_st_1;I'm down!
+spokentexts_a11_keller_seq_a11_keller_ankunft_st_1;Je suis en bas !
 sequences_a11_keller_seq_a11_keller_ankunft#3;[Ohi looks around, then looks up.]
-spokentexts_a11_keller_seq_a11_keller_ankunft_st_2;Give me some light, Robert.
+spokentexts_a11_keller_seq_a11_keller_ankunft_st_2;Eclairez moi, Robert.
 sequences_a11_keller_seq_a11_keller_ankunft#5;[The guard lights from above into the basement on the glass case.]
-spokentexts_a11_keller_seq_a11_keller_oehi_bekommt_lampe_st_1;Okay. Here's what we'll do. I'll hand you the lamp and you open the door. Then we guard the door and wait for backup.
-spokentexts_a11_keller_seq_a11_keller_oehi_bekommt_lampe_st_2;I couldn't have put it better myself!
+spokentexts_a11_keller_seq_a11_keller_oehi_bekommt_lampe_st_1;Très bien. Voilà comment nous allons procéder. Je vous donne la lampe et vous ouvrez la porte. Ensuite nous la surveillerons en attendant des renforts.
+spokentexts_a11_keller_seq_a11_keller_oehi_bekommt_lampe_st_2;Je n'aurais pas dit mieux !
 spokentexts_a11_keller_seq_a11_keller_oehi_bekommt_lampe_st_3_direction;makes himself courage
-spokentexts_a11_keller_seq_a11_keller_oehi_bekommt_lampe_st_3;Pfff. Catch!
+spokentexts_a11_keller_seq_a11_keller_oehi_bekommt_lampe_st_3;Pfff. Attrapez !
 sequences_a11_keller_seq_a11_keller_oehi_bekommt_lampe#3;[The torch is been thrown through the hole. Ohi catches it.]
-spokentexts_a11_keller_seq_a11_keller_oehi_bekommt_lampe_st_4;But hurry! I don't want to think about the fact that I'm standing here in the dark surrounded by mummies!
+spokentexts_a11_keller_seq_a11_keller_oehi_bekommt_lampe_st_4;Mais dépêchez vous ! Je préfère ne pas penser au fait que je suis seul dans le noir au milieu des momies !
 sequences_a11_keller_seq_a11_keller_oehi_bekommt_lampe#5;[Ohi puts the lamp in a position so (on a desk, chair, etc.), that it illuminates the wall.]
-spokentexts_a11_keller_seq_a11_keller_oehi_bekommt_lampe_st_5;That's better.
-spokentexts_a11_keller_seq_erstes_betreten_grosse_halle_geheimtuer_st_1;Zellner? Is that you?
+spokentexts_a11_keller_seq_a11_keller_oehi_bekommt_lampe_st_5;C'est mieux.
+spokentexts_a11_keller_seq_erstes_betreten_grosse_halle_geheimtuer_st_1;Zellner ? C'est vous ?
 spokentexts_a11_keller_seq_erstes_betreten_grosse_halle_geheimtuer_st_2_direction;with adjusted voice
-spokentexts_a11_keller_seq_erstes_betreten_grosse_halle_geheimtuer_st_2;It is I, THE RAVEN.
-spokentexts_a11_keller_seq_erstes_betreten_grosse_halle_geheimtuer_st_3;Agh. Did you find an exit?
-spokentexts_a11_keller_seq_erstes_betreten_grosse_halle_geheimtuer_st_4;Err, no. I'm still looking. The basement is quite large.
-spokentexts_a11_keller_seq_erstes_betreten_grosse_halle_geheimtuer_st_5;Okay. Don't go too far away!
-texts_a11_schatzkammer_kamera_mo_ex_1__2;Examine the surveillance camera
-spokentexts_a11_schatzkammer_kamera_ex_1_st_1;I suppose the camera was hit by a chunk of flying debris.
-spokentexts_a11_schatzkammer_kamera_ex_1_st_2;It would be interesting to know who or what covered the lens before.
-spokentexts_a11_schatzkammer_kamera_ex_1_st_3;After all, it's three meters up!
-spokentexts_a11_schatzkammer_kamera_ex_1_st_4;Too bad about the new technology.
-texts_a11_schatzkammer_kordel1_mo_ex_1__2;Examine the cord
-texts_a11_schatzkammer_kordel1_mo_take_1;Take the cord
-texts_a11_schatzkammer_kordel1_mo_use_1;Use the cord with...
-texts_a11_schatzkammer_kordel1_mo_used_mit_kordel_2;Connect the cords
-spokentexts_a11_schatzkammer_kordel1_ex_1_st_1;The remains of the cordon.
+spokentexts_a11_keller_seq_erstes_betreten_grosse_halle_geheimtuer_st_2;C'est moi, LE CORBEAU.
+spokentexts_a11_keller_seq_erstes_betreten_grosse_halle_geheimtuer_st_3;Agh. Avez-vous trouvé une sortie ?
+spokentexts_a11_keller_seq_erstes_betreten_grosse_halle_geheimtuer_st_4;Err, non. Je cherche encore. La cave est assez grande.
+spokentexts_a11_keller_seq_erstes_betreten_grosse_halle_geheimtuer_st_5;D'accord. Ne vous éloignez pas trop !
+texts_a11_schatzkammer_kamera_mo_ex_1__2;Examiner la caméra de surveillance
+spokentexts_a11_schatzkammer_kamera_ex_1_st_1;J'imagine que la caméra a été percutée par des débris.
+spokentexts_a11_schatzkammer_kamera_ex_1_st_2;Savoir qui avait couvert l'objectif, ou avec quoi, aurait été intéressant.
+spokentexts_a11_schatzkammer_kamera_ex_1_st_3;Après tout, elle est à trois mètres du sol !
+spokentexts_a11_schatzkammer_kamera_ex_1_st_4;Dommage pour la nouvelle technologie.
+texts_a11_schatzkammer_kordel1_mo_ex_1__2;Examiner le cordon
+texts_a11_schatzkammer_kordel1_mo_take_1;Prend le cordon
+texts_a11_schatzkammer_kordel1_mo_use_1;Utiliser le cordon avec...
+texts_a11_schatzkammer_kordel1_mo_used_mit_kordel_2;Connecter les cordons
+spokentexts_a11_schatzkammer_kordel1_ex_1_st_1;Les restes du cordon.
 sequences_a11_schatzkammer_kordel1_ex_1#2;[Ohi pulls the cord out of the rubble, looks at it. The hook, with which the cord was attached on one side on the stand, is pulled down.]
 sequences_a11_schatzkammer_kordel1_ex_1#6;[Ohi pulls the cord. The other end is still attached to a metal stand that is spilled.]
-spokentexts_a11_schatzkammer_kordel1_ex_1_st_4;Give me some light!
+spokentexts_a11_schatzkammer_kordel1_ex_1_st_4;Eclairez par ici !
 sequences_a11_schatzkammer_kordel1_ex_1#8;[The guard lights on the stand.]
 sequences_a11_schatzkammer_kordel1_ex_1#9;[Ohi tries to pull out the rack, but gives up and takes only the metal lock.]
 spokentexts_a11_schatzkammer_kordel1_ex_1_st_5_direction;This wont work
 spokentexts_a11_schatzkammer_kordel1_ex_1_st_5;Hmmm.
 sequences_a11_schatzkammer_kordel1_ex_1#11;[Ohi throws the cord in front of the hole to the bottom.]
-spokentexts_a11_schatzkammer_kordel1_ex_2_st_1;The cord should hold my weight, but it's too short!
+spokentexts_a11_schatzkammer_kordel1_ex_2_st_1;Le cordon devrait supporter mon poids, mais il est trop court !
 sequences_a11_schatzkammer_kordel1_take_1#1;[Ohi pulls the cord. The other end is still attached to a metal stand that is spilled.]
-spokentexts_a11_schatzkammer_kordel1_take_1_st_1;Give me some light!
+spokentexts_a11_schatzkammer_kordel1_take_1_st_1;Eclairez par ici !
 sequences_a11_schatzkammer_kordel1_take_1#3;[The guard lights on the stand.]
 sequences_a11_schatzkammer_kordel1_take_1#4;[Ohi tries to pull out the rack, but gives up and takes only the metal lock.]
 spokentexts_a11_schatzkammer_kordel1_take_1_st_2_direction;This wont work
@@ -321,19 +321,19 @@ spokentexts_a11_schatzkammer_kordel1_take_1_st_2;Hmmm.
 sequences_a11_schatzkammer_kordel1_take_1#6;[Ohi throws the cord in front of the hole to the bottom.]
 sequences_a11_schatzkammer_kordel1_use_1#1;[As soon as you click on the cord, it sticks to the cursor and you can use the cord with the other one.]
 sequences_a11_schatzkammer_kordel1_used_mit_kordel2#1;[Ohi takes the two loose ends of the cords and locks them together. Then he pulls them as a test.]
-spokentexts_a11_schatzkammer_kordel1_used_mit_kordel2_st_1;The clasps aren't really made for heavy weights. But I think they're strong enough.
+spokentexts_a11_schatzkammer_kordel1_used_mit_kordel2_st_1;Les attaches ne sont pas faites pour suporter de lourdes charges. Mais je pense qu'ils devraient tenir.
 sequences_a11_schatzkammer_kordel1_used_mit_kordel2#3;[Ohi places the cords.]
-spokentexts_a11_schatzkammer_loch_ex_3a_st_1;The floor of the basement is almost four meters below us and covered in rubble. Jumping would be too dangerous.
-texts_a11_schatzkammer_kordel2_mo_ex_1__2;Examine the cord
-texts_a11_schatzkammer_kordel2_mo_take_1;Take the cord
-texts_a11_schatzkammer_kordel2_mo_use_1;Use the cord with...
-texts_a11_schatzkammer_kordel2_mo_used_mit_kordel_2;Connect the cords
+spokentexts_a11_schatzkammer_loch_ex_3a_st_1;Le solde la cave est pratiquement quatre mètres en dessous de nous et couvert de débris. Sauter serait trop dangereux.
+texts_a11_schatzkammer_kordel2_mo_ex_1__2;Examiner le cordon
+texts_a11_schatzkammer_kordel2_mo_take_1;Prendre le cordon
+texts_a11_schatzkammer_kordel2_mo_use_1;Utiliser le cordon avec...
+texts_a11_schatzkammer_kordel2_mo_used_mit_kordel_2;Connecter les cordons
 sequences_a11_schatzkammer_kordel2_ex_1#1;[Ohi takes the metal rack in one hand, picks it up. With the other hand he grabs the rope.]
-spokentexts_a11_schatzkammer_kordel2_ex_1_st_1;I think it's a normal rope with a velvet covering.
+spokentexts_a11_schatzkammer_kordel2_ex_1_st_1;Je pense que c'est une corde classique couverte de velours.
 sequences_a11_schatzkammer_kordel2_ex_1#3;[Ohi goes along to the rope, opens the quick lock from the second metal stand.]
-spokentexts_a11_schatzkammer_kordel2_ex_1_st_2;A metallic quick-release fastener connects the cord to the stands.
+spokentexts_a11_schatzkammer_kordel2_ex_1_st_2;Une attache en métal connecte le cordon à son pied.
 sequences_a11_schatzkammer_kordel2_ex_1#5;[Ohi lays the metal stand together with cord to the hole.]
-spokentexts_a11_schatzkammer_kordel2_ex_3_st_1;Even the heavy metal stands were tossed across the room by the force of the explosion.
+spokentexts_a11_schatzkammer_kordel2_ex_3_st_1;Mêmes les lourds pieds en métal ont été balancés à travers la pièce par la force de l'explosion.
 sequences_a11_schatzkammer_kordel2_take_1#1;[Ohi takes the metal rack in one hand, picks it up. With the other hand he grabs the rope.]
 sequences_a11_schatzkammer_kordel2_take_1#2;[Ohi goes along to the rope, opens the quick lock from the second metal stand.]
 sequences_a11_schatzkammer_kordel2_take_1#3;[Ohi lays the metal stand together with cord to the hole.]
@@ -341,35 +341,35 @@ sequences_a11_schatzkammer_kordel2_use_1#1;[As soon as you click on the cord, it
 sequences_a11_schatzkammer_kordel2_used_mit_kordel2#1;[Ohi takes the two loose ends of the cords and locks them together. Then he pulls them as a test.]
 sequences_a11_schatzkammer_kordel2_used_mit_kordel2#3;[Ohi places the cords.]
 sequences_a11_schatzkammer_kordel2_used_mit_kordel2#4;"[Out of the two cords is now the object ""rope"" (if it makes sense from the scripting here).]"
-texts_a11_schatzkammer_loch_mo_ex_1_2_3a_3b;Examine the hole
-texts_a11_schatzkammer_loch_mo_used_mit_seil;Climb down the hole
-spokentexts_a11_schatzkammer_kordel1_ex_3_st_1;Looks like a cordon. It survived the explosion.
+texts_a11_schatzkammer_loch_mo_ex_1_2_3a_3b;Examiner le trou
+texts_a11_schatzkammer_loch_mo_used_mit_seil;Descendre dans le trou
+spokentexts_a11_schatzkammer_kordel1_ex_3_st_1;Ca ressemble à un cordon. Il a survécu à l'explosion.
 sequences_a11_schatzkammer_loch_ex_1#1;[Ohi goes to the hole, looks down.]
 spokentexts_a11_schatzkammer_loch_ex_1_st_1;Hmm.
-spokentexts_a11_schatzkammer_loch_ex_1_st_2;You don't want to go down there, do you?
-spokentexts_a11_schatzkammer_loch_ex_1_st_3;That's how the Eye left the treasure chamber.
-spokentexts_a11_schatzkammer_loch_ex_1_st_4;Oh no! Uh-uh. No way!
-spokentexts_a11_schatzkammer_loch_ex_1_st_5;We've seen enough. The Raven is gone. We need to get Legrand.
+spokentexts_a11_schatzkammer_loch_ex_1_st_2;Vous ne voulez pas descendre là dedans quand même ?
+spokentexts_a11_schatzkammer_loch_ex_1_st_3;C'est par là que l'Oeil a quitté la salle au trésor.
+spokentexts_a11_schatzkammer_loch_ex_1_st_4;Oh non ! Nan-nan. Pas question !
+spokentexts_a11_schatzkammer_loch_ex_1_st_5;Nous en avons assez vu. Le Corbeau s'est échappé. Il faut appeler Legrand.
 sequences_a11_schatzkammer_loch_ex_1#7;[The guard turns around, just wants to lay on his stomach to pass under the door to get outside.]
 sequences_a11_schatzkammer_loch_ex_1#8;[In this moment the metal trash can crunches and squeaks and is pressed by the gate. The door closes, is again only about 20cm open.]
 sequences_a11_schatzkammer_loch_ex_1#9;[The guard tries to lift it, it does not work. He turns to Ohi, lights at him.]
-spokentexts_a11_schatzkammer_loch_ex_1_st_6;Great. Are you happy now?!
+spokentexts_a11_schatzkammer_loch_ex_1_st_6;Super. Vous êtes content maintenant ?!
 spokentexts_a11_schatzkammer_loch_ex_1_st_7_direction;satisfied
-spokentexts_a11_schatzkammer_loch_ex_1_st_7;You could say that. Will you give me some light?
+spokentexts_a11_schatzkammer_loch_ex_1_st_7;On peut dire ça. Pouvez-vous éclairer par ici ?
 sequences_a11_schatzkammer_loch_ex_1#12;[The guard is angry, but then lights back on the hole in the ground.]
 spokentexts_a11_schatzkammer_loch_ex_1_st_8_direction;annoyed, discontented
 spokentexts_a11_schatzkammer_loch_ex_1_st_8;Hrrrmm. 
-spokentexts_a11_schatzkammer_loch_ex_2_st_1;Come on, I can't see!
+spokentexts_a11_schatzkammer_loch_ex_2_st_1;Allez, je n'y vois rien !
 sequences_a11_schatzkammer_loch_ex_2#2;[The guard comes annoyed to front, approaches the hole and lights in it.]
 sequences_a11_schatzkammer_loch_ex_2#3;[Cut down to the basement. You can see in the foreground the fallen glass case, but can not see inside.]
 sequences_a11_schatzkammer_loch_ex_2#4;[The beam of light is shining through the hole from the top. The head of the guard nd Ohis head are looking over the edge (idle).]
-spokentexts_a11_schatzkammer_loch_ex_2_st_2;There's the display case.
-spokentexts_a11_schatzkammer_loch_ex_2_st_3;Is the jewel still in it?
-spokentexts_a11_schatzkammer_loch_ex_2_st_4;I can't tell.
+spokentexts_a11_schatzkammer_loch_ex_2_st_2;Voilà la vitrine.
+spokentexts_a11_schatzkammer_loch_ex_2_st_3;Le joyau est-il encore à l'intérieur ?
+spokentexts_a11_schatzkammer_loch_ex_2_st_4;Difficile à dire.
 spokentexts_a11_schatzkammer_loch_ex_2_st_5_direction;loud
-spokentexts_a11_schatzkammer_loch_ex_2_st_5;HELLO?!
+spokentexts_a11_schatzkammer_loch_ex_2_st_5;Y A QUELQU'UN ?!
 sequences_a11_schatzkammer_loch_ex_2#9;[Ohi is shocked, looks at the guard.]
-spokentexts_a11_schatzkammer_loch_ex_2_st_6;I hope you don't expect anyone to answer to you...
+spokentexts_a11_schatzkammer_loch_ex_2_st_6;J'espère que vous n'attendez pas une réponse...
 sequences_a11_schatzkammer_loch_ex_2#11;[Cut back.]
 sequences_a11_schatzkammer_loch_ex_2#12;[The guard goes back to its normal place.]
 spokentexts_a11_schatzkammer_loch_ex_3b_st_1;I have to find a way to get down safely.
