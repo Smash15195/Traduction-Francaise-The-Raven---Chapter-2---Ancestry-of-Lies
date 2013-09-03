@@ -1,72 +1,72 @@
 characters_araber;Araber
 characters_baronin;Baronin
 characters_butler;Butler
-texts_a14_butler_top_a14_butler_aussteigen_tseq_title;Leave
-spokentexts_a14_butler_top_a14_butler_aussteigen_tseq_st_1;And what if I just leave?
+texts_a14_butler_top_a14_butler_aussteigen_tseq_title;Partir
+spokentexts_a14_butler_top_a14_butler_aussteigen_tseq_st_1;Qu'arriverait-il si je partais ?
 spokentexts_a14_butler_top_a14_butler_aussteigen_tseq_st_2_direction;challenging
-spokentexts_a14_butler_top_a14_butler_aussteigen_tseq_st_2;You knew who you were dealing with the whole time.
-spokentexts_a14_butler_top_a14_butler_aussteigen_tseq_st_3;I don't have time for your hypocrisy.
-spokentexts_a14_butler_top_a14_butler_aussteigen_tseq_st_4;You always knew who you were dealing with.
-spokentexts_a14_butler_top_a14_butler_aussteigen_tseq_st_5;If, for your peace of mind, you have to pretend to be innocent in this situation - so be it.
-spokentexts_a14_butler_top_a14_butler_aussteigen_tseq_st_6;But we both know that YOU begged ME to let you in on the heist.
-spokentexts_a14_butler_top_a14_butler_aussteigen_tseq_st_7;And in this business, one must get one's hands dirty!
-texts_a14_butler_top_a14_butler_bombe_tseq_title;Bomb
-spokentexts_a14_butler_top_a14_butler_bombe_tseq_st_1;What was the point of the bomb?
+spokentexts_a14_butler_top_a14_butler_aussteigen_tseq_st_2;Vous saviez a qui vous aviez affaire tout ce temps.
+spokentexts_a14_butler_top_a14_butler_aussteigen_tseq_st_3;Je n'ai pas de temps pour votre hypocrisie.
+spokentexts_a14_butler_top_a14_butler_aussteigen_tseq_st_4;Vous avez toujours su qui à qui vous aviez affaire.
+spokentexts_a14_butler_top_a14_butler_aussteigen_tseq_st_5;Si, pour votre tranquillité d'esprit, il faut faire semblant d'être innocent dans cette situation - ainsi soit-il.
+spokentexts_a14_butler_top_a14_butler_aussteigen_tseq_st_6;Mais nous savons tous les deux que VOUS m'avez supplié de VOUS laisser sur le casse.
+spokentexts_a14_butler_top_a14_butler_aussteigen_tseq_st_7;Et dans ce métier, il faut savoir se salir les mains !
+texts_a14_butler_top_a14_butler_bombe_tseq_title;Bombe
+spokentexts_a14_butler_top_a14_butler_bombe_tseq_st_1;Quel était le but de cette bombe ?
 spokentexts_a14_butler_top_a14_butler_bombe_tseq_st_2_direction;uncomprehendingly
-spokentexts_a14_butler_top_a14_butler_bombe_tseq_st_2;Isn't that obvious?
-spokentexts_a14_butler_top_a14_butler_bombe_tseq_st_3;I wanted to dispose of Legrand. As spectacularly as possible!
-spokentexts_a14_butler_top_a14_butler_bombe_tseq_st_4;You almost disposed of ME as well!
-spokentexts_a14_butler_top_a14_butler_bombe_tseq_st_5;Did I not tell you to deliver the letter and leave immediately?
+spokentexts_a14_butler_top_a14_butler_bombe_tseq_st_2;N'est-ce pas évident ?
+spokentexts_a14_butler_top_a14_butler_bombe_tseq_st_3;Je voulais éliminer Legrand. De manière aussi spectaculaire que possible !
+spokentexts_a14_butler_top_a14_butler_bombe_tseq_st_4;Vous avez presque faillit m'éliminer aussi !
+spokentexts_a14_butler_top_a14_butler_bombe_tseq_st_5;Ne vous ai-je pas dit de remettre la lettre et de partir immédiatement ?
 spokentexts_a14_butler_top_a14_butler_bombe_tseq_st_6_direction;outraged, insistently
-spokentexts_a14_butler_top_a14_butler_bombe_tseq_st_6;People could have DIED!
+spokentexts_a14_butler_top_a14_butler_bombe_tseq_st_6;Des gens auraient pu MOURIR !
 spokentexts_a14_butler_top_a14_butler_bombe_tseq_st_7_direction;impatient
-spokentexts_a14_butler_top_a14_butler_bombe_tseq_st_7;But of course!
+spokentexts_a14_butler_top_a14_butler_bombe_tseq_st_7;Mais tout à fait !
 spokentexts_a14_butler_top_a14_butler_bombe_tseq_st_8_direction;annoying
-spokentexts_a14_butler_top_a14_butler_bombe_tseq_st_8;That was the POINT of the bomb!
-spokentexts_a14_butler_top_a14_butler_bombe_tseq_st_9;I don't want to hurt anyone. You know that!
-spokentexts_a14_butler_top_a14_butler_bombe_tseq_st_10;And you know that I don't care what you want.
-spokentexts_a14_butler_top_a14_butler_bombe_tseq_st_11;Obey my orders and nothing will happen to you - and you'll soon be a rich man.
-texts_a14_butler_top_a14_butler_der_plan_tseq_title;The plan
-spokentexts_a14_butler_top_a14_butler_der_plan_tseq_st_1;I won't blindly obey orders any more. I want to know what the plan is!
-spokentexts_a14_butler_top_a14_butler_der_plan_tseq_st_2;You know as much as you need to know.
-spokentexts_a14_butler_top_a14_butler_der_plan_tseq_st_3;We will steal the second Eye in Cairo - before the eyes of the world!
-spokentexts_a14_butler_top_a14_butler_der_plan_tseq_st_4;The theft of the first Eye got everyone's attention. Legrand's death would have increased the excitement immeasurably...
-spokentexts_a14_butler_top_a14_butler_der_plan_tseq_st_5;"But this will do just as well. We'll have a showdown instead. ""The Raven vs. the Inspector"" - that should also electrify the press."
-spokentexts_a14_butler_top_a14_butler_der_plan_tseq_st_6;Why are you doing this? I thought it was about the jewels! Why are we making life difficult for ourselves - and attracting so much attention?
-spokentexts_a14_butler_top_a14_butler_der_plan_tseq_st_7;It's about more than that. It's about performing on the greatest stage of all! About the end of a legend!
-spokentexts_a14_butler_top_a14_butler_der_plan_tseq_st_8;You'll see when it's time for you to see. Until then, just do as I say.
-texts_a14_butler_top_a14_butler_mir_geht_es_gut_tseq_title;I'm fine
-spokentexts_a14_butler_top_a14_butler_mir_geht_es_gut_tseq_st_1;I'm fine. Thanks for asking!
+spokentexts_a14_butler_top_a14_butler_bombe_tseq_st_8;C'était le BUT de cette bombe !
+spokentexts_a14_butler_top_a14_butler_bombe_tseq_st_9;Je ne veux blesser personne. Vous le savez !
+spokentexts_a14_butler_top_a14_butler_bombe_tseq_st_10;Et vous savez que je me fiche de ce que vous voulez.
+spokentexts_a14_butler_top_a14_butler_bombe_tseq_st_11;Obéissez à mes ordres et rien ne pourra vous arriver - vous serez bientôt un homme riche.
+texts_a14_butler_top_a14_butler_der_plan_tseq_title;Le plan
+spokentexts_a14_butler_top_a14_butler_der_plan_tseq_st_1;Je n'obéirais plus aveuglément aux ordres, plus maintenant. Je veux savoir quel est le plan !
+spokentexts_a14_butler_top_a14_butler_der_plan_tseq_st_2;Vous savez ce que vous devez savoir.
+spokentexts_a14_butler_top_a14_butler_der_plan_tseq_st_3;Nous allons voler le deuxième oeil au Caire - sous les yeux du monde entier !
+spokentexts_a14_butler_top_a14_butler_der_plan_tseq_st_4;Le vol du premier Oeil a attiré l'attention de tout le monde. La mort de Legrand aurait augmenté l'effervescence considérablement...
+spokentexts_a14_butler_top_a14_butler_der_plan_tseq_st_5;"Mais ça ira tout aussi bien. Nous aurons un affrontement à la place. ""Le Corbeau vs. L'inspecteur"" - voilà qui devrait aussi électriser la presse."
+spokentexts_a14_butler_top_a14_butler_der_plan_tseq_st_6;Pourquoi faites-vous cela ? Je pensais que c'était pour les bijoux ! Pourquoi nous rendons-nous la tache aussi difficile - en attirant autant l'attention ?
+spokentexts_a14_butler_top_a14_butler_der_plan_tseq_st_7;Il s'agit de bien plus que ça. Il s'agit de faire une performance sur la plus grande scène de tout les temps ! La fin d'une légende !
+spokentexts_a14_butler_top_a14_butler_der_plan_tseq_st_8;Vous comprendrez quand le moment sera venu. Jusque-là, faites ce que je dis.
+texts_a14_butler_top_a14_butler_mir_geht_es_gut_tseq_title;Ça va
+spokentexts_a14_butler_top_a14_butler_mir_geht_es_gut_tseq_st_1;Ça va. Merci de demander !
 spokentexts_a14_butler_top_a14_butler_mir_geht_es_gut_tseq_st_2_direction;angry
-spokentexts_a14_butler_top_a14_butler_mir_geht_es_gut_tseq_st_2;I didn't ask how you were. I asked why you spoke to me in public!
-texts_a14_butler_top_a14_butler_verabschieben_tseq_title;Finish the conversation
+spokentexts_a14_butler_top_a14_butler_mir_geht_es_gut_tseq_st_2;Je ne demandais pas comment vous alliez. Je demandais pourquoi vous m'avez parlé en public !
+texts_a14_butler_top_a14_butler_verabschieben_tseq_title;Terminer la conversation
 spokentexts_a14_butler_top_a14_butler_verabschieben_tseq_st_1_direction;Protesting, is interrupted
-spokentexts_a14_butler_top_a14_butler_verabschieben_tseq_st_1;But...
+spokentexts_a14_butler_top_a14_butler_verabschieben_tseq_st_1;Mais...
 spokentexts_a14_butler_top_a14_butler_verabschieben_tseq_st_2_direction;far away
-spokentexts_a14_butler_top_a14_butler_verabschieben_tseq_st_2;James? James! Where on earth are you?
+spokentexts_a14_butler_top_a14_butler_verabschieben_tseq_st_2;James ? James ! Où diable êtes-vous ?
 sequences_a14_butler_top_a14_butler_verabschieben_tseq#2;[The butler turns his head briefly, then focuses back on the Arab.]
 spokentexts_a14_butler_top_a14_butler_verabschieben_tseq_st_3;During the trip we'll keep a low profile and steer clear of Legrand.
 spokentexts_a14_butler_top_a14_butler_verabschieben_tseq_st_4_direction;guilty
-spokentexts_a14_butler_top_a14_butler_verabschieben_tseq_st_4;I... I lost the ticket and the fake passport.
+spokentexts_a14_butler_top_a14_butler_verabschieben_tseq_st_4;J'ai... J'ai perdu le billet et le faux passeport.
 spokentexts_a14_butler_top_a14_butler_verabschieben_tseq_st_5_direction;painfully suppressed rage
-spokentexts_a14_butler_top_a14_butler_verabschieben_tseq_st_5;I swear, if my arm were still good enough to climb, I'd have disposed of you long ago.
+spokentexts_a14_butler_top_a14_butler_verabschieben_tseq_st_5;Je vous jure que si mon bras était encore valide pour monter, je me serais occupé de vous il y a longtemps.
 spokentexts_a14_butler_top_a14_butler_verabschieben_tseq_st_6_direction;angry, but pragmatic
-spokentexts_a14_butler_top_a14_butler_verabschieben_tseq_st_6;Ah, well... I'd prefer that no one see you while you're on board.
-spokentexts_a14_butler_top_a14_butler_verabschieben_tseq_st_7;Smuggle yourself on board and stay undercover until Cairo.
-spokentexts_a14_butler_top_a14_butler_verabschieben_tseq_st_8;Okay.
-spokentexts_a14_butler_top_a14_butler_verabschieben_tseq_st_9;And no more games.
-spokentexts_a14_butler_top_a14_butler_verabschieben_tseq_st_10;Nothing that Legrand, the police or anyone else could do to you compares to what I will do to you if you don't follow my plan.
+spokentexts_a14_butler_top_a14_butler_verabschieben_tseq_st_6;Ah, eh bien... Je préférerais que personne ne vous voit quand vous êtes à bord.
+spokentexts_a14_butler_top_a14_butler_verabschieben_tseq_st_7;Montez clandestinement à bord et restez discret jusqu'au Caire.
+spokentexts_a14_butler_top_a14_butler_verabschieben_tseq_st_8;D'accord.
+spokentexts_a14_butler_top_a14_butler_verabschieben_tseq_st_9;Et plus de surprise.
+spokentexts_a14_butler_top_a14_butler_verabschieben_tseq_st_10;Rien de ce que pourra vous faire Legrand, la police ou quelqu'un d'autre ne sera comparé à ce que je vous ferais si vous ne suivez pas mon plan.
 sequences_a14_butler_top_a14_butler_verabschieben_tseq#11;[The butler gets up, walks to the wagon.]
 spokentexts_a14_butler_top_a14_butler_verabschieben_tseq_st_11_direction;far away
-spokentexts_a14_butler_top_a14_butler_verabschieben_tseq_st_11;James! There you are!
+spokentexts_a14_butler_top_a14_butler_verabschieben_tseq_st_11;James ! Vous êtes là !
 spokentexts_a14_butler_top_a14_butler_verabschieben_tseq_st_12_direction;far away
-spokentexts_a14_butler_top_a14_butler_verabschieben_tseq_st_12;Is the inspector to carry my luggage onto the ship all by himself?
+spokentexts_a14_butler_top_a14_butler_verabschieben_tseq_st_12;Est-ce à l'inspecteur de porter mes bagages sur le navire tout seul ?
 sequences_a14_butler_top_a14_butler_verabschieben_tseq#14;[cut to the face of the Arab. He can not resist a sneaky grin. He gets up and goes towards the crane.]
-spokentexts_a14_butler_top_a14_butler_verabschieben_tseq_st_13;He thinks he knows me. He thinks I'm stupid... and weak. I have him right where I want him!
-spokentexts_a14_butler_top_a14_butler_verabschieben_tseq_st_14;Here's a young thief who'll show an old-timer how it's done!
+spokentexts_a14_butler_top_a14_butler_verabschieben_tseq_st_13;Il pense qu'il me connaît. Il pense que je suis stupide... et faible. Il est là où je veux qu'il soit !
+spokentexts_a14_butler_top_a14_butler_verabschieben_tseq_st_14;Voilà qu'un jeune voleur va dire à un vieux de la vieille comment on fait !
 sequences_a14_butler_top_a14_butler_verabschieben_tseq#17;[The Arab looks on the crane, and then looks to the ship, on the pallet with the bags and the chest, which are to be loaded.]
 spokentexts_a14_butler_top_a14_butler_verabschieben_tseq_st_15_direction;self-deprecating
-spokentexts_a14_butler_top_a14_butler_verabschieben_tseq_st_15;Even if it means a bit of solitary confinement.
+spokentexts_a14_butler_top_a14_butler_verabschieben_tseq_st_15;Même si cela implique un peu d'isolement.
 sequences_a14_butler_top_a14_butler_verabschieben_tseq#19;[*** END OF SECTION ***]
 sequences_a14_pier_seq_a14_pier_intro#0;[Shot of the pier. The ship is being loaded, the young woman goes on board. The safe is dangling at the crane.]
 sequences_a14_pier_seq_a14_pier_intro#1;[Ohi stands with the doctor at the gangway and are talking.]
@@ -74,4 +74,4 @@ sequences_a14_pier_seq_a14_pier_intro#2;[The butler is back at the wagon and the
 sequences_a14_pier_seq_a14_pier_intro#3;[The Butler unleashes some cases, where his left arm as always he can not use properly. He has finally unleashed a suitcase, turns around and wants to push it into a worker's hand.]
 sequences_a14_pier_seq_a14_pier_intro#4;[He's unsure. The Arab stands there and is looking at him serious. The butler looks around quickly if they are observed and then presses the Arab behind some boxes where they can talk save.]
 spokentexts_a14_pier_seq_a14_pier_intro_st_1_direction;angry
-spokentexts_a14_pier_seq_a14_pier_intro_st_1;What's the meaning of this? What do you want here?
+spokentexts_a14_pier_seq_a14_pier_intro_st_1;Que signifie tout cela ? Qu'est-ce que vous voulez ?
