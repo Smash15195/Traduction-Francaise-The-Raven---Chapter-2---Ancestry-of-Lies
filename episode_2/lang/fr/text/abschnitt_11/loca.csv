@@ -23,7 +23,7 @@ sequences_a11_eingangsbereich_seq_a11_eingangsbereich_oehi_direktor_erstmalig#1;
 spokentexts_a11_eingangsbereich_seq_a11_eingangsbereich_oehi_direktor_erstmalig_st_1_direction;scared
 spokentexts_a11_eingangsbereich_seq_a11_eingangsbereich_oehi_direktor_erstmalig_st_1;Ahh !
 spokentexts_a11_eingangsbereich_seq_a11_eingangsbereich_oehi_direktor_erstmalig_st_2_direction;perplexed
-spokentexts_a11_eingangsbereich_seq_a11_eingangsbereich_oehi_direktor_erstmalig_st_2;Que faites VOUS ici ? Vous étiez juste...
+spokentexts_a11_eingangsbereich_seq_a11_eingangsbereich_oehi_direktor_erstmalig_st_2;Que faites VOUS ici ? Vous étiez dans...
 sequences_a11_eingangsbereich_seq_a11_eingangsbereich_oehi_direktor_erstmalig#4;[Cut back to the shot.]
 spokentexts_a11_eingangsbereich_seq_a11_eingangsbereich_oehi_direktor_erstmalig_st_3;J'ai trouvé une autre sortie.
 spokentexts_a11_eingangsbereich_seq_a11_eingangsbereich_oehi_direktor_erstmalig_st_4;L'Oeil ?
@@ -42,7 +42,7 @@ spokentexts_a11_haupthalle_kanope_affe_ex_1_st_1_direction;reads
 spokentexts_a11_haupthalle_kanope_affe_ex_1_st_1;"""Hâpi, poumons."""
 texts_a11_haupthalle_kanope_erklaerungstafel_mo_ex_1__2;Examiner le tableau
 spokentexts_a11_haupthalle_kanope_erklaerungstafel_ex_1_st_1_direction;reads
-spokentexts_a11_haupthalle_kanope_erklaerungstafel_ex_1_st_1;"""Les quatre Fils d'Horus, Amset, Hapi, Douamoutef and Qebehsenouf, sont les enfants du dieu Horus l'Ancien et de la déesse Isis."""
+spokentexts_a11_haupthalle_kanope_erklaerungstafel_ex_1_st_1;"""Les quatre Fils d'Horus, Amset, Hapi, Douamoutef et Qebehsenouf, sont les enfants du dieu Horus l'Ancien et de la déesse Isis."""
 spokentexts_a11_haupthalle_kanope_erklaerungstafel_ex_1_st_2_direction;reads
 spokentexts_a11_haupthalle_kanope_erklaerungstafel_ex_1_st_2;"""Ils sont censés protéger les vase canopes qui contenaient les organes internes des personnes momifiées en Égypte antique."
 spokentexts_a11_haupthalle_kanope_erklaerungstafel_ex_1_st_3_direction;reads
@@ -148,7 +148,7 @@ texts_a11_keller_klappe_mo_leave_1;Aller dans le hall principal
 texts_a11_keller_klappe_mo_use_1;Ouvrir la porte
 spokentexts_a11_keller_klappe_ex_1_st_1;Qu'est-ce que c'est que ça ?
 spokentexts_a11_keller_klappe_ex_1_st_2_direction;loud
-spokentexts_a11_keller_klappe_ex_1_st_2;Hey ! Ne vous éloignez pas trop !
+spokentexts_a11_keller_klappe_ex_1_st_2;Hé ! Ne vous éloignez pas trop !
 spokentexts_a11_keller_klappe_ex_1_st_3_direction;loud
 spokentexts_a11_keller_klappe_ex_1_st_3;Descendez et arrêtez moi !
 spokentexts_a11_keller_klappe_ex_1_st_4_direction;loud
@@ -167,7 +167,7 @@ sequences_a11_keller_klappe_use_1#5;[Ohi opens the lock, opens the flap. Light s
 sequences_a11_keller_klappe_use_1#6;[Cut to the big hall with the speaking statue.]
 sequences_a11_keller_klappe_use_1#7;[In the near of the statue you can see the two small holes in the wall decoration.]
 spokentexts_a11_keller_klappe_use_1_st_2_direction;muffled from behind the wall, ghostly voice
-spokentexts_a11_keller_klappe_use_1_st_2;Je suis la statue qui parle ! Jaime beaucoup apprendre des gros mots aux jeunes garçons !
+spokentexts_a11_keller_klappe_use_1_st_2;Je suis la statue qui parle ! J'aime beaucoup apprendre des gros mots aux jeunes garçons !
 spokentexts_a11_keller_klappe_use_1_st_3_direction;muffled from behind the wall
 spokentexts_a11_keller_klappe_use_1_st_3;Au moins cette énigme est résolue.
 sequences_a11_keller_klappe_use_1#10;[Cut back to the basement.]
@@ -249,7 +249,7 @@ sequences_a11_keller_wand_ex_1#11;[Ohi goes to the hole, looks up.]
 sequences_a11_keller_wand_ex_2#1;[Ohi goes to the hole, looks up.]
 spokentexts_a11_keller_wand_ex_2_st_1;Punaise, Robert. Je ne peux pas voir ce qui est écrit sur le mur. J'ai BESOIN de la lampe torche. MAINTENANT.
 spokentexts_a11_keller_wand_leave_1_st_1_direction;loud
-spokentexts_a11_keller_wand_leave_1_st_1;Il est là haut, Robert. J'en suis sûr.
+spokentexts_a11_keller_wand_leave_1_st_1;Il est là-dedans, Robert. J'en suis sûr.
 spokentexts_a11_keller_wand_leave_1_st_2_direction;loud
 spokentexts_a11_keller_wand_leave_1_st_2;Peut être. Allez dans la salle de sécurité et ouvrez les portes !
 sequences_a11_keller_wand_leave_1#3;[Ohio looks from the secret door to the door to the big hall and thinks. Which door should he take? Then he makes a decision and goes through the door to the Rough.]
@@ -272,7 +272,7 @@ spokentexts__seq_a11_minigame_geheimtuer_erstmalig_st_2;Quatre disques... hmm. U
 sequences__seq_a11_minigame_geheimtuer_geloest#0;[Ohi takes the hand of the mechanism and is loooking satisfied at his work.]
 sequences__seq_a11_minigame_geheimtuer_geloest#1;[We hear how the door is being unlocked, maybe it opens a piece. Ohi stands up against it, the door opens fully. Behind that stairs are visible.]
 spokentexts__seq_a11_minigame_geheimtuer_geloest_st_1_direction;grim satisfaction
-spokentexts__seq_a11_minigame_geheimtuer_geloest_st_1;Nous y voilà.
+spokentexts__seq_a11_minigame_geheimtuer_geloest_st_1;Et voilà.
 sequences_a11_keller_seq_a11_keller_ankunft#0;[Cut to the basement.]
 sequences_a11_keller_seq_a11_keller_ankunft#1;[Ohi falls the last two feet down, let go of the rope.]
 spokentexts_a11_keller_seq_a11_keller_ankunft_st_1;Je suis en bas !
@@ -301,7 +301,7 @@ spokentexts_a11_schatzkammer_kamera_ex_1_st_4;Dommage pour la nouvelle technolog
 texts_a11_schatzkammer_kordel1_mo_ex_1__2;Examiner le cordon
 texts_a11_schatzkammer_kordel1_mo_take_1;Prendre le cordon
 texts_a11_schatzkammer_kordel1_mo_use_1;Utiliser le cordon avec...
-texts_a11_schatzkammer_kordel1_mo_used_mit_kordel_2;Connecter les cordons
+texts_a11_schatzkammer_kordel1_mo_used_mit_kordel_2;Lier les cordons
 spokentexts_a11_schatzkammer_kordel1_ex_1_st_1;Les restes du cordon.
 sequences_a11_schatzkammer_kordel1_ex_1#2;[Ohi pulls the cord out of the rubble, looks at it. The hook, with which the cord was attached on one side on the stand, is pulled down.]
 sequences_a11_schatzkammer_kordel1_ex_1#6;[Ohi pulls the cord. The other end is still attached to a metal stand that is spilled.]
@@ -388,7 +388,7 @@ spokentexts_a11_schatzkammer_sarkophag_ex_2_st_1;Tout nettoyer et restaurer va p
 texts_a11_schatzkammer_seil_mo_ex_1;Corde improvisée
 texts_a11_schatzkammer_seil_mo_use_1;Utiliser la corde avec...
 sequences_a11_schatzkammer_seil_use_1#1;[As soon as you click on the rope, it sticks to the cursor.]
-texts_a11_schatzkammer_zerstoerung_mo_ex_1__2;Regarder la destruction
+texts_a11_schatzkammer_zerstoerung_mo_ex_1__2;Regarder les débris
 spokentexts_a11_schatzkammer_zerstoerung_ex_1_st_1;Espérons que certains artefacts aient survécu à l'explosion.
 spokentexts_a11_schatzkammer_zerstoerung_ex_2_st_1;Pourquoi n'a-t-il pas simplement défoncé le mur avec un tank ?
 spokentexts_a11_schatzkammer_zerstoerung_ex_2_st_2;Ignare imprudent.
@@ -403,7 +403,7 @@ texts_wachmann_mo_ex_2;Regarder l'Officier Oliver
 texts_wachmann_mo_talk_mit_1__2;Parler à l'Officier Oliver
 texts_a11_wachmann_top_a11_wachmann_explosion_tseq_title;Explosion
 spokentexts_a11_wachmann_top_a11_wachmann_explosion_tseq_st_1;Cette explosion était bien plus puissante que celle de Londres, n'est-ce pas ?
-spokentexts_a11_wachmann_top_a11_wachmann_explosion_tseq_st_2;Complètement ! Imaginez si la bombe avait explosé ce soir.
+spokentexts_a11_wachmann_top_a11_wachmann_explosion_tseq_st_2;Carrément ! Imaginez si la bombe avait explosé ce soir.
 spokentexts_a11_wachmann_top_a11_wachmann_explosion_tseq_st_3;Il n'a pas pris le risque. Nous avons dû le rendre nerveux.
 spokentexts_a11_wachmann_top_a11_wachmann_explosion_tseq_st_4;Il ne pouvait pas choisir un meilleur moment. Legrand n'est pas là, il n'y a que deux gardes et presque pas de témoins.
 spokentexts_a11_wachmann_top_a11_wachmann_explosion_tseq_st_5;Tout de même, je pensais qu'il aurait patienté. Souvenez vous à bord du train. Notre adversaire a un penchant pour le dramatique.
@@ -529,7 +529,7 @@ spokentexts_butler_top_a11_butler_diebstahl_des_auges_tseq_st_1;Pourquoi avoir v
 spokentexts_butler_top_a11_butler_diebstahl_des_auges_tseq_st_2;Pourquoi vouliez-vous voler le second Oeil ici ?
 spokentexts_butler_top_a11_butler_diebstahl_des_auges_tseq_st_3;L'Oeil est longtemps resté dans une banque à Zurich, impossible à atteindre. Ensuite dans un coffre sur le bateau, dans la cabine de Legrand, trop compliqué.
 spokentexts_butler_top_a11_butler_diebstahl_des_auges_tseq_st_4;J'ai entendu parler de la cave secrète et j'ai découvert comment fonctionnait le système de sécurité.
-spokentexts_butler_top_a11_butler_diebstahl_des_auges_tseq_st_5;J'aurais préféré réserver ma représentation pour le gala de ce soir. Mais...eh bien. Les évènements ont nécessité un changement de programme.
+spokentexts_butler_top_a11_butler_diebstahl_des_auges_tseq_st_5;J'aurais préféré réserver ma représentation pour le gala de ce soir. Mais, comment dire... Les évènements ont nécessité un changement de programme.
 spokentexts_butler_top_a11_butler_diebstahl_des_auges_tseq_st_6;Principalement à cause de vous, monsieur la fouine.
 texts_butler_top_a11_butler_explosion_im_zug_tseq_title;Explosion à bord du train
 spokentexts_butler_top_a11_butler_explosion_im_zug_tseq_st_1;La bombe à bord du train... Depuis quand le Corbeau met-il en péril la vie d'autrui ?
@@ -569,7 +569,7 @@ spokentexts_butler_top_a11_butler_raten_professor_tseq_st_2;Ah, le professeur. I
 sequences_butler_top_a11_butler_raten_professor_tseq#2;"[Continue with the sequence: ""Falsch_geraten"".]"
 texts_butler_top_a11_butler_wie_war_das_moeglich_tseq_title;Comment avez-vous fait ?
 spokentexts_butler_top_a11_butler_wie_war_das_moeglich_tseq_st_1;Comment avez-vous fait ? Comment avez-vous déposé le message sur le coffre à bord du train ? Comment saviez-vous que Gebhardt avait tué la Baronne ?
-spokentexts_butler_top_a11_butler_wie_war_das_moeglich_tseq_st_2;Et la charge de démolition sous la salle au trésor. Comment... Comment avez-vous réussi tout ça ? Même si votre bras n'est pas handicapé...
+spokentexts_butler_top_a11_butler_wie_war_das_moeglich_tseq_st_2;Et la charge explosive sous la salle au trésor. Comment... Comment avez-vous réussi tout ça ? Même si votre bras n'est pas handicapé...
 spokentexts_butler_top_a11_butler_wie_war_das_moeglich_tseq_st_3;Oh, il l'est. Croyez moi.
 spokentexts_butler_top_a11_butler_wie_war_das_moeglich_tseq_st_4;J'ai eu besoin d'aide, c'est exact. Un coursier pour remplacer mes bras et mes jambes.
 sequences_butler_top_a11_butler_wie_war_das_moeglich_tseq#4;[The Arab appears in the opening in the ground, climbs out of it.]
