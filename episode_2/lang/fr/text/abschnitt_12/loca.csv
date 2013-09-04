@@ -5,89 +5,89 @@ characters_junge;Junge
 characters_ohi;Ohi
 characters_pflegerin;Pflegerin
 characters_schaffner;Schaffner
-texts_a12_bahnhof_armeemesser_mo_inventar_1;Knife
-spokentexts_a12_bahnhof_armeemesser_ex_1_st_1;A handy Swiss Army knife. A good friend gave it to me.
-texts_a12_bahnhof_arzttasche_mo_ex_1__2;Examine the doctor's bag
-texts_a12_bahnhof_arzttasche_mo_take_1;Take the doctor's bag
-texts_a12_bahnhof_arzttasche_mo_use_mit_holzkiste_1;Put the doctor's bag into the wooden crate
-texts_a12_bahnhof_arzttasche_mo_use_mit_holzkiste_2;Hide the doctor's bag under the wooden crate
-spokentexts_a12_bahnhof_arzttasche_ex_1_st_1;A leather bag like the ones used by country doctors.
-spokentexts_a12_bahnhof_arzttasche_ex_1_st_2;For carrying their equipment.
-spokentexts_a12_bahnhof_arzttasche_ex_2_st_1;Hmm. If I swipe the bag, it'd cause confusion while people look for it and I might be able to sneak onto the train.
-spokentexts_a12_bahnhof_arzttasche_ex_2_st_2;The only problem is I can't take the bag with me.
-spokentexts_a12_bahnhof_arzttasche_take_1_st_1;Not a chance.
-spokentexts_a12_bahnhof_arzttasche_take_1_st_2;The doctor could easily spot me taking his bag.
-spokentexts_a12_bahnhof_arzttasche_take_1_st_3;He'd sound the alarm and our Swiss friend would have no choice but to arrest me.
-spokentexts_a12_bahnhof_arzttasche_take_1_st_4;And then we'd have a real problem.
-spokentexts_a12_bahnhof_arzttasche_used_mit_holzkiste_1_st_1;This wooden crate is big enough to completely conceal the bag.
-spokentexts_a12_bahnhof_arzttasche_used_mit_holzkiste_1_st_2;It'd be protected from prying eyes and I could make my exit from the scene of the crime unnoticed.
-spokentexts_a12_bahnhof_arzttasche_used_mit_holzkiste_1_st_3;There's still one problem: someone might see me picking up the bag and putting it into the crate.
-spokentexts_a12_bahnhof_arzttasche_used_mit_holzkiste_2_st_1;It's now or never!
+texts_a12_bahnhof_armeemesser_mo_inventar_1;Couteau
+spokentexts_a12_bahnhof_armeemesser_ex_1_st_1;Un couteau suisse. Un très bon ami me l'a donné.
+texts_a12_bahnhof_arzttasche_mo_ex_1__2;Examiner le bagage du docteur
+texts_a12_bahnhof_arzttasche_mo_take_1;Prendre le bagage du docteur
+texts_a12_bahnhof_arzttasche_mo_use_mit_holzkiste_1;Mettre le bagage du docteur dans la caisse en bois
+texts_a12_bahnhof_arzttasche_mo_use_mit_holzkiste_2;Cacher le bagage du docteur sous la caisse en bois
+spokentexts_a12_bahnhof_arzttasche_ex_1_st_1;Un bagage en cuir comme ceux utilisés par les médecins de campagne.
+spokentexts_a12_bahnhof_arzttasche_ex_1_st_2;Pour le transport de leur instruments.
+spokentexts_a12_bahnhof_arzttasche_ex_2_st_1;Hmm. Si je subtilise le bagage, ça pourrait être une source de confusion et pendant que les gens serait à sa recherche, je pourrais me faufiler dans le train.
+spokentexts_a12_bahnhof_arzttasche_ex_2_st_2;Le seul problème est que je ne peux pas prendre le bagage avec moi.
+spokentexts_a12_bahnhof_arzttasche_take_1_st_1;Aucune chance.
+spokentexts_a12_bahnhof_arzttasche_take_1_st_2;Le docteur peut facilement me voir prendre son bagage.
+spokentexts_a12_bahnhof_arzttasche_take_1_st_3;Il donnerait l'alarme et notre ami suisse n'aurait pas d'autre choix que de m'arrêter.
+spokentexts_a12_bahnhof_arzttasche_take_1_st_4;Et là nous aurions un vrai problème.
+spokentexts_a12_bahnhof_arzttasche_used_mit_holzkiste_1_st_1;Cette caisse en bois est assez grande pour cacher complètement le bagage.
+spokentexts_a12_bahnhof_arzttasche_used_mit_holzkiste_1_st_2;Ce serait protégé des regards indiscrets et je pourrais quitter de la scène du crime inaperçu.
+spokentexts_a12_bahnhof_arzttasche_used_mit_holzkiste_1_st_3;Il y a encore un problème : quelqu'un pourrait me voir ramasser le bagage et le mettre dans la caisse.
+spokentexts_a12_bahnhof_arzttasche_used_mit_holzkiste_2_st_1;C'est maintenant ou jamais !
 sequences_a12_bahnhof_arzttasche_used_mit_holzkiste_2#2;[The Arab takes the wooden box, carries it over to the baggage car. He put it over the bag of the Doctor.]
 sequences_a12_bahnhof_arzttasche_used_mit_holzkiste_2#3;[The doctor looks around for a moment, then speaks. The conductor turns to the Arab.]
-spokentexts_a12_bahnhof_arzttasche_used_mit_holzkiste_2_st_2;Hey, you! Scram!
+spokentexts_a12_bahnhof_arzttasche_used_mit_holzkiste_2_st_2;Hé, vous ! Décampez !
 spokentexts_a12_bahnhof_arzttasche_used_mit_holzkiste_2_st_6_direction;frightened, submissive
-spokentexts_a12_bahnhof_arzttasche_used_mit_holzkiste_2_st_6;Yes sir!
+spokentexts_a12_bahnhof_arzttasche_used_mit_holzkiste_2_st_6;Oui monsieur !
 sequences_a12_bahnhof_arzttasche_used_mit_holzkiste_2#9;[The Arab takes the box from the baggage wagon. He has his hands under the box so that he can hold the bag. The guard turns, shaking his head.]
 sequences_a12_bahnhof_arzttasche_used_mit_holzkiste_2#10;[The Arab disappears behind the magazin Shop, then comes back moments later with no box.]
 spokentexts_a12_bahnhof_arzttasche_used_mit_holzkiste_2_st_7_direction;satisfied
-spokentexts_a12_bahnhof_arzttasche_used_mit_holzkiste_2_st_7;Let the games begin!
-texts_a12_bahnhof_holzkiste_mo_ex_1;Examine the crate
-texts_a12_bahnhof_holzkiste_mo_use_1;Use the crate with...
-texts_a12_bahnhof_holzkiste_mo_use_2;Use the bottomless crate with...
-texts_a12_bahnhof_holzkiste_mo_used_mit_armeemesser;Remove the bottom of the crate
-spokentexts_a12_bahnhof_holzkiste_ex_1_st_1;The crate must have had bananas or something in it. It's empty now.
-spokentexts_a12_bahnhof_holzkiste_ex_2_st_1;It's built out of thin wooden boards. Probably didn't have to bear much weight.
-spokentexts_a12_bahnhof_holzkiste_ex_3_st_1;The crate looks normal but the bottom's missing, so it'd be easy to hide something under it.
-spokentexts_a12_bahnhof_holzkiste_used_mit_armeemesser_st_1;Hmm. I can probably pry the bottom boards off without too much effort. They're thin and the nails are short.
+spokentexts_a12_bahnhof_arzttasche_used_mit_holzkiste_2_st_7;Que la fête commence !
+texts_a12_bahnhof_holzkiste_mo_ex_1;Examiner la caisse
+texts_a12_bahnhof_holzkiste_mo_use_1;Utiliser la caisee avec...
+texts_a12_bahnhof_holzkiste_mo_use_2;Utiliser la caisse sans fond avec...
+texts_a12_bahnhof_holzkiste_mo_used_mit_armeemesser;Retirer le fond de la caisse
+spokentexts_a12_bahnhof_holzkiste_ex_1_st_1;La caisse doit avoir transportée des bananes ou quelque chose dans le genre. Elle est vide maintenant.
+spokentexts_a12_bahnhof_holzkiste_ex_2_st_1;Elle est faites de fines planches de bois. Elle ne peut probablement pas supporter beaucoup de poids.
+spokentexts_a12_bahnhof_holzkiste_ex_3_st_1;La caisse semble normale mais son fond a disparu, de sorte qu'il soit facile de cacher quelque chose en dessous.
+spokentexts_a12_bahnhof_holzkiste_used_mit_armeemesser_st_1;Hmm. Je peux surement enlever le fond sans trop d'effort. Il est mince et les clous sont petits.
 sequences_a12_bahnhof_holzkiste_used_mit_armeemesser#2;[The Arab takes  the lid from the box, turns it over. He pulls out his army knife, opens it and levers one side of the first box floor out. The other side he solves by bending the floor board. He puts aside the board.]
 sequences_a12_bahnhof_holzkiste_used_mit_armeemesser#3;[On the second board, he levers short. Then he put his arm through the gap that the first board has left and hits from the bottom twice with his fist against the remaining  board. It dissolves well and he puts it aside.]
 sequences_a12_bahnhof_holzkiste_used_mit_armeemesser#4;[He closes his knife and puts it back. Then he turns back to the box and puts the lid on it.]
-spokentexts_a12_bahnhof_holzkiste_used_mit_armeemesser_st_2;Perfect. It looks like a normal crate.
-texts_a12_bahnhof_kiosk_mo_ex_1;Look at the kiosk
-spokentexts_a12_bahnhof_kiosk_ex_1_st_1;There probably isn't a single newspaper between Moscow and Madrid that's not reporting on the burglary.
+spokentexts_a12_bahnhof_holzkiste_used_mit_armeemesser_st_2;Parfait. Elle ressemble à une caisse normale.
+texts_a12_bahnhof_kiosk_mo_ex_1;Regarder le kiosque
+spokentexts_a12_bahnhof_kiosk_ex_1_st_1;Il n'y a probablement pas un seul journal entre Moscou et Madrid qui ne parle pas du cambriolage.
 spokentexts_a12_bahnhof_kiosk_ex_1_st_2_direction;contritely
-spokentexts_a12_bahnhof_kiosk_ex_1_st_2;I'm famous! Unfortunately, not for the sort of elegantly executed theft I'd like to be known for.
-texts_a12_bahnhof_muelleimer_mo_ex_1;Examine the waste bin
-spokentexts_a12_bahnhof_muelleimer_ex_1_st_1;Sometimes you can find useful things in a waste bin, but this one seems to have been emptied recently.
-texts_a12_bahnhof_transportwagen_mo_ex_1;Examine the freight car
-spokentexts_a12_bahnhof_transportwagen_ex_1_st_1;They won't let me ride along in the freight car. Not even if I ask nicely.
-spokentexts_a12_bahnhof_transportwagen_ex_2_st_1;As soon as I'm on the train I need to find a way to sneak into the freight car. Have to take one thing at a time, though.
-texts_a12_bahnhof_wagontuer_grossraumwagen_mo_ex_1a__1b;Examine the door
-spokentexts_a12_bahnhof_wagontuer_grossraumwagen_ex_1a_st_1;If I try to just get on the train, the conductor would probably stop me and might even turn me over to the police.
-spokentexts_a12_bahnhof_wagontuer_grossraumwagen_ex_1a_st_2;I can't risk that!
-spokentexts_a12_bahnhof_wagontuer_grossraumwagen_ex_1b_st_1;Even if I was able to distract the conductor and slip onto the train...
-spokentexts_a12_bahnhof_wagontuer_grossraumwagen_ex_1b_st_2;I'd stick out like a sore thumb with these shabby clothes.
-spokentexts_a12_bahnhof_wagontuer_grossraumwagen_ex_1b_st_3;I have to find something more suitable!
-texts_a12_bahnhof_wagontuer_salonwagen_mo_ex;Examine the door
-texts_a12_bahnhof_wagontuer_salonwagen_mo_use;Enter the saloon car.
-spokentexts_a12_bahnhof_wagontuer_salonwagen_ex_1_st_1;This is the saloon car. Fully furnished with a bar and all the niceties.
-spokentexts_a12_bahnhof_wagontuer_salonwagen_ex_1_st_2;The ladies and gentlemen would have a fit if I just waltzed in there wearing these clothes.
-spokentexts_a12_bahnhof_wagontuer_salonwagen_use_1_st_1;I can't board the train like this. I'd stick out like a sore thumb and they'd throw me off without a second thought!
-texts_a12_bahnhof_zeitung_mo_ex_1;Look at the newspaper
+spokentexts_a12_bahnhof_kiosk_ex_1_st_2;Je suis célèbre ! Malheureusement, pas pour le vol élégamment exécuté que j'ai fait.
+texts_a12_bahnhof_muelleimer_mo_ex_1;Examiner la poubelle
+spokentexts_a12_bahnhof_muelleimer_ex_1_st_1;Parfois, on trouve des choses utiles dans une poubelle, mais celle-ci semble avoir été vidé récemment.
+texts_a12_bahnhof_transportwagen_mo_ex_1;Examiner le wagon de marchandises
+spokentexts_a12_bahnhof_transportwagen_ex_1_st_1;Ils ne me laisseront pas fureter autour du wagon de marchandises. Pas même si je demande gentiment.
+spokentexts_a12_bahnhof_transportwagen_ex_2_st_1;Aussitôt dans le train, je dois trouver un moyen de me faufiler dans le wagon de marchandises. Mais une chose à la fois.
+texts_a12_bahnhof_wagontuer_grossraumwagen_mo_ex_1a__1b;Examiner la porte
+spokentexts_a12_bahnhof_wagontuer_grossraumwagen_ex_1a_st_1;Si j'essaie de monter dans le train, le contrôleur m'arrêtait probablement et pourrait même me dénoncer à la police.
+spokentexts_a12_bahnhof_wagontuer_grossraumwagen_ex_1a_st_2;Je ne peux pas prendre ce risque !
+spokentexts_a12_bahnhof_wagontuer_grossraumwagen_ex_1b_st_1;Même si j'arrivais à distraire le conducteur et me faufiler dans le train...
+spokentexts_a12_bahnhof_wagontuer_grossraumwagen_ex_1b_st_2;Je ferais tache avec ces vêtements usés.
+spokentexts_a12_bahnhof_wagontuer_grossraumwagen_ex_1b_st_3;Je dois trouver quelque chose de plus approprié !
+texts_a12_bahnhof_wagontuer_salonwagen_mo_ex;Examiner la porte
+texts_a12_bahnhof_wagontuer_salonwagen_mo_use;Entrer dans le wagon-salon.
+spokentexts_a12_bahnhof_wagontuer_salonwagen_ex_1_st_1;C'est le wagon-salon. Entièrement meublé avec bar et tout pleins de petites subtilités.
+spokentexts_a12_bahnhof_wagontuer_salonwagen_ex_1_st_2;Les dames et messieurs auraient une attaque si j'y entrais en portant ces vêtements.
+spokentexts_a12_bahnhof_wagontuer_salonwagen_use_1_st_1;Je ne peux pas monter dans le train comme ça. Je ferais tache et ils se débarrasseront de moi sans arrière-pensée !
+texts_a12_bahnhof_zeitung_mo_ex_1;Regarder le journal
 spokentexts_a12_bahnhof_zeitung_ex_1_st_1_direction;reads
-spokentexts_a12_bahnhof_zeitung_ex_1_st_1;"""Burglary in British Museum - One casualty - Â£5,000 damage - Culprit unknown - Return of the Raven?"""
+spokentexts_a12_bahnhof_zeitung_ex_1_st_1;"""Cambriolage au British Museum - Un blessé - Â£5,000 de dégât - Coupable inconnu - Le Retour du Corbeau ?"""
 spokentexts_a12_bahnhof_zeitung_ex_1_st_2_direction;Contrite, angry
-spokentexts_a12_bahnhof_zeitung_ex_1_st_2;I'd have escaped anyway, but Inch just couldn't resist playing with dynamite. I hope the security guard recovers soon.
-texts_a12_kabine_briefumschlag_nachricht_mo_inventar_1;Look at the message
+spokentexts_a12_bahnhof_zeitung_ex_1_st_2;J'en ai réchappé de toute manière, mais Inch ne pouvais pas résister de jouer avec de la dynamite. J'espère que le garde se rétablira vite.
+texts_a12_kabine_briefumschlag_nachricht_mo_inventar_1;Regarder le message
 texts_a12_kabine_briefumschlag_nachricht_mo_inventar_2;Message
-spokentexts_a12_kabine_briefumschlag_nachricht_ex_1_st_1;"Inch loves the spotlight and has a flair for the dramatic. Why else would he call himself ""The Raven""?"
-spokentexts_a12_kabine_briefumschlag_nachricht_ex_1_st_2;I don't like having to risk my own neck as part of his drama.
-spokentexts_a12_kabine_briefumschlag_nachricht_ex_1_st_3;What's the point of leaving messages for his opponent?
-spokentexts_a12_kabine_briefumschlag_nachricht_ex_2_st_1;I'd like to know what message Inch finds so important that he's willing to risk my neck to deliver it.
-spokentexts_a12_kabine_briefumschlag_nachricht_ex_2_st_2;But now's not the time. I have a train to catch!
-texts_a12_kabine_briefumschlag_reiseunterlagen_mo_inventar_1;Examine the envelope
-texts_a12_kabine_briefumschlag_reiseunterlagen_mo_inventar_2;Travel documents
+spokentexts_a12_kabine_briefumschlag_nachricht_ex_1_st_1;"Inch adore les projecteurs et a un talent pour le drame. Sinon, pourquoi se serait-il lui-même appelé ""Le Corbeau"" ?"
+spokentexts_a12_kabine_briefumschlag_nachricht_ex_1_st_2;Je n'aime pas risquer ma propre vie, pour son petit spectacle dramatique.
+spokentexts_a12_kabine_briefumschlag_nachricht_ex_1_st_3;Quel est l'intérêt de laisser des messages à son adversaire ?
+spokentexts_a12_kabine_briefumschlag_nachricht_ex_2_st_1;J'aimerais savoir quel message Inch trouve si important, qu'il est prêt à risquer ma vie pour le livrer.
+spokentexts_a12_kabine_briefumschlag_nachricht_ex_2_st_2;Mais c'est pas le moment. J'ai un train à prendre !
+texts_a12_kabine_briefumschlag_reiseunterlagen_mo_inventar_1;Examiner l'enveloppe
+texts_a12_kabine_briefumschlag_reiseunterlagen_mo_inventar_2;Documents de voyages
 sequences_a12_kabine_briefumschlag_reiseunterlagen_ex_1#1;[The Arab turns away from the train / away from guard and shows the envelope. He opens it and looks inside (Ilde).]
-spokentexts_a12_kabine_briefumschlag_reiseunterlagen_ex_1_st_1;Hmm. A ticket for a trip on the MS Lydia from Venice to Cairo...
-spokentexts_a12_kabine_briefumschlag_reiseunterlagen_ex_1_st_2;Some banknotes and...
+spokentexts_a12_kabine_briefumschlag_reiseunterlagen_ex_1_st_1;Hmm. Un billet pour une croisière sur le MS Lydia de Venise au Caire...
+spokentexts_a12_kabine_briefumschlag_reiseunterlagen_ex_1_st_2;Des billets de banque et...
 sequences_a12_kabine_briefumschlag_reiseunterlagen_ex_1#4;[The Arab grabs in, pulls out a passport and opens it (idle).]
-spokentexts_a12_kabine_briefumschlag_reiseunterlagen_ex_1_st_3;A passport. Blank. No personal info, no picture.
+spokentexts_a12_kabine_briefumschlag_reiseunterlagen_ex_1_st_3;Un passeport. Vierge. Sans information personnelle, aucune image.
 sequences_a12_kabine_briefumschlag_reiseunterlagen_ex_1#6;[The Arab close the passport, puts it back in the envelope and takes the envelope againwith him.]
-spokentexts_a12_kabine_briefumschlag_reiseunterlagen_ex_1_st_4;Inch has brilliant contacts in the underworld. He knows the best counterfeiters, technicians, pickpockets and conmen. He remains anonymous, though.
-spokentexts_a12_kabine_briefumschlag_reiseunterlagen_ex_1_st_5;"Most of them don't even know they're working for him. ""Mr. X"", his contact in Cairo, probably doesn't have a clue who he is."
+spokentexts_a12_kabine_briefumschlag_reiseunterlagen_ex_1_st_4;Inch a d'excellent contacts dans la pègre. Il connaît les meilleurs faussaires, techniciens, pickpockets et escrocs. Il reste anonyme, cependant.
+spokentexts_a12_kabine_briefumschlag_reiseunterlagen_ex_1_st_5;"La plupart d'entre eux ne savent même pas qu'ils travaillent pour lui. ""Mr. X"", son contact au Caire, n'a sans doute pas la moindre idée de qui il est."
 sequences_a12_kabine_briefumschlag_reiseunterlagen_ex_1#9;[From now on, the item has a new inventory icon to better differentiate from the other envelope. The envelope is opened and the money, the passport and the ticket are looking out of it.]
-spokentexts_a12_kabine_briefumschlag_reiseunterlagen_ex_2_st_1;"My ""travel documents"". I shouldn't have any trouble getting to Cairo now."
+spokentexts_a12_kabine_briefumschlag_reiseunterlagen_ex_2_st_1;"Mes ""documents de voyages"". Je ne devrais pas avoir de mal à me rendre au Caire maintenant."
 sequences_bahnhof_seq_a12_bahnhof_auftritt_butler#1;[Cut to the front entrance of the train.]
 sequences_bahnhof_seq_a12_bahnhof_auftritt_butler#2;[The butler enters the door, holding himself with his good arm and looks around.]
 sequences_bahnhof_seq_a12_bahnhof_auftritt_butler#3;[Cut back to the Arab.]
@@ -95,45 +95,45 @@ sequences_bahnhof_seq_a12_bahnhof_auftritt_butler#4;[The Arab stands at the maga
 sequences_bahnhof_seq_a12_bahnhof_auftritt_butler#5;[Cut back to the butler.]
 sequences_bahnhof_seq_a12_bahnhof_auftritt_butler#6;[He sees the Arab and starts a bit awkward to get off the train (because of his stiff arm).]
 sequences_bahnhof_seq_a12_bahnhof_auftritt_butler#7;[The butler walks over to the Arab, looks around a couple of times. When he passes Ohi and the doctor, it can be heared a conversation.]
-spokentexts_bahnhof_seq_a12_bahnhof_auftritt_butler_st_1;So you're taking a job as a ship's doctor?
-spokentexts_bahnhof_seq_a12_bahnhof_auftritt_butler_st_2;I'm excited, but nervous, too. I'm not exactly a champion swimmer.
+spokentexts_bahnhof_seq_a12_bahnhof_auftritt_butler_st_1;Donc, vous avez un emploi comme médecin de bord ?
+spokentexts_bahnhof_seq_a12_bahnhof_auftritt_butler_st_2;Je suis excité, mais nerveux aussi. Je ne suis pas un champion de natation.
 spokentexts_bahnhof_seq_a12_bahnhof_auftritt_butler_st_3_direction;laughs
-spokentexts_bahnhof_seq_a12_bahnhof_auftritt_butler_st_3;If you wind up in water on board a ship, something's gone terribly wrong!
+spokentexts_bahnhof_seq_a12_bahnhof_auftritt_butler_st_3;Si vous vous retrouvez à l'eau à bord d'un navire, c'est que quelque chose a très mal tourné !
 sequences_bahnhof_seq_a12_bahnhof_auftritt_butler#11;[Once he is gone a few steps further, ist being switched to a shot showing the rear area where the safe was loaded.]
 sequences_bahnhof_seq_a12_bahnhof_auftritt_butler#12;[The large side door of the transport wagon will be closed. The guard puts a large bolt up and fumbles at the lock.]
 sequences_bahnhof_seq_a12_bahnhof_auftritt_butler#13;[Cut back. The Butler has reached the Arab, looks around one last time.]
-spokentexts_bahnhof_seq_a12_bahnhof_auftritt_butler_st_4;What was all that in the museum?
+spokentexts_bahnhof_seq_a12_bahnhof_auftritt_butler_st_4;C'était quoi tout ça au musée ?
 sequences_bahnhof_seq_a12_bahnhof_auftritt_butler#15;[The Butler grabs the Arab with his good hand on the neck and pushes him amazingly powerful back behind the magazine stand, so they can't be seen.]
 sequences_bahnhof_seq_a12_bahnhof_auftritt_butler#16;[Cut to the side view. You can see the two relatively close, the left one, the other on the right.]
 sequences_bahnhof_seq_a12_bahnhof_auftritt_butler#17;[The Arab bounces against the wall, the Butler still has the hands on him (idle).]
 spokentexts_bahnhof_seq_a12_bahnhof_auftritt_butler_st_5_direction;gets choked and pushed against a wall
-spokentexts_bahnhof_seq_a12_bahnhof_auftritt_butler_st_5;Uff!
+spokentexts_bahnhof_seq_a12_bahnhof_auftritt_butler_st_5;Uff !
 spokentexts_bahnhof_seq_a12_bahnhof_beginn_des_gespraechs_st_1_direction;happy, friendly
-spokentexts_bahnhof_seq_a12_bahnhof_beginn_des_gespraechs_st_1;That didn't quite go according to plan, did it?
+spokentexts_bahnhof_seq_a12_bahnhof_beginn_des_gespraechs_st_1;Tout ne s'est pas déroulé comme prévu ?
 spokentexts_bahnhof_seq_a12_bahnhof_beginn_des_gespraechs_st_2_direction;threatening, angry
-spokentexts_bahnhof_seq_a12_bahnhof_beginn_des_gespraechs_st_2;And I HATE it when things don't go according to plan!
+spokentexts_bahnhof_seq_a12_bahnhof_beginn_des_gespraechs_st_2;Et je DÉTESTE quand les choses ne se déroulent pas comme prévu !
 spokentexts_bahnhof_seq_a12_bahnhof_beginn_des_gespraechs_st_3_direction;tedious, is choked
-spokentexts_bahnhof_seq_a12_bahnhof_beginn_des_gespraechs_st_3;You nearly killed them!
+spokentexts_bahnhof_seq_a12_bahnhof_beginn_des_gespraechs_st_3;Vous avez failli les tuer !
 spokentexts_bahnhof_seq_a12_bahnhof_beginn_des_gespraechs_st_5_direction;painfully suppressed rage
-spokentexts_bahnhof_seq_a12_bahnhof_beginn_des_gespraechs_st_5;YOU let them catch you!
+spokentexts_bahnhof_seq_a12_bahnhof_beginn_des_gespraechs_st_5;VOUS alliez les laisser vous attraper !
 spokentexts_bahnhof_seq_a12_bahnhof_beginn_des_gespraechs_st_8_direction;tedious, is choked
-spokentexts_bahnhof_seq_a12_bahnhof_beginn_des_gespraechs_st_8;It... it wasn't...my fault! Scotland Yard was there!
+spokentexts_bahnhof_seq_a12_bahnhof_beginn_des_gespraechs_st_8;Ce... Ce n'était pas de ma faute... ! Scotland Yard était là !
 spokentexts_bahnhof_seq_a12_bahnhof_beginn_des_gespraechs_st_9_direction;cold
-spokentexts_bahnhof_seq_a12_bahnhof_beginn_des_gespraechs_st_9;If I thought it was your fault, you'd already be bobbing in the Thames river with a bullet in your head.
+spokentexts_bahnhof_seq_a12_bahnhof_beginn_des_gespraechs_st_9;Si je pensais que c'était de votre faute, vous seriez déjà en train de flotter dans la Tamise avec une balle dans la tête.
 sequences_bahnhof_seq_a12_bahnhof_beginn_des_gespraechs#10;[The butler releases the Arab and stands up normally. The Arab holds with his hands his neck and bows slightly (idle).]
 spokentexts_bahnhof_seq_a12_bahnhof_beginn_des_gespraechs_st_10_direction;cough
-spokentexts_bahnhof_seq_a12_bahnhof_beginn_des_gespraechs_st_10;*cough* *pant*
+spokentexts_bahnhof_seq_a12_bahnhof_beginn_des_gespraechs_st_10;*tousse* *halète*
 spokentexts_bahnhof_seq_a12_bahnhof_beginn_des_gespraechs_st_11_direction;busy
-spokentexts_bahnhof_seq_a12_bahnhof_beginn_des_gespraechs_st_11;Someone tipped them off. I don't know who, but I'm going to find out.
+spokentexts_bahnhof_seq_a12_bahnhof_beginn_des_gespraechs_st_11;Quelqu'un les a averti. Je ne sais pas qui, mais je vais le découvrir.
 spokentexts_bahnhof_seq_a12_bahnhof_beginn_des_gespraechs_st_13_direction;Commanding
-spokentexts_bahnhof_seq_a12_bahnhof_beginn_des_gespraechs_st_13;Where is the jewel?
+spokentexts_bahnhof_seq_a12_bahnhof_beginn_des_gespraechs_st_13;Où est le bijou ?
 sequences_bahnhof_seq_a12_bahnhof_beginn_des_gespraechs#15;[The Arab grabs into his pocket, pulls out a tissue with something in it and gives it to the butler. Then the Arab is also back to normal.]
 sequences_bahnhof_seq_a12_bahnhof_beginn_des_gespraechs#16;[The Butler unfolds the Tissue.]
 sequences_bahnhof_seq_a12_bahnhof_beginn_des_gespraechs#17;[Cut to the tissue in close-up. On it is a large, sparkling, green gemstone.]
 spokentexts_bahnhof_seq_a12_bahnhof_beginn_des_gespraechs_st_14_direction;happy
-spokentexts_bahnhof_seq_a12_bahnhof_beginn_des_gespraechs_st_14;Ah... Marvelous.
+spokentexts_bahnhof_seq_a12_bahnhof_beginn_des_gespraechs_st_14;Ah... Merveilleux.
 spokentexts_bahnhof_seq_a12_bahnhof_beginn_des_gespraechs_st_15_direction;now again busy
-spokentexts_bahnhof_seq_a12_bahnhof_beginn_des_gespraechs_st_15;But it's just half the set, and stealing the second Eye will be more difficult than I'd anticipated.
+spokentexts_bahnhof_seq_a12_bahnhof_beginn_des_gespraechs_st_15;Mais c'est juste une moitié de l'ensemble et voler le deuxième oeil sera plus difficile que ce qui était prévu.
 sequences_bahnhof_seq_a12_bahnhof_beginn_des_gespraechs#21;[The Butler folds the cloth back together, takes it on.]
 sequences_bahnhof_seq_a12_bahnhof_intro_01#0;[Shot of the platform in order to gain an overview.]
 sequences_bahnhof_seq_a12_bahnhof_intro_01#1;[Cut to the back where the safe is loaded.]
@@ -141,39 +141,39 @@ sequences_bahnhof_seq_a12_bahnhof_intro_01#2;"[The safe is on a pallet on a truc
 sequences_bahnhof_seq_a12_bahnhof_intro_01#13;[The investigator comes into the picture, the guard sees him and saluted. The Investigator looks at him no more and walks past him (gets into the train at the transition ). The guard turns back, taking care again for the safe.]
 sequences_bahnhof_seq_a12_bahnhof_intro_01#3;[Cut to Ohi and the doctor. The two stand together and talk to each other (but you can not hear what they say). The camera zooms slowly further and further back, so that ist soon back in total.]
 sequences_bahnhof_seq_a12_bahnhof_intro_01#4;[The nurse and the boy are now in the picture. She pulls the boy behind her.]
-spokentexts_bahnhof_seq_a12_bahnhof_intro_01_st_1;I told you not to get off! What if the train had gone without you?
+spokentexts_bahnhof_seq_a12_bahnhof_intro_01_st_1;Je vous ai dit de ne pas descendre ! Et si le train était parti sans vous ?
 sequences_bahnhof_seq_a12_bahnhof_intro_01#6;[The boy don't care, he takes a look at Ohi. The boy climbs onto the train, the nurse too.]
 sequences_bahnhof_seq_a12_bahnhof_intro_01#15;[The camera is now zoomed out. Therefore the arab is slipped into the picture. He looks the scene. Then he walks toward Magazine Shop.]
 sequences_bahnhof_seq_a12_bahnhof_intro_01#7;[Cut to the conductor, who nearby Ohi and the doctor stands (between salon and saloon car) on a luggage cart.]
 sequences_bahnhof_seq_a12_bahnhof_intro_01#8;[The guard is guarding the luggage (idle). He pulls out a pocket watch, looks at it.]
 sequences_bahnhof_seq_a12_bahnhof_koffer_weg#0;[The conductor turns to the doctor.]
-spokentexts_bahnhof_seq_a12_bahnhof_koffer_weg_st_1;Excuse me, gentlemen.
+spokentexts_bahnhof_seq_a12_bahnhof_koffer_weg_st_1;Excusez-moi, messieurs.
 sequences_bahnhof_seq_a12_bahnhof_koffer_weg#2;[The doctor interrupts his conversation turns to the conductor.]
-spokentexts_bahnhof_seq_a12_bahnhof_koffer_weg_st_2;Can't you see that I'm talking to the constable?
-spokentexts_bahnhof_seq_a12_bahnhof_koffer_weg_st_3;The train is leaving in a few minutes, sir.
-spokentexts_bahnhof_seq_a12_bahnhof_koffer_weg_st_4;I have to ask you to board it now.
-spokentexts_bahnhof_seq_a12_bahnhof_koffer_weg_st_5;We should get on.
-spokentexts_bahnhof_seq_a12_bahnhof_koffer_weg_st_6;Perhaps we'll be able to continue our conversation during the trip.
-spokentexts_bahnhof_seq_a12_bahnhof_koffer_weg_st_7;I won't stand in the way! Hahaha.
+spokentexts_bahnhof_seq_a12_bahnhof_koffer_weg_st_2;Ne voyez-vous pas que je parle à l'Officier de police ?
+spokentexts_bahnhof_seq_a12_bahnhof_koffer_weg_st_3;Le train part dans quelques minutes, monsieur.
+spokentexts_bahnhof_seq_a12_bahnhof_koffer_weg_st_4;Je dois vous demander de monter à bord.
+spokentexts_bahnhof_seq_a12_bahnhof_koffer_weg_st_5;Nous devrions y aller.
+spokentexts_bahnhof_seq_a12_bahnhof_koffer_weg_st_6;Peut-être auront-nous l'occasion de continuer notre conversation pendant le voyage.
+spokentexts_bahnhof_seq_a12_bahnhof_koffer_weg_st_7;J'en trépigne d'avance ! Hahaha.
 sequences_bahnhof_seq_a12_bahnhof_koffer_weg#9;[The doctor wants to grab his medical bag.]
 spokentexts_bahnhof_seq_a12_bahnhof_koffer_weg_st_8_direction;scared
-spokentexts_bahnhof_seq_a12_bahnhof_koffer_weg_st_8;Huh? Where's my bag?
+spokentexts_bahnhof_seq_a12_bahnhof_koffer_weg_st_8;Hein ? Où est mon sac ?
 sequences_bahnhof_seq_a12_bahnhof_koffer_weg#11;[The conductor turns around in surprise.]
 spokentexts_bahnhof_seq_a12_bahnhof_koffer_weg_st_9_direction;perplexed
-spokentexts_bahnhof_seq_a12_bahnhof_koffer_weg_st_9;You left it right there.
+spokentexts_bahnhof_seq_a12_bahnhof_koffer_weg_st_9;Vous l'avez laissé ici.
 spokentexts_bahnhof_seq_a12_bahnhof_koffer_weg_st_10_direction;angry
-spokentexts_bahnhof_seq_a12_bahnhof_koffer_weg_st_10;I know that!
+spokentexts_bahnhof_seq_a12_bahnhof_koffer_weg_st_10;Je sais ça !
 spokentexts_bahnhof_seq_a12_bahnhof_koffer_weg_st_11_direction;angry
-spokentexts_bahnhof_seq_a12_bahnhof_koffer_weg_st_11;I want to know where it is now!
+spokentexts_bahnhof_seq_a12_bahnhof_koffer_weg_st_11;Je veux savoir où il est maintenant !
 spokentexts_bahnhof_seq_a12_bahnhof_koffer_weg_st_12_direction;unsettled
-spokentexts_bahnhof_seq_a12_bahnhof_koffer_weg_st_12;I... I don't know. I'll look for it right away!
-spokentexts_bahnhof_seq_a12_bahnhof_koffer_weg_st_13;If you gentlemen would get on the train in the meantime...
+spokentexts_bahnhof_seq_a12_bahnhof_koffer_weg_st_12;Je... Je ne sais pas. Je vais le chercher sans attendre !
+spokentexts_bahnhof_seq_a12_bahnhof_koffer_weg_st_13;Si vous vouliez bien, messieurs, monter dans le train en attendant...
 spokentexts_bahnhof_seq_a12_bahnhof_koffer_weg_st_14_direction;angry
-spokentexts_bahnhof_seq_a12_bahnhof_koffer_weg_st_14;I will hold you and your employers liable for this!
+spokentexts_bahnhof_seq_a12_bahnhof_koffer_weg_st_14;Je vous tiendrai ainsi que vos employeurs responsables de cela !
 spokentexts_bahnhof_seq_a12_bahnhof_koffer_weg_st_15_direction;tries to calm him
-spokentexts_bahnhof_seq_a12_bahnhof_koffer_weg_st_15;I'm sure he'll find the bag.
-spokentexts_bahnhof_seq_a12_bahnhof_koffer_weg_st_16;Come on, Dr. Gebhardt. I will help you with your luggage.
-spokentexts_bahnhof_seq_a12_bahnhof_koffer_weg_st_17;Fine.
+spokentexts_bahnhof_seq_a12_bahnhof_koffer_weg_st_15;Je suis sûr qu'il va retrouver votre sac.
+spokentexts_bahnhof_seq_a12_bahnhof_koffer_weg_st_16;Allons-y, docteur Gebhardt. Je vais vous aider avec vos bagages.
+spokentexts_bahnhof_seq_a12_bahnhof_koffer_weg_st_17;Très bien.
 sequences_bahnhof_seq_a12_bahnhof_koffer_weg#21;[Ohi and the doctor take the baggage of the doctor (with help from the conductor) and disappear along with the luggage on the train.]
 sequences_bahnhof_seq_a12_bahnhof_koffer_weg#22;[What remains is an insecure conductor who looks around unsure and do not know what to do.]
 sequences_bahnhof_seq_a12_bahnhof_zug_faehrt_ab#12;[Fade to black. Two seconds, then fade-in.]
@@ -181,33 +181,33 @@ sequences_bahnhof_seq_a12_bahnhof_zug_faehrt_ab#0;[Cut to the whistle on the tra
 sequences_bahnhof_seq_a12_bahnhof_zug_faehrt_ab#1;[The whistle blows, gives out white steam.]
 sequences_bahnhof_seq_a12_bahnhof_zug_faehrt_ab#2;[Cut back to the Arab behind the boxes.]
 sequences_bahnhof_seq_a12_bahnhof_zug_faehrt_ab#3;[The Arab emerges, looks around. He has shoes in the hand and the pants of the guard over the forearm.]
-spokentexts_bahnhof_seq_a12_bahnhof_zug_faehrt_ab_st_1;No! Oh man…
+spokentexts_bahnhof_seq_a12_bahnhof_zug_faehrt_ab_st_1;Non ! Oh bon sang…
 sequences_bahnhof_seq_a12_bahnhof_zug_faehrt_ab#5;[The Arab turns back, pulls on the invisible conductor and pulls him out the jacket.]
 sequences_bahnhof_seq_a12_bahnhof_zug_faehrt_ab#6;[Cut to the train. He starts moving in slow motion.]
 sequences_bahnhof_seq_a12_bahnhof_zug_faehrt_ab#7;[The Arab comes into the picture, has both arms full with the clothes of the guard. He runs along the train, looking in a window, then ducked away.]
 sequences_bahnhof_seq_a12_bahnhof_zug_faehrt_ab#8;[He loses a shoe, must turn around and takes it awkward again.]
 spokentexts_bahnhof_seq_a12_bahnhof_zug_faehrt_ab_st_2_direction;annoyed
-spokentexts_bahnhof_seq_a12_bahnhof_zug_faehrt_ab_st_2;No! Oh man...
+spokentexts_bahnhof_seq_a12_bahnhof_zug_faehrt_ab_st_2;Non ! Oh bon sang...
 sequences_bahnhof_seq_a12_bahnhof_zug_faehrt_ab#10;[The Arab runs parallel to the train out of the picture.]
 sequences_bahnhof_seq_a12_bahnhof_zug_faehrt_ab#11;[End of section.]
-texts_bahnhof_onscreen_text;A few days ago...
-texts_arzt_mo_ex_1__2;Look at the man
-spokentexts_arzt_ex_1_st_1;Some of the passengers got off the train to stretch their legs.
-spokentexts_arzt_ex_1_st_2;But this man started his journey right here in Zurich. He waited a good ten minutes for the train and began to get impatient.
-spokentexts_arzt_ex_2_st_1;Judging by the bag, he's a doctor - radiates self-confidence, almost arrogance. 
-texts_butler_top_a12_butler_auge_der_sphinx_tseq_title;Eye of the Sphinx
-spokentexts_butler_top_a12_butler_auge_der_sphinx_tseq_st_1;I don't know...
-spokentexts_butler_top_a12_butler_auge_der_sphinx_tseq_st_2;We have the first Eye and we only just escaped...
+texts_bahnhof_onscreen_text;Il y a quelques jours...
+texts_arzt_mo_ex_1__2;Regarder l'homme
+spokentexts_arzt_ex_1_st_1;Certains passagers sont descendus du train pour se dégourdir les jambes.
+spokentexts_arzt_ex_1_st_2;Mais cet homme a commencé son voyage ici à Zurich. Il a attendu dix bonnes minutes le train et a commencé à s'impatienter.
+spokentexts_arzt_ex_2_st_1;A en juger par son bagage, il est docteur - rayonnant de confiance, presque arrogant.
+texts_butler_top_a12_butler_auge_der_sphinx_tseq_title;Oeil du Sphinx
+spokentexts_butler_top_a12_butler_auge_der_sphinx_tseq_st_1;Je ne sais pas...
+spokentexts_butler_top_a12_butler_auge_der_sphinx_tseq_st_2;Nous avons le premier Oeil et nous échappe de justesse...
 spokentexts_butler_top_a12_butler_auge_der_sphinx_tseq_st_3_direction;mocking
-spokentexts_butler_top_a12_butler_auge_der_sphinx_tseq_st_3;Tell me you're not suggesting that we should be satisfied with that?
-spokentexts_butler_top_a12_butler_auge_der_sphinx_tseq_st_4;One Eye alone is nothing more than an expensive bauble.
-spokentexts_butler_top_a12_butler_auge_der_sphinx_tseq_st_5;But both Eyes together are a legend!
+spokentexts_butler_top_a12_butler_auge_der_sphinx_tseq_st_3;Ne me dites que vous ne voulez que nous nous contentions de cela ?
+spokentexts_butler_top_a12_butler_auge_der_sphinx_tseq_st_4;Un Oeil seul n'est rien de plus qu'une couteuse babiole.
+spokentexts_butler_top_a12_butler_auge_der_sphinx_tseq_st_5;Mais les deux Yeux ensemble ça devient une légende !
 spokentexts_butler_top_a12_butler_auge_der_sphinx_tseq_st_6_direction;dreamy
-spokentexts_butler_top_a12_butler_auge_der_sphinx_tseq_st_6;My greatest triumph.
-spokentexts_butler_top_a12_butler_auge_der_sphinx_tseq_st_7;Shouldn't I put the Eye somewhere for safekeeping? Just in case Legrand searches our things?
-spokentexts_butler_top_a12_butler_auge_der_sphinx_tseq_st_8;I'll hide the jewel in the baroness' luggage. I already know where.
-spokentexts_butler_top_a12_butler_auge_der_sphinx_tseq_st_9;Legrand won't dare search her belongings. And even then, he'll never be able to open the secret compartment.
-texts_butler_top_a12_butler_baronin_tseq_title;Baroness
+spokentexts_butler_top_a12_butler_auge_der_sphinx_tseq_st_6;Mon plus grand triomphe.
+spokentexts_butler_top_a12_butler_auge_der_sphinx_tseq_st_7;Je ne devrais pas mettre l'oeil quelque part en lieu sûr ? Juste au cas où Legrand viendrait fouiner ?
+spokentexts_butler_top_a12_butler_auge_der_sphinx_tseq_st_8;Je vais me cacher le bijou dans les bagages de la baronne. Et je sais déjà où.
+spokentexts_butler_top_a12_butler_auge_der_sphinx_tseq_st_9;Legrand n'osera pas chercher dans ses affaires. Et même alors, il ne sera jamais en mesure d'ouvrir le compartiment secret.
+texts_butler_top_a12_butler_baronin_tseq_title;La Baronne
 spokentexts_butler_top_a12_butler_baronin_tseq_st_1;Hasn't the baroness grown suspicious?
 sequences_butler_top_a12_butler_baronin_tseq#1;[The Butler rolls his eyes.]
 spokentexts_butler_top_a12_butler_baronin_tseq_st_3;She's wrapped up in a veil of alcohol, arrogance and disinterest. Only flattery, gossip and Belgian chocolate can penetrate it.
