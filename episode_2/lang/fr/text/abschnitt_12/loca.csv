@@ -208,146 +208,146 @@ spokentexts_butler_top_a12_butler_auge_der_sphinx_tseq_st_7;Je ne devrais pas me
 spokentexts_butler_top_a12_butler_auge_der_sphinx_tseq_st_8;Je vais me cacher le bijou dans les bagages de la baronne. Et je sais déjà où.
 spokentexts_butler_top_a12_butler_auge_der_sphinx_tseq_st_9;Legrand n'osera pas chercher dans ses affaires. Et même alors, il ne sera jamais en mesure d'ouvrir le compartiment secret.
 texts_butler_top_a12_butler_baronin_tseq_title;La Baronne
-spokentexts_butler_top_a12_butler_baronin_tseq_st_1;Hasn't the baroness grown suspicious?
+spokentexts_butler_top_a12_butler_baronin_tseq_st_1;La Baronne ne suspecte rien ?
 sequences_butler_top_a12_butler_baronin_tseq#1;[The Butler rolls his eyes.]
-spokentexts_butler_top_a12_butler_baronin_tseq_st_3;She's wrapped up in a veil of alcohol, arrogance and disinterest. Only flattery, gossip and Belgian chocolate can penetrate it.
-spokentexts_butler_top_a12_butler_baronin_tseq_st_4;Ideal conditions.
-spokentexts_butler_top_a12_butler_baronin_tseq_st_5;I'll be glad to be rid of that old hag.
-spokentexts_butler_top_a12_butler_baronin_tseq_st_6;She's my ticket to the most important museums in Europe.
-spokentexts_butler_top_a12_butler_baronin_tseq_st_7;But these have been the longest six months of my life!
-texts_butler_top_a12_butler_brief_tseq_title;Letter
-spokentexts_butler_top_a12_butler_brief_tseq_st_1;What's the purpose of the letter?
-spokentexts_butler_top_a12_butler_brief_tseq_st_2;That's not your concern.
+spokentexts_butler_top_a12_butler_baronin_tseq_st_3;Elle est enveloppée dans une bulle d'alcool, d'arrogance et d'indifférence. Que seul la flatterie, les potins et le chocolat belge peuvent pénétrer.
+spokentexts_butler_top_a12_butler_baronin_tseq_st_4;Des conditions idéales.
+spokentexts_butler_top_a12_butler_baronin_tseq_st_5;Je serai heureux de me débarrasser de cette vieille sorcière.
+spokentexts_butler_top_a12_butler_baronin_tseq_st_6;Elle est mon ticket d'entré pour les musées les plus importants d'Europe.
+spokentexts_butler_top_a12_butler_baronin_tseq_st_7;Mais ces six derniers mois ont été les plus longs de ma vie !
+texts_butler_top_a12_butler_brief_tseq_title;Lettre
+spokentexts_butler_top_a12_butler_brief_tseq_st_1;Quel est l'objet de cette lettre ?
+spokentexts_butler_top_a12_butler_brief_tseq_st_2;Cela ne vous concerne pas.
 spokentexts_butler_top_a12_butler_brief_tseq_st_3_direction;cheeky
-spokentexts_butler_top_a12_butler_brief_tseq_st_3;I'd just like to know whether I'm risking my life for some game of yours or whether it's worth it!
+spokentexts_butler_top_a12_butler_brief_tseq_st_3;J'aimerai simplement savoir si je risque ma vie pour vos petits jeux puérils ou si ça vaut le coup !
 sequences_butler_top_a12_butler_brief_tseq#3;[The Butler grabs the Arab again at the neck, pushing him back against the wall.]
 spokentexts_butler_top_a12_butler_brief_tseq_st_4_direction;aggressive
-spokentexts_butler_top_a12_butler_brief_tseq_st_4;"Any one of my ""games"" would be worth your life."
+spokentexts_butler_top_a12_butler_brief_tseq_st_4;"Aucuns de mes ""jeux"" est moins important que votre vie."
 sequences_butler_top_a12_butler_brief_tseq#7;[The butler releases the Arab, is back down to normal. The Arab is holding his neck (idle).]
-spokentexts_butler_top_a12_butler_brief_tseq_st_7;You just do what I tell you.
-spokentexts_butler_top_a12_butler_brief_tseq_st_8;Stick the letter on the door of the safe or leave it on top of it, I don't care.
-spokentexts_butler_top_a12_butler_brief_tseq_st_9;But the letter has to be there as soon as Legrand shows up after the blackout to make sure everything is in order. Understood?
+spokentexts_butler_top_a12_butler_brief_tseq_st_7;Faites juste ce que je vous dis.
+spokentexts_butler_top_a12_butler_brief_tseq_st_8;Collez cette lettre sur la porte du coffre-fort ou laissez-là dessus, je m'en fout.
+spokentexts_butler_top_a12_butler_brief_tseq_st_9;Mais la lettre doit être en place dès que Legrand donnera un coup d'oeil au coffre après la panne pour s'assurer que tout est en ordre. Compris ?
 sequences_butler_top_a12_butler_brief_tseq#11;[The Arab nods, stands again.]
 spokentexts_butler_top_a12_butler_brief_tseq_st_10_direction;quietly
-spokentexts_butler_top_a12_butler_brief_tseq_st_10;Yes.
+spokentexts_butler_top_a12_butler_brief_tseq_st_10;Oui.
 spokentexts_butler_top_a12_butler_brief_tseq_st_11_direction;aggressive
-spokentexts_butler_top_a12_butler_brief_tseq_st_11;What?
+spokentexts_butler_top_a12_butler_brief_tseq_st_11;Quoi ?
 spokentexts_butler_top_a12_butler_brief_tseq_st_12_direction;louder
-spokentexts_butler_top_a12_butler_brief_tseq_st_12;YES, understood.
-texts_butler_top_a12_butler_treffpunkt_venedig_tseq_title;Meeting point in Venice?
-spokentexts_butler_top_a12_butler_treffpunkt_venedig_tseq_st_1;Then I'll get in the car and we'll meet in Venice.
-spokentexts_butler_top_a12_butler_treffpunkt_venedig_tseq_st_2;All right.
-spokentexts_butler_top_a12_butler_treffpunkt_venedig_tseq_st_3;Then I'll get in the car and we'll meet in Venice.
-spokentexts_butler_top_a12_butler_treffpunkt_venedig_tseq_st_4;No. Legrand necessitates a change of plan.
+spokentexts_butler_top_a12_butler_brief_tseq_st_12;Oui, compris.
+texts_butler_top_a12_butler_treffpunkt_venedig_tseq_title;Point de rendez-vous à Venise ?
+spokentexts_butler_top_a12_butler_treffpunkt_venedig_tseq_st_1;Donc, je monterais dans la voiture et nous nous retrouverons à Venise.
+spokentexts_butler_top_a12_butler_treffpunkt_venedig_tseq_st_2;Très bien.
+spokentexts_butler_top_a12_butler_treffpunkt_venedig_tseq_st_3;Donc, je monterais dans la voiture et nous nous retrouverons à Venise.
+spokentexts_butler_top_a12_butler_treffpunkt_venedig_tseq_st_4;Non. Le présence de Legrand nécessite un changement de plan.
 sequences_butler_top_a12_butler_treffpunkt_venedig_tseq#6;[The Butler grabs into the jacket, pulls out a large, sticky envelope and gives it to the Arab.]
-spokentexts_butler_top_a12_butler_treffpunkt_venedig_tseq_st_5;You'll go by train as well and place this envelope on the safe as soon as the train halts in the tunnel.
-spokentexts_butler_top_a12_butler_treffpunkt_venedig_tseq_st_6;I'll cause a blackout so that you can sneak past the guard.
-spokentexts_butler_top_a12_butler_treffpunkt_venedig_tseq_st_7;You won't believe who's guarding the safe! That blasted bobby from London. If you have any trouble, cave his skull in.
-spokentexts_butler_top_a12_butler_treffpunkt_venedig_tseq_st_8;And Legrand?
-spokentexts_butler_top_a12_butler_treffpunkt_venedig_tseq_st_11;You take care of the letter. I'll take care of everything else. The most important thing is that no one recognizes you on the train.
-spokentexts_butler_top_a12_butler_treffpunkt_venedig_tseq_st_12;And that I don't get caught.
+spokentexts_butler_top_a12_butler_treffpunkt_venedig_tseq_st_5;Vous allez prendre le train et vous placerez cette enveloppe sur le coffre dès que le train s'arrêtera dans le tunnel.
+spokentexts_butler_top_a12_butler_treffpunkt_venedig_tseq_st_6;Je vais provoquer une panne de manière que vous puissiez vous faufiler derrière la garde.
+spokentexts_butler_top_a12_butler_treffpunkt_venedig_tseq_st_7;Vous n'allez jamais croire qui garde le coffre-fort ! Le bobby de Londres. Si vous avez des ennuis, assommez-le.
+spokentexts_butler_top_a12_butler_treffpunkt_venedig_tseq_st_8;Et Legrand ?
+spokentexts_butler_top_a12_butler_treffpunkt_venedig_tseq_st_11;Prenez soin de cette lettre. Je m'occupe du reste. Le plus importante est que personne ne vous reconnaisse dans le train.
+spokentexts_butler_top_a12_butler_treffpunkt_venedig_tseq_st_12;Et que je ne soit suis pas pris.
 sequences_butler_top_a12_butler_treffpunkt_venedig_tseq#15;[The Butler gves the Arab a bit too powerful than needed the letter in his pocket.]
-texts_butler_top_a12_butler_verabschieden_tseq_title;Say goodbye
+texts_butler_top_a12_butler_verabschieden_tseq_title;Dire au revoir
 spokentexts_butler_top_a12_butler_verabschieden_tseq_st_1;OK.
-spokentexts_butler_top_a12_butler_verabschieden_tseq_st_2;So we'll see each other in Venice.
-spokentexts_butler_top_a12_butler_verabschieden_tseq_st_3;And not sooner!
-spokentexts_butler_top_a12_butler_verabschieden_tseq_st_4;Here, take your travel documents.
+spokentexts_butler_top_a12_butler_verabschieden_tseq_st_2;Donc nous nous reverrons à Venise.
+spokentexts_butler_top_a12_butler_verabschieden_tseq_st_3;Et pas avant !
+spokentexts_butler_top_a12_butler_verabschieden_tseq_st_4;Tenez, vos documents de voyage.
 sequences_butler_top_a12_butler_verabschieden_tseq#4;[The Butler grabs into the jacket, pulls out a large, sticky envelope and gives it to the Arab.]
-spokentexts_butler_top_a12_butler_verabschieden_tseq_st_5;We may not have an opportunity to meet in Venice.
+spokentexts_butler_top_a12_butler_verabschieden_tseq_st_5;Si nous n'avons pas l'occasion de nous voir à Venise.
 sequences_butler_top_a12_butler_verabschieden_tseq#6;[The Arab takes it.]
-spokentexts_butler_top_a12_butler_verabschieden_tseq_st_6;Ok  Fine.
+spokentexts_butler_top_a12_butler_verabschieden_tseq_st_6;Ok, très bien.
 sequences_butler_top_a12_butler_verabschieden_tseq#9;[The butler nods, then turns and walks away.]
 sequences_butler_top_a12_butler_verabschieden_tseq#10;[Shot to total. The butler goes towards train, the Arab is thoughtfully at the magazine stand.]
 sequences_butler_top_a12_butler_verabschieden_tseq#11;[The Arab grabs into his pocket, pulls out the smaller envelope for Legrand and holds it in his hands.]
 sequences_butler_top_a12_butler_verabschieden_tseq#12;[The Arab looks thoughtful at the letter. (Idle).]
 spokentexts_butler_top_a12_butler_verabschieden_tseq_st_7_direction;disapproving
-spokentexts_butler_top_a12_butler_verabschieden_tseq_st_7;That's the first change of plan so far...
+spokentexts_butler_top_a12_butler_verabschieden_tseq_st_7;C'est le premier changement de plan jusqu'ici...
 spokentexts_butler_top_a12_butler_verabschieden_tseq_st_8_direction;Realizes that he can not change anything
-spokentexts_butler_top_a12_butler_verabschieden_tseq_st_8;Pff... Whatever. Looks like I'll be going to Venice by train.
+spokentexts_butler_top_a12_butler_verabschieden_tseq_st_8;Pff... Peu importe. On dirait bien que je vais me rendre à Venise en train.
 sequences_butler_top_a12_butler_verabschieden_tseq#17;[The Arab knocks thoughtfully with the letter against his open hand, then he puts it on and enters the station.]
-texts_butler_top_a12_butler_verletzte_tseq_title;Guard in the museum
-spokentexts_butler_top_a12_butler_verletzte_tseq_st_1;How are the injured guards doing?
+texts_butler_top_a12_butler_verletzte_tseq_title;Garde au musée
+spokentexts_butler_top_a12_butler_verletzte_tseq_st_1;Comment les gardes vont-ils ?
 spokentexts_butler_top_a12_butler_verletzte_tseq_st_2_direction;cold
-spokentexts_butler_top_a12_butler_verletzte_tseq_st_2;How the devil should I know?
+spokentexts_butler_top_a12_butler_verletzte_tseq_st_2;Comment diable pourrais-je le savoir?
 spokentexts_butler_top_a12_butler_verletzte_tseq_st_3_direction;somewhat anxious
-spokentexts_butler_top_a12_butler_verletzte_tseq_st_3;You didn't need to do that.
-spokentexts_butler_top_a12_butler_verletzte_tseq_st_4;What? Save your bacon?
-spokentexts_butler_top_a12_butler_verletzte_tseq_st_5;I'd have made it out on my own.
+spokentexts_butler_top_a12_butler_verletzte_tseq_st_3;Vous n'aviez pas besoin de faire ça.
+spokentexts_butler_top_a12_butler_verletzte_tseq_st_4;Quoi ? Sauvez vos fesses ?
+spokentexts_butler_top_a12_butler_verletzte_tseq_st_5;Je l'ai fait de mon propre chef.
 spokentexts_butler_top_a12_butler_verletzte_tseq_st_6_direction;sarcastic, with children voice 
-spokentexts_butler_top_a12_butler_verletzte_tseq_st_6;Oh, yes. The poor security guard! It really wasn't necessary!
+spokentexts_butler_top_a12_butler_verletzte_tseq_st_6;Oh, oui. Le pauvre garde de sécurité ! Ce n'était vraiment pas nécessaire !
 spokentexts_butler_top_a12_butler_verletzte_tseq_st_7_direction;sarcastic, with children voice 
-spokentexts_butler_top_a12_butler_verletzte_tseq_st_7;I'm such a naughty boy!
+spokentexts_butler_top_a12_butler_verletzte_tseq_st_7;Quel méchant garçon je suis !
 sequences_butler_top_a12_butler_verletzte_tseq#7;[The Arab is intimidated looking at the floor.]
 spokentexts_butler_top_a12_butler_verletzte_tseq_st_8_direction;intimidated, half to himself
-spokentexts_butler_top_a12_butler_verletzte_tseq_st_8;I just don't want anyone to get hurt.
+spokentexts_butler_top_a12_butler_verletzte_tseq_st_8;Je veux que personne ne soit blessé.
 spokentexts_butler_top_a12_butler_verletzte_tseq_st_9_direction;sarcastic, overly melodramatic
-spokentexts_butler_top_a12_butler_verletzte_tseq_st_9;Oh, please, please! Don't be angry with me! I won't do it again!
-texts_butler_top_a12_butler_wie_geht_es_weiter_tseq_title;What now?
+spokentexts_butler_top_a12_butler_verletzte_tseq_st_9;Oh, je vous en prie, s'il vous plaît ! Ne soyez pas en colère contre moi ! Je ne le ferais plus !
+texts_butler_top_a12_butler_wie_geht_es_weiter_tseq_title;Et maintenant ?
 spokentexts_butler_top_a12_butler_wie_geht_es_weiter_tseq_st_1_direction;slightly annoyed
-spokentexts_butler_top_a12_butler_wie_geht_es_weiter_tseq_st_1;And what do we do now?
-spokentexts_butler_top_a12_butler_wie_geht_es_weiter_tseq_st_2;Why are we meeting here and not in Venice like we planned?
-spokentexts_butler_top_a12_butler_wie_geht_es_weiter_tseq_st_3;London drew more attention than planned. They put Legrand on the case.
+spokentexts_butler_top_a12_butler_wie_geht_es_weiter_tseq_st_1;Et que faisons-nous maintenant ?
+spokentexts_butler_top_a12_butler_wie_geht_es_weiter_tseq_st_2;Pourquoi nous rencontrons-nous ici et pas à Venise comme nous l'avions prévu ?
+spokentexts_butler_top_a12_butler_wie_geht_es_weiter_tseq_st_3;Londres a attiré plus d'attention que prévu. Ils ont mis Legrand sur l'affaire.
 spokentexts_butler_top_a12_butler_wie_geht_es_weiter_tseq_st_4_direction;surprised, troubled
-spokentexts_butler_top_a12_butler_wie_geht_es_weiter_tseq_st_4;Nicolas Legrand?!
+spokentexts_butler_top_a12_butler_wie_geht_es_weiter_tseq_st_4;Nicolas Legrand ?!
 sequences_butler_top_a12_butler_wie_geht_es_weiter_tseq#5;[Butler nods, perhaps he also points to the rear.]
-spokentexts_butler_top_a12_butler_wie_geht_es_weiter_tseq_st_5;He's searching the train.
-spokentexts_butler_top_a12_butler_wie_geht_es_weiter_tseq_st_7;Should... Shouldn't we postpone the plan under these circumstances?
+spokentexts_butler_top_a12_butler_wie_geht_es_weiter_tseq_st_5;Il fouille le train.
+spokentexts_butler_top_a12_butler_wie_geht_es_weiter_tseq_st_7;Ne devrions... Ne devrions-nous pas reporter le plan dans ces circonstances ?
 sequences_butler_top_a12_butler_wie_geht_es_weiter_tseq#9;[The butler smiles evil.]
-spokentexts_butler_top_a12_butler_wie_geht_es_weiter_tseq_st_8;On the contrary!
-spokentexts_butler_top_a12_butler_wie_geht_es_weiter_tseq_st_9;I gave him an anonymous tip.
-spokentexts_butler_top_a12_butler_wie_geht_es_weiter_tseq_st_10;A tip?
-spokentexts_butler_top_a12_butler_wie_geht_es_weiter_tseq_st_11;I told him that the train will be robbed ...
-texts_butler_top_a12_butler_zugueberfall_tseq_title;Robbery on the train
+spokentexts_butler_top_a12_butler_wie_geht_es_weiter_tseq_st_8;Au contraire !
+spokentexts_butler_top_a12_butler_wie_geht_es_weiter_tseq_st_9;Je lui ai envoyé une information anonyme.
+spokentexts_butler_top_a12_butler_wie_geht_es_weiter_tseq_st_10;Une information ?
+spokentexts_butler_top_a12_butler_wie_geht_es_weiter_tseq_st_11;Je lui ai dit que le train serait cambriolé...
+texts_butler_top_a12_butler_zugueberfall_tseq_title;Vol dans le train
 spokentexts_butler_top_a12_butler_zugueberfall_tseq_st_1_direction;slightly annoyed
-spokentexts_butler_top_a12_butler_zugueberfall_tseq_st_1;And what do we do now?
-spokentexts_butler_top_a12_butler_zugueberfall_tseq_st_2;You don't seriously suggest that we steal the jewel right under Legrand's nose?!
+spokentexts_butler_top_a12_butler_zugueberfall_tseq_st_1;Et que faisons-nous maintenant ?
+spokentexts_butler_top_a12_butler_zugueberfall_tseq_st_2;Vous ne suggérez pas sérieusement que nous volions le bijou sous le nez de Legrand ?
 spokentexts_butler_top_a12_butler_zugueberfall_tseq_st_3_direction;irritated
-spokentexts_butler_top_a12_butler_zugueberfall_tseq_st_3;Of course.
+spokentexts_butler_top_a12_butler_zugueberfall_tseq_st_3;Bien sûr que si.
 spokentexts_butler_top_a12_butler_zugueberfall_tseq_st_4_direction;angry
-spokentexts_butler_top_a12_butler_zugueberfall_tseq_st_4;Because I'M AN IDIOT!
+spokentexts_butler_top_a12_butler_zugueberfall_tseq_st_4;Parce que JE NE SUIS PAS UN IMBÉCILE !
 sequences_butler_top_a12_butler_zugueberfall_tseq#5;[That was a bit too loud. The butler looks briefly over his shoulder to see if anyone has seen something.]
 spokentexts_butler_top_a12_butler_zugueberfall_tseq_st_5_direction;restrains himself
-spokentexts_butler_top_a12_butler_zugueberfall_tseq_st_5;Our best bet is still Cairo. Everything is prepared. Mr. X will provide us with everything we need.
-spokentexts_butler_top_a12_butler_zugueberfall_tseq_st_6;As planned, I'll go to Venice together with the baroness and board the ship there.
-spokentexts_butler_top_a12_butler_zugueberfall_tseq_st_7;You'll do the same. But as surreptitiously as possible.
-spokentexts_butler_top_a12_butler_zugueberfall_tseq_st_8;All right.
-spokentexts_butler_top_a12_butler_zugueberfall_tseq_st_9;And under no circumstances can anyone be permitted to discover our relationship, understood?
-spokentexts_butler_top_a12_butler_zugueberfall_tseq_st_10;And the rest of the plan is as before?
+spokentexts_butler_top_a12_butler_zugueberfall_tseq_st_5;Notre meilleur chance est toujours au Caire. Tout est prêt. Mr X va nous fournir tout ce dont nous avons besoin.
+spokentexts_butler_top_a12_butler_zugueberfall_tseq_st_6;Comme c'était prévu, je vais aller à Venise avec la Baronne et monter dans un navire là-bas.
+spokentexts_butler_top_a12_butler_zugueberfall_tseq_st_7;Vous ferez la même chose. Mais le plus discrètement possible.
+spokentexts_butler_top_a12_butler_zugueberfall_tseq_st_8;D'accord.
+spokentexts_butler_top_a12_butler_zugueberfall_tseq_st_9;Et peu importe ce qui arrive, personne ne doit découvrir que nous nous connaissons, compris ?
+spokentexts_butler_top_a12_butler_zugueberfall_tseq_st_10;Et le reste du plan reste comme avant ?
 spokentexts_butler_top_a12_butler_zugueberfall_tseq_st_11_direction;affirmative
-spokentexts_butler_top_a12_butler_zugueberfall_tseq_st_11;We just have to get on board the ship.
-texts_ohi_mo_ex_1__2;Look at the policeman
-spokentexts_ohi_ex_1_st_1;Clothes maketh the man.
-spokentexts_ohi_ex_1_st_2;Put a uniform on a short, old, rather chubby little man and they'll show him all due respect.
-spokentexts_ohi_ex_1_st_3;Even if he's only a constable. The uniform alone gives him power and that counts for a lot in this part of the world.
-spokentexts_ohi_ex_2_st_1;I'd better not interrupt their conversation. As long as they're talking to each other, they're distracted and paying less attention to their surroundings.
-texts_schaffner_mo_ex_1__2a__2b__3;Look at the conductor
-texts_schaffner_mo_talk_mit;Give the conductor a tip.
-spokentexts_schaffner_ex_1_st_1;The conductor from the train.
-spokentexts_schaffner_ex_1_st_2;He's keeping a watchful eye on his passengers and their luggage. The train's been held up and he seems to want to prevent further delays.
-spokentexts_schaffner_ex_2a_st_2;He'd see me if I tried to board the train.
-spokentexts_schaffner_ex_2b_st_1;Hmm. I don't think I can lure him away.
-spokentexts_schaffner_ex_2b_st_2;One of the passengers would have to ask him for something...
-spokentexts_schaffner_ex_2b_st_3;It would be best if I could get my hands on his clothes somehow. The conductor's uniform would be the ideal disguise!
-spokentexts_schaffner_ex_3_st_1;The conductor doesn't really seem to know where to search for the lost bag.
-spokentexts_schaffner_ex_3_st_2;Finding a particular piece of luggage at a railway station is like finding a needle in a... haystack.
+spokentexts_butler_top_a12_butler_zugueberfall_tseq_st_11;Nous devons simplement monter à bord du navire.
+texts_ohi_mo_ex_1__2;Regarder le policier
+spokentexts_ohi_ex_1_st_1;Le vêtement fait l'homme.
+spokentexts_ohi_ex_1_st_2;Mettez un uniforme sur un petit vieux bonhomme plutôt grassouillet et on lui montrera du respect.
+spokentexts_ohi_ex_1_st_3;Même si ce n'est qu'un Officier de police. L'uniforme lui donne du pouvoir et c'est ce qui compte pour beaucoup de gens dans cette partie du monde.
+spokentexts_ohi_ex_2_st_1;Je ferais mieux de ne pas interrompre leur conversation. Tant qu'ils se parlent, ils sont distraits et font moins attention à ce qui se passe.
+texts_schaffner_mo_ex_1__2a__2b__3;Regarder le contrôleur
+texts_schaffner_mo_talk_mit;Donner au contrôleur un pot-de-vin.
+spokentexts_schaffner_ex_1_st_1;Le contrôleur du train.
+spokentexts_schaffner_ex_1_st_2;Il garde un oeil vigilant sur ses passagers et leurs bagages. Le train a été retardé et il semble vouloir éviter d'autres retards.
+spokentexts_schaffner_ex_2a_st_2;Il me verra si j'essayais de monter dans le train.
+spokentexts_schaffner_ex_2b_st_1;Hmm. Je ne pense pas pouvoir l'attirer.
+spokentexts_schaffner_ex_2b_st_2;L'un des passagers pourrait lui demander quelque chose...
+spokentexts_schaffner_ex_2b_st_3;Ça serait mieux si je pouvais mettre la main sur son uniforme. Un uniforme de contrôleur serait le déguisement parfait !
+spokentexts_schaffner_ex_3_st_1;Le contrôleur ne semble pas vraiment savoir où chercher le sac disparu.
+spokentexts_schaffner_ex_3_st_2;Trouver un bagage particulier dans une gare, c'est comme trouver une aiguille dans une... botte de foin.
 sequences_schaffner_talk_mit#2;[The Arab steps to the conductor.]
 spokentexts_schaffner_talk_mit_st_2_direction;innocent
-spokentexts_schaffner_talk_mit_st_2;You seem to be searching for something?
-spokentexts_schaffner_talk_mit_st_3;Can I help?
+spokentexts_schaffner_talk_mit_st_2;Vous semblez être à la recherche de quelque chose ?
+spokentexts_schaffner_talk_mit_st_3;Puis-je vous aider ?
 sequences_schaffner_talk_mit#5;[The guard looks at the Arab.]
-spokentexts_schaffner_talk_mit_st_4;Go away. There's no money to be earned here.
-spokentexts_schaffner_talk_mit_st_5;That's not what I mean. I just thought, if you're looking for a brown bag...
+spokentexts_schaffner_talk_mit_st_4;Circulez. Il n'y a pas d'argent à gagner ici.
+spokentexts_schaffner_talk_mit_st_5;Ce n'est pas ce que je voulais dire. Je pensais juste que, vous étiez à la recherche d'un sac marron...
 spokentexts_schaffner_talk_mit_st_6_direction;suspicious
-spokentexts_schaffner_talk_mit_st_6;Why, did you steal one?
-spokentexts_schaffner_talk_mit_st_7;If that were true, I wouldn't be offering to help you.
-spokentexts_schaffner_talk_mit_st_8;I saw a little blond boy take the bag.
-spokentexts_schaffner_talk_mit_st_9;He ran off with it over there.
+spokentexts_schaffner_talk_mit_st_6;Pourquoi, vous l'avez volé ?
+spokentexts_schaffner_talk_mit_st_7;Si c'était vrai, je n'offrirai pas mon aide.
+spokentexts_schaffner_talk_mit_st_8;J'ai vu un petit garçon blond prendre le sac.
+spokentexts_schaffner_talk_mit_st_9;Il s'est enfui avec par là.
 sequences_schaffner_talk_mit#12;[The Arab points towards the magazine stand. The guard looks in that direction.]
-spokentexts_schaffner_talk_mit_st_10;Really? Hmm. Thanks.
+spokentexts_schaffner_talk_mit_st_10;Vraiment ? Hmm. Merci.
 sequences_schaffner_talk_mit#14;[The conductor goes toward the magazine stand, the Arab goes after .]
-spokentexts_schaffner_talk_mit_st_11;He went this way?
-spokentexts_schaffner_talk_mit_st_12;Isn't that the bag?
-spokentexts_schaffner_talk_mit_st_13;Where?
+spokentexts_schaffner_talk_mit_st_11;Il est allé par là ?
+spokentexts_schaffner_talk_mit_st_12;N'est-ce pas le sac ?
+spokentexts_schaffner_talk_mit_st_13;Où ça ?
 sequences_schaffner_talk_mit#18;[The guard goes a little deeper between the box.]
 sequences_schaffner_talk_mit#19;[The Arab picks up a small box, he samshes it the guard over the head. The box gets broken. The guard collaps (he falls behind crates, is not visible anymore). The Arab throws away the rest of the broken box, looks around and bends down.]
-spokentexts_schaffner_talk_mit_st_14;Nothing personal.
+spokentexts_schaffner_talk_mit_st_14;Rien de personnel.
