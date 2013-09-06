@@ -97,8 +97,8 @@ text_quest14_slot01_content;J'ai besoin de sortir du compartiment inaperçu - ma
 text_quest14_slot02_titel;Examiner le wagon de marchandises
 text_quest14_slot02_content;La vue dans le wagons de marchandises est bloqué. Je dois trouver un moyen de jeter un oeil à l'intérieur.
 hint_quest14_slot02;Un miroir pourrait être utile.
-text_quest14_slot03_titel;Ouvrir le hublot sur le toit
-text_quest14_slot03_content;Le hublot sur le toit du wagon de marchandises est boulonné. J'ai besoin d'outils pour l'ouvrir.
+text_quest14_slot03_titel;Ouvrir la trappe sur le toit
+text_quest14_slot03_content;La trappe sur le toit du wagon de marchandises est boulonné. J'ai besoin d'outils pour l'ouvrir.
 text_quest14_slot04_content;L'écrou qui est tombé m'a presque trahi. J'ai besoin d'empêcher que cela se reproduise.
 hint_quest14_slot04;Je peux peut-être tenir le second écrou pour qu'il ne tombe pas quand lorsque je dévisse le boulon.
 text_quest15_slot01_titel;S'échapper de la malle
