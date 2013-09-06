@@ -18,8 +18,8 @@ texts_a13_dach_lueftungsschacht_mo_used_mit_magnet_am_faden_2;Attraper le boulon
 texts_a13_dach_lueftungsschacht_mo_used_mit_schraubenschluessel_1__2;Dévisser la grille
 texts_a13_dach_lueftungsschacht_mo_used_mit_schraubenschluessel_3;Dévisser la seconde vis
 texts_a13_dach_lueftungsschacht_mo_used_mit_spiegel;Mettre le miroir dans le conduit de ventilation
-texts_a13_dach_lueftungsschacht_mo_used_mit_spiegel_an_antenne;Observer le wagon fret
-spokentexts_a13_dach_lueftungsschacht_ex_1_st_1;Le conduit de ventilation apporte de l'air frais au wagon fret.
+texts_a13_dach_lueftungsschacht_mo_used_mit_spiegel_an_antenne;Observer le wagon-fret
+spokentexts_a13_dach_lueftungsschacht_ex_1_st_1;Le conduit de ventilation apporte de l'air frais au wagon-fret.
 spokentexts_a13_dach_lueftungsschacht_ex_1_st_2;Il a l'air suffisamment large pour que quelqu'un rentre à l'intérieur.
 spokentexts_a13_dach_lueftungsschacht_ex_1_st_3;Je pense que j'ai trouvé mon point d'accès.
 spokentexts_a13_dach_lueftungsschacht_ex_2_st_1;Avant de l'ouvrir, mieux vaut avoir un aperçu de la situation dans le wagon.
@@ -27,14 +27,14 @@ spokentexts_a13_dach_lueftungsschacht_ex_2_st_2;Savoir, c'est pouvoir !
 spokentexts_a13_dach_lueftungsschacht_ex_2_st_3;Si j'ouvre le hublot le garde risque de me voir, et cette aventure sera terminée avant même d'avoir commencé.
 sequences_a13_dach_lueftungsschacht_ex_3#1;[The Arab tries to look through the vents, but it does not work.]
 spokentexts_a13_dach_lueftungsschacht_ex_3_st_1;Je ne vois que l'arrière du wagon à travers la grille.
-spokentexts_a13_dach_lueftungsschacht_ex_3_st_2;Ca ne va pas le faire ! J'ai besoin d'une vue sur l'avant du wagon.
+spokentexts_a13_dach_lueftungsschacht_ex_3_st_2;Ça ne va pas le faire ! J'ai besoin d'une vue sur l'avant du wagon.
 sequences_a13_dach_lueftungsschacht_use_1#1;[The Arab examined the attachment of the air shaft.]
 spokentexts_a13_dach_lueftungsschacht_use_1_st_1;La grille a deux charnières à l'arrière. Il est donc possible de l'ouvrir.
-spokentexts_a13_dach_lueftungsschacht_use_1_st_2;Mais les deux vis à l'avant la maintiennent fermé.
+spokentexts_a13_dach_lueftungsschacht_use_1_st_2;Mais les deux vis à l'avant la maintiennent fermée.
 spokentexts_a13_dach_lueftungsschacht_used_mit_magnet_am_faden_1_st_1_direction;amused
 spokentexts_a13_dach_lueftungsschacht_used_mit_magnet_am_faden_1_st_1; Je ne pense pas pouvoir transporter le coffre par le conduit de ventilation avec un simple aimant sur un fil.
 spokentexts_a13_dach_lueftungsschacht_used_mit_magnet_am_faden_1_st_2;Et je ne vois aucune autre raison d'introduire le fil dans le conduit de ventilation.
-spokentexts_a13_dach_lueftungsschacht_used_mit_schraubenschluessel_1_st_1;D'abord il me faut un aperçu de ce qui m'attend dans le wagon fret, ensuite je m'occuperai de la grille.
+spokentexts_a13_dach_lueftungsschacht_used_mit_schraubenschluessel_1_st_1;D'abord il me faut un aperçu de ce qui m'attend dans le wagon-fret, ensuite je m'occuperai de la grille.
 spokentexts_a13_dach_lueftungsschacht_used_mit_schraubenschluessel_2_st_1;Je pourrais dévisser les vis, mais je ne dois pas l'ouvrir avant d'être dans le tunnel !
 sequences_a13_dach_lueftungsschacht_used_mit_schraubenschluessel_2#2;[The Arab pulls out a wrench, places it on one of the two screws.]
 spokentexts_a13_dach_lueftungsschacht_used_mit_schraubenschluessel_2_st_2_direction;relieved
@@ -84,23 +84,23 @@ sequences_a13_dach_lueftungsschacht_used_mit_spiegel_an_antenne_1#18;[The guard 
 spokentexts_a13_dach_lueftungsschacht_used_mit_spiegel_an_antenne_1_st_7;Des passagers suspects ont-ils embarqué à Zurich, monsieur ?
 spokentexts_a13_dach_lueftungsschacht_used_mit_spiegel_an_antenne_1_st_8;Hmm. Pas vraiment. Ce pourrait être n'importe qui.
 spokentexts_a13_dach_lueftungsschacht_used_mit_spiegel_an_antenne_1_st_9_direction;mockingly
-spokentexts_a13_dach_lueftungsschacht_used_mit_spiegel_an_antenne_1_st_9;Mais nous avons reçu du renfort par la police suisse. Un certain Officier Zellner.
+spokentexts_a13_dach_lueftungsschacht_used_mit_spiegel_an_antenne_1_st_9;Mais nous avons reçu du renfort de la police suisse. Un certain Officier Zellner.
 spokentexts_a13_dach_lueftungsschacht_used_mit_spiegel_an_antenne_1_st_10_direction;dubiously
 spokentexts_a13_dach_lueftungsschacht_used_mit_spiegel_an_antenne_1_st_10;Oh ?
 spokentexts_a13_dach_lueftungsschacht_used_mit_spiegel_an_antenne_1_st_11;Très motivé. Il risque de nous taper sur les nerfs.
 sequences_a13_dach_lueftungsschacht_used_mit_spiegel_an_antenne_1#25;[The Arab pulls very careful the mirror back to make no noise. Then he holds the thing in his hand.]
-spokentexts_a13_dach_lueftungsschacht_used_mit_spiegel_an_antenne_1_st_12;Ca limite mes options. Je ne peux pas maîtriser deux personnes.
+spokentexts_a13_dach_lueftungsschacht_used_mit_spiegel_an_antenne_1_st_12;Ça limite mes options. Je ne peux pas maîtriser deux personnes.
 spokentexts_a13_dach_lueftungsschacht_used_mit_spiegel_an_antenne_1_st_13;Je ne pense pas que je pourrais me faufiler dans le wagon sans être vu.
 sequences_a13_dach_lueftungsschacht_used_mit_spiegel_an_antenne_1#28;[The Arab pushes frustrated the antenna together, puts it away.]
 spokentexts_a13_dach_lueftungsschacht_used_mit_spiegel_an_antenne_1_st_14_direction;frustrated
 spokentexts_a13_dach_lueftungsschacht_used_mit_spiegel_an_antenne_1_st_14;Grr. Il doit bien y avoir un moyen ! Il faut que Inch soit satisfait.
 sequences_a13_dach_lueftungsschacht_used_mit_spiegel_an_antenne_1#31;[The Arab pulls the letter out of his pocket, looks at it (idle).]
-spokentexts_a13_dach_lueftungsschacht_used_mit_spiegel_an_antenne_1_st_18;Comment vais-je te déposer dans le coffre... ou dessus ? 
+spokentexts_a13_dach_lueftungsschacht_used_mit_spiegel_an_antenne_1_st_18;Comment vais-je te déposer près du coffre... ou dessus ? 
 sequences_a13_dach_lueftungsschacht_used_mit_spiegel_an_antenne_1#6;[The Arab looks excited at the ventilation shaft, he's got an idea.]
-spokentexts_a13_dach_lueftungsschacht_used_mit_spiegel_an_antenne_1_st_19;"Le coffre est placé sous le conduit de ventilation ! Et Inch a parlé d'un ""blackout"" et d'un ""tunnel""..."
+spokentexts_a13_dach_lueftungsschacht_used_mit_spiegel_an_antenne_1_st_19;"Le coffre est placé sous le conduit de ventilation ! Et Inch a parlé d'une ""panne"" et d'un ""tunnel""..."
 sequences_a13_dach_lueftungsschacht_used_mit_spiegel_an_antenne_1#34;[The Arab puts the letter back on.]
 spokentexts_a13_dach_lueftungsschacht_used_mit_spiegel_an_antenne_1_st_20;Je pourrais utiliser la confusion et les ténèbres pour jeter la lettre sur le dessus du coffre !
-spokentexts_a13_dach_lueftungsschacht_used_mit_spiegel_an_antenne_1_st_23;Ca pourrait marcher, tant que je parviens à ouvrir le conduit de ventilation et à agir au bon moment.
+spokentexts_a13_dach_lueftungsschacht_used_mit_spiegel_an_antenne_1_st_23;Ça pourrait marcher, tant que je parviens à ouvrir le conduit de ventilation et à agir au bon moment.
 sequences_a13_dach_lueftungsschacht_used_mit_spiegel_an_antenne_2#1;[The Arab takes the antenna with the mirror at its top out. He takes off the antenna and puts the mirror in the slats. Slowly he push it forward until he is completely inside. Then he holds it (idle).]
 spokentexts_a13_dach_lueftungsschacht_used_mit_spiegel_an_antenne_2_st_1;Legrand s'est retiré dans un coin sombre. Et le policier est caché derrière des caisses.
 spokentexts_a13_dach_lueftungsschacht_used_mit_spiegel_an_antenne_2_st_2;Legrand a préparé un piège pour le Corbeau, malheureusement le Corbeau est au courant.
@@ -136,7 +136,7 @@ sequences_a13_dach_seq_a13_dach_stromausfall_und_vollbremsung#15;[Cut to a long 
 sequences_a13_dach_seq_a13_dach_stromausfall_und_vollbremsung#16;[The Arab disappeared. You can just imagine how his back gets out of the hole. But he had no time anymore to fold back the cover. So there is a big black hole in the ceiling.]
 spokentexts_a13_dach_seq_a13_dach_stromausfall_und_vollbremsung_st_4;Ici, monsieur !
 sequences_a13_dach_seq_a13_dach_stromausfall_und_vollbremsung#18;[The guard goes past the investigator to the safe.]
-spokentexts_a13_dach_seq_a13_dach_stromausfall_und_vollbremsung_st_5;Une enveloppe!
+spokentexts_a13_dach_seq_a13_dach_stromausfall_und_vollbremsung_st_5;Une enveloppe !
 sequences_a13_dach_seq_a13_dach_stromausfall_und_vollbremsung#20;[The guard wants to take him, but theinvestigators is faster. He opens the letter, reads it.]
 sequences_a13_dach_seq_a13_dach_stromausfall_und_vollbremsung#21;[Cut. It can be seen the Arab as he lies flat on his back on the roof. Beside him, the opening of the vent. Through the opening can be seen the investigator, the guard and Ohi, as they read.]
 spokentexts_a13_dach_seq_a13_dach_stromausfall_und_vollbremsung_st_6_direction;reads
@@ -149,7 +149,7 @@ spokentexts_a13_dach_seq_a13_dach_stromausfall_und_vollbremsung_st_7;C'est...
 spokentexts_a13_dach_seq_a13_dach_stromausfall_und_vollbremsung_st_8_direction;dull, out of the Wagon
 spokentexts_a13_dach_seq_a13_dach_stromausfall_und_vollbremsung_st_8;Jetez la !
 spokentexts_a13_dach_seq_a13_dach_stromausfall_und_vollbremsung_st_9_direction;dull, out of the Wagon
-spokentexts_a13_dach_seq_a13_dach_stromausfall_und_vollbremsung_st_9;A couvert !
+spokentexts_a13_dach_seq_a13_dach_stromausfall_und_vollbremsung_st_9;À couvert !
 spokentexts_a13_dach_seq_a13_dach_stromausfall_und_vollbremsung_st_10;Très bien. Nous devrions... Quoi ?
 spokentexts_a13_dach_seq_a13_dach_stromausfall_und_vollbremsung_st_11;Qu'est ce que c'est que ça ?
 sequences_a13_dach_seq_a13_dach_stromausfall_und_vollbremsung#30;[The Arab startles, turns around. What does that mean? He hears below him the fleeing men. He act quickly and crawls more quickly. Under him, the door gets open, the men jump out. The Arab dives straight from the transport wagon into the saloon wagon as the explosion starts, the camera shakes and everything goes black.]
@@ -174,7 +174,7 @@ spokentexts_a13_grossraumwagon_aushang_ex_2_st_2;Elle est plus grande que les au
 sequences_a13_grossraumwagon_aushang_ex_2#3;[The Arab takes one of the magnets on the lower edge of the card.]
 spokentexts_a13_grossraumwagon_aushang_ex_3_st_1;Certaines photos sont vraiment jolies. Du travail de professionnel.
 sequences_a13_grossraumwagon_aushang_use_1#1;[The Arab tries to open the window, but it does not move.]
-spokentexts_a13_grossraumwagon_aushang_use_1_st_1;Ca ne marchera pas. Il y a une serrure en bas de le fenêtre.
+spokentexts_a13_grossraumwagon_aushang_use_1_st_1;Ça ne marchera pas. Il y a une serrure en bas de la fenêtre.
 sequences_a13_grossraumwagon_aushang_used_mit_schluesselbund#1;[The Arab takes out the key ring, he looks at the key.]
 spokentexts_a13_grossraumwagon_aushang_used_mit_schluesselbund_st_1;Hmm. Peut être...
 sequences_a13_grossraumwagon_aushang_used_mit_schluesselbund#3;[He selects a key and opens the lock. Then he puts away the key ring and opens the case.]
@@ -183,7 +183,7 @@ spokentexts_a13_grossraumwagon_fenster_ex_1_st_1;Nous sommes encore dans les Alp
 spokentexts_a13_grossraumwagon_fenster_ex_1_st_2;Nous devrions passer la frontière italienne d'ici trente minutes.
 texts_a13_grossraumwagon_geigenkoffer_mo_ex_1__2;Examiner l'étui à violon
 spokentexts_a13_grossraumwagon_geigenkoffer_ex_1_st_1;Hmm. C'est un Stradivarius ou quelque chose comme ça ?
-spokentexts_a13_grossraumwagon_geigenkoffer_ex_1_st_2;Si c'est le cas, peut être que je devrais le prendre avec moi pendant le blackout.
+spokentexts_a13_grossraumwagon_geigenkoffer_ex_1_st_2;Si c'est le cas, peut être que je devrais le prendre avec moi pendant la panne.
 spokentexts_a13_grossraumwagon_geigenkoffer_ex_1_st_3;Avec un peu de chance je serai bientôt un père de famille heureux et j'aurai besoin de quelques francs, lires ou marks.
 spokentexts_a13_grossraumwagon_geigenkoffer_ex_2_st_1;Il faut savoir se contrôler. Les objectifs secondaires amènent bien souvent des complications.
 spokentexts_a13_grossraumwagon_geigenkoffer_ex_2_st_2;Il y a déjà suffisamment d'inconnues dans notre plan, pas besoin d'en rajouter.
@@ -210,22 +210,22 @@ sequences_a13_grossraumwagon_magnet_used_mit_wolle_2#3;[The Arab is ready and dr
 sequences_a13_grossraumwagon_magnet_used_mit_wolle_2#5;[The Arab puts the magnet on one string.]
 sequences_a13_grossraumwagon_magnet_used_mit_wolle_2#6;"[The magnet and the string disappers, the new object ""magnet on a String 'appears .]"
 texts_a13_grossraumwagon_tuer_kabine_archaeologe_mo_ex_1__2;Examiner la porte de la cabine
-spokentexts_a13_grossraumwagon_tuer_kabine_archaeologe_ex_1_st_1;Ils ont fini par ouvrir la porte. Je me demande comment l'archéologue s'est expliqué tout ça.
+spokentexts_a13_grossraumwagon_tuer_kabine_archaeologe_ex_1_st_1;Ils ont fini par ouvrir la porte. Je me demande comment l'archéologue a expliqué tout ça.
 spokentexts_a13_grossraumwagon_tuer_kabine_archaeologe_ex_1_st_2;A-t-il fait le rapprochement avec le cambriolage à Londres ? Hmm. Surement pas.
 spokentexts_a13_grossraumwagon_tuer_kabine_archaeologe_ex_2_st_1;"Le Professeur Lucien est en direction du Caire, tout comme la Baronne. Ils se connaissent. Elle siège au comité des ""Amis du British Museum""."
 spokentexts_a13_grossraumwagon_tuer_kabine_archaeologe_ex_2_st_2;Espérons qu'il soit trop retourné pour pouvoir quitter sa cabine avant son arrivée à Venise.
 texts_a13_grossraumwagon_tuer_kabine_baronin_mo_ex_1__2;Examiner la porte de la cabine
-spokentexts_a13_grossraumwagon_tuer_kabine_baronin_ex_1_st_1;Je suppose que Inch est lui aussi dans le compartiment. Il trouvera probablement une raison pour s'excuser, déclencher le blackout et activer les freins d'urgence.
-spokentexts_a13_grossraumwagon_tuer_kabine_baronin_ex_1_st_2;Aucune idée de comment il va s'y prendre. Il ne partage généralement pas ce genre de choses.
+spokentexts_a13_grossraumwagon_tuer_kabine_baronin_ex_1_st_1;Je suppose que Inch est lui aussi dans le compartiment. Il trouvera probablement une raison pour s'excuser, déclencher la panne et activer les freins d'urgence.
+spokentexts_a13_grossraumwagon_tuer_kabine_baronin_ex_1_st_2;Aucune idée de comment il va s'y prendre. Il ne partage généralement pas ce genre de détails.
 spokentexts_a13_grossraumwagon_tuer_kabine_baronin_ex_1_st_3;Même après des mois d'association, il ne me fait toujours pas entièrement confiance.
 spokentexts_a13_grossraumwagon_tuer_kabine_baronin_ex_2_st_1;Encore quelques jours et je serai enfin débarrassé de ce pauvre type.
 spokentexts_a13_grossraumwagon_tuer_kabine_baronin_ex_2_st_2;Et en attendant, il est condamné à supporter la Baronne. Quelle agréable image.
-texts_a13_grossraumwagon_tuer_zum_salonwagen_mo_leave_1;Aller dans la wagon salon
+texts_a13_grossraumwagon_tuer_zum_salonwagen_mo_leave_1;Aller dans le wagon-salon
 sequences_a13_grossraumwagon_tuer_zum_salonwagen_leave_1#1;[The Arab goes in the lounge wagon.]
 texts_a13_grossraumwagon_tuer_zum_tender_mo_ex_1;Examiner la porte
 spokentexts_a13_grossraumwagon_tuer_zum_tender_ex_1_st_1;Le seul moyen d'accéder à la cabine du conducteur quand le train est en marche est d'escalader le wagon de charbon.
-spokentexts_a13_grossraumwagon_tuer_zum_tender_ex_1_st_2;Je vois mal Inch l'escalader pour déclencher le blackout depuis l'avant du train.
-spokentexts_a13_grossraumwagon_tuer_zum_tender_ex_1_st_3;Je parie qu'il a payé quelqu'un pour faire le sale boulot. Inch ne prend pratiquement jamais de risques lui-même et préfère rester loin du tumulte.
+spokentexts_a13_grossraumwagon_tuer_zum_tender_ex_1_st_2;Je vois mal Inch l'escalader pour déclencher la panne depuis l'avant du train.
+spokentexts_a13_grossraumwagon_tuer_zum_tender_ex_1_st_3;Je parie qu'il a payé quelqu'un pour faire le sale boulot. Inch ne prend pratiquement jamais de risques lui-même et préfère garder les mains propres.
 sequences_a13_grossraumwagon_seq_a13_grossraumwagon_zusammenstoss_mit_oehi#0;[As the Arab want to leave of the car, he bumps with Ohi. He turns away as inconspicuously as possible, raises a hand to his cap to excuse himself.]
 spokentexts_a13_grossraumwagon_seq_a13_grossraumwagon_zusammenstoss_mit_oehi_st_1;Excusez moi, monsieur.
 sequences_a13_grossraumwagon_seq_a13_grossraumwagon_zusammenstoss_mit_oehi#2;[The Arab can not be stopped, continues. Ohi stops and looks after him.]
@@ -241,9 +241,9 @@ texts_a13_kabine_archaeologe_fenster_mo_ex_1;Examiner la fenêtre
 texts_a13_kabine_archaeologe_fenster_mo_use_1;Ouvrir la fenêtre
 texts_a13_kabine_archaeologe_fenster_mo_use_2;Sortir par la fenêtre
 spokentexts_a13_kabine_archaeologe_fenster_ex_1_st_1;C'était la seule fenêtre ouverte à la gare, donc ce fut un bon moyen de grimper dans le train.
-spokentexts_a13_kabine_archaeologe_fenster_ex_1_st_2;Et maintenant il est fort possible que ce soit mon seul échappatoire.
+spokentexts_a13_kabine_archaeologe_fenster_ex_1_st_2;Et maintenant il est fort possible que ce soit ma seule échappatoire.
 sequences_a13_kabine_archaeologe_fenster_use_1#1;[The Arab leans out, looks first to the left, then right. In this pose it will stop (idle).]
-spokentexts_a13_kabine_archaeologe_fenster_use_1_st_1;Hmm. La fenêtre de droite doit être celle de la cabine de la Baronne et celle de gauche appartient au wagon salon. 
+spokentexts_a13_kabine_archaeologe_fenster_use_1_st_1;Hmm. La fenêtre de droite doit être celle de la cabine de la Baronne et celle de gauche appartient au wagon-salon. 
 sequences_a13_kabine_archaeologe_fenster_use_1#3;[The Arab looks up.]
 spokentexts_a13_kabine_archaeologe_fenster_use_1_st_2;Le toit pourrait me permettre de m'échapper.
 sequences_a13_kabine_archaeologe_fenster_use_1#5;[The Arab pulls himself out of the window, then turns to the window frame.]
@@ -258,32 +258,32 @@ texts_a13_kabine_archaeologe_handtuch_mo_take_1;Prendre la serviette
 spokentexts_a13_kabine_archaeologe_handtuch_ex_1_st_1;Le Professeur Lucien n'a pas encore dormi une seule fois dans sa cabine. La serviette n'a pas été utilisée.
 spokentexts_a13_kabine_archaeologe_handtuch_ex_2_st_1;J'ai tordu la serviette pour en faire une sorte de corde. Il faut savoir improviser, comme disait mon maître.
 sequences_a13_kabine_archaeologe_handtuch_take_1#1;[The Arab takes the towel, looks at it.]
-spokentexts_a13_kabine_archaeologe_handtuch_take_1_st_1;Hmm. Si je la tordait...
+spokentexts_a13_kabine_archaeologe_handtuch_take_1_st_1;Hmm. Si je la tords...
 sequences_a13_kabine_archaeologe_handtuch_take_1#3;"[The Arab turns the towel into a ""rope"".]"
-spokentexts_a13_kabine_archaeologe_handtuch_take_1_st_2;J'obtiendrais une sorte de corde !
+spokentexts_a13_kabine_archaeologe_handtuch_take_1_st_2;J'obtiens une sorte de corde !
 sequences_a13_kabine_archaeologe_handtuch_take_1#5;"[The Arab lowers the ""rope"" and pluggs one end into his pocket.]"
 texts_a13_kabine_archaeologe_schluesselbund_mo_inventar;Trousseau de clés
 spokentexts_a13_kabine_archaeologe_schluesselbund_ex_1_st_1;Il y a plusieurs clés spéciales sur le trousseau. Celle-ci devrait ouvrir la porte de la cabine depuis l'extérieur.
-spokentexts_a13_kabine_archaeologe_schluesselbund_ex_1_st_2;Heureusement c'ets moi qui ai la clé, et pas les gens dehors. De cette façon, la porte verrouillée va leur poser problème encore quelques temps.
-spokentexts_a13_kabine_archaeologe_schluesselbund_ex_2_st_1;On voit que le trousseau du conducteur en vu de belles. Je doute que des clés aient voyagé plus que celles-ci.
+spokentexts_a13_kabine_archaeologe_schluesselbund_ex_1_st_2;Heureusement c'est moi qui ai la clé, et pas les gens dehors. De cette façon, la porte verrouillée va leur poser problème encore quelques temps.
+spokentexts_a13_kabine_archaeologe_schluesselbund_ex_2_st_1;On voit que le trousseau du conducteur en a vu de belles. Je doute que des clés aient voyagé plus que celles-ci.
 texts_a13_kabine_archaeologe_spiegel_mo_ex_1__2;Regarder dans le miroir
 spokentexts_a13_kabine_archaeologe_spiegel_ex_1_st_1;Mon dieu !
 spokentexts_a13_kabine_archaeologe_spiegel_ex_1_st_2;Je me reconnais à peine !
 spokentexts_a13_kabine_archaeologe_spiegel_ex_2_st_1;Je ne suis pas aussi doué que le Corbeau pour jouer différents rôles.
 spokentexts_a13_kabine_archaeologe_spiegel_ex_2_st_2;Il a des décennies de pratique derrière lui.
 spokentexts_a13_kabine_archaeologe_spiegel_ex_2_st_4_direction;makes himself courage
-spokentexts_a13_kabine_archaeologe_spiegel_ex_2_st_4;Peu importe. Ca suffira pour les gens à bord du train.
+spokentexts_a13_kabine_archaeologe_spiegel_ex_2_st_4;Peu importe. Ça suffira pour les gens à bord du train.
 texts_a13_kabine_archaeologe_tuer_zum_grossraumwagen_mo_ex_1;Ecouter à la porte 
 texts_a13_kabine_archaeologe_tuer_zum_grossraumwagen_mo_ex_2;Examiner la porte
 texts_a13_kabine_archaeologe_tuer_zum_grossraumwagen_mo_used_mit_schluesselbund;Verrouiller la porte
 sequences_a13_kabine_archaeologe_tuer_zum_grossraumwagen_ex_1#1;[The Arab lays his ear on the door, and listens (idle). Suddenly, from outside the door shakes, the Arab is startled.]
 spokentexts_a13_kabine_archaeologe_tuer_zum_grossraumwagen_ex_1_st_1;Il est tenace.
 spokentexts_a13_kabine_archaeologe_tuer_zum_grossraumwagen_ex_2_st_1;Le Professeur Lucien est derrière la porte et n'abandonnera pas avant qu'elle ne soit ouverte.
-spokentexts_a13_kabine_archaeologe_tuer_zum_grossraumwagen_ex_2_st_2;Ca veut dire que je dois trouver une autre voie pour sortir d'ici.
+spokentexts_a13_kabine_archaeologe_tuer_zum_grossraumwagen_ex_2_st_2;Ça veut dire que je dois trouver une autre voie pour sortir d'ici.
 spokentexts_a13_kabine_archaeologe_tuer_zum_grossraumwagen_used_mit_schluesselbund_st_1;J'ai déjà verrouillé la porte. On peut la verrouiller manuellement depuis l'intérieur. Mais il faut une clé spéciale pour l'ouvrir depuis l'extérieur.
 texts_a13_kabine_archaeologe_waschbecken_mo_ex_1;Examiner le lavabo
 spokentexts_a13_kabine_archaeologe_waschbecken_ex_1_st_2_direction;wonders if he can use it
-spokentexts_a13_kabine_archaeologe_waschbecken_ex_1_st_2;Le lavabo... lavabo... Non. Ca ne m'aidera pas !
+spokentexts_a13_kabine_archaeologe_waschbecken_ex_1_st_2;Le lavabo... lavabo... Non. Ça ne m'aidera pas !
 texts_a13_kabine_briefumschlag_nachricht_mo_inventar_1;Message
 texts_a13_kabine_briefumschlag_nachricht_mo_used_mit_armeemesser;Ouvrir l'enveloppe
 spokentexts_a13_kabine_briefumschlag_nachricht_ex_1_st_1;Le message du Corbeau pour le grand Nicolas Legrand.
@@ -297,7 +297,7 @@ sequences_a13_kabine_archaeologe_seq_a13_kabine_archaeologe_anfang#4;[The train 
 sequences_a13_kabine_archaeologe_seq_a13_kabine_archaeologe_anfang#5;[Cut back to the cabin.]
 sequences_a13_kabine_archaeologe_seq_a13_kabine_archaeologe_araber_wird_entdeckt#0;[The Arab has just finished to put on the clothes of the conductor. He pulls on one sleeve, then he picks up the hat and wants to sit up straight. Suddenly from outside voices can be heard.]
 spokentexts_a13_kabine_archaeologe_seq_a13_kabine_archaeologe_araber_wird_entdeckt_st_1_direction;muffeld through the door
-spokentexts_a13_kabine_archaeologe_seq_a13_kabine_archaeologe_araber_wird_entdeckt_st_1;Bein sûr, Officier.
+spokentexts_a13_kabine_archaeologe_seq_a13_kabine_archaeologe_araber_wird_entdeckt_st_1;Bien sûr, Officier.
 spokentexts_a13_kabine_archaeologe_seq_a13_kabine_archaeologe_araber_wird_entdeckt_st_2_direction;muffeld through the door
 spokentexts_a13_kabine_archaeologe_seq_a13_kabine_archaeologe_araber_wird_entdeckt_st_2;Vous me tiendrez au courant si vous remarquez quoi que ce soit d'inhabituel, n'est-ce pas professeur ?
 sequences_a13_kabine_archaeologe_seq_a13_kabine_archaeologe_araber_wird_entdeckt#6;[The Arab places quick a foot inside the door and close it very slowly and carefully.]
@@ -313,7 +313,7 @@ spokentexts_a13_kabine_archaeologe_seq_a13_kabine_archaeologe_araber_wird_entdec
 spokentexts_a13_kabine_archaeologe_seq_a13_kabine_archaeologe_araber_wird_entdeckt_st_6;Ah, nous allons remédier à ce problème.
 sequences_a13_kabine_archaeologe_seq_a13_kabine_archaeologe_araber_wird_entdeckt#14;[The Arab stops to listen, back to normal.]
 spokentexts_a13_kabine_archaeologe_seq_a13_kabine_archaeologe_araber_wird_entdeckt_st_7_direction;slightly frustrated
-spokentexts_a13_kabine_archaeologe_seq_a13_kabine_archaeologe_araber_wird_entdeckt_st_7;Punaise. Je ne peux laisser le professeur me voir.
+spokentexts_a13_kabine_archaeologe_seq_a13_kabine_archaeologe_araber_wird_entdeckt_st_7;Punaise. Je ne peux pas laisser le professeur me voir.
 spokentexts_a13_kabine_archaeologe_seq_a13_kabine_archaeologe_araber_wird_entdeckt_st_8;Je l'ai suivi pendant des jours à Londres. Il pourrait me reconnaître !
 spokentexts_a13_kabine_archaeologe_seq_a13_kabine_archaeologe_bgseq_gespraech_vor_tuer_st_1_direction;muffeld through the door
 spokentexts_a13_kabine_archaeologe_seq_a13_kabine_archaeologe_bgseq_gespraech_vor_tuer_st_1;Bon bon, laissez moi regarder ça.
@@ -331,7 +331,7 @@ spokentexts_a13_kabine_archaeologe_seq_a13_kabine_archaeologe_bgseq_gespraech_vo
 spokentexts_a13_kabine_archaeologe_seq_a13_kabine_archaeologe_bgseq_gespraech_vor_tuer_st_7_direction;muffeld through the door
 spokentexts_a13_kabine_archaeologe_seq_a13_kabine_archaeologe_bgseq_gespraech_vor_tuer_st_7;Je n'ai même pas de clé. J'ai demandé au steward. Il devait m'en amener une, mais il n'est jamais revenu.
 spokentexts_a13_kabine_archaeologe_seq_a13_kabine_archaeologe_bgseq_gespraech_vor_tuer_st_8_direction;muffeld through the door
-spokentexts_a13_kabine_archaeologe_seq_a13_kabine_archaeologe_bgseq_gespraech_vor_tuer_st_8;Quelqu'un l'a verrouillée.
+spokentexts_a13_kabine_archaeologe_seq_a13_kabine_archaeologe_bgseq_gespraech_vor_tuer_st_8;Quelqu'un l'a verrouillé.
 spokentexts_a13_kabine_archaeologe_seq_a13_kabine_archaeologe_bgseq_gespraech_vor_tuer_st_9_direction;muffeld through the door
 spokentexts_a13_kabine_archaeologe_seq_a13_kabine_archaeologe_bgseq_gespraech_vor_tuer_st_9;Trouvez le !
 spokentexts_a13_kabine_archaeologe_seq_a13_kabine_archaeologe_bgseq_gespraech_vor_tuer_st_10_direction;muffeld through the door
@@ -355,314 +355,314 @@ spokentexts_a13_kabine_archaeologe_seq_a13_kabine_archaeologe_bgseq_wartender_pr
 sequences_a13_kabine_archaeologe_seq_a13_kabine_archaeologe_zurueck_von_draussen#0;[You can still see the rest of the animation, as he slide back into the cabin.]
 texts_a13_kabine_archaeologe_grossraumwagen_mo_ex_1;Examiner le wagon-salon
 texts_a13_kabine_archaeologe_grossraumwagen_mo_use_1;Entrer dans le wagon-salon
-spokentexts_a13_kabine_archaeologe_grossraumwagen_ex_1_st_1;This is the saloon car. The coal car and an old-fashioned steam engine are in front of it.
-spokentexts_a13_kabine_archaeologe_grossraumwagen_use_1_st_1;There must be someone in the saloon car.
-spokentexts_a13_kabine_archaeologe_grossraumwagen_use_1_st_2;They'd see me if I climbed along the side of the train!
-texts_a13_kabine_archaeologe_kabine_baronin_mo_ex_1;Examine the baroness' cabin
-texts_a13_kabine_archaeologe_kabine_baronin_mo_use_1;Climb into the baroness' cabin
-spokentexts_a13_kabine_archaeologe_kabine_baronin_ex_1_st_1;That is the baroness' cabin. Inch is probably with her.
-spokentexts_a13_kabine_archaeologe_kabine_baronin_use_1_st_1;I wouldn't mind jumping through the window and giving them both the surprise of a lifetime.
-spokentexts_a13_kabine_archaeologe_kabine_baronin_use_1_st_2;But then the baroness would freak out and Inch would be forced to report the event to the police.
-texts_a13_kabine_aussen_dach_mo_ex_1;Examine the roof
-texts_a13_kabine_aussen_dach_mo_ex_2;Examine the air ducts
-texts_a13_kabine_aussen_dach_mo_used_mit_handtuch;Throw the towel over the air duct
-spokentexts_a13_kabine_aussen_dach_ex_1_st_1;If I stand up, my head is level with the roof.
-spokentexts_a13_kabine_aussen_dach_ex_1_st_2;But the roof is too slanted and smooth to climb.
-spokentexts_a13_kabine_aussen_dach_ex_2_st_1;Those are air ducts or something, but I can't reach them with my hands!
+spokentexts_a13_kabine_archaeologe_grossraumwagen_ex_1_st_1;C'est la wagon-salon. Devant lui se trouvent le wagon de charbon et un moteur à vapeur d'autrefois.
+spokentexts_a13_kabine_archaeologe_grossraumwagen_use_1_st_1;Il doit y avoir du monde dans le wagon-salon.
+spokentexts_a13_kabine_archaeologe_grossraumwagen_use_1_st_2;Ils me verraient si jamais j'avançais accroché sur les parois du train !
+texts_a13_kabine_archaeologe_kabine_baronin_mo_ex_1;Examiner la cabine de la Baronne
+texts_a13_kabine_archaeologe_kabine_baronin_mo_use_1;Entrer dans la cabine de la Baronne
+spokentexts_a13_kabine_archaeologe_kabine_baronin_ex_1_st_1;C'est la cabine de la Baronne. Inch est surement à ses côtés.
+spokentexts_a13_kabine_archaeologe_kabine_baronin_use_1_st_1;J'aimerais bien pouvoir sauter dans la cabine et leur offrir la surprise de leur vie.
+spokentexts_a13_kabine_archaeologe_kabine_baronin_use_1_st_2;Mais la Baronne paniquerait et Inch serait forcé de déclarer l'incident à la police.
+texts_a13_kabine_aussen_dach_mo_ex_1;Examiner le toit
+texts_a13_kabine_aussen_dach_mo_ex_2;Examiner les conduits d'aération
+texts_a13_kabine_aussen_dach_mo_used_mit_handtuch;Lancer la serviette par dessus le conduit d'aération
+spokentexts_a13_kabine_aussen_dach_ex_1_st_1;Si je me mets debout, ma tête est au niveau du toit.
+spokentexts_a13_kabine_aussen_dach_ex_1_st_2;Mais le toit est trop incliné et lisse pour que je puisse monter dessus.
+spokentexts_a13_kabine_aussen_dach_ex_2_st_1;Ce sont des conduits d'aération ou un truc dans le genre, mais je n'arrive pas à les atteindre avec mes mains !
 sequences_a13_kabine_aussen_dach_used_mit_handtuch#1;[The Arab pulls the towel out of his pocket.]
 spokentexts_a13_kabine_aussen_dach_used_mit_handtuch_st_1_direction;exhales, gathers courage
-spokentexts_a13_kabine_aussen_dach_used_mit_handtuch_st_1;Whew.
+spokentexts_a13_kabine_aussen_dach_used_mit_handtuch_st_1;Pfiu.
 sequences_a13_kabine_aussen_dach_used_mit_handtuch#3;[The Arab lets with his left hand the safe grip and grabs the second end of the towel. He throws the towel over the vent. The Arab bounces himself and pulls himself with the towel on the roof. It is not easy, he must fight to reach the save place. During climbing up the Arab loses the towel which fliesoff the train. Arrived he lays  exhausted on his back (idle).]
 spokentexts_a13_kabine_aussen_dach_used_mit_handtuch_st_2_direction;breathing hard, but happy
-spokentexts_a13_kabine_aussen_dach_used_mit_handtuch_st_2;Hehehe. There's nothing quite like travelling on a train!
+spokentexts_a13_kabine_aussen_dach_used_mit_handtuch_st_2;Héhéhé. Rien ne compare à un voyage en train !
 sequences_a13_kabine_aussen_dach_used_mit_handtuch#5;[The Arab struggles back his feets. And goes towards transport wagon out the picture.]
-texts_a13_kabine_aussen_fenster_mo_use_1;Climb back into the cabin
-spokentexts_a13_kabine_aussen_fenster_ex_1_st_1;I only have a few seconds before the door opens and Professor Lucien comes back into his cabin.
-spokentexts_a13_kabine_aussen_fenster_ex_1_st_2;I'd better not be here when he does!
+texts_a13_kabine_aussen_fenster_mo_use_1;Retourner dans la cabine
+spokentexts_a13_kabine_aussen_fenster_ex_1_st_1;D'ici quelques secondes le Professeur Lucien va réussir à ouvrir la porte et pénétrer dans sa cabine.
+spokentexts_a13_kabine_aussen_fenster_ex_1_st_2;Mieux vaut ne pas être à l'intérieur quand ce sera le cas !
 sequences_a13_kabine_aussen_fenster_use_1#1;[The Arab climbs back into the cab. Meanwhile scenes switch.]
 sequences_a13_kabine_aussen_seq_a13_kabine_aussen_betreten#0;[The Arab, who has just climbed out of the window, gets up and holds him on the left hand inside. Because of the wind he must move forward a little (idle). In the second scene the Arab stands there idle.]
-texts_a13_salonwagen_antenne_mo_inventar_1;Antenna
-texts_a13_salonwagen_antenne_mo_inventar_2;Antenna with candy
-texts_a13_salonwagen_antenne_mo_used_mit_karamellbonbon;Stick the candy to the antenna
-texts_a13_salonwagen_antenne_mo_used_mit_spiegel_1;Combine the antenna with the mirror
-texts_a13_salonwagen_antenne_mo_used_mit_spiegel_2__3;Stick the mirror to the antenna
-spokentexts_a13_salonwagen_antenne_ex_1_st_1;A thin, short metal rod that can be extended... Something like that always comes in handy.
-spokentexts_a13_salonwagen_antenne_ex_2_st_1;The butterscotch on the tip of the antenna is sticky as hell.
-spokentexts_a13_salonwagen_antenne_used_mit_karamellbonbon_1_st_1;Hmpf. Ok If that's how it has to be.
+texts_a13_salonwagen_antenne_mo_inventar_1;Antenne
+texts_a13_salonwagen_antenne_mo_inventar_2;Antenne avec bonbon
+texts_a13_salonwagen_antenne_mo_used_mit_karamellbonbon;Coller le bonbon sur l'antenne
+texts_a13_salonwagen_antenne_mo_used_mit_spiegel_1;Combiner l'antenne avec le miroir
+texts_a13_salonwagen_antenne_mo_used_mit_spiegel_2__3;Coller le miroir sur l'antenne
+spokentexts_a13_salonwagen_antenne_ex_1_st_1;Une petite baguette en métal qui peut être allongée... Ce genre de choses est bien souvent utile.
+spokentexts_a13_salonwagen_antenne_ex_2_st_1;Le caramel sur le bout de l'antenne colle comme pas possible.
+spokentexts_a13_salonwagen_antenne_used_mit_karamellbonbon_1_st_1;Hmpf. Très bien, si je n'ai pas d'autre choix.
 sequences_a13_salonwagen_antenne_used_mit_karamellbonbon_1#2;[If the Arab is in the big wagon or in the lounge wagon, he goes to a position from which he can not be observed by the guests. (turns away, etc.) ]
 sequences_a13_salonwagen_antenne_used_mit_karamellbonbon_1#3;[The Arab puts the candy into his mouth.]
 spokentexts_a13_salonwagen_antenne_used_mit_karamellbonbon_1_st_2_direction;while sucking a sweet
-spokentexts_a13_salonwagen_antenne_used_mit_karamellbonbon_1_st_2;That should do it.
+spokentexts_a13_salonwagen_antenne_used_mit_karamellbonbon_1_st_2;Ça devrait suffire.
 sequences_a13_salonwagen_antenne_used_mit_karamellbonbon_1#5;[The Arab gets out the antenna,  grabs in his mouth and pushes the candy with some force to the tip of the antenna, so that the candy will stick.]
-spokentexts_a13_salonwagen_antenne_used_mit_karamellbonbon_1_st_3;That did the trick!
+spokentexts_a13_salonwagen_antenne_used_mit_karamellbonbon_1_st_3;Ça a marché !
 sequences_a13_salonwagen_antenne_used_mit_karamellbonbon_1#7;[The Arab puts the antenna away.]
-spokentexts_a13_salonwagen_antenne_used_mit_karamellbonbon_2_st_1;Hmpf. If I have to.
+spokentexts_a13_salonwagen_antenne_used_mit_karamellbonbon_2_st_1;Hmpf. Je n'ai pas d'autre choix.
 sequences_a13_salonwagen_antenne_used_mit_karamellbonbon_2#2;[The Arab puts the candy into his mouth.]
 spokentexts_a13_salonwagen_antenne_used_mit_karamellbonbon_2_st_2_direction;while sucking a sweet
-spokentexts_a13_salonwagen_antenne_used_mit_karamellbonbon_2_st_2;That should do it.
+spokentexts_a13_salonwagen_antenne_used_mit_karamellbonbon_2_st_2;Ça devrait suffire.
 sequences_a13_salonwagen_antenne_used_mit_karamellbonbon_2#4;[The Arab gets out the antenna,  grabs in his mouth and pushes the candy with some force to the tip of the antenna, so that the candy will stick.]
-spokentexts_a13_salonwagen_antenne_used_mit_karamellbonbon_2_st_3;That did the trick!
+spokentexts_a13_salonwagen_antenne_used_mit_karamellbonbon_2_st_3;Ça a marché !
 sequences_a13_salonwagen_antenne_used_mit_karamellbonbon_2#6;[The Arab puts the antenna away.]
-spokentexts_a13_salonwagen_antenne_used_mit_spiegel_1_st_1;It would be useful... But how can I attach the mirror?
+spokentexts_a13_salonwagen_antenne_used_mit_spiegel_1_st_1;Ça pourrait être utile... Mais comment y attacher le miroir ?
 sequences_a13_salonwagen_antenne_used_mit_spiegel_2#1;[If the Arab is in the big wagon or in the lounge wagon, he goes to a position from which he can not be observed by the guests. (turns away, etc.) ]
-spokentexts_a13_salonwagen_antenne_used_mit_spiegel_2_st_1;Okay. The candy is so sticky that it should hold the mirror without any trouble.
+spokentexts_a13_salonwagen_antenne_used_mit_spiegel_2_st_1;Très bien. Le bonbon est tellement collant qu'il devrait pouvoir supporter le miroir sans problème.
 sequences_a13_salonwagen_antenne_used_mit_spiegel_2#3;[While the Arab still talks he will take out the antenna and press the mirror gently but forcefully against the antenna.]
-spokentexts_a13_salonwagen_antenne_used_mit_spiegel_2_st_2;As I expected: it sticks!
+spokentexts_a13_salonwagen_antenne_used_mit_spiegel_2_st_2;Comme prévu : ça tient !
 sequences_a13_salonwagen_antenne_used_mit_spiegel_2#5;[The Arab puts the design back on.]
-spokentexts_a13_salonwagen_antenne_used_mit_spiegel_3_st_1;Okay. The candy is so sticky that it'll hold the mirror without any trouble.
+spokentexts_a13_salonwagen_antenne_used_mit_spiegel_3_st_1;Très bien. Le bonbon est tellement collant qu'il devrait pouvoir supporter le miroir sans problème.
 sequences_a13_salonwagen_antenne_used_mit_spiegel_3#2;[While the Arab still talks he will take, during kneeling, out the antenna and press the mirror gently but forcefully against the antenna.]
-spokentexts_a13_salonwagen_antenne_used_mit_spiegel_3_st_2;As I expected: it sticks!
+spokentexts_a13_salonwagen_antenne_used_mit_spiegel_3_st_2;Comme prévu : ça tient !
 sequences_a13_salonwagen_antenne_used_mit_spiegel_3#4;[The Arab puts the design on while he's on the knees.]
 sequences_a13_salonwagen_antenne_used_mit_spiegel_3#5;[Antenna and mirror disappers, objects Spiegel_an_Antenne comes into your inventory.]
-texts_a13_salonwagen_bonbonschale_mo_ex;Examine the candy dish
-texts_a13_salonwagen_bonbonschale_mo_take;Take a candy
-spokentexts_a13_salonwagen_bonbonschale_ex_1_st_1;"A dish with ""old people's candy"". Butterscotch, I think."
+texts_a13_salonwagen_bonbonschale_mo_ex;Examiner le plat de bonbons
+texts_a13_salonwagen_bonbonschale_mo_take;Prendre un bonbon
+spokentexts_a13_salonwagen_bonbonschale_ex_1_st_1;"Un plat avec des ""bonbons pour personnes âgées"". Des caramels, je crois."
 sequences_a13_salonwagen_bonbonschale_take_1#1;[The Arab takes inconspicuous some sweets from the bowl and.]
-texts_a13_salonwagen_kaffeekanne_mo_ex;Examine the coffee pot
-texts_a13_salonwagen_kaffeekanne_mo_use;Use the coffee pot with...
+texts_a13_salonwagen_kaffeekanne_mo_ex;Examiner la cafetière
+texts_a13_salonwagen_kaffeekanne_mo_use;Utiliser la cafetière avec...
 sequences_a13_salonwagen_kaffeekanne_ex_1#1;[The Arab lifts the pot, swings it back and forth slightly. Then he takes off the lid and look inside.]
-spokentexts_a13_salonwagen_kaffeekanne_ex_1_st_1;There's still some coffee left.
+spokentexts_a13_salonwagen_kaffeekanne_ex_1_st_1;Il reste encore un peu de café.
 sequences_a13_salonwagen_kaffeekanne_ex_1#3;[The Arab grabs the lid back on the pot, places it.]
-texts_a13_salonwagen_kaffeetasse_mo_ex_1__2;Examine the coffee cup
-texts_a13_salonwagen_kaffeetasse_mo_use;Use the coffee cup with...
-texts_a13_salonwagen_kaffeetasse_mo_used_mit_kaffeekanne;Pour some coffee
-spokentexts_a13_salonwagen_kaffeetasse_ex_1_st_1;Even pigs get to drink from the finest porcelain.
-spokentexts_a13_salonwagen_kaffeetasse_ex_2_st_1;If I mess with the doctor, I might blow my cover.
+texts_a13_salonwagen_kaffeetasse_mo_ex_1__2;Examiner la tasse à café
+texts_a13_salonwagen_kaffeetasse_mo_use;Utiliser la tasse à café avec...
+texts_a13_salonwagen_kaffeetasse_mo_used_mit_kaffeekanne;Verser du café
+spokentexts_a13_salonwagen_kaffeetasse_ex_1_st_1;Mêmes les cochons ont le droit de boire dans la plus belle des porcelaines.
+spokentexts_a13_salonwagen_kaffeetasse_ex_2_st_1;Si je joue avec le docteur, je risque de me faire repérer.
 spokentexts_a13_salonwagen_kaffeetasse_ex_2_st_2_direction;"""Honored guest"" sarcastically"
-spokentexts_a13_salonwagen_kaffeetasse_ex_2_st_2;So I'll have to grin and bear it and serve our esteemed passenger his coffee!
+spokentexts_a13_salonwagen_kaffeetasse_ex_2_st_2;Je vais sourire et prendre sur moi, et servir son café à notre estimé passager !
 sequences_a13_salonwagen_kaffeetasse_use_1#1;[Shot of the doctor..]
 sequences_a13_salonwagen_kaffeetasse_use_1#2;[The coffee now hangs on the cursor and can be used with the doctor.]
 sequences_a13_salonwagen_kaffeetasse_used_mit_kaffeekanne_1#1;[The Arab picks up the coffee pot, keeps the lid firmly with one hand and fills the cup full. Then he puts the pot off again.]
-spokentexts_a13_salonwagen_kaffeetasse_used_mit_kaffeekanne_2_st_1;The cup is full to the brim.
-texts_a13_salonwagen_karamellbonbon_mo_inventar;Butterscotch
-spokentexts_a13_salonwagen_karamellbonbon_ex_1_st_1;I don't really like butterscotch. I prefer fruity, sour flavors. Sour puts a smile on your face!
-texts_a13_salonwagen_kofferradio_mo_ex;Examine the radio
-texts_a13_salonwagen_kofferradio_mo_take;Take the radio
-spokentexts_a13_salonwagen_kofferradio_ex_1_st_1;A small portable radio... Maybe for listening to the news or music.
-spokentexts_a13_salonwagen_kofferradio_ex_1_st_2;But the reception would be poor for most of the trip.
-spokentexts_a13_salonwagen_kofferradio_ex_2_st_1;A small portable radio... The reception is surprisingly good here in the mountains.
-spokentexts_a13_salonwagen_kofferradio_take_1_st_1;I won't be able to use the radio, but the antenna, on the other hand...
-spokentexts_a13_salonwagen_kofferradio_take_1_st_2;A thin, short metal rod that can be extended... Something like that might come in handy.
+spokentexts_a13_salonwagen_kaffeetasse_used_mit_kaffeekanne_2_st_1;La tasse est remplie à ras bord.
+texts_a13_salonwagen_karamellbonbon_mo_inventar;Caramel
+spokentexts_a13_salonwagen_karamellbonbon_ex_1_st_1;Je n'aime pas vraiment les caramels. Je préfère les parfums plus fruités et acides. L'acidité me met le sourire aux lèvres !
+texts_a13_salonwagen_kofferradio_mo_ex;Examiner la radio
+texts_a13_salonwagen_kofferradio_mo_take;Prendre la radio
+spokentexts_a13_salonwagen_kofferradio_ex_1_st_1;Une petite radio portable... Peut être pour écouter les informations ou de la musique.
+spokentexts_a13_salonwagen_kofferradio_ex_1_st_2;Mais la réception doit être mauvaise sur la majorité du trajet.
+spokentexts_a13_salonwagen_kofferradio_ex_2_st_1;Une petite radio portable... À ma grande surprise la réception est bonne ici dans les montagnes.
+spokentexts_a13_salonwagen_kofferradio_take_1_st_1;La radio ne me sera pas utile, mais l'antenne par contre...
+spokentexts_a13_salonwagen_kofferradio_take_1_st_2;Une petite baguette en métal qui peut être allongée... Ça pourrait m'être utile.
 sequences_a13_salonwagen_kofferradio_take_1#5;[The Arab turns off the radio. The music stops. Then he looks around and then breaks quietly of the radio the antenna. Takes it in his pocket.]
 sequences_a13_salonwagen_kofferradio_take_1#7;[The Arab looks around, then goes away quietly from the antenna to the radio and they can slip into a pocket.]
-texts_a13_salonwagen_schublade_mo_ex_2__3;Search the drawer
-texts_a13_salonwagen_schublade_mo_use_1;Open the drawer
-texts_a13_salonwagen_schublade_mo_use_2;Open the drawer
-texts_a13_salonwagen_schublade_mo_used_mit_schluesselbund;Use the drawer with the keychain
-spokentexts_a13_salonwagen_schublade_ex_1_st_1;I could actually see myself working here for real. You travel a lot, get to know interesting people... I'd like that.
-spokentexts_a13_salonwagen_schublade_ex_1_st_2;"And on the ""Orient"" Express, my appearance wouldn't be a problem for once."
-spokentexts_a13_salonwagen_schublade_ex_2_st_1;Hmm. A lot of odds and ends. A hairnet, batteries, a half pack of cigarettes, an unused toothbrush.
-spokentexts_a13_salonwagen_schublade_ex_2_st_2;The bartender probably has to serve as a jack-of-all-trades, like a concierge in a hotel.
-spokentexts_a13_salonwagen_schublade_ex_2_st_3;So, is there anything useful?
+texts_a13_salonwagen_schublade_mo_ex_2__3;Fouiller le tiroir
+texts_a13_salonwagen_schublade_mo_use_1;Ouvrir le tiroir
+texts_a13_salonwagen_schublade_mo_use_2;Ouvrir le tiroir
+texts_a13_salonwagen_schublade_mo_used_mit_schluesselbund;Utiliser le trousseau de clés avec le tiroir
+spokentexts_a13_salonwagen_schublade_ex_1_st_1;Je pourrais vraiment m'imaginer travailler ici. On voyage beaucoup, on rencontre des gens intéressants... Ça me plairait.
+spokentexts_a13_salonwagen_schublade_ex_1_st_2;"Et à bord de ""l'Orient"" Express, mon apparence ne serait pas un problème pour une fois."
+spokentexts_a13_salonwagen_schublade_ex_2_st_1;Hmm. Beaucoup de bric-à-brac. Un filet pour les cheveux, des piles, un demi paquet de cigarettes, une brosse à dents neuve.
+spokentexts_a13_salonwagen_schublade_ex_2_st_2;Le barman doit surement toucher à tout, comme un concierge dans un hôtel.
+spokentexts_a13_salonwagen_schublade_ex_2_st_3;Bon, y a-t-il quelque chose d'utile ?
 sequences_a13_salonwagen_schublade_ex_2#4;[The Arab stirs a bit in the drawer.]
-spokentexts_a13_salonwagen_schublade_ex_2_st_4;Here we go! A small shaving mirror!
+spokentexts_a13_salonwagen_schublade_ex_2_st_4;Et voilà ! Un petit miroir pour se raser !
 sequences_a13_salonwagen_schublade_ex_2#6;[Arab grabs in, takes out the mirror, looks at him briefly and then puts it into the pocket.]
-spokentexts_a13_salonwagen_schublade_ex_3_st_1;No... I don't need anything else.
+spokentexts_a13_salonwagen_schublade_ex_3_st_1;Non... Je n'ai besoin de rien d'autre.
 sequences_a13_salonwagen_schublade_ex_3#2;[The Arab closes the drawer.]
 sequences_a13_salonwagen_schublade_use_1#1;[The Arab opensthe drawer.]
 sequences_a13_salonwagen_schublade_use_2#1;[The Arab grabs the drawer, tries to open it. It is locked.]
-spokentexts_a13_salonwagen_schublade_use_2_st_1;Locked.
+spokentexts_a13_salonwagen_schublade_use_2_st_1;Verrouillé.
 sequences_a13_salonwagen_schublade_used_mit_schluesselbund#1;[The Arab takes out the key ring, selects a key and unlock the drawer.]
-spokentexts_a13_salonwagen_schublade_used_mit_schluesselbund_st_1;Let's see...
-spokentexts_a13_salonwagen_schublade_used_mit_schluesselbund_st_2;It fits!
+spokentexts_a13_salonwagen_schublade_used_mit_schluesselbund_st_1;Voyons voir...
+spokentexts_a13_salonwagen_schublade_used_mit_schluesselbund_st_2;Ça rentre !
 sequences_a13_salonwagen_schublade_used_mit_schluesselbund#4;[The Arab puts the key ring back on and opens the drawer.]
-texts_a13_salonwagen_spiegel_an_antenne_mo_inventar_1;Antenna with mirror
-spokentexts_a13_salonwagen_spiegel_an_antenne_ex_1_st_1;That's what I call DIY!
-spokentexts_a13_salonwagen_spiegel_an_antenne_ex_1_st_2;The mirror is stuck to the top of the antenna, which I can extend about 60 centimeters.
-texts_a13_salonwagen_spiegel_mo_inventar_1;Small mirror
-texts_a13_salonwagen_spiegel_mo_inventar_2;Mirror with butterscotch
-texts_a13_salonwagen_spiegel_mo_used_mit_antenne_1;Combine the mirror with the antenna
-texts_a13_salonwagen_spiegel_mo_used_mit_antenne_2__3;Stick the mirror to the antenna
-texts_a13_salonwagen_spiegel_mo_used_mit_karamellbonbon_1__2;Stick the butterscotch to the mirror
-spokentexts_a13_salonwagen_spiegel_ex_1_st_1;The mirror is so small that I can hardly imagine how you'd shave with it. Especially on a moving train.
-spokentexts_a13_salonwagen_spiegel_ex_2_st_1;The butterscotch is stuck to the back of the mirror!
+texts_a13_salonwagen_spiegel_an_antenne_mo_inventar_1;Antenne avec miroir
+spokentexts_a13_salonwagen_spiegel_an_antenne_ex_1_st_1;Un parfait exemple du système D !
+spokentexts_a13_salonwagen_spiegel_an_antenne_ex_1_st_2;Le miroir est collé au bout de l'antenne que je peux ensuite allonger d'environ 60 centimètres.
+texts_a13_salonwagen_spiegel_mo_inventar_1;Petit miroir
+texts_a13_salonwagen_spiegel_mo_inventar_2;Miroir avec caramel
+texts_a13_salonwagen_spiegel_mo_used_mit_antenne_1;Combiner le miroir avec l'antenne
+texts_a13_salonwagen_spiegel_mo_used_mit_antenne_2__3;Coller le miroir sur l'antenne
+texts_a13_salonwagen_spiegel_mo_used_mit_karamellbonbon_1__2;Coller le caramel sur le miroir
+spokentexts_a13_salonwagen_spiegel_ex_1_st_1;Le miroir est si petit que j'ai du mal à m'imaginer me raser avec. Surtout à bord d'un train en marche.
+spokentexts_a13_salonwagen_spiegel_ex_2_st_1;Le caramel est collé au dos du miroir !
 sequences_a13_salonwagen_spiegel_used_mit_antenne_1#1;[Same sequence as below at the mirror.]
 sequences_a13_salonwagen_spiegel_used_mit_antenne_2#1;[Same sequence as below at the mirror.]
 sequences_a13_salonwagen_spiegel_used_mit_antenne_3#1;[Same sequence as below at the mirror.]
 sequences_a13_salonwagen_spiegel_used_mit_karamellbonbon_1#2;[If the Arab is in the big wagon or in the lounge wagon, he goes to a position from which he can not be observed by the guests. (turns away, etc.) ]
 sequences_a13_salonwagen_spiegel_used_mit_karamellbonbon_1#3;[The Arab puts the candy into his mouth.]
 spokentexts_a13_salonwagen_spiegel_used_mit_karamellbonbon_1_st_2_direction;while sucking a sweet
-spokentexts_a13_salonwagen_spiegel_used_mit_karamellbonbon_1_st_2;That should do the trick.
+spokentexts_a13_salonwagen_spiegel_used_mit_karamellbonbon_1_st_2;Ça devrait suffire.
 sequences_a13_salonwagen_spiegel_used_mit_karamellbonbon_1#5;[The Arab takes out the mirror, grabs in his mouth and pushes the candy with some force on the back of the mirror, so that the candy will stick.]
-spokentexts_a13_salonwagen_spiegel_used_mit_karamellbonbon_1_st_3;It sticks!
+spokentexts_a13_salonwagen_spiegel_used_mit_karamellbonbon_1_st_3;Ça tient !
 sequences_a13_salonwagen_spiegel_used_mit_karamellbonbon_1#7;[The Arab puts the mirror away.]
-spokentexts_a13_salonwagen_spiegel_used_mit_karamellbonbon_2_st_1;Hmpf. If I have to.
+spokentexts_a13_salonwagen_spiegel_used_mit_karamellbonbon_2_st_1;Hmpf. Si je n'ai pas d'autre choix.
 sequences_a13_salonwagen_spiegel_used_mit_karamellbonbon_2#2;[The Arab put himself kneeling the candy in his mouth.]
 spokentexts_a13_salonwagen_spiegel_used_mit_karamellbonbon_2_st_2_direction;while sucking a sweet
-spokentexts_a13_salonwagen_spiegel_used_mit_karamellbonbon_2_st_2;That should do it.
+spokentexts_a13_salonwagen_spiegel_used_mit_karamellbonbon_2_st_2;Ça devrait suffire.
 sequences_a13_salonwagen_spiegel_used_mit_karamellbonbon_2#4;[The Arab kneeling takes the mirror, grabs in  his mouth and pushes the candy with some force on the back of the mirror, so that the candy will stick.]
-spokentexts_a13_salonwagen_spiegel_used_mit_karamellbonbon_2_st_3;It sticks!
+spokentexts_a13_salonwagen_spiegel_used_mit_karamellbonbon_2_st_3;Ça tient !
 sequences_a13_salonwagen_spiegel_used_mit_karamellbonbon_2#6;[The Arab put the mirror away while he kneels.]
-texts_a13_salonwagen_spirituosen_mo_ex_1__2;Examine the spirits
-spokentexts_a13_salonwagen_spirituosen_ex_1_st_1;Beer, wine, champagne, gin, brandy and whiskey.
-spokentexts_a13_salonwagen_spirituosen_ex_1_st_2;The richest snobs take the same medicine as the poorest slobs.
-spokentexts_a13_salonwagen_spirituosen_ex_2_st_1;Some people'd need a drink to steady their nerves doing what I'm doing.
-spokentexts_a13_salonwagen_spirituosen_ex_2_st_2;But not me. I want a clear head if I'm going to get this envelope onto the safe.
-texts_a13_salonwagen_tuer_zum_grossraumwagon_mo_leave_1-3;Go into the next carriage 
-spokentexts_a13_salonwagen_tuer_zum_grossraumwagon_leave_1_st_1;I think Professor Lucien is still in the hallway, trying to get into his cabin. I'd better wait until the coast is clear.
-spokentexts_a13_salonwagen_tuer_zum_grossraumwagon_leave_2_st_1;They should have been able to open the door with pliers. I think the coast is clear.
+texts_a13_salonwagen_spirituosen_mo_ex_1__2;Examiner les alcools
+spokentexts_a13_salonwagen_spirituosen_ex_1_st_1;Bière, vin, champagne, gin, cognac et whisky.
+spokentexts_a13_salonwagen_spirituosen_ex_1_st_2;Les snobs les plus riches utilisent les mêmes remèdes que les pauvres gens.
+spokentexts_a13_salonwagen_spirituosen_ex_2_st_1;À ma place, certains auraient besoin d'un verre pour ne pas trembler.
+spokentexts_a13_salonwagen_spirituosen_ex_2_st_2;Mais pas moi. Je dois avoir les idées claires si je veux réussir à déposer cette enveloppe sur le coffre.
+texts_a13_salonwagen_tuer_zum_grossraumwagon_mo_leave_1-3;Aller dans le wagon suivant 
+spokentexts_a13_salonwagen_tuer_zum_grossraumwagon_leave_1_st_1;Je pense que le Professeur Lucien est encore dans le couloir à essayer de pénétrer dans sa cabine. Mieux vaut attendre que la voie soit libre.
+spokentexts_a13_salonwagen_tuer_zum_grossraumwagon_leave_2_st_1;Ils ont dû réussir à ouvrir la porte avec des pinces. Je pense que la voie est libre.
 sequences_a13_salonwagen_tuer_zum_grossraumwagon_leave_2#3;[The Arab left the lounge wagon.]
 sequences_a13_salonwagen_tuer_zum_grossraumwagon_leave_3#1;[The Arab left the lounge wagon.]
-texts_a13_salonwagen_tuer_zum_uebergang_mo_leave_1-4;Go out
+texts_a13_salonwagen_tuer_zum_uebergang_mo_leave_1-4;Sortir
 sequences_a13_salonwagen_tuer_zum_uebergang_leave_1#1;[The Arab goes to the door.]
 sequences_a13_salonwagen_tuer_zum_uebergang_leave_1#2;[The doctor lowers his newspaper.]
-spokentexts_a13_salonwagen_tuer_zum_uebergang_leave_1_st_1;And what about my coffee?
-spokentexts_a13_salonwagen_tuer_zum_uebergang_leave_1_st_2;I'm fetching some fresh beans, Sir.
+spokentexts_a13_salonwagen_tuer_zum_uebergang_leave_1_st_1;Et mon café ?
+spokentexts_a13_salonwagen_tuer_zum_uebergang_leave_1_st_2;Je vais chercher des grains frais, monsieur.
 sequences_a13_salonwagen_tuer_zum_uebergang_leave_1#5;[The doctor shakes his head, annoyed, looks back to his newspaper (idle).]
-spokentexts_a13_salonwagen_tuer_zum_uebergang_leave_1_st_3;It should be ready by now!
+spokentexts_a13_salonwagen_tuer_zum_uebergang_leave_1_st_3;Il aurait déjà dû être prêt !
 sequences_a13_salonwagen_tuer_zum_uebergang_leave_1#7;[The Arab leaves the scene.]
 sequences_a13_salonwagen_tuer_zum_uebergang_leave_2#1;[The Arab goes to the door.]
 sequences_a13_salonwagen_tuer_zum_uebergang_leave_2#2;[The doctor lowers his newspaper.]
-spokentexts_a13_salonwagen_tuer_zum_uebergang_leave_2_st_1;Young man! Am I ever going to get my coffee or not?
-spokentexts_a13_salonwagen_tuer_zum_uebergang_leave_2_st_2;I didn't know I had a say in the matter!
+spokentexts_a13_salonwagen_tuer_zum_uebergang_leave_2_st_1;Jeune homme ! Vais-je ou non recevoir mon café un jour ? 
+spokentexts_a13_salonwagen_tuer_zum_uebergang_leave_2_st_2;Je ne savais pas que j'avais le choix !
 sequences_a13_salonwagen_tuer_zum_uebergang_leave_2#5;[The Arab leaves the scene.]
 sequences_a13_salonwagen_tuer_zum_uebergang_leave_3#1;[The Arab goes to the door.]
 sequences_a13_salonwagen_tuer_zum_uebergang_leave_3#2;[The doctor lowers his newspaper.]
-spokentexts_a13_salonwagen_tuer_zum_uebergang_leave_3_st_1;Listen, you little maggot! I'll remember your face and I'll report you, do you understand me?
-spokentexts_a13_salonwagen_tuer_zum_uebergang_leave_3_st_2;Maggot no understand what white man say!
+spokentexts_a13_salonwagen_tuer_zum_uebergang_leave_3_st_1;Écoutez, petit insecte ! Je saurai me souvenir de votre tête et faire un rapport, c'est compris ?
+spokentexts_a13_salonwagen_tuer_zum_uebergang_leave_3_st_2;Insecte pas comprendre quoi homme blanc dire !
 sequences_a13_salonwagen_tuer_zum_uebergang_leave_3#5;[The Arab leaves the scene.]
 sequences_a13_salonwagen_tuer_zum_uebergang_leave_3#6;[The next time in this scene, the doctor is gone.]
 sequences_a13_salonwagen_tuer_zum_uebergang_leave_4#1;[The Arab left the saloon wagin in the direction of the transition.]
-texts_a13_salonwagen_tuer_zur_toilette_mo_ex_1__2;Examine the men's room door
-spokentexts_a13_salonwagen_tuer_zur_toilette_ex_1_st_1;If the men's room had an open window, it would have been my first choice for a temporary changing room.
-spokentexts_a13_salonwagen_tuer_zur_toilette_ex_1_st_2;But there are no large windows that you can open from outside in restrooms.
-spokentexts_a13_salonwagen_tuer_zur_toilette_ex_2_st_1;If I have to change my clothes again, I'll honor you with a visit. Otherwise, not.
-texts_a13_salonwagen_wolle_mo_ex;Examine the wool
-texts_a13_salonwagen_wolle_mo_inventar;Ball of wool
-texts_a13_salonwagen_wolle_mo_take;Take a ball of wool
-spokentexts_a13_salonwagen_wolle_ex_1_st_1;The elderly woman's carer can't keep her hands still, so she's knitting.
-spokentexts_a13_salonwagen_wolle_ex_2_st_1;Sooner or later the carer will miss her wool, even though it's just a little bit.
+texts_a13_salonwagen_tuer_zur_toilette_mo_ex_1__2;Examiner la porte des toilettes des hommes
+spokentexts_a13_salonwagen_tuer_zur_toilette_ex_1_st_1;Si les toilettes des hommes avaient une fenêtre ouverte, cela aurait été mon premier choix pour me changer.
+spokentexts_a13_salonwagen_tuer_zur_toilette_ex_1_st_2;Mais il n'y a aucune grande fenêtre ouvrable depuis l'extérieur des toilettes.
+spokentexts_a13_salonwagen_tuer_zur_toilette_ex_2_st_1;Si je dois changer d'habits à nouveau, je viendrai ici. Dans le cas contraire, non.
+texts_a13_salonwagen_wolle_mo_ex;Examiner la laine
+texts_a13_salonwagen_wolle_mo_inventar;Pelote de laine
+texts_a13_salonwagen_wolle_mo_take;Prendre une pelote de laine
+spokentexts_a13_salonwagen_wolle_ex_1_st_1;L'aide de la vieille femme ne peut pas rester inactive, donc elle tricote.
+spokentexts_a13_salonwagen_wolle_ex_2_st_1;Tôt ou tard la laine va finir par manquer, même si j'en prends peu.
 sequences_a13_salonwagen_wolle_take_1#1;[The Arab goes to the table of the two, acting as if he would have to lean with one hand (in fact, he grabs the wool), leans across the table and pushes with the other hand something around.]
-spokentexts_a13_salonwagen_wolle_take_1_st_1;Can I bring you ladies anything? Is everything satisfactory?
-spokentexts_a13_salonwagen_wolle_take_1_st_2;Everything is wonderful, young man.
+spokentexts_a13_salonwagen_wolle_take_1_st_1;Puis-je vous apporter quelque choses mesdames ? Est-ce que tout vous convient ?
+spokentexts_a13_salonwagen_wolle_take_1_st_2;Tout est parfait, jeune homme.
 sequences_a13_salonwagen_wolle_take_1#4;[The nurse looks up, shakes her head.]
-spokentexts_a13_salonwagen_wolle_take_1_st_3;Very good.
+spokentexts_a13_salonwagen_wolle_take_1_st_3;Très bien.
 sequences_a13_salonwagen_wolle_take_1#6;[Busily he turns away like a waiter and puts the rest of the small ball of wool in his pocket.]
-spokentexts_a13_salonwagen_wolle_take_1_st_4;Got it.
+spokentexts_a13_salonwagen_wolle_take_1_st_4;Je l'ai.
 sequences_a13_salonwagen_seq_a13_salonwagen_araber_betritt_salonwagen_erstmalig#0;[The doctor reads the newspaper (idle). As the Arab walks past him, he lets the newspaper down (idle).]
-spokentexts_a13_salonwagen_seq_a13_salonwagen_araber_betritt_salonwagen_erstmalig_st_1;Young man?
+spokentexts_a13_salonwagen_seq_a13_salonwagen_araber_betritt_salonwagen_erstmalig_st_1;Jeune homme ?
 sequences_a13_salonwagen_seq_a13_salonwagen_araber_betritt_salonwagen_erstmalig#2;[The Arab goes to the doctor, introduces himself.]
-spokentexts_a13_salonwagen_seq_a13_salonwagen_araber_betritt_salonwagen_erstmalig_st_2;Yes, sir?
-spokentexts_a13_salonwagen_seq_a13_salonwagen_araber_betritt_salonwagen_erstmalig_st_3;Tell me, when did they switch to self-service on the Orient Express? Should they not have informed the passengers about that in advance?
+spokentexts_a13_salonwagen_seq_a13_salonwagen_araber_betritt_salonwagen_erstmalig_st_2;Oui, monsieur ?
+spokentexts_a13_salonwagen_seq_a13_salonwagen_araber_betritt_salonwagen_erstmalig_st_3;Dites moi, depuis quand devons-nous nous servir nous-mêmes à bord de l'Orient Express? N'aurait-on pas dû prévenir les passagers ?
 spokentexts_a13_salonwagen_seq_a13_salonwagen_araber_betritt_salonwagen_erstmalig_st_4_direction;is interrupted
-spokentexts_a13_salonwagen_seq_a13_salonwagen_araber_betritt_salonwagen_erstmalig_st_4;Forgive me, sir. I was...
+spokentexts_a13_salonwagen_seq_a13_salonwagen_araber_betritt_salonwagen_erstmalig_st_4;Pardonnez moi, monsieur. J'étais...
 sequences_a13_salonwagen_seq_a13_salonwagen_araber_betritt_salonwagen_erstmalig#6;[As he speaks, the doctor folds the newspaper. That makes his little talk even more arrogant. (idle).]
-spokentexts_a13_salonwagen_seq_a13_salonwagen_araber_betritt_salonwagen_erstmalig_st_5;And what about my bag? Did your colleague find it?
-spokentexts_a13_salonwagen_seq_a13_salonwagen_araber_betritt_salonwagen_erstmalig_st_7;I'm sorry, sir. I don't know.
+spokentexts_a13_salonwagen_seq_a13_salonwagen_araber_betritt_salonwagen_erstmalig_st_5;Et qu'en est-il de mon sac ? Votre collègue l'a-t-il trouvé ?
+spokentexts_a13_salonwagen_seq_a13_salonwagen_araber_betritt_salonwagen_erstmalig_st_7;Je suis désolé, monsieur. Je ne sais pas.
 spokentexts_a13_salonwagen_seq_a13_salonwagen_araber_betritt_salonwagen_erstmalig_st_8_direction;smug, angry
-spokentexts_a13_salonwagen_seq_a13_salonwagen_araber_betritt_salonwagen_erstmalig_st_8;I expected as much! There will be consequences!
+spokentexts_a13_salonwagen_seq_a13_salonwagen_araber_betritt_salonwagen_erstmalig_st_8;C'est bien ce que je pensais ! Il y aura des conséquences !
 sequences_a13_salonwagen_seq_a13_salonwagen_araber_betritt_salonwagen_erstmalig#14;[The doctor looks sternly at the Arab. Then the doctor looks at the cup of coffee, takes it and hands it to the Arab without looking at him.]
-spokentexts_a13_salonwagen_seq_a13_salonwagen_araber_betritt_salonwagen_erstmalig_st_11;And now bring me my coffee!
-spokentexts_a13_salonwagen_seq_a13_salonwagen_araber_betritt_salonwagen_erstmalig_st_12;Of course, sir.
+spokentexts_a13_salonwagen_seq_a13_salonwagen_araber_betritt_salonwagen_erstmalig_st_11;Et maintenant amenez moi un café !
+spokentexts_a13_salonwagen_seq_a13_salonwagen_araber_betritt_salonwagen_erstmalig_st_12;Bien sûr, monsieur.
 sequences_a13_salonwagen_seq_a13_salonwagen_araber_betritt_salonwagen_erstmalig#17;[The doctor folds the paper apart and continues to read.]
 sequences_a13_salonwagen_seq_a13_salonwagen_araber_betritt_salonwagen_erstmalig#18;[The Arab takes the coffee cup, goes to the counter and places it there quite rudely. Since it was really loud, he looks over his shoulder  if the doctor has really noticed it.]
-spokentexts_a13_salonwagen_seq_a13_salonwagen_araber_betritt_salonwagen_erstmalig_st_13;Asshole.
-texts_a13_uebergang_dach_transportwagen_mo_leave_1__2;Jump on the roof of the freight car
+spokentexts_a13_salonwagen_seq_a13_salonwagen_araber_betritt_salonwagen_erstmalig_st_13;Trou du cul.
+texts_a13_uebergang_dach_transportwagen_mo_leave_1__2;Sauter sur le toit du wagon-fret
 sequences_a13_uebergang_dach_transportwagen_leave_1#1;[The Arab jumps skillfully and quietly over to the other roof, then leaves the scene.]
 sequences_a13_uebergang_dach_transportwagen_leave_2#1;[The Arab climb up the ladder, jump over and then leaves the scene.]
-texts_a13_uebergang_leiter_mo_use_1;Climb onto the roof
-texts_a13_uebergang_leiter_mo_use_2;Climb off of the roof
-spokentexts_a13_uebergang_leiter_ex_1_st_1;The ladder leads to the roof of the saloon car and back down.
+texts_a13_uebergang_leiter_mo_use_1;Grimper sur le toit
+texts_a13_uebergang_leiter_mo_use_2;Descendre du toit
+spokentexts_a13_uebergang_leiter_ex_1_st_1;L'échelle mène sur le toit du wagon-salon.
 sequences_a13_uebergang_leiter_use_1#1;[The Arab climbs up the ladder, kneels then next to the ladder  (idle).]
 sequences_a13_uebergang_leiter_use_2#1;[The Arab kneels next to the ladder up, climbs the ladder down, stands then.]
-texts_a13_uebergang_schraubenschluessel_mo_inventar_1__2;Wrench
-spokentexts_a13_uebergang_schraubenschluessel_ex_1_st_1;A wrench from the toolbox. Should be useful.
-spokentexts_a13_uebergang_schraubenschluessel_ex_2_st_1;The wrench works on the screws for the skylight up on the freight car.
-spokentexts_a13_uebergang_schraubenschluessel_ex_2_st_2;I just have to find a way to keep the second nut from falling into the car and making a racket.
-texts_a13_uebergang_tuer_zum_salonwagen_mo_leave_1__2;Enter the saloon car
+texts_a13_uebergang_schraubenschluessel_mo_inventar_1__2;Tournevis
+spokentexts_a13_uebergang_schraubenschluessel_ex_1_st_1;Un tournevis de la boîte à outils. Ça devrait m'être utile.
+spokentexts_a13_uebergang_schraubenschluessel_ex_2_st_1;Le tournevis rentre dans les vis de le grille sur le toit du wagon-fret.
+spokentexts_a13_uebergang_schraubenschluessel_ex_2_st_2;Il faut juste que j'évite que le second boulon ne tombe dans le wagon et fasse un bruit fou.
+texts_a13_uebergang_tuer_zum_salonwagen_mo_leave_1__2;Entrer dans le wagon-salon
 sequences_a13_uebergang_tuer_zum_salonwagen_leave_1#1;[The Arab puts himself in front the door of the saloon wagon, then he concentrate again.]
-spokentexts_a13_uebergang_tuer_zum_salonwagen_leave_1_st_1;Okay. Showtime!
+spokentexts_a13_uebergang_tuer_zum_salonwagen_leave_1_st_1;Bon. Showtime !
 sequences_a13_uebergang_tuer_zum_salonwagen_leave_1#3;[The Arab enters the Saloon Wagon.]
 sequences_a13_uebergang_tuer_zum_salonwagen_leave_2#1;[The Arab enters the Saloon Wagon.]
-texts_a13_uebergang_tuer_zum_transportwagon_mo_betrachen_1-3;Examine the freight car door
-texts_a13_uebergang_tuer_zum_transportwagon_mo_used_mit_schluesselbund_1;Lock the freight car
-spokentexts_a13_uebergang_tuer_zum_transportwagon_ex_1_st_1;The safe that I need to put the envelope on is in the freight car.
-spokentexts_a13_uebergang_tuer_zum_transportwagon_ex_1_st_2;But I can't just walk in like a deliveryman.
-spokentexts_a13_uebergang_tuer_zum_transportwagon_ex_2_st_1;The safe is guarded by my old friend, the bobby from London.
-spokentexts_a13_uebergang_tuer_zum_transportwagon_ex_2_st_2;Even he would be curious to see a conductor in the freight car.
-spokentexts_a13_uebergang_tuer_zum_transportwagon_ex_3_st_1;Legrand is in the car. That guy is sharp as a tack. He'd see right through me.
-spokentexts_a13_uebergang_tuer_zum_transportwagon_ex_3_st_2;The ventilation shaft is a more realistic option. But to be honest, I only give myself a fifty-fifty chance of pulling this off.
-spokentexts_a13_uebergang_tuer_zum_transportwagon_ex_3_st_3;Anyway - time to get to work!
-spokentexts_a13_uebergang_tuer_zum_transportwagon_used_mit_schluesselbund_1_st_1;Even if I had the right key, what would be the point of locking the door?
-spokentexts_a13_uebergang_tuer_zum_transportwagon_used_mit_schluesselbund_1_st_2;If only the freight car were empty, I could put the letter on the safe in peace.
-texts_a13_uebergang_werkzeugkasten_mo_ex_1-3;Examine the tool box
-texts_a13_uebergang_werkzeugkasten_mo_ex_4__5;Search the tool box
-texts_a13_uebergang_werkzeugkasten_mo_used_mit_schluesselbund_1;Open the lock with a key
-texts_a13_uebergang_werkzeugkasten_mo_used_mit_schluesselbund_2;Open the lock with the knife
-spokentexts_a13_uebergang_werkzeugkasten_ex_1_st_1;Looks like a toolbox...
-spokentexts_a13_uebergang_werkzeugkasten_ex_1_st_2;Hmpf. It's secured with a heavy padlock.
-spokentexts_a13_uebergang_werkzeugkasten_ex_2_st_1;I'm not bad at picking locks. But I don't have my equipment with me and everything's rocking and moving in here.
-spokentexts_a13_uebergang_werkzeugkasten_ex_2_st_2;Given these conditions, it'd take a while to pick the lock. That makes it too risky.
-spokentexts_a13_uebergang_werkzeugkasten_ex_3_st_1;He left the lock open. How convenient!
-spokentexts_a13_uebergang_werkzeugkasten_ex_4_st_1;Let's see...
+texts_a13_uebergang_tuer_zum_transportwagon_mo_betrachen_1-3;Examiner la porte du wagon-fret
+texts_a13_uebergang_tuer_zum_transportwagon_mo_used_mit_schluesselbund_1;Verrouiller le wagon-fret
+spokentexts_a13_uebergang_tuer_zum_transportwagon_ex_1_st_1;Le coffre où je dois déposer l'enveloppe est dans le wagon-fret.
+spokentexts_a13_uebergang_tuer_zum_transportwagon_ex_1_st_2;Mais je ne peux pas entrer dedans comme un simple livreur.
+spokentexts_a13_uebergang_tuer_zum_transportwagon_ex_2_st_1;Le coffre est sous la garde de mon vieil ami, le policier de Londres.
+spokentexts_a13_uebergang_tuer_zum_transportwagon_ex_2_st_2;Même lui serait étonné de voir un conducteur dans le wagon-fret.
+spokentexts_a13_uebergang_tuer_zum_transportwagon_ex_3_st_1;Legrand est dans le wagon. Ce mec est affûté comme une lame. Il me démasquerait immédiatement.
+spokentexts_a13_uebergang_tuer_zum_transportwagon_ex_3_st_2;Le conduit de ventilation reste l'option la plus réaliste. Mais pour être honnête, je ne me donne qu'une chance sur deux d'arriver à réussir mon coup.
+spokentexts_a13_uebergang_tuer_zum_transportwagon_ex_3_st_3;Enfin bref, il est temps de s'y mettre !
+spokentexts_a13_uebergang_tuer_zum_transportwagon_used_mit_schluesselbund_1_st_1;Même avec la bonne clé, quel serait l'intérêt de verrouiller la porte ?
+spokentexts_a13_uebergang_tuer_zum_transportwagon_used_mit_schluesselbund_1_st_2;Si seulement le wagon-fret était vide, je pourrais déposer tranquillement la lettre sur le coffre.
+texts_a13_uebergang_werkzeugkasten_mo_ex_1-3;Examiner la boîte à outils
+texts_a13_uebergang_werkzeugkasten_mo_ex_4__5;Fouiller la boîte à outils
+texts_a13_uebergang_werkzeugkasten_mo_used_mit_schluesselbund_1;Ouvrir la serrure avec une clé
+texts_a13_uebergang_werkzeugkasten_mo_used_mit_schluesselbund_2;Ouvrir la serrure avec le couteau
+spokentexts_a13_uebergang_werkzeugkasten_ex_1_st_1;On dirait une boîte à outils...
+spokentexts_a13_uebergang_werkzeugkasten_ex_1_st_2;Hmpf. Elle est fermée avec un gros cadenas.
+spokentexts_a13_uebergang_werkzeugkasten_ex_2_st_1;Je ne me débrouille pas trop mal pour crocheter les serrures. Mais je n'ai pas mes outils sur moi, et ça bouge dans tous les sens ici.
+spokentexts_a13_uebergang_werkzeugkasten_ex_2_st_2;Vu les conditions, il me faudrait un bail pour crocheter la serrure. C'est trop risqué.
+spokentexts_a13_uebergang_werkzeugkasten_ex_3_st_1;Il l'a laissée ouverte. Comme c'est gentil !
+spokentexts_a13_uebergang_werkzeugkasten_ex_4_st_1;Voyons voir...
 sequences_a13_uebergang_werkzeugkasten_ex_4#2;[The Arab kneels down and searches in the box.]
-spokentexts_a13_uebergang_werkzeugkasten_ex_4_st_2;A wrench! You don't say!
-spokentexts_a13_uebergang_werkzeugkasten_ex_4_st_3;This is too easy!
+spokentexts_a13_uebergang_werkzeugkasten_ex_4_st_2;Un tournevis ! Quel heureux hasard !
+spokentexts_a13_uebergang_werkzeugkasten_ex_4_st_3;C'est trop facile !
 sequences_a13_uebergang_werkzeugkasten_ex_4#5;[The Arab gets up again.]
-spokentexts_a13_uebergang_werkzeugkasten_ex_5_st_1;I don't think I need anything else from the toolbox. And if I do, I know where to find it.
-spokentexts_a13_uebergang_werkzeugkasten_used_mit_armeemesser_st_1;The knife is useful for almost anything except picking locks. The blade and even the pick are too wide.
+spokentexts_a13_uebergang_werkzeugkasten_ex_5_st_1;Je ne pense pas avoir besoin d'autre chose dans la boîte à outils. Et si cela change, je sais où la trouver.
+spokentexts_a13_uebergang_werkzeugkasten_used_mit_armeemesser_st_1;Le couteau est utile pour tout, à l'exception du crochetage de serrure. La lame et même la pointe sont trop larges.
 sequences_a13_uebergang_werkzeugkasten_used_mit_schluesselbund#1;[The Arab takes out the key ring, he looks at the key.]
-spokentexts_a13_uebergang_werkzeugkasten_used_mit_schluesselbund_st_1;No... Not what I need.
+spokentexts_a13_uebergang_werkzeugkasten_used_mit_schluesselbund_st_1;Non... Ce n'est pas ce qu'il me faut.
 sequences_a13_uebergang_werkzeugkasten_used_mit_schluesselbund#3;[The Arab puts the key ring away again.]
-spokentexts_a13_uebergang_seq_a13_uebergang_nach_flucht_st_1;I should be able to move about freely in the train as long as I keep away from Professor Lucien.
-spokentexts_a13_uebergang_seq_a13_uebergang_nach_flucht_st_2;The other guests don't know me and conductors change several times during the journey. A new face shouldn't seem suspicious to anyone.
+spokentexts_a13_uebergang_seq_a13_uebergang_nach_flucht_st_1;Je devrais pouvoir me déplacer librement dans le train du moment que j'évite le Professeur Lucien.
+spokentexts_a13_uebergang_seq_a13_uebergang_nach_flucht_st_2;Les autres passagers ne me connaissent pas et les conducteurs changent plusieurs fois durant le voyage. Un nouveau visage ne surprendra personne.
 sequences_a13_uebergang_seq_a13_uebergang_vom_transportwagendach_kommend#0;[The Arab comes into the picture and jumps softly the roof of the saloon wagon. He kneels at the ladder (idle).]
 sequences_a13_uebergang_seq_a13_uebergang_werkzeugkasten_wird_geoeffnet#0;[The Arab comes in the picture.]
 sequences_a13_uebergang_seq_a13_uebergang_werkzeugkasten_wird_geoeffnet#1;[The Arab wants to swing himself from the roof, when he hears voices and is quickly and quietly laying on the roof. Over the edge, he looks at the action (idle).]
-spokentexts_a13_uebergang_seq_a13_uebergang_werkzeugkasten_wird_geoeffnet_st_1;Hey! My pistol!
-spokentexts_a13_uebergang_seq_a13_uebergang_werkzeugkasten_wird_geoeffnet_st_2;You'll get it back in Venice. Frightening me like that! I could have fallen under the wheels!
-spokentexts_a13_uebergang_seq_a13_uebergang_werkzeugkasten_wird_geoeffnet_st_3;I thought you were a ghost!
-spokentexts_a13_uebergang_seq_a13_uebergang_werkzeugkasten_wird_geoeffnet_st_4;Ghosts don't exist.
-spokentexts_a13_uebergang_seq_a13_uebergang_werkzeugkasten_wird_geoeffnet_st_5;They do too! One just flew past my window!
-spokentexts_a13_uebergang_seq_a13_uebergang_werkzeugkasten_wird_geoeffnet_st_6;Be off with you!
+spokentexts_a13_uebergang_seq_a13_uebergang_werkzeugkasten_wird_geoeffnet_st_1;Hé ! Mon pistolet !
+spokentexts_a13_uebergang_seq_a13_uebergang_werkzeugkasten_wird_geoeffnet_st_2;Tu le récupèreras à Venise. M'effrayer comme ça ! J'aurais pu tomber du train !
+spokentexts_a13_uebergang_seq_a13_uebergang_werkzeugkasten_wird_geoeffnet_st_3;J'ai cru que vous étiez un fantôme !
+spokentexts_a13_uebergang_seq_a13_uebergang_werkzeugkasten_wird_geoeffnet_st_4;Les fantômes n'existent pas.
+spokentexts_a13_uebergang_seq_a13_uebergang_werkzeugkasten_wird_geoeffnet_st_5;Si ! Je viens d'en voir passer un devant ma fenêtre !
+spokentexts_a13_uebergang_seq_a13_uebergang_werkzeugkasten_wird_geoeffnet_st_6;Allez, du vent !
 sequences_a13_uebergang_seq_a13_uebergang_werkzeugkasten_wird_geoeffnet#8;[Ohi points to the lounge wagon.]
 spokentexts_a13_uebergang_seq_a13_uebergang_werkzeugkasten_wird_geoeffnet_st_7_direction;offended
-spokentexts_a13_uebergang_seq_a13_uebergang_werkzeugkasten_wird_geoeffnet_st_7;Oh man!
+spokentexts_a13_uebergang_seq_a13_uebergang_werkzeugkasten_wird_geoeffnet_st_7;Oh non !
 sequences_a13_uebergang_seq_a13_uebergang_werkzeugkasten_wird_geoeffnet#10;[The boy stomps with his foot, goes offended in the lounge Wagon.]
 sequences_a13_uebergang_seq_a13_uebergang_werkzeugkasten_wird_geoeffnet#11;[Ohi shakes his head and turns back to the tool box. He grabs in pulls out a tongs.]
-spokentexts_a13_uebergang_seq_a13_uebergang_werkzeugkasten_wird_geoeffnet_st_8;Ah, I can use these.
+spokentexts_a13_uebergang_seq_a13_uebergang_werkzeugkasten_wird_geoeffnet_st_8;Ah, cela va m'être utile.
 sequences_a13_uebergang_seq_a13_uebergang_werkzeugkasten_wird_geoeffnet#13;[Ohi gets up and goes with the tongs in his hand in the lounge wagon.]
-spokentexts_a13_uebergang_seq_a13_uebergang_werkzeugkasten_wird_geoeffnet_st_9;That was close.
+spokentexts_a13_uebergang_seq_a13_uebergang_werkzeugkasten_wird_geoeffnet_st_9;Ce n'est pas passé loin.
 sequences_a13_uebergang_seq_a13_uebergang_werkzeugkasten_wird_geoeffnet#15;[The Arab gets up again.]
-texts_arzt_mo_ex_1;Look at the German
-texts_arzt_mo_used_mit_kaffeetasse;Serve the coffee
-spokentexts_arzt_ex_1_st_1;It's not good that he's so upset. It'll make it more likely that he'll remember me and be able to describe me later.
-spokentexts_arzt_ex_2_st_1;"I know that sort of person. Thinks he's better than others. ""Decorum, order and obedience"" above all. Like the fascists in Spain."
-spokentexts_arzt_ex_2_st_2;They beat my father just because he splashed a bit of mud on a military vehicle with his bike and then refused to clean it.
-spokentexts_arzt_ex_3_st_1;He'll throw a fit if he doesn't get his coffee. The longer I make him wait, the more the situation will escalate.
-spokentexts_arzt_ex_4_st_1;He didn't even want to hear why it took so long to get his coffee.
-spokentexts_arzt_ex_4_st_2;He just wanted to tear into someone-just wanted to assert his will.
-spokentexts_arzt_ex_4_st_4;It's a sad life if you have to pump yourself up by deflating others.
+texts_arzt_mo_ex_1;Regarder l'allemand
+texts_arzt_mo_used_mit_kaffeetasse;Servir le café
+spokentexts_arzt_ex_1_st_1;Ce n'est pas bon qu'il soit autant énervé. Ça ne fait qu'augmenter les chances qu'il se souvienne de moi et puisse me décrire plus tard.
+spokentexts_arzt_ex_2_st_1;"Je connais ce genre de personne. Il pense qu'il est meilleur que les autres. ""Decorum, ordre et obéissance"" avant tout. Comme ces fascistes en Espagne."
+spokentexts_arzt_ex_2_st_2;Ils ont tabassé mon père simplement parce qu'il avait légèrement éclaboussé un véhicule militaire avec son vélo et avait refusé de le nettoyer.
+spokentexts_arzt_ex_3_st_1;Il va faire une crise s'il n'a pas son café. Plus je le fais attendre, plus la situation va empirer.
+spokentexts_arzt_ex_4_st_1;Il ne voulait même pas entendre les raisons de l'attente.
+spokentexts_arzt_ex_4_st_2;Il voulait juste se défouler sur quelqu'un, juste pour affirmer son autorité.
+spokentexts_arzt_ex_4_st_4;C'est triste de devoir rabaisser les autres pour se sentir bien.
 sequences_arzt_used_mit_kaffeetasse#1;[The Arab puts himself in front of the bar, takes the coffee cup and brings it to the doctor.]
 spokentexts_arzt_used_mit_kaffeetasse_st_1_direction;slightly over friendly
-spokentexts_arzt_used_mit_kaffeetasse_st_1;A cup of coffee for the gentleman.
+spokentexts_arzt_used_mit_kaffeetasse_st_1;Une tasse de café pour le gentilhomme.
 sequences_arzt_used_mit_kaffeetasse#3;[The doctor folds his newspaper, looks at the Arab.]
-spokentexts_arzt_used_mit_kaffeetasse_st_2;Do you know what the problem with people like you is?
-spokentexts_arzt_used_mit_kaffeetasse_st_3;You mean our lack of a sense of duty? Or our skin color?
+spokentexts_arzt_used_mit_kaffeetasse_st_2;Savez-vous quel est le problème avec les gens comme vous ?
+spokentexts_arzt_used_mit_kaffeetasse_st_3;Vous pensez à l'absence de sens du devoir ? Ou à notre couleur de peau ?
 sequences_arzt_used_mit_kaffeetasse#6;[The doctor is shocked, staring at the boy with his mouth open.]
 spokentexts_arzt_used_mit_kaffeetasse_st_4_direction;considered
-spokentexts_arzt_used_mit_kaffeetasse_st_4;Or a lack of respect for our elders?!
-spokentexts_arzt_used_mit_kaffeetasse_st_5;Tsk. We have so many flaws.
+spokentexts_arzt_used_mit_kaffeetasse_st_4;Ou au manque de respect pour nos aînés ?!
+spokentexts_arzt_used_mit_kaffeetasse_st_5;Tsk. Nous avons tellement de défauts.
 sequences_arzt_used_mit_kaffeetasse#10;[The Arab walks away.]
 sequences_arzt_used_mit_kaffeetasse#11;[The doctor angrily closes the newspaper again and then reads (idle). From time to time he takes a sip of the coffee.]
 sequences_arzt_used_mit_kaffeetasse#12;[The next time in this scene, the doctor is gone.]
-texts_geiger_mo_ex_1__2;Look at the violinist
-spokentexts_geiger_ex_1_st_1;The violinist was already on the train in Zurich. Handsome devil. I'm glad my girlfriend isn't here.
-spokentexts_geiger_ex_1_st_2;She loves to make me jealous. And once I'm raging mad, she leans forward and whispers one of those phrases that only she can say.
-spokentexts_geiger_ex_2_st_1;He seems to be worried about something. So much the better for me.
-spokentexts_geiger_ex_2_st_2;If he's absorbed in his own problems, he won't be paying attention to anyone else and won't be able to offer good testimony to the police.
-texts_pflegerin_mo_ex_1__2;Look at the woman
-spokentexts_pflegerin_ex_1_st_1;The younger woman seems to be some kind of carer or companion for the older lady.
-spokentexts_pflegerin_ex_1_st_2;I wouldn't like to be with her all day long. She radiates a certain restlessness and unease.
-spokentexts_pflegerin_ex_2_st_1;I know people like that always have to be doing something. They feel useless if they don't have anything to do.
-spokentexts_pflegerin_ex_2_st_2;I feel sorry for them.
-texts_schriftstellerin_mo_ex_1__2;Look at the older lady
-texts_schriftstellerin_mo_talk_mit_1;Talk to the older lady
-spokentexts_schriftstellerin_ex_1_st_1;The old lady didn't get on in Zurich. And she doesn't look like someone from Nancy or Basel. I'm guessing she boarded in Paris.
-spokentexts_schriftstellerin_ex_1_st_2;Hmm. She seems familiar somehow.
-spokentexts_schriftstellerin_ex_2_st_1;I've seen her some place before. Maybe she used to be an actress and I recognize her from photos?
-spokentexts_schriftstellerin_ex_2_st_2;She has the confidence of someone who doesn't have to prove herself anymore. She's rich, that's for sure. But it's not just that.
-spokentexts_schriftstellerin_talk_mit_1_st_1;I'd better not talk to her. Her eyes are intelligent and observant.
-spokentexts_schriftstellerin_talk_mit_1_st_2;Something tells me I'd only make life difficult for myself if I try to pull the wool over her eyes.
-texts_shot_bar_betreten_mo;Go behind the bar
-texts_shot_bar_verlassen_mo; Go back
+texts_geiger_mo_ex_1__2;Regarder le violoniste
+spokentexts_geiger_ex_1_st_1;Le violoniste était déjà à bord à Zurich. Beau garçon. Je suis bien content que ma petite amie ne soit pas là.
+spokentexts_geiger_ex_1_st_2;Elle aime me rendre jaloux. Et une fois que je suis rouge de colère, elle se penche vers moi et murmure une de ces phrases dont elle a le secret.
+spokentexts_geiger_ex_2_st_1;Il a l'air inquiet. Tant mieux pour moi.
+spokentexts_geiger_ex_2_st_2;Si il est concentré sur ses propres problèmes, il ne fera pas attention aux gens autour de lui et donc ne sera d'aucune aide à la police.
+texts_pflegerin_mo_ex_1__2;Regarder la femme
+spokentexts_pflegerin_ex_1_st_1;La jeune femme semble être une sorte d'aide ou d'assistante pour la dame âgée.
+spokentexts_pflegerin_ex_1_st_2;Je n'aimerais pas passer mes journées avec elle. Elle dégage une certaine nervosité et un malaise.
+spokentexts_pflegerin_ex_2_st_1;Je connais des gens comme ça qui ont toujours besoin d'avoir quelque chose à faire. Ils se sentent inutiles si ce n'est pas le cas.
+spokentexts_pflegerin_ex_2_st_2;Ils me font de la peine.
+texts_schriftstellerin_mo_ex_1__2;Regarder la vieille femme
+texts_schriftstellerin_mo_talk_mit_1;Parler à la vieille femme
+spokentexts_schriftstellerin_ex_1_st_1;La vieille femme n'a pas embarqué à Zurich. Et elle n'a pas l'air de Nancy ou Basel. Elle a dû embarquer à Paris.
+spokentexts_schriftstellerin_ex_1_st_2;Hmm. Elle semble familière.
+spokentexts_schriftstellerin_ex_2_st_1;Je l'ai déjà vue quelque part auparavant. C'est peut être une ancienne actrice que j'aurais vu en photo ?
+spokentexts_schriftstellerin_ex_2_st_2;Elle a la confiance de quelqu'un qui n'a plus rien à prouver. Elle est riche, ça c'est sûr. Mais il n'y a pas que ça.
+spokentexts_schriftstellerin_talk_mit_1_st_1;Mieux vaut ne pas lui parler. Son regard est intelligent et observateur.
+spokentexts_schriftstellerin_talk_mit_1_st_2;Quelque chose me dit que je me compliquerais sérieusement la vie si j'essayais de lui envoyer de la poudre aux yeux.
+texts_shot_bar_betreten_mo;Aller derrière le bar
+texts_shot_bar_verlassen_mo;Revenir
