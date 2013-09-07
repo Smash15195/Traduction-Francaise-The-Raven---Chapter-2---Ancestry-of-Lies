@@ -75,14 +75,14 @@ spokentexts__seq_bg_arzt_spricht_01_st_5;C'est de votre faute ! Uniquement la v�
 sequences__seq_bg_arzt_spricht_01#5;[The doctor starts working again.]
 spokentexts__seq_bg_arzt_spricht_02_st_1;Pourquoi ! Pourquoi !
 spokentexts__seq_bg_arzt_spricht_02_st_2;Pourquoi la baronne avait-elle besoin de fouiner partout ?
-spokentexts__seq_bg_arzt_spricht_02_st_3;Pourquoi VOUS avez fouiné partout ?
+spokentexts__seq_bg_arzt_spricht_02_st_3;Pourquoi avez-VOUS fouiné partout ?
 spokentexts__seq_bg_arzt_spricht_02_st_4;Et ce gant là-bas ? Vous vouliez l'utiliser comme preuve contre moi, ja ?
 spokentexts__seq_bg_arzt_spricht_02_st_5;J'ai laissé aucune preuve. Aucune piste. Et pourtant, vous ne pouvez pas me laisser tranquille.
 sequences__seq_bg_arzt_spricht_02#5;[The doctor starts working again.]
 sequences__seq_bg_arzt_spricht_03#0;[The Doctor stops working, and leans with his arms on the cabinet (idle).]
 sequences__seq_bg_arzt_spricht_03#1;[The player takes control, can move Ohi.]
 spokentexts__seq_bg_arzt_spricht_03_st_1;Une insuffisance cardiaque arrive souvent à votre âge. Surtout compte tenu de vos antécédents.
-spokentexts__seq_bg_arzt_spricht_03_st_3;Je m'interroge encore si je dois vous jeter par-dessus bord. Pour ne laisser aucune trace ! Aucune preuve...
+spokentexts__seq_bg_arzt_spricht_03_st_3;Je me demande encore si je dois vous jeter par-dessus bord. Pour ne laisser aucune trace ! Aucune preuve...
 spokentexts__seq_bg_arzt_spricht_03_st_4;Et si on me voit ?
 spokentexts__seq_bg_arzt_spricht_03_st_5;Mon plan était parfait ! Et VOUS avez tout gâché !
 sequences__seq_bg_arzt_spricht_03#7;[The doctor starts working again.]
@@ -102,7 +102,7 @@ spokentexts_a08_krankenstation_alptraum_seq_a07_krankenstation_alptraum_oehi_erw
 spokentexts_a08_krankenstation_alptraum_seq_a07_krankenstation_alptraum_oehi_erwacht_st_5;Dr. Gebhardt... J'ignore...
 sequences_a08_krankenstation_alptraum_seq_a07_krankenstation_alptraum_oehi_erwacht#9;[The doctor spins around, is lightning fast on the wheelchair, leaning on the armrests and is with his face close to Ohi (idle).]
 spokentexts_a08_krankenstation_alptraum_seq_a07_krankenstation_alptraum_oehi_erwacht_st_7_direction;angry, loud
-spokentexts_a08_krankenstation_alptraum_seq_a07_krankenstation_alptraum_oehi_erwacht_st_7;Vous ignorez qu'est-ce que vous me forcez à faire ?!
+spokentexts_a08_krankenstation_alptraum_seq_a07_krankenstation_alptraum_oehi_erwacht_st_7;Vous ignorez ce que vous me forcez à faire ?!
 spokentexts_a08_krankenstation_alptraum_seq_a07_krankenstation_alptraum_oehi_erwacht_st_8_direction;struck, powerless
 spokentexts_a08_krankenstation_alptraum_seq_a07_krankenstation_alptraum_oehi_erwacht_st_8;Vous... Vous n'avez pas...
 sequences_a08_krankenstation_alptraum_seq_a07_krankenstation_alptraum_oehi_erwacht#13;[The doctor is aware of how he behaves. He gets up, picks perhaps Ohis clothes, getting up himself.]
@@ -147,7 +147,7 @@ sequences_arzt_top_a08_arzt_plan_tseq#9;[Dialogue is finished.]
 spokentexts_arzt_ex_1_st_1_direction;thinks struck, powerless
 spokentexts_arzt_ex_1_st_1;Dr. Gebhardt... n'en aura plus pour longtemps...
 spokentexts_arzt_talk_mit_1_st_1_direction;thinks struck, powerless
-spokentexts_arzt_talk_mit_1_st_1;Besoin... le distraire.
+spokentexts_arzt_talk_mit_1_st_1;Dois... le distraire.
 spokentexts_arzt_talk_mit_2_st_1_direction;thinks struck, powerless
 spokentexts_arzt_talk_mit_2_st_1;Continuer... lui parler...
 spokentexts_arzt_talk_mit_3_st_1_direction;thinks struck, powerless
