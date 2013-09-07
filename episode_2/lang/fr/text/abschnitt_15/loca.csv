@@ -26,7 +26,7 @@ spokentexts_a15_frachtraum_gurt_used_mit_messer_2_st_1;Hmm. Et bien - je vais in
 sequences_a15_frachtraum_gurt_used_mit_messer_2#6;[In the inventory appears the belt with the knife. The knife was inserted at the the belt.]
 sequences_a15_frachtraum_gurt_used_mit_rohr_1#3;[The knife is pulled out and appear in your inventory.]
 spokentexts_a15_frachtraum_gurt_used_mit_rohr_1_st_1_direction;Effort
-spokentexts_a15_frachtraum_gurt_used_mit_rohr_1_st_1;Hmgh! Cela devrait tenir !
+spokentexts_a15_frachtraum_gurt_used_mit_rohr_1_st_1;Hmgh ! Cela devrait tenir !
 sequences_a15_frachtraum_gurt_used_mit_rohr_1#6;[In the inventory appears the belt with the firmly knotted tube.]
 texts_a15_frachtraum_regal_mo_ex_1__2a__2b__3;Examiner la boîte
 texts_a15_frachtraum_regal_mo_used_mit_gurt_1;Jeter une extrémité de la sangle jusqu'à la boîte
@@ -41,7 +41,7 @@ spokentexts_a15_frachtraum_regal_used_mit_gurt_1_st_2;Je vais l'enlever et reten
 sequences_a15_frachtraum_regal_used_mit_gurt_1#5;[In the inventory appears again, the knife and the belt as individual objects.]
 sequences_a15_frachtraum_regal_used_mit_gurt_1#6;[The Arab pulls out the belt, aims and throws over the end with the buckle. The buckle is falling in a wooden toolbox.]
 spokentexts_a15_frachtraum_regal_used_mit_gurt_1_st_3;Magnifique !
-spokentexts_a15_frachtraum_regal_used_mit_gurt_1_st_4;Espérons que la boucle ne glissera pas hors de la boîte quand je tirerais la sangle.
+spokentexts_a15_frachtraum_regal_used_mit_gurt_1_st_4;Espérons que la boucle ne glissera pas hors de la boîte quand je tirerai la sangle.
 sequences_a15_frachtraum_regal_used_mit_gurt_1#9;[The Arab begins to pull gently. The closure rattles and threatens to jump out at any moment out of the box. However, the box moves slowly to the shelf edge ...]
 sequences_a15_frachtraum_regal_used_mit_gurt_1#10;[Finally, she reached the edge. The box flips and crashes rattling and clattering to the ground. Box was filled with screws, sandpaper, some tabs, and other unnecessary stuff that is now spreading on the floor.]
 sequences_a15_frachtraum_regal_used_mit_gurt_1#11;[But there is also a 40cm long metal tube (the one with which Ohi in Section 5 gets one over his head). It rolls on a shelf of the Arab and remains below the chest on the floor.]
@@ -71,7 +71,7 @@ spokentexts_a15_frachtraum_rohr_used_mit_gurt_3_st_2;Tada !
 texts_a15_frachtraum_traeger_mo_ex_1__2;Examiner le tuyau métallique
 texts_a15_frachtraum_traeger_mo_used_mit_gurt_1;Jeter la sangle avec les tuyaux
 texts_a15_frachtraum_traeger_mo_used_mit_gurt_2;Jeter la sangle avec le tuyau dans les conduites
-spokentexts_a15_frachtraum_traeger_ex_1_st_1;Deux conduites métalliques. Solide, d'environ dix mètres.
+spokentexts_a15_frachtraum_traeger_ex_1_st_1;Deux conduites métalliques. Solides, d'environ dix mètres.
 spokentexts_a15_frachtraum_traeger_ex_2_st_1;Le bateau fait son âge, mais ces conduites sont encore suffisamment solides !
 spokentexts_a15_frachtraum_traeger_used_mit_gurt_1_st_1;Et puis il va se coincer dans les conduites ? Cela n'arrivera pas.
 spokentexts_a15_frachtraum_traeger_used_mit_gurt_1_st_2;Même si le couteau était resté en place, en tirant dessus il n'aurait pas résisté.
@@ -104,13 +104,13 @@ spokentexts_a15_truhe_armeemesser_ex_1_st_1;Mon fidèle couteau suisse de l'arm�
 spokentexts_a15_truhe_armeemesser_ex_2_st_1;Ce couteau m'a déjà bien aidé dans le passé. Avec son aide, encore une fois, je pourrais avoir une chance de sortir de ce cercueil.
 spokentexts_a15_truhe_armeemesser_ex_3_st_1;Je dois dire, que ce couteau est un des meilleurs cadeaux que j'ai jamais eus !
 texts_a15_truhe_deckel_mo_use_1-3;Ouvrir le battant
-spokentexts_a15_truhe_deckel_use_1_st_1;J'espère que les dockers ont quitté la soute. Je ferais mieux de jeter une coup d'oeil.
+spokentexts_a15_truhe_deckel_use_1_st_1;J'espère que les dockers ont quitté la soute. Je ferais mieux de jeter un coup d'oeil.
 sequences_a15_truhe_deckel_use_1#2;[The Arab tries to open the lid, but nothing happens.]
 spokentexts_a15_truhe_deckel_use_1_st_2_direction;with effort
 spokentexts_a15_truhe_deckel_use_1_st_2;Tout du moins, je jetterais un coup d'oeil, s'il était possible d'ouvrir ce truc !
 spokentexts_a15_truhe_deckel_use_1_st_3_direction;with great effort
 spokentexts_a15_truhe_deckel_use_1_st_3;Hmmgh !
-spokentexts_a15_truhe_deckel_use_2_st_1;On doit probablement tirer une poignée pour ouvrir la malle de l'extérieur. Malheureusement, personne n'a pensé qu'il serait possible de devoir l'ouvrir de l'intérieur.
+spokentexts_a15_truhe_deckel_use_2_st_1;On doit probablement tirer une poignée pour ouvrir la malle de l'extérieur. Malheureusement, personne n'a pensé qu'il pourrait être nécessaire de l'ouvrir de l'intérieur.
 spokentexts_a15_truhe_deckel_use_3_st_1;Libre enfin !
 sequences_a15_truhe_deckel_use_3#2;[Cut to the outside view.]
 sequences_a15_truhe_deckel_use_3#3;[The cover is pushed open from the inside, but rebounds in about 15 centimeters from the chest is located on the shelf.]
@@ -129,7 +129,7 @@ spokentexts_a15_truhe_schloss_use_1_st_2;Je pense que c'est la serrure de la mal
 spokentexts_a15_truhe_schloss_use_2_st_1;Il y a de petites bosses rondes avec des fentes dans le milieu - ça pourrait être des vis !
 sequences_a15_truhe_schloss_used_mit_armeemesser_1#1;[It can be heard how he pulls out his knife and folds out different tools.]
 spokentexts_a15_truhe_schloss_used_mit_armeemesser_1_st_1_direction;looking in the dark for the right tool at the knife, cuts himself
-spokentexts_a15_truhe_schloss_used_mit_armeemesser_1_st_1;Bien... Où est le tournevis... Aie ! Ça c'est couteau. Et voilà le tournevis !
+spokentexts_a15_truhe_schloss_used_mit_armeemesser_1_st_1;Bien... Où est le tournevis... Aie ! Ça c'est le couteau. Et voilà le tournevis !
 sequences_a15_truhe_schloss_used_mit_armeemesser_1#3;[It can be heard how he works with the screwdriver on the screws and begins to rotate them.]
 spokentexts_a15_truhe_schloss_used_mit_armeemesser_1_st_2_direction;Effort at the end
 spokentexts_a15_truhe_schloss_used_mit_armeemesser_1_st_2;Alors ... Si j'arrive a tourner cette... Hmgh !
@@ -161,7 +161,7 @@ spokentexts_a15_kabine_frau_seq_a15_kabine_frau_auftritt_araber_st_5;Ce n'est pa
 sequences_a15_kabine_frau_seq_a15_kabine_frau_auftritt_araber#10;[The woman separates from him, steps back.]
 spokentexts_a15_kabine_frau_seq_a15_kabine_frau_auftritt_araber_st_6;Qu'est-ce qui s'est passé dans le train ?
 spokentexts_a15_kabine_frau_seq_a15_kabine_frau_auftritt_araber_st_7;Rien ! Rien de grave. Tout le monde va bien.
-spokentexts_a15_kabine_frau_seq_a15_kabine_frau_auftritt_araber_st_8;Inch est dangereux ! Je t'avais avertis.
+spokentexts_a15_kabine_frau_seq_a15_kabine_frau_auftritt_araber_st_8;Inch est dangereux ! Je t'avais prévenu.
 sequences_a15_kabine_frau_seq_a15_kabine_frau_auftritt_araber#14;[The Arab takes a step, takes her again in his arms.]
 spokentexts_a15_kabine_frau_seq_a15_kabine_frau_auftritt_araber_st_9;Je sais. C'est pourquoi nous sommes prudents.
 spokentexts_a15_kabine_frau_seq_a15_kabine_frau_auftritt_araber_st_10_direction;playful
@@ -178,7 +178,7 @@ sequences_a15_kabine_frau_seq_a15_kabine_frau_auftritt_araber#23;[He smiles, tak
 sequences_a15_kabine_frau_seq_a15_kabine_frau_auftritt_araber#24;[*** END OF SECTION AND THE END OF CHAPTER 2 ***]
 sequences_a15_treppensaal_seq_a15_treppensaal_araber_lauscht#0;[The Arab is sneaking through the stair hall. He's near the cabin door of the young woman. It should not act as if this door its his destination.]
 spokentexts_a15_treppensaal_seq_a15_treppensaal_araber_lauscht_st_1_direction;indistinct, far away
-spokentexts_a15_treppensaal_seq_a15_treppensaal_araber_lauscht_st_1;J'arrive pas a croire qu'il soit parti.
+spokentexts_a15_treppensaal_seq_a15_treppensaal_araber_lauscht_st_1;Je n'arrive pas à croire qu'il soit parti.
 spokentexts_a15_treppensaal_seq_a15_treppensaal_araber_lauscht_st_2_direction;indistinct, far away
 spokentexts_a15_treppensaal_seq_a15_treppensaal_araber_lauscht_st_2;Ouais, et sans dire au revoir en plus.
 sequences_a15_treppensaal_seq_a15_treppensaal_araber_lauscht#3;[The Arab looking around frantically. The voices are coming up the stairs. He opens the cabin door  of the young woman quickly and quietly, and slips through.]
@@ -194,6 +194,6 @@ spokentexts_a15_frachtraum_mann_used_mit_messer_st_1;Non ! Je ne le poignarderai
 sequences_a15_frachtraum_mann_used_mit_rohr#3;[The Arab throws away the tube. He then kneels down and turns Ohi, he's holding him tight (idle).]
 spokentexts_a15_frachtraum_mann_used_mit_rohr_st_2_direction;laughs sarcastically
 spokentexts_a15_frachtraum_mann_used_mit_rohr_st_2;Oh, génial !
-spokentexts_a15_frachtraum_mann_used_mit_rohr_st_3;OK... Je vais l'attacher puis sortir d'ici avant qu'ils commencent à le chercher.
+spokentexts_a15_frachtraum_mann_used_mit_rohr_st_3;OK... Je vais l'attacher puis sortir d'ici avant qu'ils ne commencent à le chercher.
 spokentexts_a15_frachtraum_mann_used_mit_rohr_st_4_direction;happy
 spokentexts_a15_frachtraum_mann_used_mit_rohr_st_4;Et j'ai déjà une idée où je pourrais me cacher...

@@ -8,7 +8,7 @@ texts_ermittler_top_a09_ermittler_der_brief_tseq_title;La lettre
 spokentexts_ermittler_top_a09_ermittler_der_brief_tseq_st_1;L'écriture, le style... la lettre d'adieu correspond t-elle à d'autres lettres du Corbeau ?
 spokentexts_ermittler_top_a09_ermittler_der_brief_tseq_st_2;Oui. C'est son écriture, ses mots.
 spokentexts_ermittler_top_a09_ermittler_der_brief_tseq_st_4;J'ai lu toutes les lettres du Corbeau. Toutes. Encore et encore.
-spokentexts_ermittler_top_a09_ermittler_der_brief_tseq_st_3;Je n'aurai jamais pensé cela possible. Une résurrection du Corbeau...
+spokentexts_ermittler_top_a09_ermittler_der_brief_tseq_st_3;Je n'aurais jamais pensé cela possible. Une résurrection du Corbeau...
 sequences_ermittler_top_a09_ermittler_der_brief_tseq#3;[The investigator looks at Ohi.]
 spokentexts_ermittler_top_a09_ermittler_der_brief_tseq_st_6;Le Corbeau n'a jamais été mort. J'ai tiré le mauvais homme.
 spokentexts_ermittler_top_a09_ermittler_der_brief_tseq_st_5;Mais cet homme avait les marchandises volées, n'est-ce pas ? Donc, il devait être de connivence avec le Corbeau. On peut difficilement le qualifier ''d'innocent''.
@@ -28,7 +28,7 @@ spokentexts_ermittler_top_a09_ermittler_schuss_antwort1_tseq_st_2;Ce n'est pas l
 spokentexts_ermittler_top_a09_ermittler_schuss_antwort1_tseq_st_3;Alors qu'est-ce...
 texts_ermittler_top_a09_ermittler_schuss_antwort2_tseq_title;Le tir venait d'une bande magnétique
 spokentexts_ermittler_top_a09_ermittler_schuss_antwort2_tseq_st_1;Le coup que nous avons entendu était un enregistrement.
-spokentexts_ermittler_top_a09_ermittler_schuss_antwort2_tseq_st_2;La Baronne avait un magnétophone et de bons haut-parleurs dans sa cabine. Assez bon pour faire entendre jusque sur le pont supérieur.
+spokentexts_ermittler_top_a09_ermittler_schuss_antwort2_tseq_st_2;La Baronne avait un magnétophone et de bons haut-parleurs dans sa cabine. Assez bons pour faire entendre jusque sur le pont supérieur.
 spokentexts_ermittler_top_a09_ermittler_schuss_antwort2_tseq_st_3;Est-ce juste des suppositions ou avez-vous des preuves ?
 texts_ermittler_top_a09_ermittler_schuss_antwort3_tseq_title;Mais c'était encore lui
 spokentexts_ermittler_top_a09_ermittler_schuss_antwort3_tseq_st_1_direction;pleasurable
@@ -73,10 +73,10 @@ spokentexts_ermittler_top_a09_ermittler_toter_tseq_st_10;Ça doit être lui.
 texts_ermittler_top_a09_ermittler_verabschieden_tseq_title;Dire au revoir
 spokentexts_ermittler_top_a09_ermittler_verabschieden_tseq_st_1;Que faisons-nous maintenant ?
 sequences_ermittler_top_a09_ermittler_verabschieden_tseq#1;[The investigator looks at Ohi.]
-spokentexts_ermittler_top_a09_ermittler_verabschieden_tseq_st_2;Nous livrons les Yeux, puis je contacterai Paris. Une équipe va comparer toutes les résidences connues de Gebhardt avec l'activité du Corbeau.
+spokentexts_ermittler_top_a09_ermittler_verabschieden_tseq_st_2;Nous livrons l'Oeil, puis je contacterai Paris. Une équipe va comparer toutes les résidences connues de Gebhardt avec l'activité du Corbeau.
 spokentexts_ermittler_top_a09_ermittler_verabschieden_tseq_st_3;Et s'il y a des contradictions ?
 spokentexts_ermittler_top_a09_ermittler_verabschieden_tseq_st_4;Je vous invite a garder un oeil sur le coffre si vous ne pouvez pas vous y faire.
-spokentexts_ermittler_top_a09_ermittler_verabschieden_tseq_st_5;Le navire restera au Caire pour une journée. C'est tout le temps que vous aurez pour prendre votre Corbeau. J'ai déjà le mien.
+spokentexts_ermittler_top_a09_ermittler_verabschieden_tseq_st_5;Le navire restera au Caire pour une journée. C'est tout le temps que vous aurez pour attraper votre Corbeau. J'ai déjà le mien.
 sequences_ermittler_top_a09_ermittler_verabschieden_tseq#6;[Ohi nods and goes. The camera goes to Legrand's face, who looks at Ohi serious and thoughtful after. Somehow he makes himself suspicious with that look.]
 sequences_ermittler_top_a09_ermittler_verabschieden_tseq#7;[END OF SECTION.]
 texts_kapitaen_top_a09_ermittler_motiv_antwort1_tseq_title;A propos de l'Oeil du Sphinx
@@ -104,7 +104,7 @@ spokentexts_schriftstellerin_top_a09_ermittler_erschossen_antwort1_tseq_st_3_dir
 spokentexts_schriftstellerin_top_a09_ermittler_erschossen_antwort1_tseq_st_3;Ha ha !
 spokentexts_schriftstellerin_top_a09_ermittler_erschossen_antwort1_tseq_st_4;Elle a dû être abattue.
 spokentexts_schriftstellerin_top_a09_ermittler_erschossen_antwort1_tseq_st_5;Très bien, le génie - où a-t-elle été tuée?
-texts_schriftstellerin_top_a09_ermittler_erschossen_antwort2_tseq_title;Dans le centre médicale
+texts_schriftstellerin_top_a09_ermittler_erschossen_antwort2_tseq_title;Dans le centre médical
 spokentexts_schriftstellerin_top_a09_ermittler_erschossen_antwort2_tseq_st_1_direction;embarrassed
 spokentexts_schriftstellerin_top_a09_ermittler_erschossen_antwort2_tseq_st_1;Alors ... C'était le médecin, bien sûr.
 spokentexts_schriftstellerin_top_a09_ermittler_erschossen_antwort2_tseq_st_2;Comme je l'ai déjà dit, c'était le docteur Gebhardt.
@@ -119,7 +119,7 @@ spokentexts_schriftstellerin_top_a09_ermittler_erschossen_antwort3_tseq_st_4;Qu'
 sequences_a09_hinterdeck_seq_a09_hinterdeck_gespraech_anfang#0;[The investigator stands at the railing, looking over the sea. Ohi comes quickly out of the salon, then slowed his pace. He is unsure how to proceed.]
 spokentexts_a09_hinterdeck_seq_a09_hinterdeck_gespraech_anfang_st_1;Inspecteur ?
 spokentexts_a09_hinterdeck_seq_a09_hinterdeck_gespraech_anfang_st_2;J'avais raison.
-spokentexts_a09_hinterdeck_seq_a09_hinterdeck_gespraech_anfang_st_3;Je leur ai tout dit. À maintes reprises. Mais personne ne voulait l'entendre.
+spokentexts_a09_hinterdeck_seq_a09_hinterdeck_gespraech_anfang_st_3;Je leur ai tous dit. À maintes reprises. Mais personne ne voulait l'entendre.
 sequences_a09_hinterdeck_seq_a09_hinterdeck_gespraech_anfang#4;[Ohi stands next to the investigator at the railing, looking at him. The investigator looks  to the sea.]
 sequences_a09_salon_seq_a09_salon_anfang#0;[Fade in. We see the salon in nice sunlight. Ohi lies on a couch, has a towel over his head. Around him is the investigator and the captain.]
 sequences_a09_salon_seq_a09_salon_anfang#1;[In the background, the writer is sitting in her wheelchair. The young woman is also present and seems concerned.]
@@ -131,7 +131,7 @@ spokentexts_a09_salon_seq_a09_salon_anfang_st_3;Hormis tout ça - Que faisiez-vo
 spokentexts_a09_salon_seq_a09_salon_anfang_st_4;Inspecteur ! Laissez au moins l'Officier reprendre son souffle !
 sequences_a09_salon_seq_a09_salon_anfang#8;[The investigator whirls aggressive.]
 spokentexts_a09_salon_seq_a09_salon_anfang_st_5_direction;harsh
-spokentexts_a09_salon_seq_a09_salon_anfang_st_5;Il a faillit se tuer !
+spokentexts_a09_salon_seq_a09_salon_anfang_st_5;Il a failli se tuer !
 spokentexts_a09_salon_seq_a09_salon_anfang_st_6_direction;loud, energetic
 spokentexts_a09_salon_seq_a09_salon_anfang_st_6;Moi ?! Non.
 sequences_a09_salon_seq_a09_salon_anfang#11;[The investigator turns back.]
@@ -161,7 +161,7 @@ spokentexts_a09_salon_seq_a09_salon_verhoer_teil1_ende_st_6;Il l'a examiné et a
 spokentexts_a09_salon_seq_a09_salon_verhoer_teil1_ende_st_7;Mais elle était seulement inconsciente... Assommée par l'hydrate de chloral que le médecin avait versé dans son verre un peu avant.
 spokentexts_a09_salon_seq_a09_salon_verhoer_teil1_ende_st_8;Le médecin avait un verre à la main quand vous êtes arrivé !
 spokentexts_a09_salon_seq_a09_salon_verhoer_teil1_ende_st_9;Il voulait faire disparaitre la preuve. Mais vous m'avez donné le verre à la place, Capitaine di Conti, et involontairement drogué aussi.
-spokentexts_a09_salon_seq_a09_salon_verhoer_teil1_ende_st_10;Balivernes ! Il y avait du sang partout ! Et la Baronne était certainement morte, non ?
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil1_ende_st_10;Balivernes ! Il y avait du sang partout ! Et la Baronne est effectivement morte, non ?
 spokentexts_a09_salon_seq_a09_salon_verhoer_teil1_ende_st_11;Alors, QUI l'a tué et quand ?
 spokentexts_a09_salon_seq_a09_salon_verhoer_teil2_ende_st_1_direction;thoughtfully
 spokentexts_a09_salon_seq_a09_salon_verhoer_teil2_ende_st_1;Le médecin a été seul dans la cabine pendant un petit moment. Lorsque l'alarme s'est déclenchée, elle était assourdissante - Je n'arrivais même pas m'entendre...
@@ -189,9 +189,9 @@ spokentexts_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_5;Tout est là. Il avo
 spokentexts__seq_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_6;Qu'est-ce qui est écrit ?
 spokentexts__seq_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_7;C'est écrit :
 spokentexts__seq_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_8_direction;reads
-spokentexts__seq_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_8;"""Vous vous souvenez, mon cher Nico ? Les rues étaient mouillés par la pluie, l'odeur d'orge torréfié et de levure de la brasserie flottait jusqu'à nous."""
+spokentexts__seq_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_8;"""Vous vous souvenez, mon cher Nico ? Les rues étaient mouillées par la pluie, l'odeur d'orge torréfié et de levure de la brasserie flottait jusqu'à nous."""
 spokentexts__seq_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_9_direction;reads
-spokentexts__seq_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_9;"""Un chien aboya jusqu'à ce que votre tir frappa un innocent. Vînt alors - le silence. Pas un son, à l'exception de mes foulées feutrées résonant sur les pavés humide de la rue."""
+spokentexts__seq_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_9;"""Un chien aboyait jusqu'à ce que votre tir ne frappe un innocent. Vînt alors - le silence. Pas un son, à l'exception de mes foulées feutrées résonant sur les pavés humide de la rue."""
 sequences_a09_salon_seq_a09_salon_verhoer_teil3_ende#12;[The author and Ohio are looking concerned to each other.]
 spokentexts__seq_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_10_direction;reads
 spokentexts__seq_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_10;"""Ils ont fait de vous un héros et moi, j'y ai enfin trouvé la paix... Du moins, jusqu'à ce que le désir revienne. Certains d'entre nous ne sont pas faits pour la retraite, mon ami."""
