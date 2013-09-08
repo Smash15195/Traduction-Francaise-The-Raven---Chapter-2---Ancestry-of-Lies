@@ -265,7 +265,7 @@ sequences_a13_kabine_archaeologe_handtuch_take_1#5;"[The Arab lowers the ""rope"
 texts_a13_kabine_archaeologe_schluesselbund_mo_inventar;Trousseau de clés
 spokentexts_a13_kabine_archaeologe_schluesselbund_ex_1_st_1;Il y a plusieurs clés spéciales sur le trousseau. Celle-ci devrait ouvrir la porte de la cabine depuis l'extérieur.
 spokentexts_a13_kabine_archaeologe_schluesselbund_ex_1_st_2;Heureusement c'est moi qui ai la clé, et pas les gens dehors. De cette façon, la porte verrouillée va leur poser problème encore quelques temps.
-spokentexts_a13_kabine_archaeologe_schluesselbund_ex_2_st_1;On voit que le trousseau du conducteur en a vu de belles. Je doute que des clés aient voyagé plus que celles-ci.
+spokentexts_a13_kabine_archaeologe_schluesselbund_ex_2_st_1;On voit que le trousseau du contrôleur en a vu de belles. Je doute que des clés aient voyagé plus que celles-ci.
 texts_a13_kabine_archaeologe_spiegel_mo_ex_1__2;Regarder dans le miroir
 spokentexts_a13_kabine_archaeologe_spiegel_ex_1_st_1;Mon dieu !
 spokentexts_a13_kabine_archaeologe_spiegel_ex_1_st_2;Je me reconnais à peine !
@@ -579,7 +579,7 @@ texts_a13_uebergang_tuer_zum_transportwagon_mo_used_mit_schluesselbund_1;Verroui
 spokentexts_a13_uebergang_tuer_zum_transportwagon_ex_1_st_1;Le coffre où je dois déposer l'enveloppe est dans le wagon-fret.
 spokentexts_a13_uebergang_tuer_zum_transportwagon_ex_1_st_2;Mais je ne peux pas entrer dedans comme un simple livreur.
 spokentexts_a13_uebergang_tuer_zum_transportwagon_ex_2_st_1;Le coffre est sous la garde de mon vieil ami, le policier de Londres.
-spokentexts_a13_uebergang_tuer_zum_transportwagon_ex_2_st_2;Même lui serait étonné de voir un conducteur dans le wagon-fret.
+spokentexts_a13_uebergang_tuer_zum_transportwagon_ex_2_st_2;Même lui serait étonné de voir un contrôleur dans le wagon-fret.
 spokentexts_a13_uebergang_tuer_zum_transportwagon_ex_3_st_1;Legrand est dans le wagon. Ce mec est affûté comme une lame. Il me démasquerait immédiatement.
 spokentexts_a13_uebergang_tuer_zum_transportwagon_ex_3_st_2;Le conduit de ventilation reste l'option la plus réaliste. Mais pour être honnête, je ne me donne qu'une chance sur deux d'arriver à réussir mon coup.
 spokentexts_a13_uebergang_tuer_zum_transportwagon_ex_3_st_3;Enfin bref, il est temps de s'y mettre !
@@ -605,7 +605,7 @@ sequences_a13_uebergang_werkzeugkasten_used_mit_schluesselbund#1;[The Arab takes
 spokentexts_a13_uebergang_werkzeugkasten_used_mit_schluesselbund_st_1;Non... Ce n'est pas ce qu'il me faut.
 sequences_a13_uebergang_werkzeugkasten_used_mit_schluesselbund#3;[The Arab puts the key ring away again.]
 spokentexts_a13_uebergang_seq_a13_uebergang_nach_flucht_st_1;Je devrais pouvoir me déplacer librement dans le train du moment que j'évite le Professeur Lucien.
-spokentexts_a13_uebergang_seq_a13_uebergang_nach_flucht_st_2;Les autres passagers ne me connaissent pas et les conducteurs changent plusieurs fois durant le voyage. Un nouveau visage ne surprendra personne.
+spokentexts_a13_uebergang_seq_a13_uebergang_nach_flucht_st_2;Les autres passagers ne me connaissent pas et les contrôleurs changent plusieurs fois durant le voyage. Un nouveau visage ne surprendra personne.
 sequences_a13_uebergang_seq_a13_uebergang_vom_transportwagendach_kommend#0;[The Arab comes into the picture and jumps softly the roof of the saloon wagon. He kneels at the ladder (idle).]
 sequences_a13_uebergang_seq_a13_uebergang_werkzeugkasten_wird_geoeffnet#0;[The Arab comes in the picture.]
 sequences_a13_uebergang_seq_a13_uebergang_werkzeugkasten_wird_geoeffnet#1;[The Arab wants to swing himself from the roof, when he hears voices and is quickly and quietly laying on the roof. Over the edge, he looks at the action (idle).]
